@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelle est la répartition géographique des shigelloses?",
+        "réponse": "Les shigelloses sont présentes dans tous les pays à bas niveau d’hygiène.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les shigelloses?",
+        "réponse": "La transmission des shigelloses est interhumaine directe (possible par voie sexuelle) ou indirecte par une alimentation contaminée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les agents infectieux responsables de la dysentérie bacillaire?",
+        "réponse": "Les agents infectieux responsables de la dysentérie bacillaire sont Shigella dysenteriae, S. flexneri, S. sonnei, et S. boydii.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle espèce de Shigella prédomine dans les pays à ressources limitées?",
+        "réponse": "Dans les pays à ressources limitées, S. flexneri prédomine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de létalité des épidémies causées par S. dysenteriae de type 1?",
+        "réponse": "Le taux de létalité des épidémies causées par S. dysenteriae de type 1 est de 5 à 15%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle toxine est produite par S. dysenteriae de type I?",
+        "réponse": "S. dysenteriae de type I produit une toxine responsable de l’invasion de la muqueuse colique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation des shigelloses?",
+        "réponse": "La durée d'incubation des shigelloses est de 1 à 5 jours, parfois plus.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes typiques des shigelloses?",
+        "réponse": "Les symptômes typiques des shigelloses incluent une fièvre élevée à 39-40°C, une diarrhée dysentérique avec selles glairo-sanglantes et purulentes, douleurs abdominales intenses, épreintes et ténesme anal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les formes cliniques des shigelloses?",
+        "réponse": "Les formes cliniques des shigelloses vont de la diarrhée banale aux formes sévères avec troubles psychiques et convulsions.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel syndrome peut compliquer l’évolution des shigelloses chez des sujets de génotype HLA B27?",
+        "réponse": "Un syndrome de Reiter (arthrite réactive) peut compliquer l’évolution des shigelloses chez des sujets de génotype HLA B27.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se pose le diagnostic des shigelloses?",
+        "réponse": "Le diagnostic des shigelloses se pose par l'isolement des bactéries par coproculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il souhaitable de réaliser un antibiogramme pour les shigelloses?",
+        "réponse": "Il est souhaitable de réaliser un antibiogramme en raison de l’existence de souches résistantes, importées d’Asie du Sud.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le réservoir des shigelloses?",
+        "réponse": "Le réservoir des shigelloses est humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la quantité minimale de micro-organismes nécessaire pour entraîner une infection par Shigella?",
+        "réponse": "Un très faible inoculum de 10 à 200 micro-organismes suffit pour entraîner une infection par Shigella.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la température typique de la fièvre associée aux shigelloses?",
+        "réponse": "La température typique de la fièvre associée aux shigelloses est de 39-40°C.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels types de selles sont typiques des shigelloses?",
+        "réponse": "Les selles typiques des shigelloses sont glairo-sanglantes et purulentes.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes abdominaux des shigelloses?",
+        "réponse": "Les symptômes abdominaux des shigelloses incluent des douleurs abdominales intenses, épreintes et ténesme anal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Les bactériémies sont-elles courantes dans les shigelloses?",
+        "réponse": "Les bactériémies sont possibles mais rares dans les shigelloses.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la nature de l'invasion causée par les shigelles?",
+        "réponse": "L’invasion causée par les shigelles reste localisée à la muqueuse digestive.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels troubles peuvent accompagner les formes sévères de shigelloses?",
+        "réponse": "Les formes sévères de shigelloses peuvent être accompagnées de troubles psychiques et de convulsions.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la principale voie de transmission des shigelloses?",
+        "réponse": "La principale voie de transmission des shigelloses est interhumaine directe.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Les shigelloses peuvent-elles se transmettre par voie sexuelle?",
+        "réponse": "Oui, les shigelloses peuvent se transmettre par voie sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle de la toxine produite par S. dysenteriae de type I?",
+        "réponse": "La toxine produite par S. dysenteriae de type I est responsable de l’invasion de la muqueuse colique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes des formes frustes de shigelloses?",
+        "réponse": "Les formes frustes de shigelloses se limitent à une diarrhée banale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des formes sévères de shigelloses?",
+        "réponse": "Les formes sévères de shigelloses incluent des troubles psychiques et des convulsions.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel est le génotype associé au syndrome de Reiter dans les shigelloses?",
+        "réponse": "Le génotype HLA B27 est associé au syndrome de Reiter dans les shigelloses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic des shigelloses?",
+        "réponse": "La méthode de diagnostic des shigelloses est l'isolement des bactéries par coproculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il important de réaliser un antibiogramme pour les shigelloses?",
+        "réponse": "Il est important de réaliser un antibiogramme pour les shigelloses en raison de l’existence de souches résistantes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la principale source de contamination alimentaire des shigelloses?",
+        "réponse": "La principale source de contamination alimentaire des shigelloses est une alimentation contaminée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes digestifs des shigelloses?",
+        "réponse": "Les symptômes digestifs des shigelloses incluent des selles glairo-sanglantes et purulentes, des douleurs abdominales intenses, des épreintes et un ténesme anal.",
+        "qtype": "clinique"
+    }
+]

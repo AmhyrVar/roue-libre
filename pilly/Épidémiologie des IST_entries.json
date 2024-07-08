@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Combien de nouveaux cas annuels d'infections sexuellement transmissibles (IST) l'OMS estimait-elle en 2016?",
+        "answer": "L'OMS estimait à près de 376.4 millions le nombre de nouveaux cas annuels d'IST en 2016.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes des IST?",
+        "answer": "Les principaux agents pathogènes des IST incluent plus de 30 bactéries, virus et parasites tels que Neisseria gonorrhoeae, Chlamydia trachomatis, Treponema pallidum, Haemophilus ducreyi, Klebsiella granulomatis, les souches L1-L3 de Chlamydia trachomatis, le VIH, les virus Herpes simplex, les papillomavirus, le virus de l'hépatite B, le cytomégalovirus, et Trichomonas vaginalis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux virus responsables des IST?",
+        "answer": "Les principaux virus responsables des IST sont le VIH, les virus Herpes simplex, les papillomavirus (HPV), le virus de l'hépatite B et le cytomégalovirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes courants des infections à Trichomonas vaginalis?",
+        "answer": "Trichomonas vaginalis cause essentiellement une vaginite chez la femme et une urétrite amicrobienne chez l'homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de transmission du VIH en présence d'une IST?",
+        "answer": "Les IST classiques augmentent le risque de transmission sexuelle du VIH, avec un risque relatif de deux à sept en moyenne chez les sujets ayant eu une IST récente.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les complications des chlamydioses et des gonococcies chez la femme?",
+        "answer": "Les complications incluent la salpingite, les douleurs pelviennes chroniques, la grossesse extra-utérine et la stérilité par obstruction tubaire.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications des IST chez l'homme?",
+        "answer": "Chez l'homme, les IST peuvent causer la stérilité par épididymite.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les risques pour le nouveau-né en cas d'infection par des gonocoques?",
+        "answer": "L'infection de l'œil par des gonocoques peut entraîner la cécité par ulcérations cornéennes.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelle est la prévalence des papillomaviroses (HPV) chez les femmes dans le monde?",
+        "answer": "On estime que plus de 291 millions de femmes dans le monde ont été porteuses d'HPV dans leur vie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les moyens de prévention primaire des IST?",
+        "answer": "La prévention primaire inclut l'éducation pour la santé et l'adoption de pratiques sexuelles à moindre risque comme l'utilisation du préservatif et/ou l'abstinence sexuelle.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission des IST?",
+        "answer": "Les IST se transmettent principalement lors de rapports sexuels vaginaux, anaux ou buccogénitaux, mais aussi de la mère à l'enfant pendant la grossesse et l'accouchement, par les produits sanguins, par transplantation et plus rarement par d'autres voies non sexuelles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des IST chez les femmes?",
+        "answer": "Dans 50% des cas, les IST ne se manifestent par aucun symptôme. Cependant, elles peuvent causer des complications graves comme la salpingite, les douleurs pelviennes chroniques, la grossesse extra-utérine et la stérilité par obstruction tubaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des IST chez les hommes?",
+        "answer": "Chez les hommes, les IST peuvent causer des symptômes comme l'urétrite amicrobienne et la stérilité par épididymite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des IST chez les nouveau-nés?",
+        "answer": "Chez les nouveau-nés, les IST peuvent causer des infections oculaires par des gonocoques entraînant la cécité, des conjonctivites et des pneumonies causées par les chlamydioses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la syphilis congénitale?",
+        "answer": "La syphilis congénitale est une cause majeure de morbidité et de mortalité infantile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à papillomavirus (HPV)?",
+        "answer": "Certaines papillomaviroses (HPV) provoquent des cancers des organes génitaux et de l'anus, notamment le cancer du col utérin.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux moyens de prévention secondaire des IST?",
+        "answer": "La prévention secondaire consiste à soigner les sujets atteints, sauf pour l'infection à VIH et les IST d'origine virale.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque des IST dans les pays en développement?",
+        "answer": "Les principaux facteurs de risque incluent le grand nombre de jeunes sujets, les difficultés d'accès aux soins, l'absence d'information sur les risques de transmission, les traitements tardifs et inadaptés, le multipartenariat sexuel, et les conséquences des migrations de populations et des conflits armés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes bactériens des IST?",
+        "answer": "Les principaux agents pathogènes bactériens des IST sont Neisseria gonorrhoeae, Chlamydia trachomatis, Treponema pallidum, Haemophilus ducreyi, Klebsiella granulomatis et les souches L1-L3 de Chlamydia trachomatis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes parasitaires des IST?",
+        "answer": "Les principaux agents pathogènes parasitaires des IST sont Trichomonas vaginalis, Phtirus pubis et Sarcoptes scabiei.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes viraux des IST?",
+        "answer": "Les principaux agents pathogènes viraux des IST sont le VIH, les virus Herpes simplex, les papillomavirus (HPV), le virus de l'hépatite B et le cytomégalovirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Candida albicans?",
+        "answer": "Candida albicans cause une vulvovaginite chez la femme et une balanite chez l'homme, mais ces infections ne sont pas considérées comme des IST.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la vaginose bactérienne?",
+        "answer": "La vaginose bactérienne est une transformation de la flore vaginale normale au profit de germes anaérobies souvent associés à des mycoplasmes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Phtirus pubis?",
+        "answer": "Phtirus pubis cause la phtirose du pubis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Sarcoptes scabiei?",
+        "answer": "Sarcoptes scabiei cause la gale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Neisseria gonorrhoeae?",
+        "answer": "Les infections à Neisseria gonorrhoeae peuvent être asymptomatiques mais peuvent causer des complications graves comme la salpingite, les douleurs pelviennes chroniques, la grossesse extra-utérine et la stérilité par obstruction tubaire chez la femme, et la stérilité par épididymite chez l'homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Chlamydia trachomatis?",
+        "answer": "Les infections à Chlamydia trachomatis peuvent être asymptomatiques mais peuvent causer des complications graves comme la salpingite, les douleurs pelviennes chroniques, la grossesse extra-utérine et la stérilité par obstruction tubaire chez la femme, et la stérilité par épididymite chez l'homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Treponema pallidum?",
+        "answer": "Les infections à Treponema pallidum causent la syphilis, qui peut être asymptomatique mais peut causer des complications graves comme la syphilis congénitale, une cause majeure de morbidité et de mortalité infantile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Haemophilus ducreyi?",
+        "answer": "Les infections à Haemophilus ducreyi causent le chancre mou.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'avantage épidémiologique de guérir chaque cas de gonococcie chez les groupes les plus susceptibles?",
+        "answer": "La guérison de chaque cas de gonococcie au sein des groupes les plus susceptibles d’acquérir et de transmettre l’infection, par exemple les prostitué(e)s et leurs clients, représente un gain épidémiologique et économique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle méthode l'OMS recommande-t-elle depuis 1990 pour diagnostiquer les IST?",
+        "answer": "Depuis 1990, l’OMS recommande l’approche des IST par syndrome.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments caractéristiques de l'approche syndromique pour les IST?",
+        "answer": "L'approche syndromique se caractérise par la classification des principaux agents pathogènes en fonction des syndromes cliniques qu’ils provoquent, l’utilisation d’algorithmes pour la prise en charge de chaque syndrome, le traitement simultané de toutes les causes importantes du syndrome, le traitement des partenaires sexuels et leur information pour la prévention, et l’absence d’analyses biologiques coûteuses.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi l'approche syndromique est-elle considérée comme accessible?",
+        "answer": "C’est une méthode accessible qui garantit un traitement immédiat.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de persistance des IST?",
+        "answer": "Les facteurs de persistance des IST incluent la grande fréquence des IST asymptomatiques, les réticences à consulter, la difficulté à avertir le conjoint ou les partenaires sexuels, la fréquence des rapports sexuels non consentis, l’absence ou l’inaccessibilité des services anti-IST, l’ignorance concernant les IST, et le traitement prescrit de qualité médiocre.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi les IST asymptomatiques posent-elles un problème pour le traitement de masse?",
+        "answer": "La grande fréquence des IST asymptomatiques a pu conduire à des essais de traitement de masse systématiques qui ne semblent pas raisonnables en raison des risques de générer des résistances aux antibiotiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les obstacles à la consultation pour les personnes présentant des symptômes d'IST?",
+        "answer": "Les obstacles incluent l'ignorance, la gêne, le sentiment de culpabilité, et la peur d'informer leurs partenaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi est-il important d'avertir les partenaires sexuels en cas d'IST?",
+        "answer": "Il importe d’avertir les partenaires afin d’interrompre la chaîne de transmission des IST.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les défis spécifiques liés aux rapports sexuels non consentis dans le contexte des IST?",
+        "answer": "La fréquence des rapports sexuels non consentis est augmentée lors des conflits armés dans les régions en instabilité politique ou dans les camps de réfugiés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les problèmes liés à l'absence ou l'inaccessibilité des services anti-IST?",
+        "answer": "Souvent, il n’y a pas de service anti-IST dans la localité, ailleurs ils sont parfois difficiles d’accès, surtout pour les femmes et les jeunes, ou bien il n’y a pas d’intimité ni de confidentialité et les malades ont honte de consulter.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi l'ignorance concernant les IST est-elle un problème?",
+        "answer": "L’ignorance concernant les IST, leurs causes, leurs symptômes, leurs conséquences éventuelles et les traitements s’observe dans toutes les classes sociales et dans toutes les tranches d’âge mais elle est plus fréquente chez les jeunes qui ont généralement la plus grande activité sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques associés à un traitement prescrit de qualité médiocre pour les IST?",
+        "answer": "Un traitement prescrit de qualité médiocre perpétue l’infection et favorise l’apparition de germes résistants.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels antibiotiques montrent une résistance élevée pour les gonococcies dans la plupart des PED?",
+        "answer": "La résistance aux pénicillines se situe entre 30 et 80 % dans la plupart des PED ; la résistance à d’autres antibiotiques, tels que le cotrimoxazole, les cyclines, les quinolones ou la spectinomycine est également élevée.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les possibilités de réponse pour lutter contre les IST?",
+        "answer": "Les possibilités de réponse incluent encourager les comportements sexuels à moindre risque, inciter les malades à se faire soigner, intégrer la prévention et la prise en charge des IST dans les soins de santé primaires, et assurer une prise en charge intégrale des IST.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Comment peut-on encourager les comportements sexuels à moindre risque?",
+        "answer": "Les instances gouvernementales et les ONG conçoivent et diffusent des messages indiquant comment réduire les risques, fournissent des contraceptifs locaux protégeant à la fois contre la grossesse et l’infection, informent les gens sur le préservatif et les incitent à l’utiliser.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important d'inciter les malades à se faire soigner rapidement?",
+        "answer": "Les autorités sanitaires doivent concevoir des messages et les diffuser par divers canaux pour inciter les personnes qui ont des symptômes de IST ou qui craignent d’être contaminées à se faire soigner sans tarder.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Comment peut-on intégrer la prévention et la prise en charge des IST dans les soins de santé primaires?",
+        "answer": "Il faudrait intégrer les prestations anti-IST dans les autres services de santé (centres de santé maternelle et infantile, services de planification familiale).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les étapes d'une prise en charge intégrale des IST?",
+        "answer": "Les étapes incluent identifier le syndrome par approche algorithmique, rendre les médicaments efficaces disponibles, éduquer le malade, effectuer un suivi du malade après traitement, distribuer des préservatifs, et expliquer pourquoi le partenaire doit être averti et soigné.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Pourquoi est-il important de rendre les médicaments efficaces disponibles dans les lieux de consultation?",
+        "answer": "Les autorités sanitaires doivent impérativement procéder à une surveillance régulière pour déceler toute résistance aux médicaments anti-IST, en créant au moins un laboratoire de référence dans chaque capitale.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Pourquoi est-il crucial d'éduquer le malade sur l'importance de suivre l'intégralité du traitement?",
+        "answer": "Il faut insister pour qu’il suive l’intégralité du traitement. Autant que possible, la dose unique doit être privilégiée pour des raisons épidémiologiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Pourquoi est-il recommandé d'éviter les rapports sexuels après le traitement des IST?",
+        "answer": "L’abstinence ou les rapports protégés sont recommandés plusieurs jours de manière à éviter la transmission à partir des malades encore contagieux.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important de distribuer des préservatifs dans la lutte contre les IST?",
+        "answer": "Les autorités sanitaires doivent veiller à ce que les services de santé et autres points de distribution au sein de la communauté soient dotés de préservatifs de qualité en quantité suffisante.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Comment peut-on élargir l'accès aux préservatifs?",
+        "answer": "La commercialisation à but social est un moyen d’élargir l’accès aux préservatifs.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il crucial d'expliquer aux malades l'importance d'avertir et de soigner leurs partenaires?",
+        "answer": "Contacter les partenaires des personnes ayant une IST, les convaincre de consulter et les soigner rapidement et efficacement sont des points essentiels de tout programme de lutte tout en tenant compte des facteurs sociaux et culturels.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les dangers des cas asymptomatiques d'IST?",
+        "answer": "Les cas asymptomatiques représentent un danger majeur car ils peuvent continuer à transmettre l'infection sans être détectés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles mesures de prévention peuvent être promues en fonction du patient et de ses antécédents?",
+        "answer": "La prophylaxie pré exposition (PreP) et la vaccination contre l’hépatite B, l’hépatite A et les infections par HPV peuvent être promues.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel site web est recommandé pour des informations générales sur les IST?",
+        "answer": "Le site web recommandé est OMS IST général : www.who.int/mediacentre/factsheets/fs110/fr/",
+        "qtype": "référence"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes classifiés par l'approche syndromique?",
+        "answer": "Les principaux agents pathogènes sont classifiés en fonction des syndromes cliniques qu’ils provoquent, tels que les urétrites, les écoulements vaginaux chez la femme, et les ulcérations génitales.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il important de suivre le malade après le traitement des IST?",
+        "answer": "Il est important de suivre le malade après traitement pour lui remettre les résultats des examens réalisés le cas échéant et vérifier que le traitement a été efficace.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les avantages de la dose unique dans le traitement des IST?",
+        "answer": "La dose unique doit être privilégiée pour des raisons épidémiologiques, car elle facilite l'observance du traitement et réduit le risque de transmission.",
+        "qtype": "traitements"
+    }
+]

@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéoarthrites des os longs chez le nourrisson dans les pays tropicaux?",
+        "answer": "Streptocoques A ou B, H. influenzae, BGN, S. aureus",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéomyélite aiguë staphylococcique?",
+        "answer": "Frissons, fièvre à 40°C, altération de l’état général, douleur locale vive, insomniante, empêchant la marche, zone métaphysaire hypersensible avec parfois un empâtement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de l'ostéomyélite aiguë staphylococcique?",
+        "answer": "Le traitement antibiotique doit être entrepris au plus tôt avec des molécules antistaphylococciques, guidé par les molécules disponibles, le niveau de certitude du diagnostic microbiologique et le terrain. Sa durée est de 3 semaines en général.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des spondylodiscites chez l'adulte dans les pays tropicaux?",
+        "answer": "Mycobacterium sp., Brucella, staphylocoque, salmonelle, autres BGN, gonocoque, H. duboisii",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'ostéomyélite aiguë staphylococcique?",
+        "answer": "Frissons, fièvre à 40°C, altération de l’état général, douleur locale vive, insomniante, empêchant la marche, zone métaphysaire hypersensible avec parfois un empâtement.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites chez les diabétiques?",
+        "answer": "Staphylocoque, streptocoque, BGN, anaérobies",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite tuberculeuse?",
+        "answer": "Tableau torpide sur les os longs, calcanéum, crâne, sternum, côtes et rachis, abcès centro-osseux, froid, abcès avec réaction périostée importante et tuméfaction.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites post-traumatiques?",
+        "answer": "Staphylococcus aureus, Staphylococcus epidermidis, bacille à Gram négatif, Clostridium",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'arthrite bactérienne commune?",
+        "answer": "Mono-arthrite aiguë, début brutal, douleurs articulaires très vives, signes inflammatoires locaux avec fluxion, empâtement périarticulaire, tuméfaction des parties molles, attitude vicieuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des arthrites bactériennes communes?",
+        "answer": "Bacilles à Gram négatif (salmonelles...), Staphylococcus aureus",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite à mycobactéries?",
+        "answer": "Douleurs de type inflammatoire, fièvre modérée ou absente, altération modérée ou absente de l’état général, syndrome inflammatoire biologique modéré ou absent, abcès central de l’os, aspect d’ostéite hyperostosante et nécrosante, séquestre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites chez les drépanocytaires?",
+        "answer": "Salmonelles, staphylocoque",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite nosocomiale post-opératoire?",
+        "answer": "Douleurs, inflammation locale, signes d'infection post-opératoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites nosocomiales post-opératoires?",
+        "answer": "Staphylocoque de sensibilité diminuée à la méticilline",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite tuberculeuse chez les patients VIH?",
+        "answer": "Tableau torpide sur les os longs, calcanéum, crâne, sternum, côtes et rachis, abcès centro-osseux, froid, abcès avec réaction périostée importante et tuméfaction.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites à mycoses profondes?",
+        "answer": "Histoplasmose africaine (H. duboisii), histoplasmose américaine à H. capsulatum, cryptococcose, aspergillose, mycétomes, sporotrichose, phycomycoses",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'arthrite gonococcique?",
+        "answer": "Arthrite (surtout les genoux), ténosynovite (poignets), localisations cutanées vésiculo-pustuleuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des arthrites à Kingella kingae?",
+        "answer": "Kingella kingae",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'arthrite à méningocoque?",
+        "answer": "Arthrite des genoux, souvent au décours d’une méningite ou isolée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des arthrites à streptocoque chez l’enfant?",
+        "answer": "Streptocoque, Streptococcus pneumoniae",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéoarthrite aiguë de la hanche chez le nourrisson?",
+        "answer": "Fièvre, limitation douloureuse des mouvements de la hanche, augmentation de l’espace entre la tête fémorale et le fond du cotyle à la radiographie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéoarthrites aiguës de la hanche chez le nourrisson?",
+        "answer": "Streptocoque B, staphylocoque, H. influenzae, BGN",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite à salmonelles chez le drépanocytaire?",
+        "answer": "Douleurs osseuses, inflammation locale, signes d'infection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites à salmonelles chez le drépanocytaire?",
+        "answer": "Salmonelles",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite à syphilis tertiaire?",
+        "answer": "Hyperostose des gommes osseuses, tuméfactions, déformations osseuses, nécroses du massif facial.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites à syphilis tertiaire?",
+        "answer": "Treponema pallidum",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite à brucellose?",
+        "answer": "Douleurs osseuses, inflammation locale, signes d'infection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites à brucellose?",
+        "answer": "Brucella",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ostéite à lèpre lépromateuse?",
+        "answer": "Érosion puis fonte de l’épine nasale, ostéolyses, amputations spontanées des doigts des mains et des pieds, fractures du tarse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des ostéites à lèpre lépromateuse?",
+        "answer": "Mycobacterium leprae",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection articulaire aiguë correctement traitée?",
+        "answer": "Correctement traitée avec antibiothérapie adaptée (chloramphénicol, cotrimoxazole, tétracyclines, clindamycine), l’évolution d’une infection articulaire aiguë est le plus souvent satisfaisante avec disparition en quelques jours des signes infectieux locaux articulaires et disparition des signes généraux. La durée de traitement est de 3 à 6 semaines au moins, comme dans les ostéomyélites aiguës.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les séquelles possibles en cas de traitement retardé d'une infection articulaire aiguë?",
+        "answer": "Si le traitement est mis en place avec retard, des séquelles sont fréquemment observées à type d’ankylose fibreuse ou osseuse avec possibilité d’attitude vicieuse ou d’importantes diminutions de la fonction articulaire.",
+        "qtype": "séquelles"
+    },
+    {
+        "question": "Quelle est la principale difficulté dans le traitement des arthrites septiques?",
+        "answer": "La principale difficulté dans les arthrites septiques est d’arriver à diminuer les séquelles fonctionnelles. Celles-ci sont d’autant plus importantes que l’immobilisation a été prolongée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le tableau classique d'une arthrite tuberculeuse?",
+        "answer": "Tableau classique d'arthrite ou d'ostéo-arthrite (hanche) subaiguë ou chronique avec douleurs peu intenses d'allure mécanique et peu ou pas de signes généraux. Le liquide citrin de ponction note une cellularité à prédominance lymphocytaire et documente le BK (examen direct, PCR si possible et culture...).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes radiographiques d'une spondylodiscite bactérienne commune?",
+        "answer": "Les radiographies notent vers la 2e semaine des signes de spondylodiscite (pincement discal, lyse vertébrale, géodes, irrégularité des plateaux, atteinte en miroir de la vertèbre voisine).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement antituberculeux d’épreuve pour le Mal de Pott?",
+        "answer": "Le traitement antituberculeux d’épreuve reste la règle.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques de première intention pour les infections ostéo-articulaires aiguës?",
+        "answer": "L'amoxicilline - acide clavulanique couvre entre autres S. aureus Méti-S, streptocoques, une partie des BGN et Kingella kingae. Chez l’enfant, on peut proposer une céphalosporine de 1re génération orale ou mieux amoxicilline + acide clavulanique par voie orale après 3 jours IV.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée recommandée d’antibiothérapie dans les arthrites de l’adulte?",
+        "answer": "La durée recommandée d’antibiothérapie dans les arthrites de l’adulte est de 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand la chirurgie est-elle nécessaire dans le traitement des infections ostéo-articulaires?",
+        "answer": "La chirurgie est rarement nécessaire. Elle peut être utile à la phase précoce pour permettre des prélèvements microbiologiques et adapter l’antibiothérapie. Le traitement chirurgical est réservé au diagnostic incertain, au traitement des complications, en particulier une compression médullaire par spondylodiscite aiguë, au drainage d’un abcès volumineux ou à l’ablation d’un séquestre.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'importance de la rééducation fonctionnelle dans le traitement des infections ostéo-articulaires?",
+        "answer": "L’immobilisation doit être d’une durée la plus courte possible : les séquelles fonctionnelles sont d’autant plus importantes que l’immobilisation a été prolongée. La remise en charge doit être précoce en fonction de l’évolution algique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les nourrissons de moins de 3 mois atteints d'infections ostéo-articulaires?",
+        "answer": "Cefazoline (ou pénicilline anti-staphylococcique) + gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les enfants de 3 mois à 5 ans atteints d'infections ostéo-articulaires?",
+        "answer": "Cefazoline ou cefuroxime, clindamycine, amoxicilline – acide clavulanique, C3G.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les enfants de plus de 5 ans atteints d'infections ostéo-articulaires?",
+        "answer": "Pénicilline anti-staphylococcique, céfazoline, clindamycine, C3G +/- clindamycine (drépanocytose).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les adolescents et adultes atteints d'infections ostéo-articulaires?",
+        "answer": "Péni anti-staphylococcique, amoxicilline – acide clavulanique, clindamycine, cotrimoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les drépanocytaires atteints d'infections ostéo-articulaires?",
+        "answer": "C3G, C1G.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les infections ostéo-articulaires sur pied diabétique?",
+        "answer": "Clindamycine, amoxicilline – acide clavulanique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les infections ostéo-articulaires sur matériel?",
+        "answer": "Pénicilline anti-staphylococcique IV en probabiliste puis relais po en fonction de la documentation. Privilégier rifampicine + quinolone en cas d’infection à S. aureus sensible.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques de première intention pour les infections ostéo-articulaires de l’adulte?",
+        "answer": "Oxacilline ou Cloxacilline, Cefazoline, Cefotaxime, Ceftriaxone, Ofloxacine, Lévofloxacine, Ciprofloxacine, Gentamicine, Clindamycine, Cotrimoxazole, Rifampicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une spondylodiscite bactérienne commune?",
+        "answer": "Tableau aigu avec fièvre, altération de l’état général et douleurs inflammatoires rachidiennes à irradiation parfois radiculaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du Mal de Pott?",
+        "answer": "Douleur rachidienne persistante, initialement souvent d'allure mécanique (charnière dorso-lombaire, dorsale, lombaire plus rarement cervicale). Le diagnostic peut être tardif au stade de déformation axiale (cyphose), d'abcès prévertébral en fuseau, vers le psoas (psoïtis) pouvant se fistuliser à la peau (aine) et de radiculalgie, voire de paraparésie ou paraplégie spastique par compression médullaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes radiographiques du Mal de Pott?",
+        "answer": "La radiographie illustre le mal de Pott avec l'aspect de destruction-reconstruction osseuse vertébrale antérieure (charnière dorsolombaire, multifocalité).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le diagnostic différentiel exceptionnel de la tuberculose rachidienne?",
+        "answer": "La spondylodiscite à Histoplasma duboisii est un diagnostic différentiel exceptionnel de la tuberculose rachidienne qu’il faut savoir évoquer en cas d’échec d’un traitement antituberculose présomptif bien conduit.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principes généraux du traitement des infections ostéo-articulaires?",
+        "answer": "La prise en charge est multidisciplinaire. Le traitement est essentiellement médical, associant antibiothérapie et immobilisation que ce soit de l’os long, de l’articulation ou du rachis.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les éléments à surveiller lors de la prescription de rifampicine?",
+        "answer": "La rifampicine ne doit jamais être prescrite en monothérapie, ni en probabiliste ni surinfection aiguë. Le relais per os et l'association d'une autre molécule sont décidés selon le germe en cause ou supposé. On doit surveiller la tolérance et le risque d'interactions médicamenteuses.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée recommandée d’antibiothérapie dans les ostéites de l’adulte?",
+        "answer": "Dans les ostéites de l’adulte, le traitement est de 6 à 12 semaines selon la présence ou non de matériel d'ostéo-synthèse ou de prothèse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'importance de l'immobilisation dans le traitement des spondylodiscites?",
+        "answer": "Dans le cas particulier des spondylodiscites, la nécessité d’une immobilisation par corset dépend de l’étage de l’infection – elle est particulièrement importante à l’étage cervical – et de la stabilité vertébrale. La douleur est un bon élément de guidage en l’absence de possibilité d’imagerie, les lésions instables étant les plus douloureuses. La durée de port du corset dépend de l’évolution de ces douleurs, de quelques semaines à quelques mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les autres thérapeutiques recommandées pour les infections ostéo-articulaires?",
+        "answer": "Education thérapeutique, tant pour la prise prolongée des antibiotiques que pour la partie rééducative, soutien psychologique. Vaccinations (tétanos, méningites, fièvre typhoïde, pneumocoque...). Prévention des complications thromboemboliques et des escarres.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour plus d'informations sur les infections ostéo-articulaires?",
+        "answer": "https://www.who.int/fr/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis), https://www.gilar.org, https://www.who.int/fr/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis).",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quelle est la prévalence des infections ostéo-articulaires en zone à ressource limitée?",
+        "answer": "L’infection ostéo-articulaire reste une pathologie fréquente et très lourdement handicapante en zone à ressource limitée. Elle est dominée par l’ostéomyélite aiguë staphylococcique du nourrisson et de l’enfant drépanocytaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la relation entre la tuberculose et le VIH dans les infections ostéo-articulaires?",
+        "answer": "La tuberculose est plus fréquente en cas de co-infection par le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les autres causes d’infections ostéo-articulaires?",
+        "answer": "Les autres causes d’infections ostéo-articulaires, notamment à bactéries plus rares ou d’origine mycosique, demeurent heureusement exceptionnelles mais ne doivent pas être méconnues.",
+        "qtype": "épidémiologie"
+    }
+]

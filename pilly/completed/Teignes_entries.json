@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que les teignes?",
+        "answer": "Les teignes sont des infections cosmopolites dues à des champignons kératinophiles appelées dermatophytes, parasitant les cheveux et les poils.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les genres de champignons responsables des teignes?",
+        "answer": "Les champignons responsables des teignes appartiennent à trois genres différents : Microsporum sp., Trichophyton sp., et Nannizzia sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait la contamination des teignes anthropophiles?",
+        "answer": "La contamination des teignes anthropophiles se fait par contact direct (cuir chevelu, sports de combat) ou par l'intermédiaire d'objets comme les taies d'oreillers, les bonnets, les casquettes ou les objets de coiffure (peignes, brosses à cheveux, tondeuses, instruments de nattage).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux dermatophytes responsables des teignes tondantes à grandes plaques?",
+        "answer": "Les principaux dermatophytes responsables des teignes tondantes à grandes plaques sont Microsporum canis, Microsporum audouinii, et Microsporum ferrugineum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques?",
+        "answer": "Les teignes tondantes microsporiques se présentent comme des grandes plaques d'alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts. Elles sont peu ou pas inflammatoires et bien limitées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste la teigne favique?",
+        "answer": "La teigne favique se présente comme une petite croûte jaunâtre friable centrée par un cheveu qui, en grandissant et en fusionnant, prend l'aspect d'un godet rempli de croûtes jaunes soufrées, dégageant une odeur de souris.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les dermatophytes responsables des teignes inflammatoires ou suppurées?",
+        "answer": "Les dermatophytes responsables des teignes inflammatoires ou suppurées sont Trichophyton verrucosum, Trichophyton mentagrophytes, Microsporum canis, Microsporum gypseum, Nannizzia gypsea, et Trichophyton erinacei.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées?",
+        "answer": "Les teignes suppurées se présentent comme des placards arrondis, bien limités, du cuir chevelu, très inflammatoires, de plusieurs centimètres de diamètre et surélevées (kérion).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic des teignes?",
+        "answer": "Le diagnostic des teignes repose sur l'aspect clinique (plaque d'alopécie plus ou moins squameuse ou croûteuse, lésion inflammatoire ou suppurée) et la notion de contage. Le prélèvement à visée mycologique est indispensable pour affirmer le parasitisme pilaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques?",
+        "answer": "Les teignes tondantes trichophytiques se caractérisent par de nombreuses petites plaques d'alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux dermatophytes responsables des teignes tondantes à petites plaques?",
+        "answer": "Les principaux dermatophytes responsables des teignes tondantes à petites plaques sont Trichophyton soudanense, Trichophyton violaceum, et Trichophyton tonsurans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques à la lumière de Wood?",
+        "answer": "Les teignes tondantes microsporiques sont fluorescentes en vert à la lumière ultraviolette à la lampe de Wood.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques à la lumière de Wood?",
+        "answer": "Les teignes tondantes trichophytiques ne sont pas fluorescentes à la lampe de Wood.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées à la lumière de Wood?",
+        "answer": "Les teignes suppurées ne sont pas fluorescentes à la lumière de Wood.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la teigne favique à la lumière de Wood?",
+        "answer": "Les cheveux atteints par la teigne favique sont fluorescents sur toute leur longueur à la lampe de Wood.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs augmentant la prévalence des teignes en milieu tropical?",
+        "answer": "En milieu tropical, le manque d'hygiène, faute d'accès à l'eau courante, augmente la prévalence des teignes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques chez l'enfant?",
+        "answer": "Chez l'enfant, les teignes tondantes microsporiques se présentent comme des grandes plaques d'alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques chez la jeune femme adulte en Afrique sub-saharienne?",
+        "answer": "Chez la jeune femme adulte en Afrique sub-saharienne, les teignes tondantes trichophytiques peuvent persister et se caractériser par de nombreuses petites plaques d'alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes atypiques des teignes tondantes trichophytiques?",
+        "answer": "Les aspects atypiques des teignes tondantes trichophytiques incluent un état pelliculaire diffus, une alopécie difficile à voir sous les coiffures tressées des Africaines, et une alopécie méconnue masquée par le port de perruque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées chez l'enfant et la femme adulte?",
+        "answer": "Chez l'enfant et la femme adulte, les teignes suppurées se présentent comme des placards arrondis, bien limités, du cuir chevelu, très inflammatoires, de plusieurs centimètres de diamètre et surélevées (kérion).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la teigne favique en cas de chute des cheveux?",
+        "answer": "En cas de chute des cheveux avec les croûtes, l'alopécie due à la teigne favique est définitive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des plaques des teignes tondantes microsporiques?",
+        "answer": "La taille des plaques des teignes tondantes microsporiques est de 1 à 3 cm de diamètre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des plaques des teignes suppurées?",
+        "answer": "Les plaques des teignes suppurées sont de plusieurs centimètres de diamètre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques chez les Africaines?",
+        "answer": "Chez les Africaines, les teignes tondantes trichophytiques peuvent se manifester par une alopécie difficile à voir sous les coiffures tressées ou une alopécie méconnue masquée par le port de perruque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques chez l'enfant avant la puberté?",
+        "answer": "Chez l'enfant avant la puberté, les teignes tondantes microsporiques se présentent comme des grandes plaques d'alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques chez la jeune femme adulte?",
+        "answer": "Chez la jeune femme adulte, les teignes tondantes trichophytiques peuvent persister et se caractériser par de nombreuses petites plaques d'alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées chez l'enfant?",
+        "answer": "Chez l'enfant, les teignes suppurées se présentent comme des placards arrondis, bien limités, du cuir chevelu, très inflammatoires, de plusieurs centimètres de diamètre et surélevées (kérion).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques chez la femme adulte?",
+        "answer": "Chez la femme adulte, les teignes tondantes microsporiques se présentent comme des grandes plaques d'alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques chez l'homme adulte?",
+        "answer": "Chez l'homme adulte, les teignes tondantes trichophytiques se caractérisent par de nombreuses petites plaques d'alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de parasitisme pilaire observés dans les cheveux lors d'un examen direct?",
+        "réponse": "Les types de parasitisme pilaire observés sont le type trichophytique (spores à l'intérieur du cheveu), le type microsporique (spores à l'intérieur et à l'extérieur du cheveu) et le type favique (filaments uniquement intrapilaires).",
+        "qtype": "diagnostic"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelle est la période d'incubation de la rougeole?",
+        "answer": "La période d'incubation de la rougeole dure environ 10 à 14 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la rougeole?",
+        "answer": "La phase d'invasion de la rougeole associe une fièvre élevée, un catarrhe oculo-respiratoire (conjonctivite, rhinite, toux) et des signes neurologiques possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que le signe de Koplik?",
+        "answer": "Le signe de Koplik correspond à un semis de petites tâches blanchâtres sur fond érythémateux sur la muqueuse jugale en regard des prémolaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de complications de la rougeole?",
+        "answer": "Les facteurs de risque de complications de la rougeole incluent la malnutrition, en particulier la carence en vitamine A, un âge inférieur à 5 ans, supérieur à 20 ans ou l'immunodépression.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements curatifs de la rougeole?",
+        "answer": "Le traitement curatif de la rougeole est uniquement symptomatique (antipyrétiques, antalgiques). Il faut également hydrater et alimenter correctement l'enfant malade.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les éléments paracliniques pour le diagnostic de la rougeole?",
+        "answer": "Les éléments paracliniques pour le diagnostic de la rougeole incluent la sérologie (présence d'IgM spécifiques) et la PCR rougeole (détection de l'ARN viral).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les complications neurologiques de la rougeole?",
+        "answer": "Les complications neurologiques de la rougeole incluent l'encéphalite aiguë post-éruptive, l'encéphalite à inclusion et la panencéphalite subaiguë sclérosante.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Comment se transmet la rougeole?",
+        "answer": "La rougeole se transmet par voie aérienne et est favorisée par la promiscuité, les rassemblements d'enfants, les communautés familiales et les collectivités préscolaires et scolaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la phase éruptive de la rougeole?",
+        "answer": "La phase éruptive de la rougeole se caractérise par une éruption de maculopapules, une fièvre maintenue à 39-40°C, une prostration, des signes respiratoires et digestifs accentués.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour la rougeole dans les pays à ressources limitées?",
+        "answer": "L'OMS recommande l'administration de vitamine A lors du diagnostic, un collyre antiseptique et des soins spécifiques pour éviter la kératite et ses complications.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la grippe saisonnière?",
+        "answer": "Les symptômes de la grippe saisonnière incluent un malaise, une fièvre élevée, des céphalées, des arthro-myalgies, un catarrhe rhinopharyngée et une toux sèche douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de virus grippaux responsables des épidémies?",
+        "answer": "Les types de virus grippaux responsables des épidémies sont les virus A et B.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la grippe?",
+        "answer": "La grippe se transmet par sécrétions respiratoires (gouttelettes) de manière directe interhumaine ou de façon indirecte par contact avec des sécrétions.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements antiviraux spécifiques pour la grippe?",
+        "answer": "Les traitements antiviraux spécifiques pour la grippe incluent l'amantadine, les inhibiteurs de la neuraminidase (oseltamivir, zanamivir, peramivir) et le baloxavir.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de formes graves de la grippe?",
+        "answer": "Les facteurs de risque de formes graves de la grippe incluent l'âge avancé, les très jeunes enfants, les maladies chroniques, l'obésité et l'immunodépression.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la grippe?",
+        "answer": "Les symptômes de la phase d'invasion de la grippe incluent un malaise, une fièvre élevée, des céphalées et des arthro-myalgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la phase d'état de la grippe?",
+        "answer": "La phase d'état de la grippe se caractérise par un syndrome infectieux (fièvre à 40°C, frissons, asthénie, myalgies), un syndrome respiratoire (catarrhe rhinopharyngée, toux sèche douloureuse) et un syndrome algique (arthro-myalgies intenses, céphalées vives).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques de la grippe?",
+        "answer": "Les traitements symptomatiques de la grippe incluent le repos, l'hydratation, les antalgiques-antipyrétiques (paracétamol) et l'évitement de l'acide salicylique chez l'enfant.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les éléments paracliniques pour le diagnostic de la grippe?",
+        "answer": "Les éléments paracliniques pour le diagnostic de la grippe incluent la détection rapide d'antigènes viraux, la détection moléculaire (RT-PCR), la sérologie et la culture virale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la grippe chez les sujets âgés?",
+        "answer": "Chez les sujets âgés, la grippe peut provoquer des complications directes et des décompensations de tares sous-jacentes, souvent avec des symptômes moins typiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la grippe chez les enfants?",
+        "answer": "Chez les enfants, les symptômes de la grippe sont souvent moins typiques, avec des symptômes digestifs assez fréquents et des formes pauci-symptomatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la grippe chez les femmes enceintes?",
+        "answer": "Chez les femmes enceintes, la grippe peut avoir des conséquences graves chez la mère (complications pulmonaires) et chez le fœtus (prématurité, malformations neurologiques si infection au 1er trimestre).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la grippe chez les immunodéprimés?",
+        "answer": "Chez les immunodéprimés, le virus de la grippe peut être excrété de manière prolongée et favoriser les surinfections bactériennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements antiviraux disponibles pour la grippe?",
+        "answer": "Les traitements antiviraux disponibles pour la grippe incluent l'amantadine, l'oseltamivir, le zanamivir et le peramivir.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumopathie virale grippale?",
+        "answer": "Les symptômes de la pneumopathie virale grippale incluent un œdème pulmonaire lésionnel entraînant une détresse respiratoire avec hypoxie réfractaire nécessitant une assistance respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumopathie bactérienne secondaire à la grippe?",
+        "answer": "Les symptômes de la pneumopathie bactérienne secondaire à la grippe incluent une surinfection survenant en général à J5-J7 de l'évolution grippale, avec des bactéries telles que Streptococcus pneumoniae, Haemophilus influenza, Staphylococcus aureus, et Streptococcus pyogenes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bronchite aiguë liée à la grippe?",
+        "answer": "Les symptômes de la bronchite aiguë liée à la grippe incluent une toux persistante et des exacerbations de bronchites chroniques, de mucoviscidose et d'asthme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes respiratoires hautes liées à la grippe?",
+        "answer": "Les symptômes des atteintes respiratoires hautes liées à la grippe incluent des otites moyennes aiguës chez les enfants et des sinusites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes extra-respiratoires liées à la grippe?",
+        "answer": "Les symptômes des atteintes extra-respiratoires liées à la grippe incluent des myosites, myocardites, péricardites, méningo-encéphalites, polyradiculo-névrite et syndrome de Reye.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les sérotypes du virus respiratoire syncytial (VRS) ?",
+        "answer": "Il existe 2 sérotypes (A et B) du virus respiratoire syncytial (VRS).",
+        "qtype": "épidémiologie"
+    }
+]

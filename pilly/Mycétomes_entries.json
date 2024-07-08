@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce qu'un mycétome?",
+        "answer": "Les mycétomes se définissent comme tout processus au cours desquels des agents fongiques ou actinomycotiques d’origine exogène produisent des grains.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les types de mycétomes?",
+        "answer": "On distingue les mycétomes fongiques des actinomycétomes.",
+        "qtype": "classification"
+    },
+    {
+        "question": "Quelle est la principale différence entre les mycétomes fongiques et les actinomycétomes?",
+        "answer": "Les traitements des mycétomes fongiques et des actinomycétomes sont radicalement différents.",
+        "qtype": "différence"
+    },
+    {
+        "question": "Qui est principalement touché par les mycétomes?",
+        "answer": "Les ruraux vivant dans les régions tropicales arides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quand les mycétomes ont-ils été ajoutés à la liste des maladies négligées de l'OMS?",
+        "answer": "En 2013.",
+        "qtype": "historique"
+    },
+    {
+        "question": "Quels sont les traitements des mycétomes?",
+        "answer": "Les traitements médicaux sont longs et coûteux, et ne sont pas toujours efficaces, surtout pour les étiologies fongiques où la chirurgie reste indiquée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents impliqués dans les mycétomes?",
+        "answer": "Les agents impliqués sont soit fongiques, donnant des grains noirs ou blancs, soit actinomycotiques, donnant des grains blancs, jaunes ou rouges.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables des mycétomes fongiques noirs?",
+        "answer": "Madurella mycetomatis, Trematosphaeria grisea, Falcifomispora senegalensis.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables des actinomycétomes blancs à blanc jaunâtre ou rosé?",
+        "answer": "Nocardia brasiliensis, Actinomadura madurae, Streptomyces somaliensis.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables des mycétomes fongiques blancs?",
+        "answer": "Scedosporium apiospermum, Acremonium sp, Fusarium sp.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables des actinomycétomes rouges?",
+        "answer": "Actinomadura pelletieri.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Où se situent les zones endémiques des mycétomes?",
+        "answer": "Dans des régions tropicales et arides de part et d’autre du 15e parallèle Nord : foyer indien, foyer africain et foyer mexicain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment les agents étiologiques des mycétomes sont-ils transmis?",
+        "answer": "Ils sont transmis à l’occasion de traumatismes souvent minimes, passant inaperçus, la circonstance la plus classique de contamination étant la piqûre par des épines.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la période entre le traumatisme initial et les premiers signes cliniques des mycétomes?",
+        "answer": "Il existe une période cliniquement muette de plusieurs mois à plusieurs années.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les premiers signes cliniques des mycétomes?",
+        "answer": "Des lésions nodulaires apparaissent, qui vont se fistuliser avec émissions intermittentes contenant des grains parfois visibles à l’œil nu.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la localisation la plus fréquente des mycétomes?",
+        "answer": "Le pied, dans environ 70 % des cas (pied de Madura).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la deuxième localisation la plus fréquente des mycétomes?",
+        "answer": "La main.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les autres endroits où les mycétomes peuvent se localiser?",
+        "answer": "Les membres, l'abdomen, le tronc, la tête et le cou.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est l'évolution des mycétomes?",
+        "answer": "L’évolution est chronique, des complications peuvent apparaître, la plus fréquente étant l’atteinte osseuse se traduisant par des douleurs à prédominance nocturne.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quelles sont les complications des mycétomes?",
+        "answer": "L’atteinte osseuse, les métastases ganglionnaires, la surinfection, les compressions locales.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les symptômes des mycétomes?",
+        "answer": "Des lésions nodulaires qui se fistulisent avec émissions intermittentes de grains, douleurs nocturnes en cas d’atteinte osseuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères importants pour orienter le diagnostic d'espèce des mycétomes?",
+        "answer": "La taille et la couleur des grains.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents responsables des mycétomes fongiques noirs en Afrique sahélienne?",
+        "answer": "Madurella mycetomatis.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des mycétomes fongiques noirs en Amérique du Sud?",
+        "answer": "Trematosphaeria grisea.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des mycétomes fongiques noirs en Afrique de l’Ouest et en Inde?",
+        "answer": "Falcifomispora senegalensis.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des actinomycétomes blancs à blanc jaunâtre ou rosé au Mexique?",
+        "answer": "Nocardia brasiliensis.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des actinomycétomes blancs à blanc jaunâtre ou rosé en Afrique sahélienne, Afrique du Nord, Inde et Mexique?",
+        "answer": "Actinomadura madurae.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des actinomycétomes blancs à blanc jaunâtre ou rosé dans les régions désertiques?",
+        "answer": "Streptomyces somaliensis.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des mycétomes fongiques blancs dans les régions tempérées et en Afrique équatoriale?",
+        "answer": "Scedosporium apiospermum.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les agents responsables des mycétomes fongiques blancs rares et cosmopolites?",
+        "answer": "Acremonium sp et Fusarium sp.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les symptômes des formes très évoluées de mycétome?",
+        "answer": "Dans les formes très évoluées, le patient peut devenir grabataire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels problèmes diagnostiques peuvent poser les mycétomes extra-podaux?",
+        "answer": "Le mycétome, en particulier en ce qui concerne les formes extra-podales, peut poser un problème diagnostic avec d’autres affections ostéophiles : maladie de Kaposi, tuberculose osseuse, ostéomyélite chronique, autres mycoses.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Avec quelles autres affections le diagnostic de mycétome peut-il être confondu avant la fistulisation?",
+        "answer": "Avant la fistulisation, le diagnostic peut se poser avec la podoconiose, gros pied tropical réactionnel à des particules minérales inoculées lors de la marche pieds nus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel bilan d'extension est imposé par le diagnostic de mycétome?",
+        "answer": "Le diagnostic de mycétome impose un bilan d’extension comportant au minimum une radiographie osseuse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles méthodes d'imagerie permettent de déceler les atteintes osseuses précoces dans le mycétome?",
+        "answer": "Les méthodes d’imagerie moderne, lorsqu’elles sont disponibles, permettent de déceler les atteintes osseuses précoces (scanner, imagerie par résonance magnétique (IRM)) et de préciser l’envahissement des parties molles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de la couleur des grains dans le diagnostic biologique des mycétomes?",
+        "answer": "La couleur des grains, simple à voir, donne des renseignements précieux permettant de différencier les mycétomes fongiques des actinomycétomes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour les actinomycétomes?",
+        "answer": "Le traitement de première intention est le cotrimoxazole per os (800/160 mg/j), il doit être poursuivi pendant un an minimum.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est préconisé en cas de mauvaise réponse au cotrimoxazole pour les actinomycétomes?",
+        "answer": "En cas de mauvaise réponse, on préconise l’ajout d’amikacine par voie parentérale : 15 mg/kg/j (alternative : streptomycine) pendant 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle alternative peut être utilisée pour traiter les actinomycétomes?",
+        "answer": "Une alternative pourrait être l’association amoxicilline+acide clavulanique par voie orale pendant environ 10 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels agents de mycétomes donnent les meilleurs résultats avec le traitement médical?",
+        "answer": "Les meilleurs résultats sont obtenus avec Nocardia sp et Actinomadura pelletieri.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le schéma recommandé pour le traitement des mycétomes fongiques?",
+        "answer": "L’itraconazole per os à la dose de 400 mg/j pendant 3 mois réduite ensuite à 200 mg/j pendant 9 mois est le schéma recommandé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est l'avantage de l'itraconazole dans le traitement des mycétomes fongiques?",
+        "answer": "Il permet une encapsulation des lésions permettant une chirurgie plus aisée, moins mutilante et diminue le risque de récidive.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement a permis des guérisons sans recours à la chirurgie pour les mycétomes fongiques?",
+        "answer": "Des guérisons ont pu être observées par traitement médical simple par de nouveaux azolés comme le voriconazole sans recours à la chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi les patients en zone d’endémie sont-ils souvent vus à un stade tardif?",
+        "answer": "En zone d’endémie, les patients sont vus trop souvent à un stade tardif obligeant à une chirurgie mutilante et dans les cas les plus avancés à une amputation, succédant à un traitement médical.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi le patient doit-il être suivi pendant plusieurs années après le traitement du mycétome?",
+        "answer": "Après traitement le patient doit être suivi pendant plusieurs années en raison du risque élevé de récidive.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle prophylaxie est recommandée pour prévenir les mycétomes?",
+        "answer": "La prophylaxie suppose l’utilisation de chaussures fermées, le traitement des blessures avec effractions cutanées, même minimes.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quels sont les principaux repères pour les mycétomes selon l'OMS?",
+        "answer": "Mycétomes. Principaux repères. OMS 2018 : https://www.who.int/fr/news-room/fact-sheets/detail/mycetoma",
+        "qtype": "référence"
+    },
+    {
+        "question": "Où peut-on trouver les résultats de l’enquête mondiale de l’OMS sur le mycétome?",
+        "answer": "Résultats de l’enquête mondiale de l’OMS sur le mycétome. OMS 2017 : https://apps.who.int/iris/bitstream/handle/10665/274019/WER9333-423-428.pdf?sequence=1&isAllowed=y",
+        "qtype": "référence"
+    },
+    {
+        "question": "Quels sont les signes radiographiques des lésions osseuses dans le mycétome?",
+        "answer": "Les lésions osseuses, quand elles existent, associent des images de destruction et de reconstruction.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de l'examen anatomopathologique dans le diagnostic des mycétomes?",
+        "answer": "L’examen anatomopathologique est également performant s’il montre la présence de grains dont les aspects en coupe permettent de mieux cerner l’étiologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi les cultures ne sont-elles pas toujours couronnées de succès dans le diagnostic des mycétomes?",
+        "answer": "Les cultures sont longues, pas toujours couronnées de succès et l’identification précise ne peut être réalisée que par des laboratoires spécialisés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'intérêt de la biologie moléculaire dans le diagnostic des mycétomes?",
+        "answer": "La biologie moléculaire, en plus de son intérêt diagnostique, a permis de revoir la classification des agents de mycétomes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le risque de la chirurgie d’emblée pour les actinomycétomes?",
+        "answer": "La chirurgie d’emblée entraîne le risque de métastase ganglionnaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose recommandée d’itraconazole pour les mycétomes fongiques pendant les trois premiers mois?",
+        "answer": "La dose recommandée d’itraconazole pour les mycétomes fongiques pendant les trois premiers mois est de 400 mg/j.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose recommandée d’itraconazole pour les mycétomes fongiques après les trois premiers mois?",
+        "answer": "La dose recommandée d’itraconazole pour les mycétomes fongiques après les trois premiers mois est de 200 mg/j pendant 9 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les actinomycétomes en cas de mauvaise réponse au cotrimoxazole?",
+        "answer": "En cas de mauvaise réponse au cotrimoxazole, on préconise l’ajout d’amikacine par voie parentérale : 15 mg/kg/j pendant 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée maximale des cycles de traitement avec l’amikacine pour les actinomycétomes?",
+        "answer": "Selon la réponse, on peut renouveler les cycles jusqu’à un maximum de 4 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement alternatif pour les actinomycétomes en cas de mauvaise réponse au cotrimoxazole?",
+        "answer": "Une alternative pourrait être l’association amoxicilline+acide clavulanique par voie orale pendant environ 10 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les mycétomes fongiques?",
+        "answer": "L’itraconazole per os à la dose de 400 mg/j pendant 3 mois réduite ensuite à 200 mg/j pendant 9 mois est le schéma recommandé.",
+        "qtype": "traitement"
+    }
+]

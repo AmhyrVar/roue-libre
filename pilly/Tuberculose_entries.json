@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la cause de mortalité la plus fréquente due à une bactérie unique dans le monde?",
+        "answer": "La tuberculose est la première cause de mortalité due à une bactérie unique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage de la population mondiale est infecté par le bacille de Koch (BK)?",
+        "answer": "Un tiers de la population mondiale est infecté par le bacille de Koch (BK).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité par tuberculose dans le monde entre 1990 et 2019?",
+        "answer": "Le taux de mortalité par tuberculose dans le monde a chuté de 55 % entre 1990 et 2019.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs d’amplification de la tuberculose?",
+        "answer": "Les principaux facteurs d’amplification de la tuberculose sont la pauvreté, la malnutrition, le VIH et l’extension des tuberculoses à bacilles multirésistants.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le risque annuel d’infection par le bacille de Koch (BK) en Afrique?",
+        "answer": "Le risque annuel d’infection par le bacille de Koch (BK) en Afrique est de 1,5 à 2,5 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de tuberculeux ayant des expectorations bacillifères?",
+        "answer": "Cinquante pour cent des tuberculeux ont des expectorations bacillifères.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le délai moyen de dépistage d’un tuberculeux dans les pays à ressources limitées?",
+        "answer": "Le délai moyen de dépistage d’un tuberculeux est de 1 an à 1 an et demi dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes ont développé une tuberculose multirésistante (MDR) en 2019?",
+        "answer": "En 2019, près de 450 000 personnes ont développé une tuberculose multirésistante (MDR).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les trois pays ayant recensé le plus de cas de tuberculose MDR en 2019?",
+        "answer": "Les trois pays ayant recensé le plus de cas de tuberculose MDR en 2019 étaient l’Inde, la Chine et la fédération de Russie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de nouveaux cas de tuberculose qui étaient MDR en 2019?",
+        "answer": "En 2019, 3,3 % des nouveaux cas de tuberculose étaient MDR.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de cas préalablement traités de tuberculose qui étaient MDR en 2019?",
+        "answer": "En 2019, 17,7 % des cas préalablement traités de tuberculose étaient MDR.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les indicateurs épidémiologiques de la tuberculose?",
+        "answer": "Les indicateurs épidémiologiques de la tuberculose incluent la mortalité annuelle par tuberculose, la morbidité (prévalence et incidence), et le risque annuel d’infection (RAI).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les indicateurs de suivi d’un programme de tuberculose?",
+        "answer": "Les indicateurs de suivi d’un programme de tuberculose incluent l’analyse des éléments chiffrés (âge, sexe, formes cliniques), les indicateurs déduits des analyses de cohortes (guéris, traitements terminés, décédés, perdus de vue, échecs, transférés), l’efficacité épidémiologique, la surveillance des taux de résistance primaires et secondaires, et la surveillance de la prévalence du VIH chez les tuberculeux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les paramètres de l’histoire naturelle de la tuberculose?",
+        "answer": "Les paramètres de l’histoire naturelle de la tuberculose incluent la transmission ou le risque d’être infecté, le passage de l’infection à la maladie, et le devenir des malades non traités (décès, guérison spontanée, diffusion chronique).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes généraux de la tuberculose?",
+        "answer": "Les signes généraux de la tuberculose incluent une perte de poids, des sueurs nocturnes, une fébricule, un syndrome inflammatoire au long cours, un syndrome septique prolongé sans hyperleucocytose, et un contexte d’immunodépression (SIDA).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose pulmonaire commune?",
+        "answer": "Les signes cliniques de la tuberculose pulmonaire commune incluent une altération de l’état général (asthénie, amaigrissement, fièvre, sueurs nocturnes) et des signes respiratoires (toux prolongée, expectoration mucopurulente ou hémoptoïque, douleurs thoraciques).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose miliaire?",
+        "answer": "La tuberculose miliaire est une infection généralisée avec des granulomes de la taille d’un grain de mil dans les poumons, le foie, la rate, la moelle osseuse, les méninges, etc. Elle peut entraîner un syndrome de détresse respiratoire aiguë (miliaire asphyxiante).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la primo-infection tuberculeuse (PIT)?",
+        "answer": "La primo-infection tuberculeuse (PIT) est souvent asymptomatique ou entraîne une altération discrète de l’état général avec asthénie et fièvre modérée. On observe plus rarement un érythème noueux, une kérato-conjonctivite phlycténulaire ou une pleurésie sérofibrineuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l’infection tuberculeuse latente (ITL)?",
+        "answer": "L’infection tuberculeuse latente (ITL) est, par définition, asymptomatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose pulmonaire active?",
+        "answer": "Les signes cliniques de la tuberculose pulmonaire active incluent une altération de l’état général (asthénie, amaigrissement, fièvre, sueurs nocturnes) et des signes respiratoires (toux prolongée, expectoration mucopurulente ou hémoptoïque, douleurs thoraciques).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose extra-pulmonaire?",
+        "answer": "Les signes cliniques de la tuberculose extra-pulmonaire varient selon la localisation, mais peuvent inclure des adénopathies, des ostéites, des ostéo-arthrites, des méningites, des péricardites, des pleurésies, et des péritonites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose ostéo-articulaire?",
+        "answer": "Les signes cliniques de la tuberculose ostéo-articulaire incluent des douleurs et des tuméfactions des parties molles, des fistules, des lacunes osseuses, des périostites, et des fractures pathologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la méningite tuberculeuse?",
+        "answer": "Les signes cliniques de la méningite tuberculeuse incluent un syndrome méningé, un syndrome infectieux progressif avec fièvre au long cours, céphalées, vomissements, et raideur méningée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite tuberculeuse?",
+        "answer": "Les signes cliniques de la péricardite tuberculeuse incluent une insuffisance cardiaque, un syndrome cave supérieur, une ascite, une hépatomégalie, une dilatation des jugulaires, une cyanose, et des œdèmes des membres inférieurs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l’adénite tuberculeuse?",
+        "answer": "Les signes cliniques de l’adénite tuberculeuse incluent des adénopathies cervicales, axillaires ou inguinales, initialement fermes et mobiles, puis fixées par une péri-adénite avec peu de signes inflammatoires, et des fistules externes avec un pus caséeux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose du mal de Pott?",
+        "answer": "Les signes cliniques de la tuberculose du mal de Pott incluent des douleurs vertébrales, des tuméfactions des parties molles, et des fistules en regard de lacunes osseuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la coxite tuberculeuse?",
+        "answer": "Les signes cliniques de la coxite tuberculeuse incluent des douleurs et des tuméfactions de la hanche.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose du genou?",
+        "answer": "Les signes cliniques de la tuberculose du genou incluent des douleurs et des tuméfactions du genou, avec des risques de troubles de croissance chez l’enfant, de luxations et d’ankyloses séquellaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose des os plats?",
+        "answer": "Les signes cliniques de la tuberculose des os plats incluent des tuméfactions des parties molles, des fistules, des lacunes osseuses, et des zones floues de l’os.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la méningite tuberculeuse?",
+        "answer": "Les symptômes de la méningite tuberculeuse incluent des déficits multiples, des paralysies des paires crâniennes, un coma brutal, une forme pseudo-psychiatrique, et une découverte fortuite lors du bilan d’une tuberculose miliaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la mortalité de la méningite tuberculeuse?",
+        "answer": "La mortalité de la méningite tuberculeuse avoisine les 30 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la tuberculose?",
+        "answer": "Les traitements de première ligne pour la tuberculose sont l’isoniazide (INH), la rifampicine (RMP), le pyrazinamide (PZA) et l’éthambutol (EMB).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes d'appel de la tuberculose iléo-caecale?",
+        "answer": "Les signes d’appel de la tuberculose iléo-caecale incluent diarrhée chronique, douleur, empâtement ou tumeur de la fosse iliaque droite, syndrome occlusif, ascite, syndrome appendiculaire, malabsorption, anémie mégaloblastique, cachexie et/ou fièvre au long cours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on la tuberculose iléo-caecale?",
+        "answer": "Le diagnostic de la tuberculose iléo-caecale repose sur le lavement baryté, le contexte tuberculeux, ou surtout la laparotomie exploratrice permettant un examen anatomopathologique des biopsies de l’intestin et des ganglions mésentériques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose urogénitale chez l'homme?",
+        "answer": "Les symptômes de la tuberculose urogénitale chez l'homme incluent une tuméfaction des bourses, un gros épididyme, une hydrocèle, rarement une fistule scrotale, et souvent peu de douleur.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose urogénitale chez la femme?",
+        "answer": "Les symptômes de la tuberculose urogénitale chez la femme incluent stérilité, grossesse extra-utérine, douleurs abdominales, métrorragies ou leucorrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de tuberculose cutanée?",
+        "answer": "Les types de tuberculose cutanée incluent le chancre cutané de primo-infection, les ulcères cutanés de réinfection, la tuberculose verruqueuse, les ulcérations scrofuleuses, les lésions lupoïdes du visage, la miliaire tuberculeuse cutanée, et les réactions cutanées allergiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la laryngite tuberculeuse?",
+        "answer": "Les symptômes de la laryngite tuberculeuse incluent dysphonie, toux et dysphagie haute chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les antituberculeux de seconde ligne?",
+        "answer": "Les antituberculeux de seconde ligne comprennent les fluoroquinolones (moxifloxacine et lévofloxacine), le linézolide, la bédaquiline, la ciclosérine et la clofazimine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement classique de la tuberculose?",
+        "answer": "Le traitement classique de la tuberculose dure 6 mois, avec une phase d’attaque de 2 mois et une phase d’entretien de 4 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose multirésistante (MDR)?",
+        "answer": "Les symptômes de la tuberculose multirésistante (MDR) incluent des signes cliniques similaires à ceux de la tuberculose classique, mais avec une résistance aux traitements standards.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose ultra-résistante (XDR)?",
+        "answer": "Les symptômes de la tuberculose ultra-résistante (XDR) incluent des signes cliniques similaires à ceux de la tuberculose classique, mais avec une résistance aux fluoroquinolones et à au moins un traitement injectable de seconde ligne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose hématopoïétique?",
+        "answer": "Les symptômes de la tuberculose hématopoïétique incluent une aplasie médullaire fébrile ou un tableau évoquant une leucémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose hépatique?",
+        "answer": "Les symptômes de la tuberculose hépatique incluent des signes de fièvre prolongée et des granulomatoses hépatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose splénique?",
+        "answer": "Les symptômes de la tuberculose splénique incluent des signes de fièvre prolongée et des granulomatoses spléniques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose iléo-caecale?",
+        "answer": "Les symptômes de la tuberculose iléo-caecale incluent diarrhée chronique, douleur, empâtement ou tumeur de la fosse iliaque droite, syndrome occlusif, ascite, syndrome appendiculaire, malabsorption, anémie mégaloblastique, cachexie et/ou fièvre au long cours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose urogénitale?",
+        "answer": "Les symptômes de la tuberculose urogénitale incluent leucocyturie aseptique, infections urinaires récidivantes, cystite, hypertension artérielle, tuméfaction des bourses, gros épididyme, hydrocèle, et stérilité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose cutanée?",
+        "answer": "Les symptômes de la tuberculose cutanée incluent nodules cutanés, ulcérations, lymphangite, adénopathies, ulcères cutanés, tuberculose verruqueuse, ulcérations scrofuleuses, lésions lupoïdes, nodules sur la face, et réactions cutanées allergiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose laryngée?",
+        "answer": "Les symptômes de la tuberculose laryngée incluent dysphonie, toux, et dysphagie haute chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose hématopoïétique?",
+        "answer": "Les symptômes de la tuberculose hématopoïétique incluent une aplasie médullaire fébrile ou un tableau évoquant une leucémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose disséminée?",
+        "answer": "Les symptômes de la tuberculose disséminée incluent une aplasie médullaire fébrile ou un tableau évoquant une leucémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose miliaire?",
+        "answer": "Les symptômes de la tuberculose miliaire incluent des nodules cutanés touchant surtout la face.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose cutanée miliaire?",
+        "answer": "Les symptômes de la tuberculose cutanée miliaire incluent des nodules touchant surtout la face.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose ulcéreuse orificielle?",
+        "answer": "Les symptômes de la tuberculose ulcéreuse orificielle incluent des ulcères cutanés localisés aux jonctions cutanéomuqueuses des orifices.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose verruqueuse?",
+        "answer": "Les symptômes de la tuberculose verruqueuse incluent des lésions localisées aux extrémités des membres.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des ulcérations scrofuleuses?",
+        "answer": "Les symptômes des ulcérations scrofuleuses incluent des ulcérations uniques ou multiples en regard d’adénopathies ou d’ostéites tuberculeuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions lupoïdes du visage?",
+        "answer": "Les symptômes des lésions lupoïdes du visage incluent des nodules sur la face.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des réactions cutanées allergiques à la tuberculose?",
+        "answer": "Les symptômes des réactions cutanées allergiques à la tuberculose incluent des tuberculides infiltrées ou papuleuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose de l'estomac?",
+        "answer": "Les symptômes de la tuberculose de l'estomac incluent des lésions ulcéreuses ou hypertrophiques.",
+        "qtype": "symptômes"
+    }
+]

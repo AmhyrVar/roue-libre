@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Quels sont les genres de Poxviridae pathogènes pour l'être humain?",
+        "response": "Les genres connus pour être pathogènes chez l’être humain sont les orthopoxvirus, les parapoxvirus, les molluscipoxvirus et les yatapoxvirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus monkeypox?",
+        "response": "Les réservoirs de virus monkeypox sont des petits mammifères (rongeurs). Les primates et antilopes, infectés sporadiquement, jouent un rôle de réservoir secondaire et d’amplification.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du virus monkeypox?",
+        "response": "La durée d'incubation du virus monkeypox est de 4 à 24 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de l'infection à virus monkeypox?",
+        "response": "L’infection à virus monkeypox débute par une fièvre (38,5-40,5°C), d’intenses céphalées, des myalgies, des douleurs dorsales, une grande asthénie durant 2 jours environ.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications possibles de l'infection à virus monkeypox?",
+        "response": "Les principales complications sont la surinfection de lésions cutanées, les atteintes respiratoires, digestives, ophtalmologiques (kératite) et neurologiques (encéphalite, rare).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la transmission du virus monkeypox?",
+        "response": "La transmission du virus se fait par contact direct d’animaux infectés (par morsure, et contact avec des lésions cutanées lors de leur manipulation). La transmission d’humain à humain résulte d’un contact étroit avec les excrétions des voies respiratoires infectées, avec les lésions de la peau d’une personne infectée ou avec des objets contaminés récemment.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les infections à virus monkeypox?",
+        "response": "Le traitement des infections à virus monkeypox est essentiellement symptomatique : réhydratation, prévention et traitement des surinfections cutanées notamment. Le cidofovir intra-veineux a montré son intérêt dans le traitement des formes graves, mais il est peu adapté au traitement de masse en cas d’épidémie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mortalité associée aux infections à virus monkeypox?",
+        "response": "La mortalité est très variable en fonction des épidémies et de l’accès aux soins : nulle dans l’épidémie américaine, elle va de 1,5 à 17 % pour les épidémies survenues en RDC.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus monkeypox?",
+        "response": "Les principaux symptômes sont la fièvre, les céphalées, les myalgies, les douleurs dorsales, une grande asthénie, des adénopathies cervicales, une toux, une diarrhée, et une éruption varioliforme typique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'infection à virus monkeypox?",
+        "response": "Le diagnostic est avant tout clinique : données épidémiologiques, fièvre, éruption varioliforme généralisée, fréquence des adénopathies cervicales. Les cas d’orthopoxvirose simienne sont confirmés sur la base de l’isolement du virus ou de la détection du virus par PCR à partir d’un spécimen clinique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la durée de l'infection à virus monkeypox?",
+        "response": "La durée de l’infection à virus monkeypox est de 2 à 4 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux hôtes du virus de l'Orf?",
+        "response": "Les principaux hôtes du virus de l'Orf sont les ovins (agneaux+++).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la distribution géographique du virus de l'Orf?",
+        "response": "La distribution géographique du virus de l'Orf est mondiale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'agent responsable du nodule de l'Orf?",
+        "response": "L'agent responsable du nodule de l'Orf est le virus de l'Orf, de genre Parapoxvirus appartenant à la famille des Poxviridae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus de l'Orf?",
+        "response": "Les principaux symptômes de l'infection à virus de l'Orf ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale différence clinique entre le monkeypox et la variole?",
+        "response": "La principale différence clinique entre le monkeypox et la variole est la fréquence des adénopathies cervicales dans le monkeypox, qui peuvent déformer le bas du visage.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les genres de Poxviridae qui touchent l'homme?",
+        "response": "Les genres de Poxviridae qui touchent l'homme sont les orthopoxvirus, les parapoxvirus, les molluscipoxvirus et les yatapoxvirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus monkeypox?",
+        "response": "Les principaux réservoirs du virus monkeypox sont les petits mammifères (rongeurs).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du virus monkeypox?",
+        "response": "La durée d'incubation du virus monkeypox est de 4 à 24 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de l'infection à virus monkeypox?",
+        "response": "Les symptômes initiaux de l'infection à virus monkeypox sont la fièvre, les céphalées, les myalgies, les douleurs dorsales et une grande asthénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications possibles de l'infection à virus monkeypox?",
+        "response": "Les complications possibles de l'infection à virus monkeypox sont la surinfection de lésions cutanées, les atteintes respiratoires, digestives, ophtalmologiques et neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la transmission du virus monkeypox?",
+        "response": "La transmission du virus monkeypox se fait par contact direct avec des animaux infectés ou par contact étroit avec les excrétions des voies respiratoires infectées, les lésions de la peau d’une personne infectée ou des objets contaminés récemment.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les infections à virus monkeypox?",
+        "response": "Le traitement recommandé pour les infections à virus monkeypox est essentiellement symptomatique, incluant la réhydratation et la prévention des surinfections cutanées. Le cidofovir intra-veineux peut être utilisé pour les formes graves.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mortalité associée aux infections à virus monkeypox?",
+        "response": "La mortalité associée aux infections à virus monkeypox varie de 1,5 à 17 % en fonction des épidémies et de l’accès aux soins.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus monkeypox?",
+        "response": "Les principaux symptômes de l'infection à virus monkeypox sont la fièvre, les céphalées, les myalgies, les douleurs dorsales, une grande asthénie, des adénopathies cervicales, une toux, une diarrhée, et une éruption varioliforme typique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'infection à virus monkeypox?",
+        "response": "Le diagnostic de l'infection à virus monkeypox se fait principalement sur des bases cliniques et épidémiologiques, et peut être confirmé par l’isolement du virus ou la détection par PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la durée de l'infection à virus monkeypox?",
+        "response": "La durée de l'infection à virus monkeypox est de 2 à 4 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux hôtes du virus de l'Orf?",
+        "response": "Les principaux hôtes du virus de l'Orf sont les ovins, notamment les agneaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la distribution géographique du virus de l'Orf?",
+        "response": "La distribution géographique du virus de l'Orf est mondiale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'agent responsable du nodule de l'Orf?",
+        "response": "L'agent responsable du nodule de l'Orf est le virus de l'Orf, de genre Parapoxvirus appartenant à la famille des Poxviridae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus de l'Orf?",
+        "response": "Les principaux symptômes de l'infection à virus de l'Orf ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le cycle de réplication du virus de l'Orf?",
+        "answer": "Le cycle de réplication du virus de l'Orf entraîne un effet cytopathogène qui se caractérise par un arrondissement des cellules, des fusions cellulaires et des inclusions éosinophiles intracytoplasmiques caractéristiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l'Orf?",
+        "answer": "Après une incubation de 5 à 7 jours, apparaissent une à 5 papules rouges ou bleutées, localisées le plus souvent aux doigts des mains ou aux avant-bras, plus rarement au visage. Celles-ci augmentent progressivement de taille jusqu’à 2-3 cm, puis l’évolution se fait vers une lésion pustuleuse, hémorragique, puis crouteuse, avec un pourtour violacé ou blanchâtre. La cicatrisation est obtenue en 3 à 6 semaines sans cicatrice.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'Orf?",
+        "answer": "Le diagnostic de l'Orf est essentiellement clinique : notion de contact avec un animal infecté, lésion caractéristique. Le diagnostic différentiel principal est le nodule du trayeur, lié au pseudocowpoxvirus, acquis au contact de bovins malades. L’examen du contenu d’une croûte en microscopie électronique permet, si elle est disponible, de confirmer le diagnostic. Les cas d’Orf sont confirmés sur la base de l’isolement du virus ou de la détection du virus par PCR à partir d’un spécimen clinique (biopsie de la peau ou écouvillons).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'Orf?",
+        "answer": "Il n’existe pas de traitement spécifique facilement accessible. Le traitement repose sur la prévention des surinfections cutanées. Le traitement est symptomatique et permet principalement d’éviter les surinfections bactériennes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir l'infection par le virus de l'Orf?",
+        "answer": "La prévention repose sur la vaccination des ovins. L’infection n’est que partiellement immunisante chez l’homme, des recontaminations étant possibles.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la répartition géographique du molluscum contagiosum?",
+        "answer": "La répartition du molluscum contagiosum est ubiquitaire, avec une prévalence plus élevée en zone tropicale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet le molluscum contagiosum?",
+        "answer": "La transmission du molluscum contagiosum est soit interhumaine directe au contact des lésions (transmission cutanée ou par voie sexuelle), soit indirecte par l’intermédiaire d’objets contaminés. La présence d’une plaie peut favoriser la transmission du virus, mais celle-ci peut également survenir sur une peau apparemment saine. L’auto-inoculation du virus est possible.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques du molluscum contagiosum?",
+        "answer": "Après une période d’incubation allant de 2 semaines à 6 mois (1 mois en moyenne), l’éruption cutanée se présente sous la forme de petites vésicules perlées, brillantes, ombiliquées, de 1 à 5 mm de diamètre, plus rarement centimétriques. La pression de leur centre fait sourdre une matière blanchâtre caractéristique. Les lésions sont multiples (une vingtaine), leur topographie dépend du mode d’inoculation (prédominant au tronc, aux membres inférieurs et au visage chez l’enfant ; ano-génitale en cas de transmission sexuelle).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic du molluscum contagiosum?",
+        "answer": "Le diagnostic du molluscum contagiosum est essentiellement clinique. Dans les cas difficiles, l’examen microscopique du matériel blanchâtre contenu dans les papules montre les inclusions caractéristiques. Les principaux diagnostics différentiels sont les atteintes cutanées dues à la bilharziose chez l'enfant, à la talaromycose, à la cryptococcose et à l'histoplasmose chez l'immunodéprimé. Les cas de MCV sont confirmés sur la base de la détection du virus par PCR à partir d’un spécimen clinique (écouvillons).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement du molluscum contagiosum?",
+        "answer": "Le traitement du molluscum contagiosum, pas toujours nécessaire, fait appel au curetage et à l’application d’azote liquide. Chez l’immunodéprimé, les molluscum contagiosum peuvent être réfractaires au traitement. Afin de prévenir la transmission, les sujets atteints doivent éviter de partager leur linge de toilette jusqu’à la disparition des lésions.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la répartition géographique des infections humaines à tanapoxvirus?",
+        "answer": "Les infections humaines à tanapoxvirus sont rares, décrites en Afrique Centrale (Kenya, Congo, Tanzanie notamment). Des épidémies sont possibles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet le tanapoxvirus?",
+        "answer": "Les primates constitueraient le réservoir de virus, la transmission serait assurée par un moustique vecteur (hypothèse corroborée par des épidémies de tanapoxvirus après de fortes pluies).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l'infection à tanapoxvirus?",
+        "answer": "L’infection à tanapoxvirus est caractérisée par une fièvre de courte durée, suivie de l’apparition de quelques lésions cutanées (1 à 2, rarement jusqu’à 10) prurigineuses et indurées prédominant aux extrémités. Les papules deviennent nécrotiques, persistent plusieurs semaines et disparaissent en laissant une cicatrice. Une lymphadénopathie est fréquente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'infection à tanapoxvirus?",
+        "answer": "Le diagnostic de l'infection à tanapoxvirus est épidémiologique et clinique : fièvre peu élevée, éruption varioliforme faite de quelques lésions prédominant aux extrémités. La détection de l’ADN du tanapoxvirus dans les lésions cutanées est possible.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'infection à tanapoxvirus?",
+        "answer": "Il n’existe pas de traitement spécifique pour l'infection à tanapoxvirus. La prévention de la surinfection cutanée est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est l'agent responsable du molluscum contagiosum?",
+        "answer": "L'agent responsable du molluscum contagiosum est le virus du molluscum contagiosum (MCV), un volumineux virus à ADN de genre Molluscipoxvirus de la famille des Poxviridae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à tanapoxvirus?",
+        "answer": "L'agent responsable de l'infection à tanapoxvirus est le tanapoxvirus, un virus à ADN de la famille des Poxviridae de genre Yatapoxvirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les terrains favorisant l'infection par le molluscum contagiosum?",
+        "answer": "Le molluscum contagiosum concerne principalement les enfants et les jeunes adultes. L’infection est plus fréquente chez les sujets atteints de dermatite atopique ou traités par dermocorticoïdes. Des formes profuses sont décrites chez les sujets immunodéprimés, notamment infectés par le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la physiopathologie du molluscum contagiosum?",
+        "answer": "Le MCV est responsable de tumeurs épidermiques dans lesquelles la réplication virale est limitée au cytoplasme des kératinocytes. La réaction inflammatoire autour des lésions est limitée. L’immunodépression à médiation cellulaire favorise la persistance du MCV.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la physiopathologie du tanapoxvirus?",
+        "answer": "Le tanapoxvirus est un grand virus à ADN enveloppé. Comme pour les autres poxvirus, la nucléocapside est le siège de nombreuses activités enzymatiques, permettant au virus de se développer dans le cytoplasme de l’hôte. Le cycle de réplication entraîne un effet cytopathogène qui se caractérise par un arrondissement des cellules, des fusions cellulaires et des inclusions éosinophiles intracytoplasmiques caractéristiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la mortalité associée au molluscum contagiosum?",
+        "answer": "La mortalité associée au molluscum contagiosum est nulle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la mortalité associée à l'infection par le tanapoxvirus?",
+        "answer": "La mortalité associée à l'infection par le tanapoxvirus est nulle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la période d'incubation du molluscum contagiosum?",
+        "answer": "La période d’incubation du molluscum contagiosum va de 2 semaines à 6 mois (1 mois en moyenne).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de guérison du molluscum contagiosum chez l'immunocompétent?",
+        "answer": "Le molluscum contagiosum guérit en 2 à 3 mois chez l’immunocompétent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de guérison du molluscum contagiosum chez l'immunodéprimé?",
+        "answer": "Le molluscum contagiosum peut persister 3 à 5 ans chez l’immunodéprimé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux diagnostics différentiels du molluscum contagiosum?",
+        "answer": "Les principaux diagnostics différentiels du molluscum contagiosum sont les atteintes cutanées dues à la bilharziose chez l'enfant, à la talaromycose, à la cryptococcose et à l'histoplasmose chez l'immunodéprimé.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques des formes profuses de molluscum contagiosum chez l'immunodéprimé?",
+        "answer": "Chez l’immunodéprimé, les lésions de molluscum contagiosum sont volontiers florides à pseudotumorales, persistantes et diffuses, avec atteinte de la face.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques des formes atypiques ou géantes de l'Orf chez l'immunodéprimé?",
+        "answer": "Des formes atypiques ou géantes de l'Orf sont possibles chez l’immunodéprimé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le réservoir du virus du molluscum contagiosum?",
+        "answer": "Le réservoir du virus du molluscum contagiosum est quasi exclusivement humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le réservoir du tanapoxvirus?",
+        "answer": "Les primates constitueraient le réservoir de tanapoxvirus.",
+        "qtype": "épidémiologie"
+    }
+]

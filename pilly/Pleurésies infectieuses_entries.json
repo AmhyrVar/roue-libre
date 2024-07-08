@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les signes respiratoires d'une pleurésie infectieuse?",
+        "answer": "Les signes respiratoires sont au premier plan : toux sèche, pénible, souvent liée à la position; dyspnée, souvent liée à l’importance de l’épanchement, à l’altération de la fonction respiratoire sous-jacente ou parfois à la douleur occasionnée; douleur thoracique, souvent intense, qui traduit l’inflammation locale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment l'examen clinique permet-il de diagnostiquer une pleurésie?",
+        "answer": "L'examen clinique permet de faire le diagnostic lorsqu’il montre une matité déclive à la percussion thoracique, à l’auscultation, le murmure vésiculaire et les vibrations vocales sont abolis dans la même zone; un souffle pleurétique peut être perçu à la limite supérieure. Lorsque l’épanchement est peu abondant, la perception d’un frottement témoigne de l’inflammation des 2 feuillets de la plèvre.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques d'une radiographie pour une pleurésie en plèvre libre?",
+        "answer": "La pleurésie en plèvre libre est affirmée sur la mise en évidence d’une opacité à concavité supérieure qui comble le cul-de-sac pleural (ligne de Damoiseau); le niveau liquide se déplace en fonction de la position.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments recherchés lors de l'interrogatoire pour une pleurésie infectieuse?",
+        "answer": "On recherche la notion d’un épisode fébrile aigu récent, accompagné éventuellement de signes respiratoires aigus; d’une toux persistante, d’une fièvre chronique, de sueurs nocturnes, d’une anorexie et/ou d’un amaigrissement; d’antécédents propices au développement d’une pleurésie; d’une possible contamination.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de liquides pleuraux identifiés par la ponction pleurale?",
+        "answer": "Les types de liquides pleuraux identifiés par la ponction pleurale sont les liquides clairs, transsudatifs (Rivalta -); les pleurésies sérofibrineuses (Rivalta +); les pleurésies purulentes; les liquides franchement hémorragiques (hémothorax); les liquides chyleux (chylothorax).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères biochimiques pour distinguer les transsudats des exsudats dans le liquide pleural?",
+        "answer": "Les transsudats ont < 25 g/L de protéines, < 1 000 cellules/µL. Les exsudats ont > 35 g/L de protéines, > 1 000 cellules/µL. En zone grise, entre 25 et 35 g/L, l’élévation des LDH pleuraux permet d’orienter vers un exsudat.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie tuberculeuse?",
+        "answer": "Le liquide est clair, exsudatif (Rivalta +) mais modérément inflammatoire (quantité de protéines peu élevée, leucocytes < 2 000 en majorité lympho-monocytaires). La recherche de bacilles acido-alcoolo-résistants et la culture sur Loewenstein-Jensen/Coletsos sont le plus souvent négatives. La mise en évidence de signes de tuberculose évolutive est susceptible de donner des arguments en faveur de ce diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents responsables des pleurésies infectieuses?",
+        "answer": "Les agents des pleurésies infectieuses sont cosmopolites en dehors de la mélioïdose, des parasitoses pleuro-pulmonaires et de certaines mycoses profondes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes radiographiques d'une pleurésie cloisonnée?",
+        "answer": "Les épanchements cloisonnés, les pleurésies suspendues, les tumeurs pleurales ou même un simple épaississement des feuillets peuvent être identifiées à l’examen radiologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes échographiques d'une pleurésie?",
+        "answer": "L'échographie confirme l’épanchement. Elle est particulièrement utile pour le localiser (notamment dans les pleurésies cloisonnées ou suspendues), en définir les caractéristiques ultrasonores et guider la ponction.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les avantages du scanner dans le diagnostic des pleurésies?",
+        "answer": "Le scanner permet de préciser la topographie des petits épanchements, de différencier les abcès pulmonaires des empyèmes pleuraux et surtout de visualiser les anomalies du parenchyme pulmonaire masquées par la pleurésie sur les clichés radiographiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les mécanismes de survenue d'une pleurésie infectieuse?",
+        "answer": "Les mécanismes de survenue d’une pleurésie infectieuse incluent plaie ou tumeur pariétale thoracique, nodule onchocercien; pneumonie localisée ou infiltrat diffus; collection, cavité ou tumeur broncho-pulmonaire; adénopathies ou tumeur médiastinale, lésions péricardiques; atteinte diaphragmatique souvent associée à une pathologie sous-diaphragmatique; pathologie bucco-dentaire ou pharyngée; infection ORL ou des voies aériennes supérieures; sepsis; troubles de déglutition; une pathologie générale comme cancer, lymphome ou hémopathie, immunodépression (SIDA).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de l'analyse cytologique du liquide pleural?",
+        "answer": "L’analyse cytologique permet parfois d’affiner l’étiologie : polynucléaires neutrophiles dans les infections à bactéries pyogènes, polynucléaires éosinophiles dans les parasitoses thoraciques, lymphocytes dans les tuberculoses, les cancers ou les hémopathies, chylothorax, cellules tumorales.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de l'analyse microbiologique du liquide pleural?",
+        "answer": "L’analyse microbiologique à l’examen direct permet d’identifier les bactéries mais aussi parfois des éléments parasitaires (microfilaires, scolex de kyste hydatique, oeufs de Paragonimus sp…). La culture bactérienne est effectuée idéalement sur des flacons d’hémocultures ensemencés avec du liquide pleural au lit du patient, et à partir du liquide pleural envoyé au laboratoire. Elle utilise des milieux standards et des milieux spécifiques comme le milieu de Loewenstein-Jensen pour le bacille de Koch.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de la biopsie pleurale?",
+        "answer": "La biopsie pleurale permet un examen histologique utile au diagnostic de l’origine infectieuse (tuberculose) ou tumorale de la pleurésie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie purulente?",
+        "answer": "Les pleurésies purulentes évoquent une infection à pyogènes (streptocoques, staphylocoques) à anaérobies (Prevotella, Fusobacterium, Bacteroides,...).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'un liquide pleural franchement hémorragique?",
+        "answer": "Les liquides franchement hémorragiques (hémothorax), qui en l’absence de traumatisme évoquent un cancer pleural.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'un liquide pleural chyleux?",
+        "answer": "Les liquides chyleux (chylothorax) évoquent une obstruction lymphatique (par exemple dans les filarioses lymphatiques) ou une plaie du canal thoracique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie sérofibrineuse?",
+        "answer": "Les pleurésies sérofibrineuses (Rivalta +), témoignent d’une inflammation (tuberculose, infection subaiguë, maladie inflammatoire, cancer…), parfois légèrement hémorragiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie exsudative?",
+        "answer": "L'épanchement pleural exsudatif se caractérise par un liquide clair, Rivalta +, riche en cellules, témoignant d’une inflammation.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie tuberculeuse?",
+        "answer": "Le liquide est clair, exsudatif (Rivalta +) mais modérément inflammatoire (quantité de protéines peu élevée, leucocytes < 2 000 en majorité lympho-monocytaires). La recherche de bacilles acido-alcoolo-résistants et la culture sur Loewenstein-Jensen/Coletsos sont le plus souvent négatives.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à pyogènes?",
+        "answer": "Les pleurésies purulentes évoquent une infection à pyogènes (streptocoques, staphylocoques) à anaérobies (Prevotella, Fusobacterium, Bacteroides,...).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à anaérobies?",
+        "answer": "Les pleurésies purulentes évoquent une infection à anaérobies (Prevotella, Fusobacterium, Bacteroides,...).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à streptocoques?",
+        "answer": "Les pleurésies purulentes évoquent une infection à streptocoques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à staphylocoques?",
+        "answer": "Les pleurésies purulentes évoquent une infection à staphylocoques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à Prevotella?",
+        "answer": "Les pleurésies purulentes évoquent une infection à Prevotella.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à Fusobacterium?",
+        "answer": "Les pleurésies purulentes évoquent une infection à Fusobacterium.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à Bacteroides?",
+        "answer": "Les pleurésies purulentes évoquent une infection à Bacteroides.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à microfilaires?",
+        "answer": "L’analyse microbiologique à l’examen direct permet parfois d’identifier des éléments parasitaires comme les microfilaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à scolex de kyste hydatique?",
+        "answer": "L’analyse microbiologique à l’examen direct permet parfois d’identifier des éléments parasitaires comme le scolex de kyste hydatique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une pleurésie infectieuse à oeufs de Paragonimus sp?",
+        "answer": "L’analyse microbiologique à l’examen direct permet parfois d’identifier des éléments parasitaires comme les oeufs de Paragonimus sp.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes courants de la tuberculose commune?",
+        "answer": "Fièvre, sueurs, toux chronique nocturnes, amaigrissement progressif.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment peut-on confirmer une tuberculose?",
+        "answer": "La confirmation sera obtenue par la mise en évidence de granulomes spécifiques à l’examen histologique d’une ou de plusieurs biopsies pleurales ou de la biopsie d’un autre organe et/ou par la détection de bacilles tuberculeux dans l’expectoration (ou un autre prélèvement).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel traitement est recommandé après la confirmation de la tuberculose?",
+        "answer": "Un traitement anti-tuberculeux sera mis en route suivant les recommandations en vigueur dans le pays, accompagné de ponctions évacuatrices si nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce qu'un épanchement pleural parapneumonique non-compliqué?",
+        "answer": "C'est un épanchement pleural inflammatoire mais non infecté (examen direct et culture négatifs).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pneumonie franche lobaire aigue?",
+        "answer": "Douleur et gêne respiratoire, parfois une fièvre persistante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels agents pathogènes sont souvent associés aux abcès bactériens pulmonaires?",
+        "answer": "Les abcès bactériens pulmonaires sont souvent associés à des agents fongiques, des bactéries à développement intracellulaire, ou des virus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la cause fréquente des pleurésies dans le Sud-Est asiatique?",
+        "answer": "La mélioïdose, qui est fréquemment pulmonaire et associée à des abcès pulmonaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels parasites peuvent causer une pleurésie séro-fibrineuse riche en éosinophiles?",
+        "answer": "Onchocercose, douve (paragonimose), pentastomose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types de pathologies cancéreuses peuvent être révélées par une pleurésie séro-fibrineuse?",
+        "answer": "Mésothéliome, tumeur pleurale secondaire, cancer pulmonaire primitif ou secondaire, lymphome.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'aspect caractéristique du liquide dans une pleurésie purulente?",
+        "answer": "Le liquide est souvent caractéristique : 'pus franc' ; parfois il s’agit d’un liquide seulement louche où l’examen microscopique va mettre en évidence de nombreux polynucléaires altérés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels agents bactériens sont souvent identifiés dans les pleurésies purulentes?",
+        "answer": "Les agents bactériens sont souvent des anaérobies (Prevotella sp., Peptococcus sp., Peptostreptococcus sp.) et les streptocoques du complexe milleri (S. anginosus, S. constellatus, S. intermedius).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les pleurésies purulentes?",
+        "answer": "Une antibiothérapie active sur la plupart des bactéries anaérobies : amoxicilline-acide clavulanique, association bétalactamine et nitro-imidazolés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes majoritaires dans les abcès sous-phréniques?",
+        "answer": "Les agents pathogènes sont majoritairement d’origine digestive (entérobactéries, Bacteroïdes sp., Clostridium sp.).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement complémentaire pour les pleurésies purulentes?",
+        "answer": "Le drainage est indiqué lorsque la pleurésie est purulente, lorsque son volume ne régresse pas ou bien augmente sous traitement antibiotique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleuro-pneumopathie à pneumocoque?",
+        "answer": "Suppuration pulmonaire étendue à la plèvre, conséquence d’un abcès distal ou d’un infarcissement segmentaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels agents bactériens sont souvent identifiés chez les patients souffrant de bronchopathie chronique?",
+        "answer": "Pneumocoque, Haemophilus sp., Klebsiella sp., Pseudomonas sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie purulente?",
+        "answer": "Douleur thoracique, fièvre, toux productive, dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents bactériens fréquents dans les pleurésies purulentes?",
+        "answer": "Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, Streptococcus milleri.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'un épanchement pleural parapneumonique non-compliqué?",
+        "answer": "Douleur thoracique, gêne respiratoire, parfois fièvre persistante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes fréquents dans les abcès bactériens pulmonaires?",
+        "answer": "Les abcès bactériens pulmonaires sont souvent associés à des agents fongiques, des bactéries à développement intracellulaire, ou des virus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie séro-fibrineuse riche en éosinophiles?",
+        "answer": "Douleur thoracique, toux, dyspnée, fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes fréquents dans les pleurésies purulentes?",
+        "answer": "Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, Streptococcus milleri.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie purulente?",
+        "answer": "Douleur thoracique, fièvre, toux productive, dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes fréquents dans les abcès bactériens pulmonaires?",
+        "answer": "Les abcès bactériens pulmonaires sont souvent associés à des agents fongiques, des bactéries à développement intracellulaire, ou des virus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie séro-fibrineuse riche en éosinophiles?",
+        "answer": "Douleur thoracique, toux, dyspnée, fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes fréquents dans les pleurésies purulentes?",
+        "answer": "Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, Streptococcus milleri.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie purulente?",
+        "answer": "Douleur thoracique, fièvre, toux productive, dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes fréquents dans les abcès bactériens pulmonaires?",
+        "answer": "Les abcès bactériens pulmonaires sont souvent associés à des agents fongiques, des bactéries à développement intracellulaire, ou des virus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie séro-fibrineuse riche en éosinophiles?",
+        "answer": "Douleur thoracique, toux, dyspnée, fièvre.",
+        "qtype": "symptômes"
+    }
+]

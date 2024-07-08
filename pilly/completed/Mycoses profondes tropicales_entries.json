@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle est la principale porte d'entrée de l'infection par l'histoplasmose?",
+    "answer": "La principale porte d'entrée de l'infection est respiratoire par inhalation de microconidies.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les facteurs de risque pour l'histoplasmose disséminée?",
+    "answer": "Les facteurs de risque incluent l'infection par le VIH, la transplantation d'organes, les hémopathies malignes lymphoïdes, la corticothérapie et les anti-TNF-α, ainsi que le déficit en récepteur IFN-γ/le syndrome hyper Ig-M.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose pulmonaire aiguë?",
+    "answer": "Les symptômes incluent toux, fièvre, frissons, dyspnée, douleurs thoraciques, parfois associées à des arthralgies, un érythème noueux, un érythème polymorphe ou une péricardite.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Comment se manifeste l'histoplasmose pulmonaire cavitaire chronique?",
+    "answer": "Elle se manifeste par une aggravation de la dyspnée, de la fièvre, de la toux, une perte de poids, des sueurs nocturnes, des douleurs thoraciques voire des hémoptysies.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'histoplasmose disséminée aiguë?",
+    "answer": "Les signes cliniques incluent fièvre, altération de l'état général, pneumopathie interstitielle diffuse, ulcérations muqueuses, nodules cutanés, hépato-splénomégalie, polyadénopathies cervicales, insuffisance surrénalienne, méningo-encéphalite, parfois tableau de choc, pancytopénie et syndrome d'activation macrophagique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose disséminée?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'hémoculture/leucoconcentration, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'histoplasmose pulmonaire aiguë modérément sévère ou sévère?",
+    "answer": "Le traitement recommandé est l'itraconazole 200-400 mg/j pendant 2 mois.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quel est le traitement de l'histoplasmose disséminée?",
+    "answer": "Le traitement de l'histoplasmose disséminée inclut l'amphotéricine B IV 0,7 - 1 mg/kg/j ou l'amphotéricine B liposomale 3 mg/kg/j pendant 10-15 jours, suivi d'un relais oral par itraconazole 200 mg x 2/j pendant 3-6 mois +/- corticoïdes.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine (var. duboisii)?",
+    "answer": "Les symptômes incluent des papules ou nodules bruns ombiliqués au niveau de la face et du tronc, des abcès froids pseudo-tuberculeux et des lacunes à l'emporte-pièce principalement au niveau des côtes, des vertèbres et du crâne, ainsi que des adénopathies périphériques indolores, fermes et volumineuses.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose pulmonaire aiguë?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose pulmonaire chronique?",
+    "answer": "Les symptômes incluent une aggravation de la dyspnée, de la fièvre, de la toux, une perte de poids, des sueurs nocturnes, des douleurs thoraciques voire des hémoptysies.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les facteurs de mauvais pronostic pour l'histoplasmose disséminée?",
+    "answer": "Les facteurs de mauvais pronostic incluent une albuminémie < 35 g/l et l'élévation de la créatinine.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose disséminée subaiguë?",
+    "answer": "Les symptômes incluent hépato-splénomégalie et ulcères pharyngés, avec des atteintes focales possibles du tube digestif, du système nerveux central, de l'endocarde et des surrénales.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose disséminée chronique?",
+    "answer": "Les symptômes incluent une fièvre présente dans < 30 % des cas et des ulcères oro-pharyngés dans 50 % des cas, sans atteinte d'organe à ce stade.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine chez l'immunodéprimé?",
+    "answer": "Les symptômes incluent des papules ou nodules bruns ombiliqués au niveau de la face et du tronc, des abcès froids pseudo-tuberculeux et des lacunes à l'emporte-pièce principalement au niveau des côtes, des vertèbres et du crâne, ainsi que des adénopathies périphériques indolores, fermes et volumineuses.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose africaine?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine chez l'immunocompétent?",
+    "answer": "Les symptômes incluent des lésions localisées au niveau pulmonaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose disséminée chez l'immunodéprimé?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'hémoculture/leucoconcentration, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose pulmonaire aiguë chez l'immunodéprimé?",
+    "answer": "Les symptômes incluent des formes fulminantes avec miliaire et insuffisance respiratoire aiguë.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose pulmonaire chronique?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose pulmonaire aiguë chez les âges extrêmes?",
+    "answer": "Les symptômes incluent des formes fulminantes avec miliaire et insuffisance respiratoire aiguë.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose africaine chez l'immunodéprimé?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine chez l'immunocompétent?",
+    "answer": "Les symptômes incluent des lésions localisées au niveau pulmonaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose africaine chez l'immunodéprimé?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine chez l'immunocompétent?",
+    "answer": "Les symptômes incluent des lésions localisées au niveau pulmonaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose africaine chez l'immunodéprimé?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine chez l'immunocompétent?",
+    "answer": "Les symptômes incluent des lésions localisées au niveau pulmonaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux moyens diagnostiques pour l'histoplasmose africaine chez l'immunodéprimé?",
+    "answer": "Les principaux moyens diagnostiques incluent l'examen direct, la culture, l'histopathologie, la sérologie (anticorps) et la détection d'antigène.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de l'histoplasmose africaine chez l'immunocompétent?",
+    "answer": "Les symptômes incluent des lésions localisées au niveau pulmonaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques de la talaromycose?",
+    "answer": "Les signes cliniques de la talaromycose incluent la fièvre, l'altération de l'état général, l'anémie, les lésions cutanées, l'hépatosplénomégalie, les adénopathies, la toux, la diarrhée, et des manifestations plus rares comme la confusion, la méningite, les ulcères buccaux et génitaux, l'ostéo-arthrite, et le syndrome d'activation macrophagique.",
+    "qtype": "symptômes"
+  }
+]

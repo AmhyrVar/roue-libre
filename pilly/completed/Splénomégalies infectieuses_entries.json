@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que la splénomégalie?",
+        "response": "La splénomégalie est une augmentation anormale de la taille de la rate. Elle est souvent indolore mais peut entraîner des signes de troubles fonctionnels tels qu'une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale ou une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale cause de splénomégalie dans les pays tropicaux?",
+        "response": "La principale cause de splénomégalie dans les pays tropicaux est le paludisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment mesure-t-on la taille de la rate?",
+        "response": "La taille de la rate peut être mesurée en mesurant la hauteur splénique en centimètres entre la palpation abdominale en inspiration profonde et la percussion costale, en mesurant son débordement costal en travers de doigt ou en centimètres, ou selon la classification de Hackett.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Qu'est-ce que la classification de Hackett?",
+        "response": "La classification de Hackett est une méthode clinique pour évaluer la splénomégalie. Elle va de 0 (rate non palpable) à 5 (rate descendant en dessous de la ligne horizontale passant à égale distance entre l'ombilic et la symphyse pubienne).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens permettent d'identifier les principales étiologies des splénomégalies?",
+        "response": "Des examens biologiques et morphologiques simples, tels que la radiographie, l'échographie, la tomodensitométrie ou l'IRM, permettent d'identifier les principales étiologies des splénomégalies. En dernier recours, le myélogramme, la biopsie du foie voire la ponction splénique peuvent être utilisés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à la splénomégalie?",
+        "response": "Les signes cliniques associés à la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche augmentée à l'inspiration profonde et irradiant vers l'épaule gauche, une gêne post-prandiale ou une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la différence de poids moyen de la rate entre les pays du Nord et les pays tropicaux?",
+        "response": "Le poids moyen de la rate chez l'adulte dans les pays du Nord est de 150 à 200 g, tandis qu'il dépasse 300 g dans les pays tropicaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les examens morphologiques systématiques pour la splénomégalie?",
+        "response": "L'échographie est l'examen morphologique systématique pour la splénomégalie. Elle peut être complétée par la tomodensitométrie ou l'IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques associés à la ponction splénique?",
+        "response": "La ponction splénique comporte un risque de rupture par déchirure de la capsule splénique, qui est fragile.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les causes principales de splénomégalie dans les pays tropicaux?",
+        "response": "La principale cause de splénomégalie dans les pays tropicaux est le paludisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la splénomégalie?",
+        "response": "Les signes fonctionnels de la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale et une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens peuvent compléter l'échographie pour le diagnostic de splénomégalie?",
+        "response": "La tomodensitométrie ou l'IRM peuvent compléter l'échographie pour le diagnostic de splénomégalie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la position de la rate dans le corps?",
+        "response": "La rate est située dans l'hypochondre gauche, en position thoracoabdominale, en regard de la dixième côte.",
+        "qtype": "anatomie"
+    },
+    {
+        "question": "Quels sont les examens biologiques utilisés pour identifier les syndromes de splénomégalie?",
+        "response": "Des examens biologiques simples permettent d'identifier les principaux syndromes de splénomégalie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'hypertension portale observables à l'échographie?",
+        "response": "Les signes d'hypertension portale observables à l'échographie incluent des modifications de la taille de la rate, la consistance du parenchyme et l'aspect du foie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la splénomégalie?",
+        "response": "Les symptômes de la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale et une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de mesure de la taille de la rate selon Hackett?",
+        "response": "La méthode de mesure de la taille de la rate selon Hackett consiste à évaluer la palpabilité de la rate en fonction de sa descente par rapport à des lignes horizontales spécifiques sur l'abdomen.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens morphologiques utilisés pour diagnostiquer la splénomégalie?",
+        "response": "Les examens morphologiques utilisés pour diagnostiquer la splénomégalie incluent la radiographie, l'échographie, la tomodensitométrie et l'IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de la biopsie du foie pour diagnostiquer la splénomégalie?",
+        "response": "La biopsie du foie comporte des risques, notamment la possibilité de rupture par déchirure de la capsule splénique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'hépatosplénomégalie?",
+        "response": "Les signes cliniques de l'hépatosplénomégalie incluent une augmentation de la taille du foie et de la rate, souvent associée à une pesanteur ou douleur de l'hypochondre gauche.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires à l'échographie pour la splénomégalie?",
+        "response": "Les examens complémentaires à l'échographie pour la splénomégalie incluent la tomodensitométrie et l'IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une rate palpable selon la classification de Hackett?",
+        "response": "Selon la classification de Hackett, une rate palpable en inspiration profonde est classée comme grade 1, tandis qu'une rate palpable en respiration normale est classée comme grade 2.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens utilisés pour visualiser les calcifications de la rate?",
+        "response": "La radiographie est utilisée pour visualiser les calcifications de la rate.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une splénomégalie indolore?",
+        "response": "Une splénomégalie indolore peut entraîner des signes de troubles fonctionnels tels qu'une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale ou une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens de dernier recours pour diagnostiquer la splénomégalie?",
+        "response": "Les examens de dernier recours pour diagnostiquer la splénomégalie incluent le myélogramme, la biopsie du foie et la ponction splénique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une rate palpable en respiration normale selon Hackett?",
+        "response": "Selon la classification de Hackett, une rate palpable en respiration normale, sur la ligne mamelonnaire gauche, ne dépassant pas une ligne horizontale passant à égale distance entre le rebord costal et l'ombilic, est classée comme grade 2.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une rate palpable en inspiration profonde selon Hackett?",
+        "response": "Selon la classification de Hackett, une rate palpable en inspiration profonde est classée comme grade 1.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une rate descendant en dessous de la ligne horizontale passant par l'ombilic selon Hackett?",
+        "response": "Selon la classification de Hackett, une rate descendant en dessous de la ligne horizontale passant par l'ombilic est classée comme grade 3.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une rate dépassant la ligne horizontale passant à égale distance entre l'ombilic et la symphyse pubienne selon Hackett?",
+        "response": "Selon la classification de Hackett, une rate dépassant la ligne horizontale passant à égale distance entre l'ombilic et la symphyse pubienne est classée comme grade 4.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales maladies infectieuses responsables d'une splénomégalie?",
+        "answer": "Les principales maladies infectieuses responsables d'une splénomégalie incluent les bactérioses (fièvre typhoïde, brucellose, borrelioses, bartonelloses, rickettsioses, leptospiroses, septicémies/endocardites, abcès à pyogènes, granulomatoses), les viroses (mononucléose infectieuse, cytomégalovirose, hépatites virales, rubéole, VIH, arboviroses), les parasitoses (paludisme, leishmaniose viscérale, bilharzioses, trypanosomoses, hydatidose, abcès amibien, toxoplasmose, babésioses, toxocarose), et les mycoses (histoplasmoses, blastomycoses, coccidioidomycoses).",
+        "qtype": "épidémiologie"
+    }
+]

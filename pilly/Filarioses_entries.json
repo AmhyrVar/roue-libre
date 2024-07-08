@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quelles sont les principales filarioses et leurs vecteurs?",
+        "answer": "Les principales filarioses sont l'onchocercose (vecteur: simulies), la loase (vecteur: Chrysops), et les filarioses lymphatiques (vecteurs: moustiques).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique de l'onchocercose?",
+        "answer": "L'onchocercose est présente en Afrique intertropicale, au nord du Brésil et au sud du Venezuela.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la loase?",
+        "answer": "Les symptômes de la loase incluent le passage du ver adulte sous la conjonctive de l’œil et l'apparition d’œdèmes transitoires dits 'de Calabar'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs des filarioses lymphatiques?",
+        "answer": "Les vecteurs des filarioses lymphatiques sont les moustiques (Anopheles, Culex, Aedes, Mansonia).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de vie des vers adultes de la loase?",
+        "answer": "Les vers adultes de la loase peuvent vivre 20 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onchocercose?",
+        "answer": "Les symptômes de l'onchocercose incluent des nodules sous-cutanés, des lésions cutanées (dermatite papulaire aiguë, dermatite papulaire chronique, dermatite lichénifiée, atrophie cutanée), et des lésions oculaires (kératites, irido-cyclite, choriorétinite, atrophie optique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet la dracunculose?",
+        "answer": "La dracunculose se transmet par l'ingestion d'eau contenant des crustacés (Cyclops) infectés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des filarioses lymphatiques?",
+        "answer": "Les symptômes des filarioses lymphatiques incluent des dermato-lymphangio-adénites, des lymphangites aiguës, des hydrocèles, des chylocèles, des chyluries, des lymphœdèmes chroniques, et des éléphantiasis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de l'onchocercose?",
+        "answer": "Le traitement de l'onchocercose inclut l'ivermectine en prise unique à la dose de 150 µg/kg, répétée tous les six mois ou tous les ans.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les vecteurs de la dracunculose?",
+        "answer": "Les vecteurs de la dracunculose sont des crustacés appelés Cyclops.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la dracunculose?",
+        "answer": "Les symptômes de la dracunculose incluent la perforation de la peau par le ver femelle adulte, souvent au niveau d’un membre inférieur, et la formation d'un micro-ulcère cutané chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la répartition géographique des filarioses lymphatiques?",
+        "answer": "Les filarioses lymphatiques sont présentes en Inde, en Asie du Sud-Est, en Afrique, en Haïti, au Guyana et dans les îles du Pacifique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la filariose lymphatique aiguë?",
+        "answer": "Les symptômes de la filariose lymphatique aiguë incluent une dermato-lymphangio-adénite d’un membre avec œdème douloureux, fièvre et frissons, et une lymphangite filarienne aiguë au niveau d’un membre ou du scrotum.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la filariose lymphatique chronique?",
+        "answer": "Les symptômes de la filariose lymphatique chronique incluent des hydrocèles, des chylocèles, des chyluries, des lymphœdèmes chroniques, et des éléphantiasis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se diagnostique l'onchocercose?",
+        "answer": "Le diagnostic de l'onchocercose repose sur la mise en évidence des microfilaires dans une biopsie cutanée exsangue prélevée au niveau des crêtes iliaques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se diagnostique la loase?",
+        "answer": "Le diagnostic de la loase repose sur la recherche de microfilaires avec gaine dans une goutte épaisse de sang prélevé entre 10 h et 16 h.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se diagnostiquent les filarioses lymphatiques?",
+        "answer": "Le diagnostic des filarioses lymphatiques repose sur la recherche des microfilaires avec gaine dans un échantillon de sang prélevé la nuit ou la détection d’antigènes filariens circulants à l’aide du test rapide sur carte ICT ou sur bandelette FTS.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onchocercose chez les expatriés?",
+        "answer": "Les expatriés infectés par l'onchocercose peuvent présenter un œdème inflammatoire d’un membre, associé à un prurit, appelé 'gros bras camerounais' ou 'congolais'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes oculaires de l'onchocercose?",
+        "answer": "Les symptômes oculaires de l'onchocercose incluent des kératites ponctuées, des kératites sclérosantes, des irido-cyclites, des altérations de l’épithélium pigmentaire de la choriorétine, et des atrophies optiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la loase chez les expatriés?",
+        "answer": "Les expatriés infectés par la loase peuvent présenter des œdèmes de Calabar, qui sont plus ou moins douloureux et surviennent sans circonstance particulière, surtout au niveau des avant-bras et des poignets.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du poumon éosinophile tropical?",
+        "answer": "Les symptômes du poumon éosinophile tropical incluent dyspnée, toux, atteinte de l’état général, hyperéosinophilie et, en général, absence de microfilaires sanguines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de la loase?",
+        "answer": "Le traitement de la loase inclut la mesure de la densité microfilarienne sanguine pour définir la stratégie thérapeutique, souvent avec des médicaments antifilariens.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements des filarioses lymphatiques?",
+        "answer": "Le traitement des filarioses lymphatiques inclut des médicaments antifilariens et des mesures pour gérer les symptômes aigus et chroniques, comme les infections cutanées secondaires et les lymphœdèmes.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la dracunculose?",
+        "answer": "Les symptômes de la dracunculose incluent la perforation de la peau par le ver femelle adulte, souvent au niveau d’un membre inférieur, et la formation d'un micro-ulcère cutané chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de vie des vers adultes de l'onchocercose?",
+        "answer": "Les vers adultes de l'onchocercose vivent 10-15 ans dans des nodules sous-cutanés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de vie des vers adultes des filarioses lymphatiques?",
+        "answer": "Les vers adultes des filarioses lymphatiques vivent en moyenne 5-8 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la filariose lymphatique aiguë?",
+        "answer": "Les symptômes de la filariose lymphatique aiguë incluent une dermato-lymphangio-adénite d’un membre avec œdème douloureux, fièvre et frissons, et une lymphangite filarienne aiguë au niveau d’un membre ou du scrotum.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la filariose lymphatique chronique?",
+        "answer": "Les symptômes de la filariose lymphatique chronique incluent des hydrocèles, des chylocèles, des chyluries, des lymphœdèmes chroniques, et des éléphantiasis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la loase?",
+        "answer": "Les symptômes de la loase incluent le passage du ver adulte sous la conjonctive de l’œil et l'apparition d’œdèmes transitoires dits 'de Calabar'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onchocercose?",
+        "answer": "Les symptômes de l'onchocercose incluent des nodules sous-cutanés, des lésions cutanées (dermatite papulaire aiguë, dermatite papulaire chronique, dermatite lichénifiée, atrophie cutanée), et des lésions oculaires (kératites, irido-cyclite, choriorétinite, atrophie optique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les nodules sous-cutanés dans l'onchocercose?",
+        "answer": "Les nodules sous-cutanés peuvent être extirpés chirurgicalement sous anesthésie locale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les médicaments utilisés pour traiter la loase?",
+        "answer": "Trois médicaments peuvent être utilisés pour traiter la loase : la diéthylcarbamazine (DEC), l’ivermectine et l’albendazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le risque associé au traitement par DEC ou ivermectine chez les sujets présentant une forte microfilarémie?",
+        "answer": "Il y a un risque de réactions graves (encéphalopathies parfois fatales) après traitement par DEC ou ivermectine chez les sujets présentant une forte microfilarémie.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quel traitement est recommandé si la charge de microfilaires est inférieure à 2 000 microfilaires par mL de sang?",
+        "answer": "On peut débuter d’emblée une cure de 3-4 semaines de DEC en commençant par de faibles doses (3 ou 6 mg par jour si des microfilaires sont trouvées dans le sang ou 50 mg par jour en cas d’amicrofilarémie), réparties en 2 ou 3 prises.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas d'échec du traitement par DEC malgré la répétition des cures?",
+        "answer": "Un traitement par albendazole (200 mg deux fois par jour pendant 21 jours) peut être utile.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé si la charge de microfilaires est comprise entre 2 000 et 8 000 microfilaires/mL?",
+        "answer": "Commencer par une dose d’ivermectine (150 µg/kg), répétée tous les 1-3 mois pour réduire la charge au maximum avant de débuter la cure de DEC.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé si la charge de microfilaires est comprise entre 8 000 et 30 000 microfilaires/mL?",
+        "answer": "On peut donner une dose d’ivermectine (150 µg/kg) mais le sujet doit être surveillé. Une autre possibilité est d’administrer une cure d’albendazole (200 mg deux fois par jour pendant 21 jours) qui réduira la microfilarémie de 60 % en six mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé si la charge de microfilaires dépasse 30 000 microfilaires/mL?",
+        "answer": "La meilleure option est probablement d’administrer une cure d’albendazole (200 mg deux fois par jour pendant 21 jours). L’extraction des microfilaires sanguines par aphérèse est aussi possible.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement standardisé des encéphalopathies à Loa post-ivermectine?",
+        "answer": "Il n’existe pas de traitement standardisé des encéphalopathies à Loa post-ivermectine. La prise en charge consiste à prévenir les complications de décubitus (escarres, infections pulmonaires, déshydratation) et les corticoïdes doivent être évités.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de masse recommandé pour les filarioses lymphatiques?",
+        "answer": "Les programmes de lutte contre les filarioses lymphatiques sont basés sur le traitement de masse des populations par des doses annuelles combinant soit l’ivermectine (200-400 µg/kg) et l’albendazole (400 mg), ou les trois médicaments combinés, soit la DEC (6 mg/kg) et l’albendazole (400 mg).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est l'effet d'un traitement par doxycycline sur les filaires lymphatiques?",
+        "answer": "Un traitement par doxycycline à la dose de 200 mg par jour pendant 4 semaines suivi, 3 mois après la fin de la cure, d’une prise unique de DEC (6 mg/kg), permet de tuer 90 % des W. bancrofti adultes.",
+        "qtype": "effet"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la filariose à B. malayi?",
+        "answer": "Un traitement par doxycycline à 100 mg par jour pendant 6 semaines, suivi par une prise combinée de DEC et d’albendazole, a été proposé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures d'hygiène sont recommandées pour la prévention des crises de dermato-lymphangio-adénite et le traitement du lymphœdème?",
+        "answer": "Les mesures d’hygiène recommandées sont le lavage au savon, l’élévation des membres inférieurs, l’utilisation d’antibiotiques et d’antifongiques locaux.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le traitement du poumon éosinophile tropical?",
+        "answer": "Le traitement du poumon éosinophile tropical repose sur la DEC (cure de 2-3 semaines à la dose de 6 mg/kg par jour).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement prophylactique proposé pour la loase?",
+        "answer": "Deux protocoles ont été proposés : des doses de 200 mg deux fois par jour, pendant trois jours de suite, à répéter tous les mois ou des doses uniques hebdomadaires de 300 mg.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le traitement prophylactique proposé pour W. bancrofti?",
+        "answer": "Des traitements mensuels par DEC à la dose de 500 mg par jour pendant deux jours de suite auraient un effet prophylactique sur W. bancrofti.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est l'objectif des programmes de lutte contre les filarioses lymphatiques?",
+        "answer": "L’objectif de ces programmes est de réduire et de maintenir pendant plusieurs années la microfilarémie des sujets infectés à un niveau très faible permettant une interruption de la transmission suivie de la disparition de tous les vers adultes.",
+        "qtype": "objectif"
+    },
+    {
+        "question": "Quel est l'effet des traitements de masse sur les signes cliniques des filarioses lymphatiques?",
+        "answer": "Ces traitements n’ont qu’un effet modéré sur les vers adultes et un effet négligeable sur les manifestations cliniques de la maladie.",
+        "qtype": "effet"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les hydrocèles et les éléphantiasis du scrotum?",
+        "answer": "Les hydrocèles et les éléphantiasis du scrotum peuvent être pris en charge chirurgicalement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas d'onchocercose associée?",
+        "answer": "En cas d’onchocercose associée, la DEC peut être remplacée par l’ivermectine (150 µg/kg).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de filariose à B. malayi?",
+        "answer": "Un traitement par doxycycline à 100 mg par jour pendant 6 semaines, suivi par une prise combinée de DEC et d’albendazole, a été proposé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de lymphœdème?",
+        "answer": "Un traitement par doxycycline à la dose de 200 mg par jour pendant 4 semaines suivi, 3 mois après la fin de la cure, d’une prise unique de DEC (6 mg/kg), permet de tuer 90 % des W. bancrofti adultes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de poumon éosinophile tropical?",
+        "answer": "Le traitement du poumon éosinophile tropical repose sur la DEC (cure de 2-3 semaines à la dose de 6 mg/kg par jour).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de crise de dermato-lymphangio-adénite?",
+        "answer": "La prévention des crises de dermato-lymphangio-adénite et le traitement du lymphœdème reposent sur les mesures d’hygiène : lavage au savon, élévation des membres inférieurs, utilisation d’antibiotiques et d’antifongiques locaux.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas d'échec du traitement par DEC?",
+        "answer": "En cas d’échec malgré la répétition des cures, un traitement par albendazole (200 mg deux fois par jour pendant 21 jours) peut être utile.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de charge de microfilaires supérieure à 30 000 microfilaires/mL?",
+        "answer": "La meilleure option est probablement d’administrer une cure d’albendazole (200 mg deux fois par jour pendant 21 jours).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de charge de microfilaires comprise entre 8 000 et 30 000 microfilaires/mL?",
+        "answer": "On peut donner une dose d’ivermectine (150 µg/kg) mais le sujet doit être surveillé. Une autre possibilité est d’administrer une cure d’albendazole (200 mg deux fois par jour pendant 21 jours) qui réduira la microfilarémie de 60 % en six mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de charge de microfilaires comprise entre 2 000 et 8 000 microfilaires/mL?",
+        "answer": "Commencer par une dose d’ivermectine (150 µg/kg), répétée tous les 1-3 mois pour réduire la charge au maximum avant de débuter la cure de DEC.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de charge de microfilaires inférieure à 2 000 microfilaires par mL de sang?",
+        "answer": "On peut débuter d’emblée une cure de 3-4 semaines de DEC en commençant par de faibles doses (3 ou 6 mg par jour si des microfilaires sont trouvées dans le sang ou 50 mg par jour en cas d’amicrofilarémie), réparties en 2 ou 3 prises.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les filarioses lymphatiques en cas de nodules sous-cutanés?",
+        "answer": "Les nodules sous-cutanés peuvent être extirpés chirurgicalement sous anesthésie locale.",
+        "qtype": "traitement"
+    }
+]

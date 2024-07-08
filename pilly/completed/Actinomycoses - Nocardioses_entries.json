@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les facteurs favorisants des actinomycoses?",
+    "answer": "Le diabète, la malnutrition et l’immunosuppression sont des facteurs favorisants des actinomycoses.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est l'espèce d'actinomycète la plus fréquente?",
+    "answer": "Actinomyces israelii est l’espèce de loin la plus fréquente.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les sites de développement des actinomycètes?",
+    "answer": "Les actinomycètes se développent dans les muqueuses de l’oro-pharynx, de l’arbre trachéo-bronchique, de l’intestin et du cæcum.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Comment se manifeste l'actinomycose cervico-faciale?",
+    "answer": "Elle se manifeste par un processus inflammatoire d’évolution progressive, d’aspect ligneux, infiltrant et de siège sous-mandibulaire, cervical ou facial.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose abdominale?",
+    "answer": "Les signes cliniques de l'actinomycose abdominale sont aspécifiques : douleurs abdominales, fièvre, trouble du transit ou masse perceptible.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelles sont les complications de l'actinomycose cervico-faciale?",
+    "answer": "Les complications sont les suivantes : ostéite mandibulaire, spondylite cervicale et extension cérébrale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment se fait la fistulisation dans l'actinomycose thoracique?",
+    "answer": "La fistulisation se fait à la peau ou dans un viscère creux.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose thoracique?",
+    "answer": "Les signes cliniques et radiologiques peuvent faire évoquer une néoplasie ou une tuberculose pulmonaire.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la localisation préférentielle de l'actinomycose abdominale?",
+    "answer": "La localisation préférentielle est iléo-cæcale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment se manifeste l'actinomycose pelvienne?",
+    "answer": "Le tableau clinique est celui d’une maladie inflammatoire pelvienne, d’un abcès pelvien ou encore d’une fibrose rétro-péritonéale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les éléments typiques observés à l'étude histologique des actinomycètes?",
+    "answer": "L’étude histologique montre typiquement des filaments palissadiques et des grains sulfure au sein d’un follicule actinomycosique peu vascularisé, siège d’une intense fibrose.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quelle est la durée de culture nécessaire pour les actinomycètes?",
+    "answer": "Le délai de pousse est de 2 à 3 semaines.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quel est le traitement de choix pour les actinomycoses?",
+    "answer": "L’amoxicilline (6-12 g/j IV) pendant 4-6 semaines, puis 3-6 g/j per os pendant au moins 3 mois, est le traitement de choix.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels antibiotiques peuvent être utilisés en cas d’intolérance aux pénicillines pour traiter les actinomycoses?",
+    "answer": "Les macrolides, la clindamycine, les synergistines et les cyclines et l’imipénème peuvent être utilisés en cas d’intolérance aux pénicillines.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels antibiotiques ne sont pas recommandés pour traiter les actinomycoses?",
+    "answer": "Le métronidazole, les fluoroquinolones, le cotrimoxazole et l’oxacilline ne sont pas recommandés.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quelle intervention chirurgicale peut être nécessaire pour éviter les récidives d'actinomycoses?",
+    "answer": "La mise à plat des foyers inflammatoires et la résection des trajets fistuleux est parfois nécessaire pour éviter les récidives.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les types d'actinomycètes mentionnés dans le document?",
+    "answer": "Les actinomycètes mentionnés sont Actinomyces israelii et les espèces du complexe Nocardia asteroides.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la différence entre les actinomycètes et les Nocardia en termes de résistance?",
+    "answer": "Les actinomycètes ne sont pas des bactéries acido-alcoolo-résistantes contrairement aux Nocardia.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose pelvienne?",
+    "answer": "Le tableau clinique est celui d’une maladie inflammatoire pelvienne, d’un abcès pelvien ou encore d’une fibrose rétro-péritonéale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose thoracique?",
+    "answer": "Les signes cliniques et radiologiques peuvent faire évoquer une néoplasie ou une tuberculose pulmonaire.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose abdominale?",
+    "answer": "Les signes cliniques de l'actinomycose abdominale sont aspécifiques : douleurs abdominales, fièvre, trouble du transit ou masse perceptible.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les facteurs favorisants des actinomycoses?",
+    "answer": "Le diabète, la malnutrition et l’immunosuppression sont des facteurs favorisants des actinomycoses.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est l'espèce d'actinomycète la plus fréquente?",
+    "answer": "Actinomyces israelii est l’espèce de loin la plus fréquente.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les sites de développement des actinomycètes?",
+    "answer": "Les actinomycètes se développent dans les muqueuses de l’oro-pharynx, de l’arbre trachéo-bronchique, de l’intestin et du cæcum.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Comment se manifeste l'actinomycose cervico-faciale?",
+    "answer": "Elle se manifeste par un processus inflammatoire d’évolution progressive, d’aspect ligneux, infiltrant et de siège sous-mandibulaire, cervical ou facial.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose abdominale?",
+    "answer": "Les signes cliniques de l'actinomycose abdominale sont aspécifiques : douleurs abdominales, fièvre, trouble du transit ou masse perceptible.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelles sont les complications de l'actinomycose cervico-faciale?",
+    "answer": "Les complications sont les suivantes : ostéite mandibulaire, spondylite cervicale et extension cérébrale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment se fait la fistulisation dans l'actinomycose thoracique?",
+    "answer": "La fistulisation se fait à la peau ou dans un viscère creux.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'actinomycose thoracique?",
+    "answer": "Les signes cliniques et radiologiques peuvent faire évoquer une néoplasie ou une tuberculose pulmonaire.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la localisation préférentielle de l'actinomycose abdominale?",
+    "answer": "La localisation préférentielle est iléo-cæcale.",
+    "qtype": "clinique"
+  }
+]

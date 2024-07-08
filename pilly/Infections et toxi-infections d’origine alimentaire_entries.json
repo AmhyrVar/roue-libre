@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quels sont les principaux types de maladies transmises par les aliments?",
+        "answer": "Les maladies transmises par les aliments incluent des infections bactériennes, virales ou parasitaires, ainsi que des intoxications par des toxines ou des substances chimiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments peuvent être contaminés par des agents pathogènes?",
+        "answer": "Les poissons, crustacés, coquillages, lait et produits laitiers, produits carnés, et végétaux peuvent être contaminés par des agents pathogènes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies transmises par les poissons et crustacés?",
+        "answer": "Les maladies transmises par les poissons et crustacés incluent la ciguatera, l'anisakidose, la gnathostomose, la paragonimose et l'angiostrongyloïdose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies transmises par les coquillages?",
+        "answer": "Les maladies transmises par les coquillages incluent l'intoxication par des saxitoxines, les colites à Vibrio parahaemolyticus et la cryptosporidiose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies transmises par le lait et les produits laitiers?",
+        "answer": "Les maladies transmises par le lait et les produits laitiers incluent la brucellose, la listériose et la tuberculose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies transmises par les produits carnés?",
+        "answer": "Les maladies transmises par les produits carnés incluent la taeniasis, la cysticercose, la toxoplasmose, la trichinellose et les salmonelloses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies transmises par les végétaux?",
+        "answer": "Les maladies transmises par les végétaux incluent la fasciolose, l'amoebose, la giardiose et l'echinococcose alvéolaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples d'organismes pathogènes identifiés depuis 1973?",
+        "answer": "Les exemples d'organismes pathogènes identifiés depuis 1973 incluent le rotavirus, Cryptosporidium parvum, Campylobacter jejuni, Escherichia coli 0157:H7, Helicobacter pylori, le virus de l'hépatite E et Vibrio cholerae 0139.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant l'émergence de maladies infectieuses transmissibles par les aliments et l'eau?",
+        "answer": "Les facteurs favorisant l'émergence de maladies infectieuses transmissibles par les aliments et l'eau incluent des facteurs écologiques, démographiques, comportementaux, technologiques et industriels, des modifications en adaptations microbiennes et un relâchement des mesures de santé publique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies causées par des facteurs écologiques?",
+        "answer": "Les maladies causées par des facteurs écologiques incluent le choléra, la dysenterie bacillaire et l'intoxication par des saxitoxines et des ciguatoxines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies causées par des facteurs démographiques et comportementaux?",
+        "answer": "Les maladies causées par des facteurs démographiques et comportementaux incluent les maladies du péril fécal et l'introduction de la souche du vibrion cholérique 01 en Amérique du Sud.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies causées par des facteurs technologiques et industriels?",
+        "answer": "Les maladies causées par des facteurs technologiques et industriels incluent le syndrome hémolytique et urémique, la colite hémorragique à E. coli et la listériose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies causées par des modifications en adaptations microbiennes?",
+        "answer": "Les maladies causées par des modifications en adaptations microbiennes incluent les infections à salmonelles résistantes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les exemples de maladies causées par un relâchement des mesures de santé publique?",
+        "answer": "Les maladies causées par un relâchement des mesures de santé publique incluent le choléra dans les camps de réfugiés en Afrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes courants des infections et toxi-infections alimentaires?",
+        "answer": "Les symptômes courants des infections et toxi-infections alimentaires incluent des nausées, vomissements, crampes abdominales, troubles du transit et diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires à prédominance digestive?",
+        "answer": "Les symptômes des toxi-infections alimentaires à prédominance digestive incluent des nausées, vomissements, crampes abdominales, troubles du transit et diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires à prédominance extra-digestive?",
+        "answer": "Les symptômes des toxi-infections alimentaires à prédominance extra-digestive peuvent inclure des pathologies réactionnelles comme le syndrome hémolytique et urémique et le syndrome de Guillain-Barré.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par des toxines thermostables?",
+        "answer": "Les symptômes des toxi-infections alimentaires causées par des toxines thermostables incluent des nausées et vomissements avec une incubation de 6 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par C. perfringens A, Bacillus cereus, E. coli entérotoxinogènes et V. cholerae?",
+        "answer": "Les symptômes incluent une diarrhée liquide cholériforme avec une incubation de 6 à 72 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par Salmonella, Shigella, Campylobacter jejuni, V. parahaemolyticus, Aeromonas et E. coli entéroinvasifs?",
+        "answer": "Les symptômes incluent une entérocolite inflammatoire avec une incubation de 10 à 72 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires suggérant le botulisme?",
+        "answer": "Les symptômes incluent des troubles neurologiques de la sensibilité ou motricité sans troubles digestifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par des neurotoxines des dinoflagellés, glutamate Na, solanine, champignons vénéneux et pesticides?",
+        "answer": "Les symptômes incluent des troubles neurologiques de la sensibilité ou motricité sans troubles digestifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par Salmonella sp.?",
+        "answer": "Les symptômes incluent une diarrhée aiguë fébrile (39-40°C) avec une incubation de 12 à 24 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de contamination des toxi-infections alimentaires causées par Salmonella sp.?",
+        "answer": "Les facteurs de contamination incluent des aliments peu ou pas cuits comme la viande, les volailles, les œufs et les fruits de mer.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par Staphylococcus aureus?",
+        "answer": "Les symptômes incluent des nausées et vomissements avec une incubation de 6 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de contamination des toxi-infections alimentaires causées par Staphylococcus aureus?",
+        "answer": "Les facteurs de contamination incluent des aliments manipulés et conservés à des températures inadéquates.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des toxi-infections alimentaires causées par Bacillus cereus?",
+        "answer": "Les symptômes incluent des nausées et vomissements avec une incubation de 6 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de contamination des toxi-infections alimentaires causées par Bacillus cereus?",
+        "answer": "Les facteurs de contamination incluent des aliments cuits et laissés à température ambiante pendant une période prolongée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une intoxication alimentaire causée par Clostridium perfringens?",
+        "answer": "Diarrhée isolée sans fièvre",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation pour une intoxication alimentaire causée par Clostridium perfringens?",
+        "answer": "8-24 heures",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments sont souvent impliqués dans les intoxications alimentaires causées par Clostridium perfringens?",
+        "answer": "Plats cuisinés la veille du repas",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une intoxication alimentaire causée par Shigella sp.?",
+        "answer": "Diarrhée aiguë fébrile",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation pour une intoxication alimentaire causée par Shigella sp.?",
+        "answer": "48-72 heures",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments sont souvent impliqués dans les intoxications alimentaires causées par Shigella sp.?",
+        "answer": "Aliments peu ou pas cuits",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une intoxication alimentaire causée par Clostridium botulinum?",
+        "answer": "Début : troubles digestifs banals, sans fièvre. État : troubles oculaires, troubles de la déglutition, sécheresse des muqueuses, paralysie respiratoire et des membres",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation pour une intoxication alimentaire causée par Clostridium botulinum?",
+        "answer": "6-72 heures",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments sont souvent impliqués dans les intoxications alimentaires causées par Clostridium botulinum?",
+        "answer": "Conserves de porc et de phacochère mal cuite, conserves familiales mal stérilisées",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une intoxication histaminique?",
+        "answer": "Troubles vaso-moteurs : érythème de la face et du cou, céphalées, bouffées de chaleur, urticaire",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation pour une intoxication histaminique?",
+        "answer": "10 minutes - 1 heure",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments sont souvent impliqués dans les intoxications histaminiques?",
+        "answer": "Poissons mal conservés (surtout thon)",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par Staphylococcus aureus?",
+        "answer": "Vomissements, douleurs abdominales, diarrhée sans fièvre",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation pour une infection alimentaire causée par Staphylococcus aureus?",
+        "answer": "2-4 heures",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments sont souvent impliqués dans les infections alimentaires causées par Staphylococcus aureus?",
+        "answer": "Laits et dérivés, plats cuisinés la veille du repas",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par Salmonella?",
+        "answer": "Diarrhée aiguë fébrile",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation pour une infection alimentaire causée par Salmonella?",
+        "answer": "12-36 heures",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de contamination pour une infection alimentaire causée par Salmonella?",
+        "answer": "Aliments peu ou pas cuits",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par Campylobacter sp.?",
+        "answer": "Diarrhée aiguë fébrile",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par E. coli entéro-hémorragiques?",
+        "answer": "Diarrhée glaireuse ou purulente ou sanglante, douleurs abdominales, ténesme, faux besoins, fièvre",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par E. coli entérotoxinogènes?",
+        "answer": "Diarrhée hydrique abondante, vomissements",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par Vibrio parahaemolyticus?",
+        "answer": "Diarrhée hydrique abondante, vomissements",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection alimentaire causée par norovirus?",
+        "answer": "Diarrhée liquide abondante, fièvre",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les grands principes de l'enquête épidémiologique pour une toxi-infection alimentaire collective?",
+        "answer": "Recenser les malades, examiner leurs caractéristiques et leur distribution dans le temps et dans l'espace, émettre des hypothèses sur l'origine de la contamination",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment est représentée la distribution des cas en fonction du temps pour une toxi-infection alimentaire collective?",
+        "answer": "Sous la forme graphique d'une courbe épidémique",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques prédominants pour une intoxication alimentaire causée par Staphylococcus aureus?",
+        "answer": "Vomissements",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques prédominants pour une intoxication alimentaire causée par Clostridium perfringens?",
+        "answer": "Diarrhée",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques prédominants pour une intoxication alimentaire causée par Salmonella?",
+        "answer": "Fièvre, diarrhée",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de contamination pour une intoxication alimentaire causée par Staphylococcus aureus?",
+        "answer": "Réfrigération insuffisante, porteurs sains ou staphylococcie cutanée",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de contamination pour une intoxication alimentaire causée par Clostridium perfringens?",
+        "answer": "Réfrigération insuffisante, restauration collective",
+        "qtype": "épidémiologie"
+    }
+]

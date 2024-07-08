@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les deux genres viraux responsables des infections humaines à filovirus?",
+    "answer": "Les virus Ebola et Marburg.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quel est le taux de létalité des infections par le virus Marburg?",
+    "answer": "Le taux de létalité varie de 25 à 88 %.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes initiaux des infections à filovirus?",
+    "answer": "Fièvre, céphalées, nausées, myalgies, conjonctivite et asthénie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelle est la durée moyenne d'incubation des infections à filovirus?",
+    "answer": "La durée moyenne d'incubation est de 4 à 9 jours.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux réservoirs des filovirus?",
+    "answer": "Les chauves-souris frugivores.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les modes de transmission des filovirus?",
+    "answer": "Contact avec des produits biologiques d'animaux infectés et transmission interhumaine par contact direct avec des liquides biologiques infectés.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes cliniques secondaires des infections à filovirus?",
+    "answer": "Vomissements, diarrhées, douleurs abdominales et exanthème.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes hémorragiques observés chez un tiers des patients atteints de filovirus?",
+    "answer": "Méléna, rectorragie, hématémèse, épistaxis, hémorragie conjonctivale et saignements aux points de ponction.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux diagnostics différentiels des infections à filovirus?",
+    "answer": "Le paludisme en particulier.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les tests utilisés pour le diagnostic direct des infections à filovirus?",
+    "answer": "RT-PCR, test immuno-enzymatique (ELISA) et test rapide immunochromatographique.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les traitements symptomatiques pour les infections à filovirus?",
+    "answer": "Réhydratation, équilibre électrolytique, traitement des défaillances d'organes et prise en charge des infections associées.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels anticorps monoclonaux ont été homologués pour le traitement de la maladie à virus Ebola-Zaire?",
+    "answer": "Mab114 (Ebanga) et le cocktail REGN-EB3 (Inmazeb).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quel est le seul vaccin contre le virus Ebola ayant reçu une AMM en France?",
+    "answer": "Le vaccin Ervebo.",
+    "qtype": "prévention"
+  },
+  {
+    "question": "Quels sont les principaux réservoirs des Arenavirus?",
+    "answer": "Les rongeurs.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les deux groupes d'Arenavirus selon leur distribution géographique?",
+    "answer": "Les Arenavirus du Nouveau Monde et les Arenavirus de l'Ancien Monde.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les modes de transmission des Arenavirus à l'homme?",
+    "answer": "Contact direct ou indirect avec des excréments d'animaux infectés ou lors du dépeçage de rongeurs infectés.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la répartition géographique de la fièvre de Lassa?",
+    "answer": "Afrique de l'Ouest.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes non spécifiques des infections à filovirus?",
+    "answer": "Leucopénie, lymphopénie, thrombopénie, cytolyse, rhabdomyolyse et troubles de l'hémostase.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques des formes fatales des infections à filovirus?",
+    "answer": "Défaillance multiviscérale associant des troubles neurologiques, rénaux et hémodynamiques (choc).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques des formes non fatales des infections à filovirus?",
+    "answer": "Régression progressive de la fièvre et des symptômes avec une convalescence prolongée.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à filovirus?",
+    "answer": "Fièvre, céphalées, nausées, myalgies, conjonctivite, asthénie, vomissements, diarrhées, douleurs abdominales, exanthème et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à Arenavirus?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux réservoirs des virus Ebola et Marburg?",
+    "answer": "Les chauves-souris frugivores.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Marburg?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Ebola?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Lassa?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Junin?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Machupo?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Guanarito?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux symptômes des infections à virus Sabia?",
+    "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées et manifestations hémorragiques.",
+    "qtype": "symptômes"
+  }
+]

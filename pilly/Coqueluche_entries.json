@@ -1,0 +1,287 @@
+[
+    {
+        "question": "Qu'est-ce que la coqueluche?",
+        "answer": "La coqueluche est une maladie due à des bacilles Gram négatif aérobie strict, principalement Bordetella pertusis, touchant exclusivement l’homme et responsable d’une toux et d’une dyspnée prolongées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la coqueluche?",
+        "answer": "Les agents pathogènes responsables de la coqueluche sont principalement Bordetella pertusis, et accessoirement B. parapertussis et B. bronchiseptica.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la durée de l'immunité naturelle et post-vaccinale contre la coqueluche?",
+        "answer": "L’immunité naturelle après une coqueluche dure 7 à 10 ans et l’immunité post-vaccinale dure seulement 4 à 12 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la coqueluche?",
+        "answer": "La transmission interhumaine de la coqueluche se fait par voie aérienne via les gouttelettes infectées émises au cours de la toux ou d’éternuements.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les groupes à risque pour la coqueluche?",
+        "answer": "Les groupes à risque principaux sont les nourrissons non encore vaccinés, les grands enfants et les adultes dans les pays où la couverture vaccinale est élevée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez l'enfant non vacciné?",
+        "answer": "Chez l’enfant non vacciné, les symptômes de la coqueluche incluent un coryza non spécifique, des accès paroxystiques de toux, des quintes suivies de cyanose, de convulsions et de vomissements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période infectieuse de la coqueluche?",
+        "answer": "La période infectieuse de la coqueluche va du début du coryza à 3 semaines après le début de la maladie (quintes).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la coqueluche chez les nourrissons de moins de 6 mois?",
+        "answer": "Chez les nourrissons de moins de 6 mois, les signes cliniques de la coqueluche incluent des quintes mal tolérées responsables d’apnées avec cyanose, de bradycardies, voire d’arrêt cardio-respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de la coqueluche?",
+        "answer": "Les diagnostics différentiels de la coqueluche incluent les corps étrangers respiratoires, les infections respiratoires virales, la tuberculose pulmonaire et le cancer pulmonaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la coqueluche?",
+        "answer": "Le diagnostic de la coqueluche est avant tout clinique et peut être porté à tous les niveaux de la pyramide sanitaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez l'adolescent et l'adulte?",
+        "answer": "Chez l’adolescent et l’adulte, la coqueluche se manifeste par une toux évoluant depuis plus de 7 jours sans cause évidente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase paroxystique de la coqueluche?",
+        "answer": "La phase paroxystique de la coqueluche est marquée par des accès paroxystiques de toux durant 4-6 semaines, suivis par une reprise de l’inspiration caractéristique, difficile, profonde et sifflante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de convalescence de la coqueluche?",
+        "answer": "La phase de convalescence de la coqueluche est marquée par un espacement des quintes durant 3 à 5 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez le jeune enfant?",
+        "answer": "Chez le jeune enfant, les quintes peuvent être suivies de cyanose, de convulsions et de vomissements favorisant la déshydratation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez les nourrissons de moins de 6 mois?",
+        "answer": "Chez les nourrissons de moins de 6 mois, la coqueluche se manifeste par des quintes mal tolérées responsables d’apnées avec cyanose, de bradycardies, voire d’arrêt cardio-respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez l'adolescent et l'adulte?",
+        "answer": "Chez l’adolescent et l’adulte, la coqueluche se manifeste par une toux évoluant depuis plus de 7 jours sans cause évidente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase paroxystique de la coqueluche?",
+        "answer": "La phase paroxystique de la coqueluche est marquée par des accès paroxystiques de toux durant 4-6 semaines, suivis par une reprise de l’inspiration caractéristique, difficile, profonde et sifflante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de convalescence de la coqueluche?",
+        "answer": "La phase de convalescence de la coqueluche est marquée par un espacement des quintes durant 3 à 5 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez le jeune enfant?",
+        "answer": "Chez le jeune enfant, les quintes peuvent être suivies de cyanose, de convulsions et de vomissements favorisant la déshydratation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez les nourrissons de moins de 6 mois?",
+        "answer": "Chez les nourrissons de moins de 6 mois, la coqueluche se manifeste par des quintes mal tolérées responsables d’apnées avec cyanose, de bradycardies, voire d’arrêt cardio-respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez l'adolescent et l'adulte?",
+        "answer": "Chez l’adolescent et l’adulte, la coqueluche se manifeste par une toux évoluant depuis plus de 7 jours sans cause évidente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase paroxystique de la coqueluche?",
+        "answer": "La phase paroxystique de la coqueluche est marquée par des accès paroxystiques de toux durant 4-6 semaines, suivis par une reprise de l’inspiration caractéristique, difficile, profonde et sifflante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de convalescence de la coqueluche?",
+        "answer": "La phase de convalescence de la coqueluche est marquée par un espacement des quintes durant 3 à 5 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez le jeune enfant?",
+        "answer": "Chez le jeune enfant, les quintes peuvent être suivies de cyanose, de convulsions et de vomissements favorisant la déshydratation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez les nourrissons de moins de 6 mois?",
+        "answer": "Chez les nourrissons de moins de 6 mois, la coqueluche se manifeste par des quintes mal tolérées responsables d’apnées avec cyanose, de bradycardies, voire d’arrêt cardio-respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la coqueluche chez l'adolescent et l'adulte?",
+        "answer": "Chez l’adolescent et l’adulte, la coqueluche se manifeste par une toux évoluant depuis plus de 7 jours sans cause évidente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase paroxystique de la coqueluche?",
+        "answer": "La phase paroxystique de la coqueluche est marquée par des accès paroxystiques de toux durant 4-6 semaines, suivis par une reprise de l’inspiration caractéristique, difficile, profonde et sifflante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de convalescence de la coqueluche?",
+        "answer": "La phase de convalescence de la coqueluche est marquée par un espacement des quintes durant 3 à 5 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'examen de référence pour le diagnostic de la coqueluche?",
+        "answer": "La PCR Bordetella est l'examen de référence pour le diagnostic de la coqueluche.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est l'alternative diagnostique à la PCR Bordetella pour la coqueluche?",
+        "answer": "L'alternative diagnostique est la culture sur milieux spécifiques (Bordet-Gengou ou Regan Lowe) à réaliser dans les 15 premiers jours de la maladie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'intérêt de la radiographie du thorax dans le diagnostic de la coqueluche?",
+        "answer": "La radiographie du thorax n’a d’intérêt qu’en cas de problème de diagnostic différentiel et de complications pulmonaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes évocateurs de la coqueluche à la phase paroxystique?",
+        "answer": "L’hyperlymphocytose sanguine et la thrombocytose chez le nourrisson sont évocatrices à la phase paroxystique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement antibiotique recommandé pour la coqueluche?",
+        "answer": "L’antibiothérapie par macrolide (clarithromycine 15 mg/kg/j, 7 jours ; azithromycine 20 mg/kg/j, 3 jours) est recommandée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas de contre-indication aux macrolides pour traiter la coqueluche?",
+        "answer": "En cas de contre-indication aux macrolides, le cotrimoxazole est recommandé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand l'hospitalisation est-elle systématique pour les patients atteints de coqueluche?",
+        "answer": "L’hospitalisation doit être systématique pour les nourrissons âgés de moins de 3 mois (apnées primitives).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques essentiels pour la coqueluche?",
+        "answer": "Le traitement symptomatique inclut la suppression des facteurs favorisant les quintes, la réhydratation et la renutrition.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels médicaments sont contre-indiqués chez le nourrisson pour traiter la coqueluche?",
+        "answer": "Les antitussifs et les sédatifs sont contre-indiqués chez le nourrisson.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Dans quels cas l'oxygénothérapie est-elle utile pour la coqueluche?",
+        "answer": "L’oxygénothérapie est utile dans les formes sévères et réduit la fréquence des apnées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les complications sévères possibles de la coqueluche?",
+        "answer": "Les complications sévères incluent les atelectasies, les pneumonies communautaires ou nosocomiales, et l’encéphalopathie due à l’hypoxie des apnées.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles mesures de prévention sont recommandées pour la coqueluche?",
+        "answer": "La prévention inclut l’isolement des cas, la recherche et la prise en charge des cas contacts, et la vaccination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Combien de temps l'isolement est-il nécessaire pour un cas de coqueluche sans traitement?",
+        "answer": "L’isolement est nécessaire pendant 3 semaines sans traitement.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Combien de temps après un traitement antibiotique adapté l'isolement peut-il être levé pour un cas de coqueluche?",
+        "answer": "L’isolement peut être levé 5 jours après un traitement antibiotique adapté, voire 3 jours après azithromycine.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les cas contacts symptomatiques de la coqueluche?",
+        "answer": "Un traitement curatif est recommandé pour les cas contacts symptomatiques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel traitement prophylactique est recommandé pour les cas contacts proches non ou mal vaccinés?",
+        "answer": "Un traitement prophylactique identique au traitement curatif est recommandé pour les cas contacts proches non ou mal vaccinés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sujets à risque doivent recevoir une antibioprophylaxie en cas de contact occasionnel avec un cas de coqueluche?",
+        "answer": "Les sujets à risque incluent les nourrissons non ou mal vaccinés, les femmes enceintes, les personnes atteintes de maladies respiratoires chroniques, les immunodéprimés et l’entourage de nourrissons de moins de 6 mois.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels types de vaccins contre la coqueluche sont disponibles?",
+        "answer": "Les vaccins contre la coqueluche sont disponibles sous forme combinée, soit à germes entiers, soit acellulaires.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité vaccinale des vaccins contre la coqueluche?",
+        "answer": "L’efficacité vaccinale est de l’ordre de 85 %, meilleure pour les vaccins à germes entiers surtout en primovaccination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Depuis quand la vaccination contre la coqueluche est-elle incluse dans le PEV OMS des pays à ressources limitées?",
+        "answer": "La vaccination contre la coqueluche a été introduite dans le PEV OMS des pays à ressources limitées depuis 1974.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le schéma de vaccination recommandé par l'OMS pour la coqueluche?",
+        "answer": "L’OMS recommande une primovaccination en 3 doses, la première à l’âge de 6 semaines, la seconde entre 10 et 14 semaines et la troisième entre 14 et 18 semaines, avec une dose de rappel entre 1 et 6 ans et à l'adolescence.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel pourcentage des enfants du monde avaient reçu au moins 3 doses de vaccin contre la diphtérie-tétanos-coqueluche en 2020?",
+        "answer": "En 2020, 83 % des enfants du monde (113 millions) avaient reçu au moins 3 doses de vaccin contre la diphtérie-tétanos-coqueluche.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel a été l'impact de la pandémie COVID-19 sur la vaccination des enfants contre la coqueluche?",
+        "answer": "Un net recul de la vaccination des enfants a été constaté en raison de la pandémie COVID-19, avec 23 millions d’enfants n’ayant pas reçu les vaccins de base en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'efficacité de la stratégie du cocooning pour protéger les nourrissons contre la coqueluche?",
+        "answer": "L’efficacité de la stratégie du cocooning est de l’ordre de 50 %.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité de la vaccination de la femme enceinte pour protéger les nourrissons contre la coqueluche?",
+        "answer": "L’efficacité de la vaccination de la femme enceinte a été estimée à 90 %.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation de la France concernant la vaccination des femmes enceintes contre la coqueluche?",
+        "answer": "En France, la vaccination des femmes enceintes est prévue dans les recommandations de 2022.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les avantages des vaccins acellulaires contre la coqueluche par rapport aux vaccins à germes entiers?",
+        "answer": "Les vaccins acellulaires ont une tolérance nettement améliorée avec moins de réactions locales, de fièvre et d’irritabilité, et des effets indésirables plus rares.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les effets indésirables rares des vaccins acellulaires contre la coqueluche?",
+        "answer": "Les effets indésirables rares incluent les pleurs persistants, les épisodes d’hypotonie-hyporéactivité et les convulsions fébriles.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le taux d'immunisation vaccinale (3 doses Diphtérie, Tétanos, Coqueluche) chez les enfants de moins de 1 an?",
+        "answer": "Le taux d’immunisation vaccinale (3 doses Diphtérie, Tétanos, Coqueluche) chez les enfants de moins de 1 an est de 83 % en 2020.",
+        "qtype": "épidémiologie"
+    }
+]

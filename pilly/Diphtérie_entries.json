@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Qu'est-ce que la diphtérie?",
+        "answer": "La diphtérie est une infection bactérienne cosmopolite due à des bacilles Gram positif aérobies du complexe Corynebacterium diphtheriae.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs de la diphtérie?",
+        "answer": "Le réservoir est essentiellement humain, constitué par les porteurs asymptomatiques ou les malades.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la diphtérie?",
+        "answer": "La transmission se fait de personne à personne par les gouttelettes de salive à partir de malades ou de porteurs asymptomatiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'angine diphtérique?",
+        "answer": "Les symptômes incluent une fièvre, une dysphagie, des fausses membranes blanches ou blanc jaunâtre sur le pharynx et les amygdales, des adénopathies sous angulo-maxillaires bilatérales, un œdème cervical et une odeur de l’haleine caractéristique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la diphtérie laryngée?",
+        "answer": "La diphtérie laryngée se traduit par une dysphonie avec toux et voix rauques, puis la voix et la toux s’éteignent, avec un risque majeur de dyspnée nécessitant une trachéotomie en urgence.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères diagnostiques de l'OMS pour un cas suspect de diphtérie?",
+        "answer": "Un cas suspect est défini par une naso-pharyngite, une amygdalite ou une laryngite pseudo-membraneuse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères diagnostiques de l'OMS pour un cas probable de diphtérie?",
+        "answer": "Un cas probable est un cas suspect associé à au moins un des éléments suivants : contact récent avec un cas confirmé, stridor, œdème du cou, insuffisance rénale, pétéchies, choc toxinique, paralysie motrice ou myocardite dans les 6 semaines suivantes, ou décès.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères diagnostiques de l'OMS pour un cas confirmé de diphtérie?",
+        "answer": "Un cas confirmé est un cas probable avec isolement d’une souche de C. diphtheriae toxinogène ou une augmentation d’au moins 4 dilutions du titre d’anticorps antidiphtériques en l’absence de vaccination.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie nasale antérieure?",
+        "answer": "La diphtérie nasale antérieure ressemble à un simple rhume avec un écoulement muco-purulent parfois sanguinolent et des fausses membranes sur la cloison nasale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie cutanée?",
+        "answer": "La diphtérie cutanée commence par une vésicule ou une pustule puis un ulcère chronique recouvert de fausses membranes, initialement douloureux puis indolore.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte myocardique due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent une insuffisance cardiaque, une dyspnée, une tachycardie sinusale, des malaises, une perte de connaissance liée à un trouble du rythme cardiaque ou un collapsus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte neurologique due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent des paralysies vélo-palatines, des paralysies des nerfs crâniens ou des nerfs moteurs périphériques, une atteinte des muscles respiratoires, des hypotensions brutales, des encéphalites et des hémiplégies d’origine embolique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte rénale due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent une inflammation interstitielle avec des lésions réversibles des tubules rénaux responsables d’une protéinurie et parfois d’une insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens non spécifiques pour le diagnostic de la diphtérie?",
+        "answer": "Les examens non spécifiques incluent une hyperleucocytose à polynucléaires neutrophiles, un syndrome inflammatoire, une thrombopénie, une élévation de l’urée sanguine et de la créatininémie en cas d’atteinte rénale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements de la diphtérie?",
+        "answer": "Le traitement inclut la sérothérapie antidiphtérique pour neutraliser la toxine circulante et des antibiotiques pour éradiquer la bactérie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie maligne?",
+        "answer": "Les symptômes incluent une angine diphtérique maligne accompagnée d’un syndrome toxique (pâleur, tachycardie, coma) et d’un volumineux œdème cervical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie laryngée (croup)?",
+        "answer": "Les symptômes incluent une dysphonie avec toux et voix rauques, puis la voix et la toux s’éteignent, avec un risque majeur de dyspnée nécessitant une trachéotomie en urgence.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie nasale antérieure?",
+        "answer": "Les symptômes incluent un écoulement muco-purulent parfois sanguinolent et des fausses membranes sur la cloison nasale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte myocardique due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent une insuffisance cardiaque, une dyspnée, une tachycardie sinusale, des malaises, une perte de connaissance liée à un trouble du rythme cardiaque ou un collapsus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte neurologique due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent des paralysies vélo-palatines, des paralysies des nerfs crâniens ou des nerfs moteurs périphériques, une atteinte des muscles respiratoires, des hypotensions brutales, des encéphalites et des hémiplégies d’origine embolique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte rénale due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent une inflammation interstitielle avec des lésions réversibles des tubules rénaux responsables d’une protéinurie et parfois d’une insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens non spécifiques pour le diagnostic de la diphtérie?",
+        "answer": "Les examens non spécifiques incluent une hyperleucocytose à polynucléaires neutrophiles, un syndrome inflammatoire, une thrombopénie, une élévation de l’urée sanguine et de la créatininémie en cas d’atteinte rénale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements de la diphtérie?",
+        "answer": "Le traitement inclut la sérothérapie antidiphtérique pour neutraliser la toxine circulante et des antibiotiques pour éradiquer la bactérie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie maligne?",
+        "answer": "Les symptômes incluent une angine diphtérique maligne accompagnée d’un syndrome toxique (pâleur, tachycardie, coma) et d’un volumineux œdème cervical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie laryngée (croup)?",
+        "answer": "Les symptômes incluent une dysphonie avec toux et voix rauques, puis la voix et la toux s’éteignent, avec un risque majeur de dyspnée nécessitant une trachéotomie en urgence.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie nasale antérieure?",
+        "answer": "Les symptômes incluent un écoulement muco-purulent parfois sanguinolent et des fausses membranes sur la cloison nasale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte myocardique due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent une insuffisance cardiaque, une dyspnée, une tachycardie sinusale, des malaises, une perte de connaissance liée à un trouble du rythme cardiaque ou un collapsus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte neurologique due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent des paralysies vélo-palatines, des paralysies des nerfs crâniens ou des nerfs moteurs périphériques, une atteinte des muscles respiratoires, des hypotensions brutales, des encéphalites et des hémiplégies d’origine embolique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte rénale due à la toxine diphtérique?",
+        "answer": "Les symptômes incluent une inflammation interstitielle avec des lésions réversibles des tubules rénaux responsables d’une protéinurie et parfois d’une insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens non spécifiques pour le diagnostic de la diphtérie?",
+        "answer": "Les examens non spécifiques incluent une hyperleucocytose à polynucléaires neutrophiles, un syndrome inflammatoire, une thrombopénie, une élévation de l’urée sanguine et de la créatininémie en cas d’atteinte rénale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements de la diphtérie?",
+        "answer": "Le traitement inclut la sérothérapie antidiphtérique pour neutraliser la toxine circulante et des antibiotiques pour éradiquer la bactérie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les examens microbiologiques nécessaires pour diagnostiquer la diphtérie?",
+        "response": "Le diagnostic microbiologique permet de préciser l’espèce en cause, la production ou non de toxine et de mettre en place les mesures de santé publique qui s’imposent. Le diagnostic de certitude repose sur l’isolement de la bactérie à partir d’un prélèvement nasal, pharyngé ou cutané selon la porte d’entrée. Le prélèvement d’une fausse membrane, s’il est possible, doit être effectué. En cas d’atteinte cutanée, un prélèvement pharyngé est systématique. Le laboratoire de microbiologie doit être prévenu de la suspicion diagnostique afin de mettre en œuvre les techniques adaptées comprenant des milieux de culture spéciaux à la tellurite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques pour la diphtérie?",
+        "response": "Le traitement symptomatique dépend de la gravité des signes cliniques : intubation ou trachéotomie en cas d’obstruction des voies aériennes par des fausses membranes ou d’atteinte des muscles respiratoires mettant en jeu le pronostic vital, traitement digitalo-diurétique en cas d’insuffisance cardiaque, antiarythmiques, sonde d’entraînement électrosystolique en cas de trouble de la conduction. La corticothérapie n’est utile qu’au cours de la dyspnée du croup, elle n’apporte pas de bénéfice en cas d’atteinte cardiaque ou neurologique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour traiter la diphtérie?",
+        "response": "Le traitement classique repose initialement sur des antibiotiques injectables, le patient ne pouvant pas déglutir : pénicilline procaïne IM : 50 000 U/kg/j chez l’enfant et 1,2 MU chez l’adulte en 2 fois/j ; ou spiramycine IV : 9 MUI/j chez l’adulte et 150 000 UI/j chez l’enfant en 3 prises. Dès que le patient peut déglutir : relais per os. La durée du traitement est de 14 jours. L’azithromycine, à la dose de 500 mg/j, permet un traitement relais per os de 3 jours. Il est préférable compte tenu des résistances bactériennes, d’utiliser l’amoxicilline IV puis per os dès que l’état du malade le permet à la dose de 3 g/j par jour chez l’adulte et de 100 mg/kg/j chez l’enfant, répartis en 3 prises/j durant 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les tests pour évaluer l’hypersensibilité au sérum antidiphtérique?",
+        "response": "Les tests d’évaluation de l’hypersensibilité au sérum antidiphtérique incluent le test cutané et le test oculaire. Le test cutané consiste en une IDR de 0,1 mL (0,05 mL au 1/1 000 si antécédent d’allergie au sérum de cheval) de dilution saline au 1/100 d’antitoxine. Il est positif si un anneau de 1 cm ou plus apparaît en 20 minutes. Le test oculaire consiste en l’instillation d’1/10 d’antitoxine en dilution saline dans un œil et un test comparatif par solution saline dans l’autre œil. Il est positif si conjonctivite et larmoiement apparaissent en 20 minutes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la diphtérie respiratoire?",
+        "response": "Les symptômes de la diphtérie respiratoire incluent la formation de fausses membranes dans les voies respiratoires, obstruction des voies aériennes, atteinte des muscles respiratoires, insuffisance cardiaque, et troubles de la conduction.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les biotypes de C. diphtheriae et leur gravité?",
+        "response": "L’étude des caractères biochimiques permet de différencier 3 biotypes de C. diphtheriae : mitis, gravis et belfanti. Les infections les plus graves sont dues au biotype gravis mais la relation entre biotype et gravité est inconstante.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques associés à la sérothérapie pour la diphtérie?",
+        "response": "La sérothérapie pour la diphtérie fait appel à du sérum de cheval hyperimmun par voie IM ou IV. Il existe un risque de choc anaphylactique par allergie au sérum de cheval nécessitant un test cutané ou oculaire ou une injection test de 1/100 de la dose totale selon la technique de Besredka. Des ampoules d’épinéphrine (adrénaline) doivent être disponibles au cas où surviendrait un choc lors de la sérothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les critères pour lever l’isolement respiratoire chez un patient atteint de diphtérie?",
+        "response": "Deux prélèvements négatifs à 24 h d’intervalle, à la fin du traitement antibiotique, sont nécessaires pour lever l’isolement de type respiratoire chez un patient atteint de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques nécessitant une intubation ou une trachéotomie chez un patient atteint de diphtérie?",
+        "response": "Une intubation ou une trachéotomie est nécessaire en cas d’obstruction des voies aériennes par des fausses membranes ou d’atteinte des muscles respiratoires mettant en jeu le pronostic vital.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques de première intention pour traiter la diphtérie?",
+        "response": "Le nombre croissant de souches résistantes à la pénicilline impose le passage à l’amoxicilline en traitement de première intention. Il peut exister des souches résistantes aux macrolides, à la rifampicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement antibiotique pour la diphtérie?",
+        "response": "La durée du traitement antibiotique pour la diphtérie est de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant un traitement digitalo-diurétique chez un patient atteint de diphtérie?",
+        "response": "Un traitement digitalo-diurétique est nécessaire en cas d’insuffisance cardiaque chez un patient atteint de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation d’antiarythmiques chez un patient atteint de diphtérie?",
+        "response": "L’utilisation d’antiarythmiques est nécessaire en cas de trouble de la conduction chez un patient atteint de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation d’une sonde d’entraînement électrosystolique chez un patient atteint de diphtérie?",
+        "response": "L’utilisation d’une sonde d’entraînement électrosystolique est nécessaire en cas de trouble de la conduction chez un patient atteint de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour l’antibioprophylaxie des sujets contacts d’un patient atteint de diphtérie?",
+        "response": "Les antibiotiques recommandés pour l’antibioprophylaxie des sujets contacts d’un patient atteint de diphtérie sont les mêmes que ceux utilisés pour le traitement du patient, aux mêmes posologies, durant une durée réduite de 7 à 10 jours. Une injection IM de benzathine pénicilline (600 000 U chez l’enfant et 1,2 M chez l’adulte) peut également être utilisée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les critères pour administrer une dose unique de sérum antidiphtérique?",
+        "response": "Les doses de sérum antidiphtérique dépendent du site de la diphtérie, de l’importance des fausses membranes et des délais entre le début des symptômes et le traitement. Une dose unique est généralement suffisante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant une sérothérapie précoce chez un patient atteint de diphtérie?",
+        "response": "La sérothérapie doit être la plus précoce possible afin de neutraliser la toxine circulante chez un patient atteint de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la voie IV pour l’administration des antitoxines diphtériques?",
+        "response": "La voie IV est recommandée pour l’administration des antitoxines diphtériques dans les formes graves de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la voie IM pour l’administration des antitoxines diphtériques?",
+        "response": "La voie IM peut être utilisée pour l’administration des antitoxines diphtériques dans les formes peu sévères (cutanées) de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la désensibilisation pour l’administration des antitoxines diphtériques?",
+        "response": "La désensibilisation est nécessaire en cas de test positif à l’évaluation de l’hypersensibilité au sérum antidiphtérique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation d’épinéphrine lors de la sérothérapie pour la diphtérie?",
+        "response": "L’épinéphrine doit être disponible et utilisée en cas de réaction sévère lors de la sérothérapie pour la diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la corticothérapie chez un patient atteint de diphtérie?",
+        "response": "La corticothérapie est utile au cours de la dyspnée du croup chez un patient atteint de diphtérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la vaccination antidiphtérique chez un patient atteint de diphtérie?",
+        "response": "La vaccination antidiphtérique est pratiquée à la phase de convalescence chez un patient atteint de diphtérie car la diphtérie est une maladie peu immunisante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la vaccination ou revaccination chez les sujets contacts d’un patient atteint de diphtérie?",
+        "response": "Les sujets contacts d’un patient atteint de diphtérie doivent bénéficier de la vaccination ou revaccination selon leur statut vaccinal.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la culture pharyngée chez les sujets contacts d’un patient atteint de diphtérie?",
+        "response": "Les sujets contacts d’un patient atteint de diphtérie doivent bénéficier d’une culture pharyngée à la recherche d’une corynébactérie du complexe C. diphtheriae. En cas de culture positive, le sujet devient un patient et une enquête dans son entourage devient nécessaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la surveillance chez les sujets contacts d’un patient atteint de diphtérie?",
+        "response": "Les sujets contacts d’un patient atteint de diphtérie doivent être surveillés à la recherche de signes de diphtérie durant une semaine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de l’antibioprophylaxie chez les sujets contacts d’un patient atteint de diphtérie?",
+        "response": "Les sujets contacts d’un patient atteint de diphtérie doivent bénéficier d’une antibioprophylaxie en attendant les résultats du prélèvement de gorge, quelque soit leur statut vaccinal.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la vaccination de masse en cas d’épidémie de diphtérie?",
+        "response": "La vaccination de masse est nécessaire en cas d’épidémie de diphtérie pour prévenir l’extension de la maladie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la vaccination antidiphtérique chez les voyageurs se rendant dans un pays où la diphtérie est endémique?",
+        "response": "Un rappel de vaccin (dTP ou dTcaP) est recommandé avant le départ pour les voyageurs se rendant dans un pays où la diphtérie est endémique et non régulièrement vaccinés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes nécessitant l’utilisation de la vaccination antidiphtérique chez les enfants?",
+        "response": "La vaccination antidiphtérique est recommandée pour les enfants dans le cadre des programmes nationaux de vaccination, avec un schéma de primovaccination comportant au minimum l’injection de DTP à l’âge de 6-8 semaines puis à 3 et 4 mois et si possible une 4e dose 6 à 12 mois plus tard.",
+        "qtype": "prévention"
+    }
+]

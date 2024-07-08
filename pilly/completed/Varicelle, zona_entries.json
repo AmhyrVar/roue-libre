@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quel est l'agent causal de la varicelle et du zona?",
+        "answer": "Le Varicelle Zoster Virus (VZV), un virus à ADN de la famille des Herpesviridae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la varicelle?",
+        "answer": "La période d'incubation de la varicelle est de 14 jours.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la varicelle?",
+        "answer": "L'éruption fébrile accompagnée d'un malaise général, des macules rosées surmontées de vésicules en 'goutte de rosée', qui se troublent, s'ombilique, se dessèchent pour former une croûte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la varicelle chez la femme enceinte?",
+        "answer": "Il existe un risque faible (< 2 %) de varicelle congénitale si la varicelle survient avant la 20e semaine de gestation et un risque de varicelle néonatale si la varicelle survient dans la semaine précédant l'accouchement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste le zona chez les patients immunodéprimés?",
+        "answer": "L'éruption peut prendre un aspect ulcéro-hémorragique, être multimétamérique ou généralisée, avec un risque d'atteinte viscérale (pulmonaire, hépatique, encéphalique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la complication principale du zona chez les sujets âgés?",
+        "answer": "Le zona peut se compliquer de douleurs post-zostériennes, à type de brûlures.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quel est le réservoir du Varicelle Zoster Virus (VZV)?",
+        "answer": "Le réservoir est strictement humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques du zona?",
+        "answer": "Une éruption faite successivement de bouquets de vésicules, pustules, érosions, croûtes, unilatérale de topographie métamérique, associée à une douleur à type de brûlure aiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence du zona chez les sujets âgés?",
+        "answer": "L'incidence du zona augmente après 50 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumopathie interstitielle varicelleuse?",
+        "answer": "Elle peut être grave et hypoxémiante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez l'enfant?",
+        "answer": "L'évolution est simple chez l'enfant en 10-15 jours, mais des surinfections cutanées à staphylocoque doré ou à streptocoque sont fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez l'adulte?",
+        "answer": "La varicelle peut être grave chez l'adulte, avec des formes ulcéro-nécrotiques et des complications viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'évolution du zona chez les patients VIH?",
+        "answer": "Le zona a une plus longue durée d'évolution chez les patients VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle congénitale?",
+        "answer": "La varicelle congénitale peut survenir si la varicelle survient avant la 20e semaine de gestation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle néonatale?",
+        "answer": "La varicelle néonatale peut survenir si la varicelle survient dans la semaine précédant l'accouchement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les immunodéprimés?",
+        "answer": "Les immunodéprimés présentent des formes graves, ulcéro-nécrotiques, compliquées d'atteinte viscérale (pulmonaire, hépatique, méningo-encéphalique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la forme de l'éruption cutanée de la varicelle?",
+        "answer": "L'éruption comporte des éléments d'âge différents, débutant typiquement dans le cuir chevelu puis s'étendant au tronc, aux muqueuses et enfin aux membres.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les patients immunodéprimés?",
+        "answer": "Les patients immunodéprimés peuvent présenter des formes graves, ulcéro-nécrotiques, avec des complications viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes jeunes en Afrique?",
+        "answer": "Chez l'adulte jeune en Afrique, la varicelle doit faire rechercher une infection par le VIH.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les enfants en Afrique?",
+        "answer": "La varicelle est une maladie de l'enfant dans les pays occidentaux et de l'adulte en Afrique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes en Afrique?",
+        "answer": "La varicelle est une maladie de l'adulte en Afrique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les enfants en Occident?",
+        "answer": "La varicelle est une maladie bénigne chez l'enfant en Occident.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes en Occident?",
+        "answer": "La varicelle est une maladie grave chez l'adulte en Occident.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les femmes enceintes?",
+        "answer": "Chez la femme enceinte, il existe un risque faible de varicelle congénitale et de varicelle néonatale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les patients immunodéprimés?",
+        "answer": "Les immunodéprimés présentent des formes graves, ulcéro-nécrotiques, compliquées d'atteinte viscérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les enfants?",
+        "answer": "L'évolution est simple chez l'enfant en 10-15 jours, mais des surinfections cutanées sont fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes?",
+        "answer": "La varicelle peut être grave chez l'adulte, avec des formes ulcéro-nécrotiques et des complications viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les patients immunodéprimés?",
+        "answer": "Les immunodéprimés présentent des formes graves, ulcéro-nécrotiques, compliquées d'atteinte viscérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les enfants?",
+        "answer": "L'évolution est simple chez l'enfant en 10-15 jours, mais des surinfections cutanées sont fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes?",
+        "answer": "La varicelle peut être grave chez l'adulte, avec des formes ulcéro-nécrotiques et des complications viscérales.",
+        "qtype": "symptômes"
+    }
+]

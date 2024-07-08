@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la prévalence des infections par le VIH en Afrique Sub-saharienne selon l'OMS en 2021?",
+        "answer": "70 % des 37,7 millions de personnes infectées par le VIH vivent en Afrique Sub-saharienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes vivaient avec le VIH en 2021?",
+        "answer": "En 2021, 37,7 millions de personnes vivaient avec le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des nouvelles infections à VIH en 2020 concernait les professionnel(e)s du sexe et leurs clients, les hommes gays et autres hommes ayant des rapports sexuels avec des hommes (HSH), les consommateurs de drogues injectables, les femmes transgenres et leurs partenaires sexuels?",
+        "answer": "En 2020, 65 % des nouvelles infections concernaient ces populations clés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le risque de contracter le VIH pour les personnes qui s’injectent des drogues?",
+        "answer": "Le risque de contracter le VIH est 35 fois plus élevé chez les personnes qui s’injectent des drogues.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des femmes adultes de 15 ans et plus vivant avec le VIH avaient accès au traitement en 2020?",
+        "answer": "79 % des femmes adultes de 15 ans et plus avaient accès au traitement en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH qui connaissaient leur statut sérologique en 2020?",
+        "answer": "84 % de toutes les personnes vivant avec le VIH connaissaient leur statut sérologique en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes sont mortes de maladies liées au SIDA en 2020?",
+        "answer": "Environ 680 000 personnes sont mortes de maladies liées au SIDA en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de femmes et de filles parmi les nouvelles infections à VIH en Afrique subsaharienne?",
+        "answer": "En Afrique subsaharienne, les femmes et les filles représentaient 63 % de toutes les nouvelles infections à VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de femmes enceintes vivant avec le VIH qui avaient accès à des antirétroviraux pour prévenir la transmission du VIH à leurs bébés en 2020?",
+        "answer": "85 % des femmes enceintes vivant avec le VIH avaient accès à des antirétroviraux en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH qui avaient accès au traitement en 2020?",
+        "answer": "73 % de toutes les personnes vivant avec le VIH avaient accès au traitement en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH qui avaient une charge virale indétectable en 2020?",
+        "answer": "66 % des personnes vivant avec le VIH avaient une charge virale indétectable en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de nouvelles infections à VIH chez les enfants depuis 2010?",
+        "answer": "Les nouvelles infections à VIH chez les enfants ont diminué de 53 % depuis 2010.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de nouvelles infections à VIH en dehors de l’Afrique subsaharienne en 2020?",
+        "answer": "93 % des nouvelles infections à VIH en dehors de l’Afrique subsaharienne concernaient les populations clés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de nouvelles infections à VIH en Afrique subsaharienne en 2020?",
+        "answer": "39 % des nouvelles infections à VIH en Afrique subsaharienne concernaient les populations clés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de jeunes femmes âgées de 15 à 24 ans infectées par le VIH chaque semaine?",
+        "answer": "Environ 5 000 jeunes femmes âgées de 15 à 24 ans sont infectées par le VIH chaque semaine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de femmes dans le monde qui ont subi des violences physiques et/ou sexuelles de la part d’un partenaire intime ou des violences sexuelles de la part d’un non-partenaire?",
+        "answer": "Plus d’un tiers (35 %) des femmes dans le monde ont subi des violences physiques et/ou sexuelles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de femmes qui ont subi des violences physiques ou sexuelles de la part d’un partenaire intime et qui ont un risque accru de contracter le VIH?",
+        "answer": "Les femmes qui ont subi des violences physiques ou sexuelles de la part d’un partenaire intime ont 1,5 fois plus de risques de contracter le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH qui connaissaient leur statut sérologique en 2020?",
+        "answer": "84 % des personnes vivant avec le VIH connaissaient leur statut sérologique en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes ayant accès au traitement parmi celles qui connaissaient leur statut sérologique en 2020?",
+        "answer": "87 % des personnes qui connaissaient leur statut sérologique avaient accès à un traitement en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes ayant une charge virale indétectable parmi celles ayant accès au traitement en 2020?",
+        "answer": "90 % des personnes ayant accès au traitement avaient une charge virale indétectable en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH qui avaient accès au traitement en 2020?",
+        "answer": "73 % des personnes vivant avec le VIH avaient accès au traitement en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH qui avaient une charge virale indétectable en 2020?",
+        "answer": "66 % des personnes vivant avec le VIH avaient une charge virale indétectable en 2020.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de décès liés au SIDA qui ont été réduits depuis le pic de 2004?",
+        "answer": "Les décès liés au SIDA ont été réduits de 64 % depuis le pic de 2004.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de décès liés au SIDA qui ont été réduits depuis 2010?",
+        "answer": "Les décès liés au SIDA ont été réduits de 47 % depuis 2010.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de mortalité liée au SIDA qui a diminué chez les femmes et les filles depuis 2010?",
+        "answer": "La mortalité liée au SIDA a diminué de 53 % chez les femmes et les filles depuis 2010.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de mortalité liée au SIDA qui a diminué chez les hommes et les garçons depuis 2010?",
+        "answer": "La mortalité liée au SIDA a diminué de 41 % chez les hommes et les garçons depuis 2010.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH en Afrique de l'Est et du Sud en 2019?",
+        "answer": "En 2019, 20,7 millions de personnes vivaient avec le VIH en Afrique de l'Est et du Sud.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH en Afrique de l'Ouest et du Centre en 2019?",
+        "answer": "En 2019, 4,9 millions de personnes vivaient avec le VIH en Afrique de l'Ouest et du Centre.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de personnes vivant avec le VIH en Asie et Pacifique en 2019?",
+        "answer": "En 2019, 5,8 millions de personnes vivaient avec le VIH en Asie et Pacifique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission du VIH chez l'enfant?",
+        "answer": "L'infection de l'enfant se fait essentiellement par la transmission mère-enfant pendant la grossesse, l'accouchement ou en post natal, par l'allaitement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les trois formes d'évolution de l'infection à VIH chez l'enfant?",
+        "answer": "L'évolution se fait principalement sous 3 formes : forme précoce et sévère, forme lentement évolutive, et forme des progresseurs lents.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les besoins immédiats pour les enfants infectés par le VIH?",
+        "answer": "Les besoins immédiats sont les suivants : un traitement instauré (très) précocement, des progrès dans le développement des ARV (galéniques, tolérance…), et un soutien des enfants/familles (vulnérabilité, échecs thérapeutiques…).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du stade clinique 1 de l'infection à VIH chez l'enfant?",
+        "answer": "Les symptômes du stade clinique 1 sont : asymptomatique et adénopathies généralisées persistantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du stade clinique 2 de l'infection à VIH chez l'enfant?",
+        "answer": "Les symptômes du stade clinique 2 sont : hépato-splénomégalie persistante inexpliquée, prurigo, verrues vulgaires extensives, molluscum contagiosum extensif, onyxis fongique, ulcération(s) orale(s) récurrente(s), parotidomégalie persistante inexpliquée, érythème gingival linéaire, zona, infections des voies aériennes supérieures récurrentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du stade clinique 3 de l'infection à VIH chez l'enfant?",
+        "answer": "Les symptômes du stade clinique 3 sont : malnutrition modérée inexpliquée, diarrhée persistante inexpliquée, fièvre persistante inexpliquée, candidose oro-pharyngée après 6 à 8 semaines de vie, leucoplasie chevelue orale, gingivostomatite ulcéro-nécrosante aiguë ou périodontite uléro-nécrosante aiguë, tuberculose monoganglionnaire, tuberculose pulmonaire isolée, pneumonie bactérienne (à pyogène) sévère récurrente, pneumopathie interstitielle lymphoïde symptomatique, broncho-pneumopathie chronique du VIH dont bronchectasies, anémie (< 8 g/dL), neutropénie (< 500/µL), thrombopénie (< 50 000/µL) chroniques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du stade clinique 4 de l'infection à VIH chez l'enfant?",
+        "answer": "Les symptômes du stade clinique 4 sont : malnutrition sévère, retard de croissance statural ou pondéral sévère ne répondant pas à une prise en charge standard, pneumocystose pulmonaire, infection bactérienne sévère récurrente comme empyème, pyomyosite, ostéite ou ostéo-arthrite, méningite, à l'exclusion de la pneumonie, infection à H. simplex chronique oro-labiale ou cutanée > 1 mois ou viscérale, candidose œsophagienne ou trachéo-bronchique ou pulmonaire, tuberculose extra pulmonaire ou disséminée, maladie de Kaposi, rétinite à CMV ou toute autre atteinte viscérale survenant après l'âge de 1 mois, toxoplasmose cérébrale survenant après l'âge de 1 mois, cryptococcose extra pulmonaire dont méningée, encéphalopathie du VIH, mycose profonde disséminée (coccidioïdomycose, histoplasmose, talaromycose), infection disséminée à mycobactéries atypiques, cryptosporidiose chronique, isosporose chronique, lymphome cérébral B non hodgkinien, leuco-encéphalopathie multifocale progressive, néphropathie du VIH symptomatique, cardiomyopathie du VIH symptomatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une infection à VIH chez un nourrisson de moins de 18 mois?",
+        "answer": "Les signes cliniques évocateurs sont : retard de croissance staturo-pondéral, retard des acquisitions psychomotrices, épisodes diarrhéiques fréquents ou prolongés, infections bactériennes à répétition, broncho-pulmonaires ou de la sphère ORL, adénopathies généralisées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères pour un diagnostic présomptif d'infection sévère à VIH chez un nourrisson de moins de 18 mois?",
+        "answer": "Les critères sont : un des signes du stade 4 de l'OMS (pneumonie à Pneumocystis jiroveci, méningite à cryptocoque, malnutrition sévère, sarcome de Kaposi, tuberculose pulmonaire ou extra pulmonaire disséminée) ou au moins deux des signes suivants : candidose oro-pharyngée, infection bactérienne sévère, pneumonie sévère.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une infection à VIH chez un enfant de plus de 18 mois?",
+        "answer": "Les signes cliniques évocateurs sont : infections respiratoires fréquentes, cytopénies auto-immunes à moelle riche portant sur les plaquettes et les polynucléaires, sarcome de Kaposi cutanéomuqueux rare, atteintes viscérales rares.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic de certitude de l'infection à VIH chez un enfant de plus de 18 mois?",
+        "answer": "Le diagnostic de certitude est établi sur la base de 2 tests sérologiques positifs, tout comme chez l'adulte.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests utilisés pour le diagnostic de l'infection à VIH chez le nourrisson de mère séropositive?",
+        "answer": "Le diagnostic est fait par la détection du virus soit par la PCR ADN à partir des cellules sanguines, soit par l'ARN VIH plasmatique ou charge virale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la première ligne de traitement antirétroviral chez les adultes et adolescents?",
+        "answer": "Le dolutegravir (II) associé à 2 INTI est le premier choix ; l'efavirenz 400 mg + 2 INTI est une alternative possible au dolutegravir ; pour les jeunes et enfants de moins de 6 ans : le raltegravir + 2 INTI est préféré.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la deuxième ligne de traitement antirétroviral chez les adultes et adolescents?",
+        "answer": "Si le traitement de première ligne ne contient pas d'II : le dolutegravir associé à 2 INTI optimisés ; si le traitement de première ligne contenait un II : un IP boosté associé à 2 INTI optimisés sera choisi.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la première ligne de traitement antirétroviral chez les enfants?",
+        "answer": "ABC + 3TC + DTG, ABC + 3TC + LPV/r, TAF + 3TC (or FTC) + DTG, ABC + 3TC + EFV (ou NVP), ABC + 3TC + RAL, AZT + 3TC + EFV (ou NVP), AZT + 3TC + LPV/r (ou RAL), AZT + 3TC + LPV/r.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la deuxième ligne de traitement antirétroviral chez les enfants?",
+        "answer": "Deux INTIs + (LPV/r ou ATV/r), DRV/r + 1-2 INTIs ± DTG, Optimiser en utilisant un test de résistance génotypique pour les enfants de moins de 3 ans.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la troisième ligne de traitement antirétroviral chez les enfants?",
+        "answer": "DRV/r + 1-2 INTIs ± DTG, Optimiser en utilisant un test de résistance génotypique pour les enfants de moins de 3 ans.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la première ligne de traitement antirétroviral chez les nouveaux-nés?",
+        "answer": "AZT (or ABC) + 3TC + RAL, AZT + 3TC + NVP, AZT + 3TC + LPV/r.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la deuxième ligne de traitement antirétroviral chez les nouveaux-nés?",
+        "answer": "AZT + 3TC + LPV/r.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la troisième ligne de traitement antirétroviral chez les nouveaux-nés?",
+        "answer": "DRV/r + 1-2 INTIs ± DTG, Optimiser en utilisant un test de résistance génotypique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux défis pour l'accès aux traitements antirétroviraux dans les pays à ressources limitées?",
+        "answer": "Les défis incluent la couverture insuffisante en ARV, les difficultés de financements, la morbi-mortalité élevée, les seuils de début de traitement et les choix des schémas thérapeutiques d'ARV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque de mortalité chez les adultes sous traitement ARV en Afrique subsaharienne?",
+        "answer": "Les principaux facteurs de risque sont le stade clinique avancé (stade OMS 3-4), l'état d'immunodépression sévère (CD4 < 200 cellules/mm3) et une charge virale supérieure à 5 log10/mL.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les critères d'échec clinique d'un traitement antirétroviral de première ligne?",
+        "answer": "L'échec clinique est défini par la survenue d'un événement clinique de stade OMS 4 (sauf IRIS et exceptions).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères d'échec immunologique d'un traitement antirétroviral de première ligne?",
+        "answer": "L'échec immunologique est défini par le retour des CD4 à leur niveau de départ (ou moins), une chute de 50 % par rapport au pic, ou la persistance des CD4 < 100/mm3.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères d'échec virologique d'un traitement antirétroviral de première ligne?",
+        "answer": "L'échec virologique est défini par une charge virale > 1 000 copies/mL.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les patients en échec de seconde ligne de traitement antirétroviral?",
+        "answer": "Les patients en échec de seconde ligne devraient bénéficier d'un traitement de 3e ligne à base de darunavir/ritonavir associé au raltégravir et/ou de l'étravirine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les patients co-infectés VIH/tuberculose?",
+        "answer": "Initier le traitement ARV chez tous les patients infectés par le VIH ayant une tuberculose active quel que soit le nombre de CD4. Débuter par le traitement antituberculeux puis initier le traitement ARV aussi tôt que possible (dans les huit premières semaines). Utiliser préférentiellement l'Efavirenz comme INNTI ou le dolutegravir à double dose (50 mg x 2).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les patients co-infectés VIH/VHB?",
+        "answer": "Débuter les ARV quels que soient le taux de CD4 et le stade clinique chez tout patient nécessitant un traitement pour VHB. Utiliser 2 INTI actifs sur VIH et VHB (TDF + 3TC/FTC).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les patients infectés par le VIH2?",
+        "answer": "L'association en 1re ligne chez un patient infecté par le VIH2 ou VIH1 + 2 de 2 INTI (AZT + 3TC ou TDF + 3TC ou FTC) à un II, le dolutegravir ou un IP boosté par le ritonavir (lopinavir ou darunavir) est proposée. L'alternative est de remplacer l'IP par un II, le dolutegravir.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les enfants co-infectés tuberculose et VIH?",
+        "answer": "Tout enfant présentant une tuberculose évolutive active doit immédiatement commencer un traitement antituberculeux et débuter un traitement par ARV dès que le traitement antituberculeux est bien toléré, quel que soit le nombre de lymphocytes CD4 ou le stade clinique. En cas de traitement antituberculeux contenant de la rifampicine : si l'enfant a moins de 3 ans, le schéma thérapeutique préférentiel associe 2 INTI + NVP ou 3 INTI ; si l'enfant a plus de 3 ans, le schéma de première intention associe 2 INTI + EFV.",
+        "qtype": "traitement"
+    }
+]

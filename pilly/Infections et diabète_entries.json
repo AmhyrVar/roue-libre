@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la prévalence du diabète en Afrique en milieu urbain?",
+        "answer": "En Afrique, des taux de prévalence de l’ordre de 5 % sont documentés en milieu urbain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pays compte le plus de diabétiques au monde?",
+        "answer": "L’Inde est d’ores et déjà le pays comptant le plus de diabétiques au monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types de diabètes sont observés dans les pays tropicaux?",
+        "answer": "À côté des diabètes de type 1 ou 2 et gestationnel, on observe dans les pays tropicaux des diabètes consécutifs à la prise de médicaments pancréatotoxiques, à la pancréatite chronique alcoolique et à la pancréatite chronique calcifiante tropicale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le défi majeur dans la prise en charge du diabète dans les pays à ressources limitées?",
+        "answer": "Le défi majeur est que, dans ces pays, le diabète est mal pris en charge : peu d’éducation au diabète, peu ou pas de services spécialisés ni de personnels formés, peu d’autocontrôle, faible accès à l’insuline et au dosage de l’HbA1C.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la première cause d’insuffisance rénale chronique chez les pauvres dans les pays à ressources limitées?",
+        "answer": "Chez les pauvres, le diabète est la 1re cause d’insuffisance rénale chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux facteurs contribuant à la mortalité du diabète dans les pays tropicaux?",
+        "answer": "Les infections, les erreurs thérapeutiques et les ruptures d’approvisionnement en insuline sont des causes majeures de comas acido-cétosiques ou hyperosmolaires, souvent révélateurs de diabètes jusque là non diagnostiqués.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types d'infections sont les diabétiques plus susceptibles de contracter?",
+        "answer": "Les diabétiques sont plus susceptibles de contracter des infections bactériennes et fongiques telles que les infections de la peau et des tissus mous, osseuses et les candidoses uro-génitales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une pyélonéphrite chez un diabétique?",
+        "answer": "Le traitement recommandé pour une pyélonéphrite chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la sévérité d'une bactériémie chez un diabétique?",
+        "answer": "La bactériémie chez un diabétique présente un risque vital.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une mucormycose rhino-cérébrale chez un diabétique?",
+        "answer": "Le traitement recommandé pour une mucormycose rhino-cérébrale chez un diabétique est l'amphotéricine B IV ± chirurgie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la prévalence de la tuberculose chez les diabétiques dans les pays défavorisés?",
+        "answer": "La tuberculose est plus fréquente, plus sévère et atypique en cas de diabète dans les pays défavorisés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques associés aux infections urinaires hautes chez les diabétiques?",
+        "answer": "Les infections urinaires hautes chez les diabétiques sont davantage bilatérales et compliquées (bactériémies, abcès péri-rénaux, nécrose papillaire, pyélonéphrite emphysémateuse).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des bactériémies chez les diabétiques?",
+        "answer": "Les bactéries le plus souvent retrouvées sont E. coli, K. pneumoniae et S. aureus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une otite maligne externe chez un diabétique?",
+        "answer": "Le traitement recommandé pour une otite maligne externe chez un diabétique est la ceftazidime ou piperacilline/tazobactam ± débridement chirurgical.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection urinaire basse chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection urinaire basse chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection profonde des parties molles chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection profonde des parties molles chez un diabétique est une antibiothérapie et éventuellement une chirurgie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une candidose chez un diabétique?",
+        "answer": "Le traitement recommandé pour une candidose chez un diabétique est l'utilisation d'antifongiques locaux, et des antifongiques systémiques si vulvovaginite récidivante.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une pyélonéphrite emphysémateuse chez un diabétique?",
+        "answer": "Le traitement recommandé pour une pyélonéphrite emphysémateuse chez un diabétique est une antibiothérapie et éventuellement une chirurgie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une pneumonie chez un diabétique?",
+        "answer": "Le traitement recommandé pour une pneumonie chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une dermo-hypodermite aiguë bactérienne chez un diabétique?",
+        "answer": "Le traitement recommandé pour une dermo-hypodermite aiguë bactérienne chez un diabétique est une antibiothérapie et éventuellement une chirurgie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection superficielle de la peau chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection superficielle de la peau chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection du pied ou de la main diabétique?",
+        "answer": "Le traitement recommandé pour une infection du pied ou de la main diabétique est une antibiothérapie et éventuellement une chirurgie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une prostatite chez un diabétique?",
+        "answer": "Le traitement recommandé pour une prostatite chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection des parties molles chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection des parties molles chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une pyomyosite chez un diabétique?",
+        "answer": "Le traitement recommandé pour une pyomyosite chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection urinaire haute chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection urinaire haute chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection des tissus mous chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection des tissus mous chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection osseuse chez un diabétique?",
+        "answer": "Le traitement recommandé pour une infection osseuse chez un diabétique est une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une candidose uro-génitale chez un diabétique?",
+        "answer": "Le traitement recommandé pour une candidose uro-génitale chez un diabétique est l'utilisation d'antifongiques locaux.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les types d'infections cutanées plus fréquentes chez les diabétiques?",
+        "answer": "Les dermo-hypodermites aiguës bactériennes, les pyomyosites et les fasciites nécrosantes sont plus fréquentes chez les diabétiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'origine des dermo-hypodermites aiguës bactériennes chez les diabétiques?",
+        "answer": "L'origine est streptococcique, staphylococcique ou polymicrobienne avec ou sans anaérobies associés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi la fréquence des infections cutanées est-elle accrue dans les pays pauvres?",
+        "answer": "La fréquence est accrue par le manque d’hygiène et la marche pieds nus à l’origine de blessures superficielles quasi quotidiennes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle infection est fréquemment associée au diabète et affecte les organes génitaux?",
+        "answer": "La fasciite nécrosante des organes génitaux à anaérobies (gangrène de Fournier) est fréquemment associée au diabète.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des candidoses cutanéo-muqueuses chez les diabétiques?",
+        "answer": "Les candidoses cutanéo-muqueuses touchent les grands plis et les muqueuses buccales et génitales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment sont les candidoses cutanéo-muqueuses chez les diabétiques en termes de gravité?",
+        "answer": "Elles sont gênantes et souvent résistantes aux antifongiques topiques, mais elles sont sans gravité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que le pied diabétique?",
+        "answer": "C’est une infection très fréquente, insidieuse, traînante et très négligée dans les pays à ressources limitées où elle conduit plus souvent qu’ailleurs à l’amputation.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels facteurs participent à l'infection du pied diabétique?",
+        "answer": "Traumatisme, infection, ischémie, neuropathie, troubles trophiques et de la cicatrisation des tissus mous et ostéo-cartilagineux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment est classée l'infection du pied diabétique selon l'Université du Texas?",
+        "answer": "Elle est classée en 4 grades (Grade 0 à Grade 3) et 4 stades (Stade A à Stade D).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas d'infection clinique du pied diabétique?",
+        "answer": "Des prélèvements sont recommandés à partir du grade 2, aspiration à l’aiguille fine en cas de collection profonde, biopsie osseuse ou aspiration en cas d’ostéite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les germes en cause dans les infections limitées du pied diabétique?",
+        "answer": "Aérobies, bacilles à Gram négatif, streptocoques, staphylocoques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement initial pour une infection limitée du pied diabétique?",
+        "answer": "Amoxi-clav ou clindamycine, plus des soins locaux minutieux.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes en cause dans les infections extensives du pied diabétique?",
+        "answer": "Polymicrobisme dont anaérobies, bacilles à Gram négatif, Pseudomonas sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement initial pour une infection extensive du pied diabétique?",
+        "answer": "Antibiothérapie adaptée aux prélèvements profonds, en attendant antibiothérapie probabiliste par pipéracilline + tazobactam à dose osseuse ou cefepime, ou après avis d'infectiologue carbapenem + vancomycine, plus prise en charge chirurgicale et soins locaux.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les infections emphysémateuses spécifiques du diabète?",
+        "answer": "Cholécystite, cystite et surtout pyélonéphrite emphysémateuse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le germe responsable de l'otite maligne externe chez les diabétiques?",
+        "answer": "Pseudomonas aeruginosa.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'otite maligne externe à Pseudomonas aeruginosa?",
+        "answer": "Otorrhée, douleurs, surdité progressive, cellulite régionale avec œdème marqué et formations polypoïdes obstruant le conduit auditif.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de l'otite maligne externe à Pseudomonas aeruginosa?",
+        "answer": "Antibiothérapie adaptée et très prolongée, souvent débridements chirurgicaux itératifs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mortalité de l'otite maligne externe à Pseudomonas aeruginosa?",
+        "answer": "La mortalité est élevée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle infection fongique rare est due aux champignons de l'ordre des Mucorales chez les diabétiques?",
+        "answer": "La mucormycose rhino-cérébrale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la mucormycose rhino-cérébrale?",
+        "answer": "Fièvre, signes généraux, douleur oculaire ou centro-faciale, obstruction nasale, chemosis, suivis de nécroses des muqueuses du nez, du pharynx ou du palais, thromboses carotidiennes, atteintes osseuses, de l’œil et des nerfs crâniens.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la mucormycose rhino-cérébrale?",
+        "answer": "Contrôle de l’acidocétose, amphotéricine B IV, complétés par une chirurgie de débridement et de drainage complexe.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mortalité de la mucormycose rhino-cérébrale?",
+        "answer": "La mortalité est très élevée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Le traitement des infections diffère-t-il chez les diabétiques par rapport aux non-diabétiques?",
+        "answer": "Non, le traitement des infections ne diffère pas chez le diabétique de celui entrepris chez les non-diabétiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'importance de la désescalade en cas d'antibiothérapie probabiliste à large spectre?",
+        "answer": "Elle est importante pour prévenir l'émergence de résistances.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Est-il conseillé de reporter la chirurgie au profit d'une antibiothérapie prolongée en cas d'indication chirurgicale?",
+        "answer": "Non, il n'est pas conseillé de reporter la chirurgie au profit d'une antibiothérapie prolongée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la première complication du diabète dans les régions tropicales?",
+        "answer": "L’infection est la première complication du diabète.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs importants de morbidité, d'invalidité et de décès prématurés chez les diabétiques dans les régions tropicales?",
+        "answer": "L’infection est un facteur important de morbidité, d’invalidité (amputations) et de décès prématurés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment peut-on éviter en grande partie les complications du diabète?",
+        "answer": "Par la prévention primaire et secondaire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il difficile de mettre en œuvre la prévention des complications du diabète dans les régions tropicales?",
+        "answer": "En raison des conditions de pauvreté et d’accès limité aux soins de qualité.",
+        "qtype": "prévention"
+    }
+]

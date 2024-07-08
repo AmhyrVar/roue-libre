@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelle est la proportion de cancers attribuables à une infection dans le monde selon la base de données GLOBACAN 2018?",
+        "answer": "2,2 millions de cas de cancers dans le monde sont attribuables à une infection, soit 13 % de l’ensemble des cancers.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les cancers les plus fréquents dans les pays à ressources limitées?",
+        "answer": "Les cancers les plus fréquents dans les pays à ressources limitées sont ceux de l’estomac, de l’œsophage, du poumon, du foie et du col utérin.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux virus incriminés dans les cancers?",
+        "answer": "Les principaux virus incriminés dans les cancers sont les virus des hépatites B et C, le virus d'Epstein-Barr (EBV), les papillomavirus humains (HPV), l'herpès humain type 8 (HHV8), le virus T-lymphotrope humain (HTLV1) et le virus de l'immunodéficience humaine (VIH1 et VIH2).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les mécanismes de la carcinogénèse des micro-organismes?",
+        "answer": "Le mécanisme de la carcinogénèse des micro-organismes fait intervenir l’intégration de leur génome dans les cellules hôtes et le dérèglement des gênes (virus) ou l’inflammation chronique des tissus (parasites, bactéries).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les cofacteurs nécessaires pour qu'une infection induise un cancer?",
+        "answer": "Des cofacteurs alimentaires (flatoxines, nitrosamines, sel...), physico-chimiques (tabac, pollution...) ou génétiques sont nécessaires pour qu'une infection induise un cancer.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels cancers peuvent être prévenus par la vaccination?",
+        "answer": "Le cancer du foie induit par le VHB et le cancer du col utérin induit par les HPV peuvent être prévenus par la vaccination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le taux d’incidence des cancers attribuables à une infection en Asie du Sud-Est?",
+        "answer": "Le taux d’incidence des cancers attribuables à une infection en Asie du Sud-Est est de 38 pour 100 000.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux d’incidence des cancers attribuables à une infection en Afrique sub-saharienne?",
+        "answer": "Le taux d’incidence des cancers attribuables à une infection en Afrique sub-saharienne est de 33 pour 100 000.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les arguments épidémiologiques permettant d’incriminer un micro-organisme dans la survenue d’un cancer?",
+        "answer": "Un argument épidémiologique est l'aire d’hyperendémicité d’un micro-organisme se superposant avec celle d’un cancer, comme le VHB et le cancer du foie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les arguments microbiologiques permettant d’incriminer un micro-organisme dans la survenue d’un cancer?",
+        "answer": "Les arguments microbiologiques incluent la relation entre une infestation virale massive et précoce et le cancer, comme un titre élevé d’IgA VCA spécifiques du virus d’Epstein Barr (EBV) et le carcinome du rhinopharynx.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les arguments cellulaires permettant d’incriminer un micro-organisme dans la survenue d’un cancer?",
+        "answer": "Un argument cellulaire est la prolifération des cellules de culture lors de leur transfection par le génome d’un oncovirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les arguments moléculaires permettant d’incriminer un micro-organisme dans la survenue d’un cancer?",
+        "answer": "Un argument moléculaire est la présence de génomes viraux intégrés dans l’ADN des cellules cancéreuses, comme pour le VHB.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi les antiviraux ne sont-ils pas efficaces sur les cancers viro-induits?",
+        "answer": "Les antiviraux n’ont pas d’efficacité sur les cancers viro-induits; seules les mesures de prévention comme la vaccination sont utilisées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le lien entre l'angiosarcome de Kaposi et le VIH?",
+        "answer": "L’angiosarcome de Kaposi consécutif à l’infection par HHV8 est plus souvent consécutif à une infection par le VIH au stade SIDA, qui induit une immunodépression CD4 marquée.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus de l'hépatite B (VHB)?",
+        "answer": "Le virus de l'hépatite B (VHB) se transmet de manière parentérale, sexuelle, de la mère à l'enfant et de l'enfant à l'enfant.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels cancers sont associés au virus de l'hépatite B (VHB)?",
+        "answer": "Le virus de l'hépatite B (VHB) est associé au carcinome hépatocellulaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus de l'hépatite C (VHC)?",
+        "answer": "Le virus de l'hépatite C (VHC) se transmet de manière parentérale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels cancers sont associés au virus de l'hépatite C (VHC)?",
+        "answer": "Le virus de l'hépatite C (VHC) est associé au carcinome hépatocellulaire et au lymphome non Hodgkinien.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus d'Epstein-Barr (EBV)?",
+        "answer": "Le virus d'Epstein-Barr (EBV) se transmet de manière salivaire, de la mère à l'enfant et de l'enfant à l'enfant.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels cancers sont associés au virus d'Epstein-Barr (EBV)?",
+        "answer": "Le virus d'Epstein-Barr (EBV) est associé au lymphome de Burkitt, au carcinome du rhinopharynx, à la maladie de Hodgkin et aux lymphomes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission des papillomavirus humains (HPV)?",
+        "answer": "Les papillomavirus humains (HPV) se transmettent de manière sexuelle et cutanée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels cancers sont associés aux papillomavirus humains (HPV)?",
+        "answer": "Les papillomavirus humains (HPV) sont associés aux dysplasies cutanées, aux cancers de la cavité buccale, de l'oropharynx et du larynx, ainsi qu'aux cancers anaux et génitaux, surtout utérins (HPV16/18).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission de l'herpès humain type 8 (HHV8)?",
+        "answer": "L'herpès humain type 8 (HHV8) se transmet de manière salivaire et sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels cancers sont associés à l'herpès humain type 8 (HHV8)?",
+        "answer": "L'herpès humain type 8 (HHV8) est associé au sarcome de Kaposi, aux lymphomes des cavités et au syndrome de Castelman.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus T-lymphotrope humain (HTLV1)?",
+        "answer": "Le virus T-lymphotrope humain (HTLV1) se transmet de la mère à l'enfant (lait), de manière parentérale et sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels cancers sont associés au virus T-lymphotrope humain (HTLV1)?",
+        "answer": "Le virus T-lymphotrope humain (HTLV1) est associé aux leucémies et lymphomes T.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus de l'immunodéficience humaine (VIH1 et VIH2)?",
+        "answer": "Le virus de l'immunodéficience humaine (VIH1 et VIH2) se transmet de manière parentérale, sexuelle et de la mère à l'enfant.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle du VIH dans la carcinogénèse?",
+        "answer": "Le VIH aggrave indirectement les mécanismes de la carcinogénèse via l'immunodépression qu'il induit.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quel type de cancer est favorisé par la dépression immunitaire?",
+        "answer": "La dépression immunitaire favorise les lymphomes, l'angiosarcome de Kaposi et les cancers tissulaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types d'anticorps sont formés lors de l'infection par le virus Epstein-Barr (EBV)?",
+        "answer": "Les anticorps formés sont des anticorps hétérophiles de type IgM, des anticorps spécifiques IgG et IgM, incluant EA (anticorps précoces), VCA (anticorps anticapside virale), et EBNA (anticorps antinucléaires).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels cancers sont associés au virus Epstein-Barr (EBV)?",
+        "answer": "Le virus Epstein-Barr (EBV) est responsable de la mononucléose infectieuse, du lymphome de Burkitt (Afrique) et du carcinome du rhinopharynx (Asie/Afrique).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle bactérie est incriminée dans la survenue de gastrites et de lymphome MALT?",
+        "answer": "Helicobacter pylori est incriminée dans la survenue de gastrites et de lymphome MALT.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types de cancers peuvent être causés par Helicobacter pylori?",
+        "answer": "Helicobacter pylori peut causer des lymphomes MALT et des adénocarcinomes de l'estomac.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle bactérie est associée aux lymphomes digestifs?",
+        "answer": "Campylobacter jejuni est associée aux lymphomes digestifs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment la pullulation bactérienne dans les aliments mal conservés peut-elle induire un cancer?",
+        "answer": "La pullulation bactérienne dans les aliments mal conservés peut transformer les nitrates en nitrites puis en nitrosamine, un carcinogène chimique induisant le cancer de l'estomac.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel type de cancer est favorisé par la bilharziose vésicale?",
+        "answer": "La bilharziose vésicale favorise le cancer de la vessie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de cancérisation des ulcères phagédéniques en Afrique?",
+        "answer": "Le taux de cancérisation des ulcères phagédéniques en Afrique est de 10%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels parasites sont associés au cancer des voies biliaires?",
+        "answer": "Clonorchis sinensis et Opistorchis spp. sont associés au cancer des voies biliaires (cholangiocarcinome).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel rôle joue le paludisme chronique dans le développement du lymphome de Burkitt?",
+        "answer": "Le paludisme chronique favorise le développement du lymphome de Burkitt par stimulation polyclonale des lymphocytes B et immunodépression des lymphocytes T, facilitant le rôle du virus EBV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle maladie chronique peut aboutir à un cancer de l'œsophage?",
+        "answer": "La maladie de Chagas peut aboutir à un cancer de l'œsophage.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types de lésions cutanées peuvent évoluer vers un cancer?",
+        "answer": "Les lésions cutanées chroniques au cours des chromoblastomycoses peuvent évoluer vers un cancer.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle vaccination est recommandée pour prévenir le cancer du foie?",
+        "answer": "La vaccination des nourrissons contre l’hépatite virale B est recommandée pour prévenir le cancer du foie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle mesure est recommandée pour les nouveau-nés dont la mère est infectée par le VHB?",
+        "answer": "Il est recommandé d'administrer des gammaglobulines spécifiques anti HBs et de vacciner immédiatement les nouveau-nés dont la mère est infectée par le VHB.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle vaccination est recommandée pour prévenir les cancers liés au HPV?",
+        "answer": "La vaccination des adolescentes et adolescents contre le HPV est recommandée pour prévenir les cancers liés au HPV.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les infections de l’estomac par Helicobacter pylori?",
+        "answer": "Le traitement par antibiotiques est recommandé pour les infections de l’estomac par Helicobacter pylori.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé pour la bilharziose urinaire et les distomatoses hépato-biliaires?",
+        "answer": "Le traitement précoce par le praziquantel est recommandé pour la bilharziose urinaire et les distomatoses hépato-biliaires.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir la transmission sexuelle des virus et bactéries?",
+        "answer": "L'utilisation de préservatifs est recommandée pour prévenir la transmission sexuelle des virus et bactéries.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles infections virales doivent être dépistées dans les produits sanguins en banque du sang?",
+        "answer": "Les infections virales telles que le VIH, le VHB, le VHC et le HTLV doivent être dépistées dans les produits sanguins en banque du sang.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle mesure est recommandée pour les mères infectées par HTLV-1 ou VIH?",
+        "answer": "Le contrôle de l’allaitement maternel est recommandé pour les mères infectées par HTLV-1 ou VIH.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel traitement est recommandé pour éviter le développement du sarcome de Kaposi chez les patients VIH?",
+        "answer": "Le traitement précoce de l’infection par le VIH est recommandé pour éviter l’immunosuppression favorisant le développement du sarcome de Kaposi.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment réduire les cofacteurs alimentaires de la carcinogenèse?",
+        "answer": "La réduction des cofacteurs alimentaires de la carcinogenèse, comme les mycotoxines (surtout l’aflatoxine B1) contaminant les céréales mal conservées, est recommandée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le rôle des anticorps hétérophiles de type IgM dans l'infection par EBV?",
+        "answer": "Les anticorps hétérophiles de type IgM agglutinent les globules rouges de mouton et doivent être différenciés de ceux présents au cours de la maladie sérique et chez des sujets sains.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les anticorps spécifiques mis en évidence par IFI lors de l'infection par EBV?",
+        "answer": "Les anticorps spécifiques mis en évidence par IFI sont EA (anticorps précoces), VCA (anticorps anticapside virale) et EBNA (anticorps antinucléaires).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de l'inflammation chronique dans la cancérisation des ulcères phagédéniques?",
+        "answer": "L'inflammation chronique est probablement plus responsable de la cancérisation des ulcères phagédéniques que l'infection bactérienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques qui font suspecter un carcinome spinocellulaire dans les ulcères phagédéniques?",
+        "answer": "Les signes cliniques incluent un aspect bourgeonnant et hémorragique et la présence d'adénopathies.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les infections urinaires favorisées par la bilharziose vésicale?",
+        "answer": "Le traitement précoce de la bilharziose urinaire par le praziquantel est recommandé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le lien entre les infections urinaires et le cancer de la vessie?",
+        "answer": "La formation de nitrosamine au cours des infections urinaires favorisées par la bilharziose vésicale est incriminée dans la survenue de cancers de la vessie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle des distomatoses hépato-biliaires dans le développement du cholangiocarcinome?",
+        "answer": "Les distomatoses hépato-biliaires dues à Clonorchis sinensis et à Opistorchis spp. favorisent le cancer des voies biliaires (cholangiocarcinome).",
+        "qtype": "épidémiologie"
+    }
+]

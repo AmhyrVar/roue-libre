@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quel est l'objectif principal du modèle de prise en charge intégrée des maladies de l'enfance (PCIME) élaboré par l'OMS et l'UNICEF en 2001?",
+        "answer": "L'objectif principal du modèle de prise en charge intégrée des maladies de l'enfance (PCIME) est de diminuer la mortalité due aux infections de l'enfance (enfants âgés de moins de 5 ans) et à leurs facteurs favorisant au niveau de base de la pyramide sanitaire, au sein des communautés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel était l'objectif 4 des Objectifs du Millénaire pour le Développement (OMD) des Nations Unies concernant la mortalité infantile?",
+        "answer": "L'objectif 4 des Objectifs du Millénaire pour le Développement (OMD) des Nations Unies visait à réduire de deux-tiers le nombre de décès des enfants de moins de 5 ans dans le monde d'ici 2015 par rapport à 1990.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel a été le taux de mortalité des enfants de moins de cinq ans dans le monde entre 1990 et 2015?",
+        "answer": "Le taux de mortalité des enfants de moins de cinq ans dans le monde a diminué de plus de moitié, passant de 90 à 43 décès pour 1 000 naissances vivantes entre 1990 et 2015.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les Objectifs de Développement Durable (ODD) concernant la mortalité infantile d'ici 2030?",
+        "answer": "Les Objectifs de Développement Durable (ODD) visent, d'ici à 2030, à éliminer les décès évitables de nouveau-nés et d'enfants de moins de 5 ans ainsi qu'à ramener la mortalité néonatale à 12 pour 1 000 naissances vivantes au plus et la mortalité des enfants de moins de 5 ans à 25 pour 1 000 naissances vivantes au plus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien d'enfants de moins de 5 ans sont décédés en 2015?",
+        "answer": "En 2015, parmi les 5,9 millions d'enfants décédés avant l'âge de 5 ans, 2,7 millions (45,1 %) sont morts au cours de la période néonatale (avant l'âge d'un mois).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles étaient les principales causes de décès chez les enfants de moins de 5 ans en 2015?",
+        "answer": "Les principales causes de décès chez les enfants de moins de 5 ans en 2015 étaient les complications liées à la prématurité, les infections respiratoires aiguës, et les causes liées à des événements survenus au cours de la grossesse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles étaient les principales causes de décès chez les nouveaux-nés (âgés de moins d'un mois) en 2015?",
+        "answer": "Les principales causes de décès chez les nouveaux-nés (âgés de moins d'un mois) en 2015 étaient les complications liées à la prématurité, les causes secondaires à des événements survenus au cours de la grossesse, suivies de causes infectieuses (septicémie ou méningite).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles étaient les principales causes de décès chez les enfants âgés de 1 mois à 5 ans en 2015?",
+        "answer": "Parmi les enfants qui décédaient entre 1 mois et 5 ans en 2015, les principales causes étaient les infections respiratoires aiguës, la déshydratation secondaire à une diarrhée, et les blessures.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des décès des enfants de moins de 5 ans surviennent en dehors des formations sanitaires?",
+        "answer": "Les décès des enfants de moins de 5 ans surviennent dans 70 % des cas en dehors des formations sanitaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les principales infections responsables de la mortalité infantile?",
+        "answer": "Les principales infections responsables de la mortalité infantile sont les infections respiratoires aiguës, les diarrhées de cause infectieuse (avec un impact majeur du rotavirus), la méningite, le VIH-SIDA, la rougeole, et les infections néonatales.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'impact de la malnutrition sur les infections chez les enfants?",
+        "answer": "Les infections favorisent la malnutrition et, de plus, la malnutrition aggrave les infections dans plus de 50 % des cas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'importance de la renutrition dans la prise en charge des infections chez les enfants?",
+        "answer": "La renutrition doit être intégrée à la prise en charge de toute infection chez les enfants.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les niveaux de la pyramide sanitaire pour les soins de santé primaire?",
+        "answer": "Les niveaux de la pyramide sanitaire pour les soins de santé primaire incluent le centre de santé communautaire (niveau 1), l'hôpital de district/arrondissement (niveau 2), et le CHU ou l'hôpital national (niveau 3).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les moyens de diagnostic disponibles au niveau de base de la pyramide sanitaire?",
+        "answer": "Les moyens de diagnostic disponibles au niveau de base de la pyramide sanitaire incluent la NFS-VS, la microscopie directe, et les tests rapides.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les moyens de diagnostic disponibles au niveau intermédiaire de la pyramide sanitaire?",
+        "answer": "Les moyens de diagnostic disponibles au niveau intermédiaire de la pyramide sanitaire incluent la radiologie générale, l'échographie générale, la bactériologie, la parasitologie, et la sérologie élémentaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les moyens de diagnostic disponibles au niveau supérieur de la pyramide sanitaire?",
+        "answer": "Les moyens de diagnostic disponibles au niveau supérieur de la pyramide sanitaire incluent l'IRM, le scanner, la radiologie spécialisée, l'échographie spécialisée, la sérologie, la microbiologie spécialisée, et les laboratoires de référence.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux objectifs de la Prise en charge intégrée des maladies de l'enfance (PCIME)?",
+        "answer": "Les principaux objectifs de la Prise en charge intégrée des maladies de l'enfance (PCIME) sont de diminuer la mortalité due aux infections de l'enfance et à leurs facteurs favorisant, et d'intégrer les activités de prise en charge au niveau communautaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs favorisant les infections chez les enfants de moins de 5 ans?",
+        "answer": "Les principaux facteurs favorisant les infections chez les enfants de moins de 5 ans incluent la malnutrition et les complications liées à la grossesse et à l'accouchement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'impact du rotavirus sur les diarrhées infectieuses chez les enfants?",
+        "answer": "Le rotavirus a un impact majeur sur les diarrhées infectieuses chez les enfants.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les chapitres spécifiques mentionnés pour une bonne prise en charge des infections néonatales et des infections liées à la grossesse?",
+        "answer": "Les chapitres spécifiques mentionnés pour une bonne prise en charge des infections néonatales et des infections liées à la grossesse sont « Infections néonatales », « Infections et grossesse » et « Infections puerpérales ».",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le rôle de l'OMS et de l'UNICEF dans la Prise en charge intégrée des maladies de l'enfance (PCIME)?",
+        "answer": "L'OMS et l'UNICEF ont élaboré le modèle de Prise en charge intégrée des maladies de l'enfance (PCIME) en 2001 pour diminuer la mortalité due aux infections de l'enfance.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité néonatale visé par les Objectifs de Développement Durable (ODD) d'ici 2030?",
+        "answer": "Les Objectifs de Développement Durable (ODD) visent à ramener la mortalité néonatale à 12 pour 1 000 naissances vivantes au plus d'ici 2030.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité des enfants de moins de 5 ans visé par les Objectifs de Développement Durable (ODD) d'ici 2030?",
+        "answer": "Les Objectifs de Développement Durable (ODD) visent à ramener la mortalité des enfants de moins de 5 ans à 25 pour 1 000 naissances vivantes au plus d'ici 2030.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux moyens de diagnostic disponibles au niveau des soins de santé primaire?",
+        "answer": "Les principaux moyens de diagnostic disponibles au niveau des soins de santé primaire incluent la NFS-VS, la microscopie directe, et les tests rapides.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux moyens de diagnostic disponibles au niveau des hôpitaux de district/arrondissement?",
+        "answer": "Les principaux moyens de diagnostic disponibles au niveau des hôpitaux de district/arrondissement incluent la radiologie générale, l'échographie générale, la bactériologie, la parasitologie, et la sérologie élémentaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux moyens de diagnostic disponibles au niveau des CHU et des hôpitaux nationaux?",
+        "answer": "Les principaux moyens de diagnostic disponibles au niveau des CHU et des hôpitaux nationaux incluent l'IRM, le scanner, la radiologie spécialisée, l'échographie spécialisée, la sérologie, la microbiologie spécialisée, et les laboratoires de référence.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'impact des infections sur la malnutrition chez les enfants?",
+        "answer": "Les infections favorisent la malnutrition chez les enfants.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'impact de la malnutrition sur les infections chez les enfants?",
+        "answer": "La malnutrition aggrave les infections chez les enfants dans plus de 50 % des cas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi la renutrition est-elle importante dans la prise en charge des infections chez les enfants?",
+        "answer": "La renutrition est importante dans la prise en charge des infections chez les enfants car elle doit être intégrée à la prise en charge de toute infection.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les programmes nationaux verticaux mentionnés dans le document?",
+        "response": "Infections respiratoires aiguës, maladies diarrhéiques, paludisme, nutrition, programmes nationaux de vaccinations, VIH-SIDA, maternité, médicaments essentiels, management et évaluation des systèmes de santé.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles agences internationales sont intégrées dans les activités de la PCIME?",
+        "response": "OMS, UNICEF.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Qui doit participer et être coordonné dans la mise en œuvre de la PCIME?",
+        "response": "Les organisations non gouvernementales (ONG).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les moyens de réduction de la mortalité infanto-juvénile par la PCIME?",
+        "response": "Formation et évaluation des infirmiers et agents de santé communautaires, communication auprès des mères et de la communauté, renforcement des capacités des comités locaux de santé, développement des capacités de coordination et de supervision des projets, approvisionnement régulier en médicaments essentiels, solutés de réhydratation orale, aliments thérapeutiques prêts à l’emploi et moustiquaires imprégnées.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux objectifs de la PCIME?",
+        "response": "Réduire la mortalité infanto-juvénile, intégrer les activités des agences internationales, faire participer et coordonner les ONG, faire appel aux capacités de la communauté.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les schémas thérapeutiques utilisés dans la PCIME?",
+        "response": "Formulaires thérapeutiques, anti-infectieux essentiels de référence en 1re et 2e ligne, résistances.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux domaines couverts par le mémento de soins hospitaliers pédiatriques de l'OMS?",
+        "response": "Pathologies néonatales, pneumonie, diarrhée, fièvre (paludisme, méningite, septicémie), malnutrition aiguë sévère, infection à VIH/SIDA, problèmes chirurgicaux courants, soins de soutien appropriés, surveillance des patients hospitalisés.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Qui est le public cible du mémento de soins hospitaliers pédiatriques de l'OMS?",
+        "response": "Médecins, personnel infirmier et autres agents de santé qualifiés responsables de la prise en charge des jeunes enfants dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la communication dans la PCIME?",
+        "response": "Information-Education-Communication (IEC) auprès des mères et de la communauté.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les rôles des comités locaux de santé dans la PCIME?",
+        "response": "Gestion des centres de santé, hygiène, mutualité, surveillance des épidémies, référence vers les niveaux 2 et 3 de la pyramide sanitaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les éléments essentiels pour l'approvisionnement régulier dans la PCIME?",
+        "response": "Médicaments essentiels, solutés de réhydratation orale (SRO), aliments thérapeutiques prêts à l’emploi, moustiquaires imprégnées.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux sites web recommandés concernant la PCIME?",
+        "response": "PCIME OMS, Objectifs du Millénaire pour le Développement, Objectifs de Développement Durable, Mises à jour de la prise en charge de la malnutrition aiguë sévère chez le nourrisson et chez l’enfant, Mémento de soins hospitaliers pédiatriques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux objectifs des Objectifs du Millénaire pour le Développement?",
+        "response": "Réduire la pauvreté, améliorer la santé, promouvoir l'éducation, assurer la durabilité environnementale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux objectifs des Objectifs de Développement Durable?",
+        "response": "Éradication de la pauvreté, lutte contre les inégalités et les injustices, action pour le climat.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge des affections courantes de l’enfance selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles, pour les cliniciens dans les hôpitaux disposant d'un laboratoire de base et de médicaments bon marché.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux problèmes de santé couverts par le mémento de soins hospitaliers pédiatriques?",
+        "response": "Pathologies néonatales, pneumonie, diarrhée, fièvre (paludisme, méningite, septicémie), malnutrition aiguë sévère, infection à VIH/SIDA.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la formation des infirmiers et agents de santé communautaires dans la PCIME?",
+        "response": "Utilisation des schémas diagnostiques et thérapeutiques standardisés, arbres décisionnels réactualisés.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la supervision des projets dans la PCIME?",
+        "response": "Coordination et supervision des projets pour intégrer la PCIME aux autres activités de soins.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge hospitalière des enfants gravement malades selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, soins de soutien appropriés, surveillance des patients hospitalisés.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge des pathologies néonatales selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge de la pneumonie selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge de la diarrhée selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge de la fièvre selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge de la malnutrition aiguë sévère selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge de l'infection à VIH/SIDA selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prise en charge des problèmes chirurgicaux courants selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments des soins de soutien appropriés selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la surveillance des patients hospitalisés selon le mémento de soins hospitaliers pédiatriques?",
+        "response": "Conduites à tenir cliniques actualisées, basées sur des preuves factuelles.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la gestion des centres de santé par les comités locaux de santé?",
+        "response": "Hygiène, mutualité, surveillance des épidémies, référence vers les niveaux 2 et 3 de la pyramide sanitaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux éléments de l'approvisionnement en solutés de réhydratation orale (SRO) dans la PCIME?",
+        "response": "Approvisionnement régulier, utilisation dans le traitement des maladies diarrhéiques.",
+        "qtype": "traitements"
+    }
+]

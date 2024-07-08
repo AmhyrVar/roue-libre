@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Qu'est-ce que les distomatoses?",
+        "answer": "Les distomatoses sont des anthropozoonoses dues à des trématodes au cycle évolutif complexe dans lequel l’homme pénètre accidentellement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de distomatoses?",
+        "answer": "On distingue les distomatoses hépatiques, intestinales et pulmonaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les espèces responsables des fascioloses?",
+        "answer": "Les fascioloses sont dues à deux espèces : Fasciola hepatica et Fasciola gigantica.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où sont principalement observées les fascioloses?",
+        "answer": "Les fascioloses sont observées sur tous les continents, atteignant plus de 50 pays dans le monde et affectant plus de 17 millions de personnes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les hôtes définitifs des fascioloses?",
+        "answer": "Les hôtes définitifs herbivores (bovins, ovins, caprins et parfois camélidés) hébergent les douves adultes dans leurs voies biliaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les fascioloses à l'homme?",
+        "answer": "L’homme s’infecte en ingérant un végétal ou de l’eau contaminés par des métacercaires infestantes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion des fascioloses?",
+        "answer": "La phase d’invasion se traduit par une fièvre élevée irrégulière, une hépatomégalie modérée et douloureuse, et parfois une splénomégalie modérée, des manifestations allergiques cutanées ou respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'état des fascioloses?",
+        "answer": "La phase d’état survient sous forme de fièvre isolée avec ou non, cholestase ictérique, d’hépatalgie, de colique biliaire, de tableau d’angiocholite ou de cholécystite aiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on les fascioloses en phase d'invasion?",
+        "answer": "Le diagnostic de la phase d’invasion repose sur la sérologie par méthode quantitative ou semi-quantitative pour détecter les anticorps.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostique-t-on les fascioloses en phase d'état?",
+        "answer": "Le diagnostic de la phase d’état repose sur la mise en évidence des œufs de douve dans les selles ou dans le liquide duodénal obtenu par tubage.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de référence pour la fasciolose hépatique?",
+        "answer": "Le traitement de référence consiste en une unique prise orale de 10 mg/kg de triclabendazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'alternative au triclabendazole pour traiter la fasciolose hépatique?",
+        "answer": "Le praziquantel en cure unique de 75 mg/kg/j en trois prises pendant une semaine au moins, ou le bithionol en cure de 30 à 50 mg/kg/j pendant 3 à 4 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir les fascioloses?",
+        "answer": "La prévention passe par le déparasitage prophylactique des troupeaux, le contrôle sanitaire du réseau d’eau des exploitations agricoles et l’éviction de la consommation de salades crues et du khat.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les autres distomatoses hépato-biliaires?",
+        "answer": "Il s’agit de la clonorchiose, due à Clonorchis sinensis, et de l’opistorchiose, due à Opisthorchis viverrini ou à Opisthorchis felineus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où sont principalement observées les clonorchioses et opistorchioses?",
+        "answer": "Elles sont essentiellement inféodées à l’Asie du Sud-Est où elles sont hyperendémiques dans certaines zones.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les clonorchioses et opistorchioses à l'homme?",
+        "answer": "L’homme s’infecte en ingérant des poissons crus ou insuffisamment cuits ou macérés et porteurs de métacercaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion des fascioloses?",
+        "answer": "La phase d’invasion se traduit par une fièvre élevée irrégulière, une hépatomégalie modérée et douloureuse, et parfois une splénomégalie modérée, des manifestations allergiques cutanées ou respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'état des fascioloses?",
+        "answer": "La phase d’état survient sous forme de fièvre isolée avec ou non, cholestase ictérique, d’hépatalgie, de colique biliaire, de tableau d’angiocholite ou de cholécystite aiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on les fascioloses en phase d'invasion?",
+        "answer": "Le diagnostic de la phase d’invasion repose sur la sérologie par méthode quantitative ou semi-quantitative pour détecter les anticorps.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostique-t-on les fascioloses en phase d'état?",
+        "answer": "Le diagnostic de la phase d’état repose sur la mise en évidence des œufs de douve dans les selles ou dans le liquide duodénal obtenu par tubage.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de référence pour la fasciolose hépatique?",
+        "answer": "Le traitement de référence consiste en une unique prise orale de 10 mg/kg de triclabendazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'alternative au triclabendazole pour traiter la fasciolose hépatique?",
+        "answer": "Le praziquantel en cure unique de 75 mg/kg/j en trois prises pendant une semaine au moins, ou le bithionol en cure de 30 à 50 mg/kg/j pendant 3 à 4 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir les fascioloses?",
+        "answer": "La prévention passe par le déparasitage prophylactique des troupeaux, le contrôle sanitaire du réseau d’eau des exploitations agricoles et l’éviction de la consommation de salades crues et du khat.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les autres distomatoses hépato-biliaires?",
+        "answer": "Il s’agit de la clonorchiose, due à Clonorchis sinensis, et de l’opistorchiose, due à Opisthorchis viverrini ou à Opisthorchis felineus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où sont principalement observées les clonorchioses et opistorchioses?",
+        "answer": "Elles sont essentiellement inféodées à l’Asie du Sud-Est où elles sont hyperendémiques dans certaines zones.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les clonorchioses et opistorchioses à l'homme?",
+        "answer": "L’homme s’infecte en ingérant des poissons crus ou insuffisamment cuits ou macérés et porteurs de métacercaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion des fascioloses?",
+        "answer": "La phase d’invasion se traduit par une fièvre élevée irrégulière, une hépatomégalie modérée et douloureuse, et parfois une splénomégalie modérée, des manifestations allergiques cutanées ou respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'état des fascioloses?",
+        "answer": "La phase d’état survient sous forme de fièvre isolée avec ou non, cholestase ictérique, d’hépatalgie, de colique biliaire, de tableau d’angiocholite ou de cholécystite aiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on les fascioloses en phase d'invasion?",
+        "answer": "Le diagnostic de la phase d’invasion repose sur la sérologie par méthode quantitative ou semi-quantitative pour détecter les anticorps.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostique-t-on les fascioloses en phase d'état?",
+        "answer": "Le diagnostic de la phase d’état repose sur la mise en évidence des œufs de douve dans les selles ou dans le liquide duodénal obtenu par tubage.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la clonorchiose?",
+        "answer": "Le traitement consiste en la prise de praziquantel à doses élevées : 75 mg/kg en une ou trois prises sur une seule journée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'état de la clonorchiose?",
+        "answer": "Les symptômes incluent colique hépatique, angiocholite, pancréatite, cholestase chronique, polype biliaire, cirrhose biliaire secondaire, cholangite sclérosante, et cancer des voies biliaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la confirmation du diagnostic de la clonorchiose?",
+        "answer": "La confirmation repose sur la présence d’œufs dans les selles ou dans le liquide biliaire obtenu par voie endoscopique. La sérologie est positive à ce stade.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la dose de praziquantel recommandée pour traiter les distomatoses intestinales?",
+        "answer": "Le praziquantel à la dose de 40 mg/kg en une seule prise est très efficace.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infestation massive par des douves intestinales?",
+        "answer": "Une infestation massive peut induire une diarrhée fécale se majorant rapidement avec installation de nausées, de douleurs abdominales et d’un amaigrissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment prévenir les distomatoses intestinales?",
+        "answer": "La cuisson prolongée des poissons suffit à détruire les métacercaires infestantes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'épidémiologie des distomatoses pulmonaires?",
+        "answer": "Paragonimus westermani sévit surtout dans l’est du continent asiatique, tandis qu’en Afrique, la principale espèce est P. africanus. En Amérique latine, la majorité des cas provient d’Equateur (Paragominus mexicanus).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la paragonimose pulmonaire?",
+        "answer": "Les symptômes incluent une dégradation modérée de l’état général avec fébricule, des douleurs thoraciques modérées, une toux chronique peu productive et parfois des crachats hémoptoïques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la paragonimose pulmonaire?",
+        "answer": "Le diagnostic repose sur la mise en évidence d’œufs dans les crachats, le liquide gastrique, le liquide pleural ou dans les selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la paragonimose pulmonaire?",
+        "answer": "Le praziquantel est utilisé à la dose de 75 mg/kg/j en trois prises pendant 2 jours. Le bithionol en constitue l’alternative à raison de 30 mg/kg/j pendant 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir la paragonimose pulmonaire?",
+        "answer": "La cuisson des crustacés d’eau douce évite les paragonimoses.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les hôtes intermédiaires de Clonorchis sinensis?",
+        "answer": "Les hôtes intermédiaires sont les mollusques et les poissons d’eau douce.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes précoces de la clonorchiose?",
+        "answer": "Les symptômes précoces peuvent inclure des manifestations allergiques comme l’urticaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la dose de praziquantel recommandée pour traiter la paragonimose pulmonaire?",
+        "answer": "Le praziquantel est utilisé à la dose de 75 mg/kg/j en trois prises pendant 2 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infestation massive par des douves intestinales?",
+        "answer": "Une infestation massive peut induire une diarrhée fécale se majorant rapidement avec installation de nausées, de douleurs abdominales et d’un amaigrissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la contamination par Clonorchis sinensis?",
+        "answer": "La contamination se fait par ingestion de poissons d’eau douce infectés en l’absence d’une cuisson adéquate.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'état de la clonorchiose?",
+        "answer": "Les symptômes incluent colique hépatique, angiocholite, pancréatite, cholestase chronique, polype biliaire, cirrhose biliaire secondaire, cholangite sclérosante, et cancer des voies biliaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la confirmation du diagnostic de la clonorchiose?",
+        "answer": "La confirmation repose sur la présence d’œufs dans les selles ou dans le liquide biliaire obtenu par voie endoscopique. La sérologie est positive à ce stade.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la dose de praziquantel recommandée pour traiter les distomatoses intestinales?",
+        "answer": "Le praziquantel à la dose de 40 mg/kg en une seule prise est très efficace.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infestation massive par des douves intestinales?",
+        "answer": "Une infestation massive peut induire une diarrhée fécale se majorant rapidement avec installation de nausées, de douleurs abdominales et d’un amaigrissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment prévenir les distomatoses intestinales?",
+        "answer": "La cuisson prolongée des poissons suffit à détruire les métacercaires infestantes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'épidémiologie des distomatoses pulmonaires?",
+        "answer": "Paragonimus westermani sévit surtout dans l’est du continent asiatique, tandis qu’en Afrique, la principale espèce est P. africanus. En Amérique latine, la majorité des cas provient d’Equateur (Paragominus mexicanus).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la paragonimose pulmonaire?",
+        "answer": "Les symptômes incluent une dégradation modérée de l’état général avec fébricule, des douleurs thoraciques modérées, une toux chronique peu productive et parfois des crachats hémoptoïques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la paragonimose pulmonaire?",
+        "answer": "Le diagnostic repose sur la mise en évidence d’œufs dans les crachats, le liquide gastrique, le liquide pleural ou dans les selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la paragonimose pulmonaire?",
+        "answer": "Le praziquantel est utilisé à la dose de 75 mg/kg/j en trois prises pendant 2 jours. Le bithionol en constitue l’alternative à raison de 30 mg/kg/j pendant 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir la paragonimose pulmonaire?",
+        "answer": "La cuisson des crustacés d’eau douce évite les paragonimoses.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les hôtes intermédiaires de Clonorchis sinensis?",
+        "answer": "Les hôtes intermédiaires sont les mollusques et les poissons d’eau douce.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes précoces de la clonorchiose?",
+        "answer": "Les symptômes précoces peuvent inclure des manifestations allergiques comme l’urticaire.",
+        "qtype": "symptômes"
+    }
+]

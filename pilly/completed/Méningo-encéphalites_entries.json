@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les symptômes d'une méningo-encéphalite?",
+    "answer": "Les symptômes d'une méningo-encéphalite incluent des troubles du comportement, confusion, troubles de conscience allant de l’obnubilation au coma, comitialité, signes de focalisation variés (déficit moteur, sensitif, atteinte de paires crâniennes, aphasie), et une irritation méningée (céphalées, raideur de nuque, photo-phono-phobie).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes de gravité d'une méningo-encéphalite?",
+    "answer": "Les signes de gravité d'une méningo-encéphalite incluent des signes de mauvaise tolérance hémodynamique (hypotension, signes de souffrance d’organe) et des signes neurologiques d’alarme (état de mal convulsif, coma, engagement cérébral).",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels examens permettent d'éliminer les diagnostics différentiels d'une méningo-encéphalite?",
+    "answer": "Les examens permettant d'éliminer les diagnostics différentiels d'une méningo-encéphalite incluent la ponction lombaire, l’imagerie cérébrale (scanner injecté, ou IRM), les tests rapides et frottis sanguin pour le paludisme, les hémocultures et/ou la coproculture pour la fièvre typhoïde, et des examens pour les causes non infectieuses d’encéphalopathie (néoplasiques, métaboliques, intoxications).",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les principaux virus responsables de méningo-encéphalites?",
+    "answer": "Les principaux virus responsables de méningo-encéphalites incluent les virus du groupe Herpès (HSV, VZV, EBV, CMV, HHV6), les entérovirus, la rougeole, les oreillons, la rubéole, le VIH, la grippe, les arbovirus (Tick Born Encephalitis, fièvre de la vallée du Rift, West-Nile, dengue, Toscana, encéphalite japonaise, autres encéphalites régionales), les fièvres hémorragiques (Lassa, Ebola, Marburg), et la rage.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux parasites responsables de méningo-encéphalites?",
+    "answer": "Les principaux parasites responsables de méningo-encéphalites incluent Trypanosoma gambiense, T. rhodesiense, T. cruzi, Toxoplasma gondii, Taenia solium, Echinococcus, Entamoeba histolytica, Naegleria, Acanthamoeba, Strongyloides stercoralis, Loa-loa, Toxocara, et Schistosoma.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux champignons responsables de méningo-encéphalites?",
+    "answer": "Les principaux champignons responsables de méningo-encéphalites incluent Cryptococcus, Histoplasma, Aspergillus, et Mucor.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux antécédents à rechercher lors de l'interrogatoire d'un patient suspecté de méningo-encéphalite?",
+    "answer": "Les principaux antécédents à rechercher incluent le VIH, le diabète, l’éthylisme, et d'autres causes d’immunodépression.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes neurologiques d'orientation pour une méningo-encéphalite herpétique?",
+    "answer": "Les signes neurologiques d'orientation pour une méningo-encéphalite herpétique incluent des hallucinations et une atteinte des paires crâniennes.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes extra-neurologiques d'accompagnement pour une méningo-encéphalite?",
+    "answer": "Les signes extra-neurologiques d'accompagnement incluent une éruption cutanée (rougeole, rubéole, VZV, arboviroses, cryptococcose, histoplasmose), des adénopathies (infection VIH, trypanosomoses, chikungunya, zika, tuberculose), une atteinte pulmonaire (mycoplasme, tuberculose, cryptococcose), et une altération de l’état général (tuberculose, SIDA).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite bactérienne?",
+    "answer": "Les résultats typiques de l'analyse du LCR pour une méningo-encéphalite bactérienne incluent un LCR puriforme avec prédominance de PNN.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite à entérovirus après la phase précoce?",
+    "answer": "Les résultats typiques de l'analyse du LCR pour une méningo-encéphalite à entérovirus après la phase précoce incluent un LCR panaché.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite herpétique?",
+    "answer": "Les résultats typiques de l'analyse du LCR pour une méningo-encéphalite herpétique incluent un LCR lymphocytaire avec glycorachie normale.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite tuberculeuse?",
+    "answer": "Les résultats typiques de l'analyse du LCR pour une méningo-encéphalite tuberculeuse incluent un LCR lymphocytaire avec glycorachie basse.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les examens complémentaires demandés pour une méningo-encéphalite?",
+    "answer": "Les examens complémentaires demandés incluent l'hémogramme, les fonctions rénale et hépatique, les hémocultures, et des sérologies (VIH systématique et autres selon le contexte).",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une encéphalite herpétique?",
+    "answer": "Les signes cliniques d'une encéphalite herpétique incluent confusion, hallucinations, aphasie, atteinte des lobes temporaux, et glycorachie le plus souvent normale.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une encéphalite à VZV?",
+    "answer": "Les signes cliniques d'une encéphalite à VZV incluent confusion, signe de focalisation, et éruption vésiculaire inconstamment présente.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une encéphalite tuberculeuse?",
+    "answer": "Les signes cliniques d'une encéphalite tuberculeuse incluent un tableau progressif, un contage, une atteinte pulmonaire associée, et un terrain (VIH++).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une encéphalite due aux trypanosomoses africaines?",
+    "answer": "Les signes cliniques d'une encéphalite due aux trypanosomoses africaines incluent un contexte épidémiologique, une fièvre persistante, des adénopathies, et une hyperprotéinorachie modérée constituée d’au moins 10 % d’IgM.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une encéphalite spécifique au cours de l'infection par le VIH?",
+    "answer": "Les signes cliniques d'une encéphalite spécifique au cours de l'infection par le VIH incluent des opportunistes (CMV, VZV, BK, T. gondii, Cryptococcus), une tuberculose, et une cryptococcose neuroméningée (atteinte respiratoire associée, hypertension intra-crânienne, présence de levures à l’encre de Chine).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une listériose?",
+    "answer": "Les signes cliniques d'une listériose incluent une rhombencéphalite (paralysie des nerfs crâniens, notamment paralysie oculo-motrice), un terrain fragile (éthylique, corticothérapie, sujet âgé, immunodépression), et une glycorachie normale ou basse.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une méningo-encéphalite syphilitique?",
+    "answer": "Les signes cliniques d'une méningo-encéphalite syphilitique incluent des signes neurologiques variés et une glycorachie basse.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une méningo-encéphalite brucellique?",
+    "answer": "Les signes cliniques d'une méningo-encéphalite brucellique incluent des signes neurologiques variés et une glycorachie basse.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une méningo-encéphalite grippale?",
+    "answer": "Les signes cliniques d'une méningo-encéphalite grippale incluent des signes neurologiques variés et une glycorachie normale.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une méningo-encéphalite à Mycoplasma pneumoniae?",
+    "answer": "Les signes cliniques d'une méningo-encéphalite à Mycoplasma pneumoniae incluent des signes neurologiques variés et une glycorachie normale.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements spécifiques pour une encéphalite herpétique?",
+    "answer": "Le traitement spécifique pour une encéphalite herpétique repose sur la PCR dans le LCS.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements spécifiques pour une encéphalite à VZV?",
+    "answer": "Le traitement spécifique pour une encéphalite à VZV repose sur la PCR dans le LCS et sur l'excrétion intrathécale d’immunoglobuline dirigée contre les HSV, syphilis.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements spécifiques pour une encéphalite tuberculeuse?",
+    "answer": "Le traitement spécifique pour une encéphalite tuberculeuse repose sur la recherche du bacille de Koch et un faisceau d’arguments cliniques.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements spécifiques pour une encéphalite due aux trypanosomoses africaines?",
+    "answer": "Le traitement spécifique pour une encéphalite due aux trypanosomoses africaines repose sur la mise en évidence du parasite dans le sang et/ou le LCS.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements spécifiques pour une encéphalite au cours de l'infection par le VIH?",
+    "answer": "Le traitement spécifique pour une encéphalite au cours de l'infection par le VIH inclut le traitement des opportunistes (CMV, VZV, BK, T. gondii, Cryptococcus) et la prise en charge de la tuberculose et de la cryptococcose neuroméningée.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements spécifiques pour une listériose?",
+    "answer": "Le traitement spécifique pour une listériose repose sur l’isolement de L. monocytogenes dans le LCS (culture, PCR) et/ou dans les hémocultures.",
+    "qtype": "traitements"
+  }
+]

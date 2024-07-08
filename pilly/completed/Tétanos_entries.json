@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelle est la principale cause du tétanos?",
+        "answer": "Le tétanos est causé par Clostridium tetani, une bactérie ubiquitaire, tellurique, largement répandue dans les sols, surtout chauds et humides.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la phase d'état du tétanos?",
+        "answer": "La phase d'état est caractérisée par des contractures généralisées, des spasmes réflexes et des troubles neurovégétatifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée moyenne d'incubation du tétanos?",
+        "answer": "La durée moyenne d'incubation du tétanos est de 10 à 15 jours.",
+        "qtype": "incubation"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque pour le tétanos néonatal?",
+        "answer": "Les principaux facteurs de risque pour le tétanos néonatal sont la porte d'entrée ombilicale, la circoncision non médicalisée et certaines infections comme les otites suppurées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux traitements à visée étiologique pour le tétanos?",
+        "answer": "Les principaux traitements à visée étiologique pour le tétanos incluent les immunoglobulines spécifiques antitétaniques d'origine humaine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux troubles neurovégétatifs observés dans les formes graves de tétanos?",
+        "answer": "Les principaux troubles neurovégétatifs observés dans les formes graves de tétanos incluent des poussées tensionnelles, des accès de tachycardie, des sueurs profuses et de la fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux diagnostics différentiels à envisager devant un trismus?",
+        "answer": "Les principaux diagnostics différentiels à envisager devant un trismus incluent une infection de la cavité buccale, une arthrite temporomaxillaire, une cause neurologique et une cause toxique lors de la prise de neuroleptiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux facteurs pronostiques du score de Dakar pour le tétanos?",
+        "answer": "Les principaux facteurs pronostiques du score de Dakar pour le tétanos incluent la durée d'incubation, la durée d'invasion, la porte d'entrée, la présence de paroxysmes, la température rectale et le pouls.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos céphalique?",
+        "answer": "Le tétanos céphalique fait suite à une blessure de la tête ou du cou et touche le plus souvent le nerf facial, avec une incubation courte de 1 à 2 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos néonatal?",
+        "answer": "Le tétanos néonatal se présente initialement comme une impossibilité de téter suivi de contractures généralisées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la phase d'invasion du tétanos?",
+        "answer": "La phase d'invasion du tétanos est caractérisée par la généralisation des contractures et dure en moyenne 48 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du trismus dans le tétanos?",
+        "answer": "Le trismus dans le tétanos débute par une gêne à la mastication et évolue vers une contracture permanente, bilatérale des masséters, avec impossibilité d'ouvrir la bouche, de mâcher, de parler.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des spasmes réflexes dans le tétanos?",
+        "answer": "Les spasmes réflexes dans le tétanos sont des renforcements paroxystiques du tonus survenant spontanément ou à l'occasion de stimuli souvent minimes, douloureux, prenant un aspect tonique ou tonicoclonique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles neurovégétatifs dans le tétanos?",
+        "answer": "Les troubles neurovégétatifs dans le tétanos se traduisent par des poussées tensionnelles, des accès de tachycardie, des sueurs profuses et de la fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des contractures généralisées dans le tétanos?",
+        "answer": "Les contractures généralisées dans le tétanos sont permanentes, douloureuses, invincibles, avec raideur rachidienne, membres supérieurs en flexion, inférieurs en hyperextension.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes cliniques du tétanos localisé?",
+        "answer": "Le tétanos localisé est limité au membre où siège la blessure et peut rester limité au membre atteint ou se généraliser.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes cliniques du tétanos céphalique?",
+        "answer": "Le tétanos céphalique touche le plus souvent le nerf facial après une incubation courte de 1 à 2 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes cliniques du tétanos néonatal?",
+        "answer": "Le tétanos néonatal se présente initialement comme une impossibilité de téter suivi de contractures généralisées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes graves du tétanos?",
+        "answer": "Les formes graves du tétanos sont caractérisées par une invasion rapide, des contractures généralisées, des troubles respiratoires avec blocage thoracique, une dysphagie intense et des paroxysmes tonicocloniques spontanés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes aiguës généralisées du tétanos?",
+        "answer": "Les formes aiguës généralisées du tétanos sont caractérisées par une invasion rapide, un trismus, une raideur rachidienne, une contracture abdominale, des troubles respiratoires, une dysphagie et des paroxysmes toniques généralisés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes frustes du tétanos?",
+        "answer": "Les formes frustes du tétanos sont caractérisées par une invasion lente, un trismus, un faciès sardonique, pas de trouble respiratoire, pas de dysphagie et pas de paroxysme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles respiratoires dans le tétanos?",
+        "answer": "Les troubles respiratoires dans le tétanos incluent des arrêts respiratoires par spasme glottique ou par blocage musculaire thoraco-abdominal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles cardiovasculaires dans le tétanos?",
+        "answer": "Les troubles cardiovasculaires dans le tétanos incluent des poussées tensionnelles, des accès de tachycardie, des sueurs profuses et de la fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles digestifs dans le tétanos?",
+        "answer": "Les troubles digestifs dans le tétanos incluent un iléus paralytique, une dilatation gastrique et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles rénaux dans le tétanos?",
+        "answer": "Les troubles rénaux dans le tétanos incluent une atteinte tubulo-interstitielle aiguë due à la rhabdomyolyse intense accompagnant les paroxysmes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles hydro-électrolytiques dans le tétanos?",
+        "answer": "Les troubles hydro-électrolytiques dans le tétanos sont liés à une sécrétion inappropriée d'hormone antidiurétique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles ostéo-articulaires dans le tétanos?",
+        "answer": "Les troubles ostéo-articulaires dans le tétanos incluent des rétractions musculotendineuses, des para-ostéo-arthropathies et des fractures-tassements des vertèbres.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des troubles neurologiques dans le tétanos?",
+        "answer": "Les troubles neurologiques dans le tétanos incluent une neuropathie périphérique due à des compressions locorégionales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des complications infectieuses dans le tétanos?",
+        "answer": "Les complications infectieuses dans le tétanos incluent des infections nosocomiales, principalement pulmonaires et urinaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des complications cardiovasculaires dans le tétanos?",
+        "answer": "Les complications cardiovasculaires dans le tétanos incluent la maladie thrombo-embolique et les troubles du rythme comme la fibrillation et le flutter auriculaires.",
+        "qtype": "symptômes"
+    }
+]

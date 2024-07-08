@@ -1,0 +1,287 @@
+[
+    {
+        "question": "Quelle est l'incidence des infections néonatales (INN) chez les prématurés?",
+        "answer": "L'incidence des INN est plus élevée chez les prématurés (< 37 semaines d’aménorrhée ou < 2 500 g) en raison de leur immaturité immunologique et de la fréquente nécessité de procédures invasives.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infection materno-fœtale selon l'OMS?",
+        "answer": "Les facteurs de risque d'infection materno-fœtale incluent l'infection utérine, la fièvre maternelle depuis le début du travail et jusqu’à 3 jours après la naissance, la chorio-amniotite, la prématurité < 35 semaines d’aménorrhée, et la rupture prolongée des membranes plus de 18 h avant la naissance.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les voies de contamination des infections materno-fœtales?",
+        "answer": "Les voies de contamination des infections materno-fœtales sont la voie ascendante à partir des voies génitales maternelles, la voie hématogène après bactériémie maternelle, et l'ingestion, inhalation ou par voie cutanéo-muqueuse au passage dans la filière génitale.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques des infections néonatales?",
+        "answer": "Les signes cliniques des infections néonatales incluent des troubles respiratoires (tachypnée, apnée, cyanose, signes de lutte), des troubles hémodynamiques (tachypnée, tachycardie, temps de recoloration cutanée élevé, PA basse), des troubles digestifs (météorisme, refus alimentaire, vomissements, hépatomégalie, entérocolite), des troubles neurologiques (somnolence, hypotonie, convulsions, méningite), des signes généraux (pâleur, teint gris, ictère, hypo- ou hyperthermie, geignement), et la splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont essentiels au diagnostic des infections néonatales?",
+        "answer": "Les examens essentiels au diagnostic des infections néonatales incluent des examens biologiques (numération-formule sanguine, protéine C-réactive, glycémie, radiographie du thorax, ponction lombaire, hémocultures) et des examens bactériologiques (prélèvement vaginal chez la mère, examen cyto-bactériologique des urines, hémoculture, examen du liquide céphalo-rachidien chez l'enfant).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales bactéries pathogènes responsables d'infections néonatales précoces dans les pays en développement?",
+        "answer": "Les principales bactéries pathogènes responsables d'infections néonatales précoces dans les pays en développement sont Escherichia coli, Streptocoque B, et Listeria monocytogenes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une infection néonatale?",
+        "answer": "Un geignement doit être considéré comme évocateur d’une infection jusqu’à preuve du contraire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs qui expliquent la fréquence élevée des infections nosocomiales en milieu tropical?",
+        "answer": "La fréquence élevée des infections nosocomiales en milieu tropical s'explique par la surpopulation dans les unités de néonatologie, la multiplicité non maîtrisée des soins à risque, et les défauts d’hygiène.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques des infections néonatales?",
+        "answer": "Les principaux signes cliniques des infections néonatales incluent des troubles respiratoires, hémodynamiques, digestifs, neurologiques, des signes généraux, et la splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens bactériologiques recommandés pour confirmer le diagnostic d'une infection néonatale?",
+        "answer": "Les examens bactériologiques recommandés pour confirmer le diagnostic d'une infection néonatale incluent le prélèvement vaginal chez la mère, l'examen cyto-bactériologique des urines, l'hémoculture, et l'examen du liquide céphalo-rachidien chez l'enfant.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales tardives?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales tardives incluent Staphylococcus aureus, Entérocoque, Hæmophilus, Pneumocoque, E. coli, et Chlamydia trachomatis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections nosocomiales néonatales?",
+        "answer": "Les principaux agents pathogènes responsables d'infections nosocomiales néonatales incluent des bactéries multirésistantes comme Klebsiella, Pseudomonas, Acinetobacter, et autres bacilles à Gram négatif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques des infections néonatales selon le tableau 2?",
+        "answer": "Les principaux signes cliniques des infections néonatales selon le tableau 2 incluent des troubles respiratoires, hémodynamiques, digestifs, neurologiques, des signes généraux, et la splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens biologiques recommandés pour le diagnostic des infections néonatales?",
+        "answer": "Les examens biologiques recommandés pour le diagnostic des infections néonatales incluent la numération-formule sanguine, la protéine C-réactive, la glycémie, la radiographie du thorax, la ponction lombaire, et les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales précoces?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales précoces incluent Escherichia coli, Streptocoque B, et Listeria monocytogenes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales tardives dans les pays en développement?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales tardives dans les pays en développement incluent Staphylococcus aureus, Entérocoque, Hæmophilus, Pneumocoque, E. coli, et Chlamydia trachomatis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections nosocomiales néonatales dans les pays en développement?",
+        "answer": "Les principaux agents pathogènes responsables d'infections nosocomiales néonatales dans les pays en développement incluent des bactéries multirésistantes comme Klebsiella, Pseudomonas, Acinetobacter, et autres bacilles à Gram négatif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques des infections néonatales selon le tableau 2?",
+        "answer": "Les principaux signes cliniques des infections néonatales selon le tableau 2 incluent des troubles respiratoires, hémodynamiques, digestifs, neurologiques, des signes généraux, et la splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens biologiques recommandés pour le diagnostic des infections néonatales?",
+        "answer": "Les examens biologiques recommandés pour le diagnostic des infections néonatales incluent la numération-formule sanguine, la protéine C-réactive, la glycémie, la radiographie du thorax, la ponction lombaire, et les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales précoces?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales précoces incluent Escherichia coli, Streptocoque B, et Listeria monocytogenes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales tardives dans les pays en développement?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales tardives dans les pays en développement incluent Staphylococcus aureus, Entérocoque, Hæmophilus, Pneumocoque, E. coli, et Chlamydia trachomatis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections nosocomiales néonatales dans les pays en développement?",
+        "answer": "Les principaux agents pathogènes responsables d'infections nosocomiales néonatales dans les pays en développement incluent des bactéries multirésistantes comme Klebsiella, Pseudomonas, Acinetobacter, et autres bacilles à Gram négatif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques des infections néonatales selon le tableau 2?",
+        "answer": "Les principaux signes cliniques des infections néonatales selon le tableau 2 incluent des troubles respiratoires, hémodynamiques, digestifs, neurologiques, des signes généraux, et la splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens biologiques recommandés pour le diagnostic des infections néonatales?",
+        "answer": "Les examens biologiques recommandés pour le diagnostic des infections néonatales incluent la numération-formule sanguine, la protéine C-réactive, la glycémie, la radiographie du thorax, la ponction lombaire, et les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales précoces?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales précoces incluent Escherichia coli, Streptocoque B, et Listeria monocytogenes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections néonatales tardives dans les pays en développement?",
+        "answer": "Les principaux agents pathogènes responsables d'infections néonatales tardives dans les pays en développement incluent Staphylococcus aureus, Entérocoque, Hæmophilus, Pneumocoque, E. coli, et Chlamydia trachomatis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables d'infections nosocomiales néonatales dans les pays en développement?",
+        "answer": "Les principaux agents pathogènes responsables d'infections nosocomiales néonatales dans les pays en développement incluent des bactéries multirésistantes comme Klebsiella, Pseudomonas, Acinetobacter, et autres bacilles à Gram négatif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques des infections néonatales selon le tableau 2?",
+        "answer": "Les principaux signes cliniques des infections néonatales selon le tableau 2 incluent des troubles respiratoires, hémodynamiques, digestifs, neurologiques, des signes généraux, et la splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens biologiques recommandés pour le diagnostic des infections néonatales?",
+        "answer": "Les examens biologiques recommandés pour le diagnostic des infections néonatales incluent la numération-formule sanguine, la protéine C-réactive, la glycémie, la radiographie du thorax, la ponction lombaire, et les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux du tétanos néonatal?",
+        "réponse": "Les symptômes initiaux du tétanos néonatal sont un refus de téter, suivi de contractures typiques et de fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale méthode de prévention du tétanos néonatal?",
+        "réponse": "La principale méthode de prévention du tétanos néonatal repose sur la vaccination des mères avant ou pendant la grossesse, et par l’amélioration de l’hygiène de l’accouchement.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les agents pathogènes courants des infections nosocomiales néonatales?",
+        "réponse": "Les agents pathogènes courants des infections nosocomiales néonatales incluent les entérobactéries (Klebsiella pneumoniae, E. coli, Enterobacter cloacae), Pseudomonas aeruginosa, Acinetobacter, et les staphylocoques à coagulase négative.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement de première intention recommandé par l'OMS pour les INN bactériennes?",
+        "réponse": "Le traitement de première intention recommandé par l'OMS pour les INN bactériennes associe aminopénicilline et aminoside (gentamicine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cutanés de la syphilis congénitale?",
+        "réponse": "Les signes cutanés de la syphilis congénitale incluent des plaques muqueuses et un pemphigus bulleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la syphilis congénitale?",
+        "réponse": "Le diagnostic de la syphilis congénitale est apporté par le prélèvement des lésions et du LCR (tréponème à l’examen direct) et la sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux virus responsables des infections virales néonatales?",
+        "réponse": "Les principaux virus responsables des infections virales néonatales incluent le VIH, CMV, VZV, VHB, rougeole, rubéole et parvovirus B19.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les infections fongiques néonatales?",
+        "réponse": "Les facteurs de risque pour les infections fongiques néonatales incluent la baisse des défenses immunitaires, les gestes invasifs, les antibiotiques et les corticoïdes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une méningite à streptocoque B chez le nouveau-né?",
+        "réponse": "La durée du traitement pour une méningite à streptocoque B chez le nouveau-né est de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une méningite à E. coli chez le nouveau-né?",
+        "réponse": "La durée du traitement pour une méningite à E. coli chez le nouveau-né est de 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les choix thérapeutiques pour une infection nosocomiale néonatale?",
+        "réponse": "Les choix thérapeutiques pour une infection nosocomiale néonatale incluent une association de C3G et d'aminoside, plutôt l’amikacine, ou une autre association selon l’antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prévention des INN?",
+        "réponse": "Les principaux éléments de la prévention des INN incluent le suivi régulier des femmes enceintes, la vaccination maternelle, la prévention de la prématurité, le traitement des IST, l’hygiène générale du peri-partum, l’antibiothérapie prophylactique per partum, l’antibiothérapie systématique du nouveau-né à la naissance, la prévention des infections nosocomiales, et l’allaitement maternel.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes typiques du tétanos néonatal?",
+        "réponse": "Les symptômes typiques du tétanos néonatal incluent des contractures typiques et une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de deuxième intention pour une infection nosocomiale suspectée ou documentée bactériologiquement?",
+        "réponse": "Les traitements de deuxième intention pour une infection nosocomiale suspectée ou documentée bactériologiquement incluent des fluoroquinolones, amikacine, imipénem, et colimycine injectable.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux du tétanos néonatal?",
+        "réponse": "Les symptômes initiaux du tétanos néonatal sont un refus de téter, suivi de contractures typiques et de fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale méthode de prévention du tétanos néonatal?",
+        "réponse": "La principale méthode de prévention du tétanos néonatal repose sur la vaccination des mères avant ou pendant la grossesse, et par l’amélioration de l’hygiène de l’accouchement.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les agents pathogènes courants des infections nosocomiales néonatales?",
+        "réponse": "Les agents pathogènes courants des infections nosocomiales néonatales incluent les entérobactéries (Klebsiella pneumoniae, E. coli, Enterobacter cloacae), Pseudomonas aeruginosa, Acinetobacter, et les staphylocoques à coagulase négative.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement de première intention recommandé par l'OMS pour les INN bactériennes?",
+        "réponse": "Le traitement de première intention recommandé par l'OMS pour les INN bactériennes associe aminopénicilline et aminoside (gentamicine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cutanés de la syphilis congénitale?",
+        "réponse": "Les signes cutanés de la syphilis congénitale incluent des plaques muqueuses et un pemphigus bulleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la syphilis congénitale?",
+        "réponse": "Le diagnostic de la syphilis congénitale est apporté par le prélèvement des lésions et du LCR (tréponème à l’examen direct) et la sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux virus responsables des infections virales néonatales?",
+        "réponse": "Les principaux virus responsables des infections virales néonatales incluent le VIH, CMV, VZV, VHB, rougeole, rubéole et parvovirus B19.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les infections fongiques néonatales?",
+        "réponse": "Les facteurs de risque pour les infections fongiques néonatales incluent la baisse des défenses immunitaires, les gestes invasifs, les antibiotiques et les corticoïdes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une méningite à streptocoque B chez le nouveau-né?",
+        "réponse": "La durée du traitement pour une méningite à streptocoque B chez le nouveau-né est de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une méningite à E. coli chez le nouveau-né?",
+        "réponse": "La durée du traitement pour une méningite à E. coli chez le nouveau-né est de 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les choix thérapeutiques pour une infection nosocomiale néonatale?",
+        "réponse": "Les choix thérapeutiques pour une infection nosocomiale néonatale incluent une association de C3G et d'aminoside, plutôt l’amikacine, ou une autre association selon l’antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux éléments de la prévention des INN?",
+        "réponse": "Les principaux éléments de la prévention des INN incluent le suivi régulier des femmes enceintes, la vaccination maternelle, la prévention de la prématurité, le traitement des IST, l’hygiène générale du peri-partum, l’antibiothérapie prophylactique per partum, l’antibiothérapie systématique du nouveau-né à la naissance, la prévention des infections nosocomiales, et l’allaitement maternel.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes typiques du tétanos néonatal?",
+        "réponse": "Les symptômes typiques du tétanos néonatal incluent des contractures typiques et une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de deuxième intention pour une infection nosocomiale suspectée ou documentée bactériologiquement?",
+        "réponse": "Les traitements de deuxième intention pour une infection nosocomiale suspectée ou documentée bactériologiquement incluent des fluoroquinolones, amikacine, imipénem, et colimycine injectable.",
+        "qtype": "traitement"
+    }
+]

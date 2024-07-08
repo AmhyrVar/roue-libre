@@ -1,0 +1,317 @@
+[
+    {
+        "question": "Qu'est-ce que la leptospirose?",
+        "answer": "La leptospirose est une zoonose largement répandue dans le monde, causée par des bactéries spiralées mobiles aérobies appelées leptospires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de cas de leptospirose sont estimés chaque année?",
+        "answer": "Plus d’un million de cas estimés chaque année et plus de 58 000 décès.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs animaux de la leptospirose?",
+        "answer": "Les principaux réservoirs animaux sont les rongeurs, mais aussi les animaux d’élevage, les chiens et les chevaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la leptospirose à l'homme?",
+        "answer": "La transmission à l’homme est le plus souvent indirecte après contact cutanéomuqueux avec de l’eau ou de la boue contaminée par des urines d'animaux infectés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant la survie des leptospires dans l'environnement?",
+        "answer": "La chaleur et l’humidité sont favorables à la survie prolongée des bactéries dans l’environnement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une leptospirose non compliquée?",
+        "answer": "Les symptômes incluent une fièvre, des céphalées, des myalgies, des arthralgies, des douleurs abdominales, des nausées, des vomissements, des diarrhées, et parfois une hyperhémie conjonctivale ou des myalgies au niveau des mollets ou des lombes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la leptospirose?",
+        "answer": "L’incubation est de 10 jours en moyenne, variant de 2 à 30 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une forme sévère de leptospirose?",
+        "answer": "Les signes incluent une hypotension, une oligo-anurie, des manifestations respiratoires (anomalies auscultatoires, hémoptysies) ou un ictère.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les facteurs déterminants pour la pénétration des leptospires dans l'organisme?",
+        "answer": "L’importance de l’inoculum au moment de l’exposition, la virulence de la souche infectante, le sérovar et les facteurs génétiques de l’hôte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels organes sont principalement affectés par les leptospires?",
+        "answer": "Les principaux organes affectés sont le rein, le foie et le poumon.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la caractéristique de l'atteinte rénale dans la leptospirose?",
+        "answer": "L’atteinte rénale caractéristique est une néphrite interstitielle aiguë avec atteinte initiale de la fonction tubulaire, défaut de réabsorption du sodium et augmentation de l’excrétion du potassium.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la mortalité en cas de leptospirose sévère sans prise en charge réanimatoire?",
+        "answer": "La mortalité peut dépasser 10 %, en particulier en cas de syndrome de détresse respiratoire aiguë et de défaillance multiviscérale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes plus évocateurs de la leptospirose?",
+        "answer": "Les symptômes plus évocateurs incluent l’hyperhémie conjonctivale et les myalgies au niveau des mollets ou des lombes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les personnes vivant dans des habitats précaires?",
+        "answer": "Les conditions de vie dans les bidonvilles et la présence de rats rendent leurs habitants particulièrement vulnérables à la leptospirose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les pics d'incidence de la leptospirose dans les pays tempérés?",
+        "answer": "On constate des pics d’incidence pendant l’été et l’automne dans les pays tempérés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une leptospirose non spécifique?",
+        "answer": "Les symptômes incluent une symptomatologie pseudo-grippale avec fièvre, céphalées, myalgies, arthralgies, douleurs abdominales, nausées, vomissements, et diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques à rechercher lors de l'examen initial pour suspecter une forme sévère de leptospirose?",
+        "answer": "La présence d’une hypotension, d’une oligo-anurie, de manifestations respiratoires (anomalies auscultatoires, hémoptysies) ou d’un ictère.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes d'une méningite lymphocytaire simple dans la leptospirose?",
+        "answer": "Les symptômes incluent une méningite lymphocytaire d’évolution simple, une hépatomégalie, et une éruption cutanée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les personnes ayant des activités agricoles dans les régions tropicales?",
+        "answer": "Les personnes ayant des activités agricoles comme le travail dans les rizières, bananeraies, champs de canne à sucre, et élevage du bétail sont les plus exposées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une leptospirose avec complications viscérales?",
+        "answer": "Les symptômes incluent une défaillance multiviscérale, une insuffisance rénale oligo-anurique, un ictère à bilirubine conjuguée, et un syndrome hémorragique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte pulmonaire dans la leptospirose?",
+        "answer": "Les symptômes incluent des hémorragies intra-alvéolaires et interstitielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte cardiaque dans la leptospirose?",
+        "answer": "Les symptômes incluent des lésions de myocardites et des foyers de myosites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte ophtalmologique dans la leptospirose?",
+        "answer": "Les symptômes incluent des manifestations auto-immunes pouvant survenir plusieurs semaines après le début des symptômes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte hépatique dans la leptospirose?",
+        "answer": "Les symptômes incluent un ictère non associé à une nécrose hépatocellulaire massive et les fonctions hépatiques reviennent à la normale après la convalescence.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte rénale dans la leptospirose?",
+        "answer": "Les symptômes incluent une néphrite interstitielle aiguë avec atteinte initiale de la fonction tubulaire, défaut de réabsorption du sodium et augmentation de l’excrétion du potassium.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte musculaire dans la leptospirose?",
+        "answer": "Les symptômes incluent des lésions de myocardites et des foyers de myosites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte pulmonaire sévère dans la leptospirose?",
+        "answer": "Les symptômes incluent des hémorragies intra-alvéolaires et interstitielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte rénale sévère dans la leptospirose?",
+        "answer": "Les symptômes incluent une inflammation diffuse tubulo-interstitielle associée à des zones de nécrose tubulaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte hépatique sévère dans la leptospirose?",
+        "answer": "Les symptômes incluent un ictère non associé à une nécrose hépatocellulaire massive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes les plus sévères de la leptospirose?",
+        "answer": "Une hémorragie intra-alvéolaire peut conduire à un syndrome de détresse respiratoire aiguë et constitue la forme la plus sévère de la maladie. Une défaillance cardiaque par myocardite peut aussi être associée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels principaux de la leptospirose en zone tropicale?",
+        "answer": "Les deux principaux diagnostics différentiels en zone tropicale sont le paludisme et la dengue.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels tests permettent d'exclure le paludisme et la dengue?",
+        "answer": "Un frottis goutte épaisse pour le paludisme et des tests rapides d’orientation diagnostic pour les deux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels autres diagnostics doivent être évoqués selon la zone géographique?",
+        "answer": "Une arbovirose autre que la dengue, une rickettsiose, une primo infection par le VIH, une hépatite virale, une grippe, une infection à Hantavirus, une fièvre hémorragique virale ou une infection bactérienne communautaire type pyélonéphrite ou angiocholite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests biologiques usuels pour le diagnostic de la leptospirose?",
+        "answer": "Les tests biologiques usuels incluent une CRP élevée, une hyperleucocytose à polynucléaires neutrophiles, une thrombopénie, une hypertransaminasémie, une hyperbilirubinémie à prédominance conjuguée, une élévation de la créatininémie et parfois une élévation des CPK.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes prédictifs d'une leptospirose compliquée?",
+        "answer": "L’association d’une anémie, d’une insuffisance rénale et d’un ictère à bilirubine conjuguée est prédictive d’une leptospirose compliquée (syndrome de Weil).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels tests sont utilisés pour confirmer un cas de leptospirose?",
+        "answer": "Un cas confirmé est défini par la mise en évidence de la bactérie (en culture) ou de son génome (par PCR dans le sang, les urines ou le LCR) ou d’une sérologie positive avec la technique de référence ou Micro Agglutination Test (MAT).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement initial recommandé pour la leptospirose?",
+        "answer": "Un traitement antibiotique doit être débuté dès que le diagnostic de leptospirose est suspecté, de préférence dans les 5 premiers jours d’évolution. La pénicilline, les céphalosporines de troisième génération et la doxycyline ont une efficacité comparable dans le traitement de la leptospirose sévère.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la réaction possible au cours du traitement par pénicilline?",
+        "answer": "Une réaction de Jarisch-Herxheimer peut survenir au cours du traitement par pénicilline pouvant parfois entrainer une aggravation du tableau respiratoire à l’introduction du traitement antibiotique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel antibiotique a l'avantage d'être prescrit en une injection par jour pour le traitement initial de la leptospirose?",
+        "answer": "La ceftriaxone a l’avantage d’être prescrite en une injection par jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée totale du traitement antibiotique pour la leptospirose?",
+        "answer": "En cas de confirmation du diagnostic, un relais per os (ex : amoxicilline, doxycycline) est envisageable pour une durée totale de 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements plus courts rapportés pour la leptospirose?",
+        "answer": "Des traitements plus courts (3 à 5 jours) avec la ceftriaxone ou un macrolide (azithromycine) ont été rapportés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels soins sont nécessaires dans les cas sévères de leptospirose?",
+        "answer": "Dans les cas sévères, une hospitalisation en réanimation est nécessaire afin de prendre en charge les défaillances multiviscérales : ventilation mécanique en cas d’insuffisance respiratoire, hémodialyse en cas d’insuffisance rénale, perfusion d’amines vasoactives en cas de défaillance cardiovasculaire, transfusion en cas d’hémorragie abondante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la principale mesure de prévention collective contre la leptospirose?",
+        "answer": "La lutte contre les rongeurs doit constituer un volet important de la prévention, en particulier en zone urbaine.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels animaux domestiques peuvent être vaccinés pour réduire le risque de transmission de la leptospirose à l'homme?",
+        "answer": "La vaccination de certains animaux domestiques réservoirs potentiels de la maladie (chiens, bovins) pourrait avoir des bénéfices pour l’animal tout en diminuant le risque de transmission à l’homme.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles activités sont déconseillées après des périodes de fortes pluies et d’inondations?",
+        "answer": "Les activités en eau douce (rivière, étangs, lacs) sont déconseillées.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les axes d’amélioration dans les pays à ressources limitées pour prévenir la leptospirose?",
+        "answer": "L’amélioration des conditions d’hygiène, l’accès à l’eau potable, la gestion des eaux usées, celle des déchets, la lutte contre les inondations et la lutte contre les chiens errants font partie des nombreux axes d’amélioration.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le schéma vaccinal pour le vaccin contre Leptospira interrogans du sérogroupe Icterohaemorrhagiae?",
+        "answer": "Le schéma vaccinal est de 2 injections à 15 jours, un rappel 6 mois plus tard, puis tous les 2 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Dans quelles activités professionnelles le vaccin contre la leptospirose est-il recommandé?",
+        "answer": "Il est recommandé dans certaines activités professionnelles exposant au risque de contact fréquent avec des lieux infestés par les rongeurs (ex : travail dans les canaux, les égouts, pisciculture en eau douce, vétérinaires).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les tests biologiques usuels pour le diagnostic de la leptospirose?",
+        "answer": "Les tests biologiques usuels incluent une CRP élevée, une hyperleucocytose à polynucléaires neutrophiles, une thrombopénie, une hypertransaminasémie, une hyperbilirubinémie à prédominance conjuguée, une élévation de la créatininémie et parfois une élévation des CPK.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes prédictifs d'une leptospirose compliquée?",
+        "answer": "L’association d’une anémie, d’une insuffisance rénale et d’un ictère à bilirubine conjuguée est prédictive d’une leptospirose compliquée (syndrome de Weil).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests utilisés pour confirmer un cas de leptospirose?",
+        "answer": "Un cas confirmé est défini par la mise en évidence de la bactérie (en culture) ou de son génome (par PCR dans le sang, les urines ou le LCR) ou d’une sérologie positive avec la technique de référence ou Micro Agglutination Test (MAT).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement initial recommandé pour la leptospirose?",
+        "answer": "Un traitement antibiotique doit être débuté dès que le diagnostic de leptospirose est suspecté, de préférence dans les 5 premiers jours d’évolution. La pénicilline, les céphalosporines de troisième génération et la doxycyline ont une efficacité comparable dans le traitement de la leptospirose sévère.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la réaction possible au cours du traitement par pénicilline?",
+        "answer": "Une réaction de Jarisch-Herxheimer peut survenir au cours du traitement par pénicilline pouvant parfois entrainer une aggravation du tableau respiratoire à l’introduction du traitement antibiotique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel antibiotique a l'avantage d'être prescrit en une injection par jour pour le traitement initial de la leptospirose?",
+        "answer": "La ceftriaxone a l’avantage d’être prescrite en une injection par jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée totale du traitement antibiotique pour la leptospirose?",
+        "answer": "En cas de confirmation du diagnostic, un relais per os (ex : amoxicilline, doxycycline) est envisageable pour une durée totale de 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements plus courts rapportés pour la leptospirose?",
+        "answer": "Des traitements plus courts (3 à 5 jours) avec la ceftriaxone ou un macrolide (azithromycine) ont été rapportés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels soins sont nécessaires dans les cas sévères de leptospirose?",
+        "answer": "Dans les cas sévères, une hospitalisation en réanimation est nécessaire afin de prendre en charge les défaillances multiviscérales : ventilation mécanique en cas d’insuffisance respiratoire, hémodialyse en cas d’insuffisance rénale, perfusion d’amines vasoactives en cas de défaillance cardiovasculaire, transfusion en cas d’hémorragie abondante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la principale mesure de prévention collective contre la leptospirose?",
+        "answer": "La lutte contre les rongeurs doit constituer un volet important de la prévention, en particulier en zone urbaine.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels animaux domestiques peuvent être vaccinés pour réduire le risque de transmission de la leptospirose à l'homme?",
+        "answer": "La vaccination de certains animaux domestiques réservoirs potentiels de la maladie (chiens, bovins) pourrait avoir des bénéfices pour l’animal tout en diminuant le risque de transmission à l’homme.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles activités sont déconseillées après des périodes de fortes pluies et d’inondations?",
+        "answer": "Les activités en eau douce (rivière, étangs, lacs) sont déconseillées.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les axes d’amélioration dans les pays à ressources limitées pour prévenir la leptospirose?",
+        "answer": "L’amélioration des conditions d’hygiène, l’accès à l’eau potable, la gestion des eaux usées, celle des déchets, la lutte contre les inondations et la lutte contre les chiens errants font partie des nombreux axes d’amélioration.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le schéma vaccinal pour le vaccin contre Leptospira interrogans du sérogroupe Icterohaemorrhagiae?",
+        "answer": "Le schéma vaccinal est de 2 injections à 15 jours, un rappel 6 mois plus tard, puis tous les 2 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Dans quelles activités professionnelles le vaccin contre la leptospirose est-il recommandé?",
+        "answer": "Il est recommandé dans certaines activités professionnelles exposant au risque de contact fréquent avec des lieux infestés par les rongeurs (ex : travail dans les canaux, les égouts, pisciculture en eau douce, vétérinaires).",
+        "qtype": "prévention"
+    }
+]

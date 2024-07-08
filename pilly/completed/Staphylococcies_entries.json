@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quels sont les principaux types de staphylocoques?",
+        "answer": "Les principaux types de staphylocoques sont Staphylococcus aureus (coagulase positive), Staphylococcus epidermidis, S. saprophyticus et S. hominis (tous coagulase négative).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Qu'est-ce qui rend les staphylocoques résistants à la méticilline?",
+        "answer": "Les staphylocoques résistants à la méticilline ont acquis le gène 'mec' qui permet la synthèse d'une enzyme (PLP2a ou PLP2') ayant une faible affinité pour les ß-lactamines, les rendant inefficaces.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où les infections à staphylocoques sont-elles les plus fréquentes?",
+        "answer": "Les infections à staphylocoques sont ubiquitaires et sévissent partout, mais les zones tropicales et équatoriales au climat chaud et humide exposent particulièrement aux infections cutanées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le principal réservoir naturel des staphylocoques?",
+        "answer": "L'homme est le principal réservoir naturel des staphylocoques, qu'il soit infecté ou simplement colonisé, hébergeant des staphylocoques au niveau des fosses nasales et de la peau.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent principalement les staphylocoques?",
+        "answer": "La transmission des staphylocoques est avant tout interhumaine directe et manuportée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les infections à staphylocoques dorés?",
+        "answer": "Les facteurs de risque incluent la présence de matériel étranger (cathéter, prothèse), les services hospitaliers comme la chirurgie et la réanimation, et les infections communautaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la porte d'entrée des staphylococcies?",
+        "answer": "La porte d'entrée des staphylococcies est cutanée, souvent à la faveur d'une plaie même minime ou du point de pénétration d'un cathéter.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs de virulence de S. aureus?",
+        "answer": "S. aureus possède de nombreux facteurs de virulence, y compris des antigènes de surface, des exotoxines, des enzymes, et la coagulase qui induit la formation de microthrombi vasculaires septiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelles sont les propriétés des staphylocoques qui favorisent leur persistance?",
+        "answer": "Les staphylocoques peuvent adhérer à l'endothélium et aux structures inertes, et les bactéries adhérentes peuvent synthétiser des exopolysaccharides formant un biofilm imperméable aux défenses de l'hôte et aux antibiotiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Qu'est-ce que l'impétigo?",
+        "answer": "L'impétigo est une dermatose bulleuse et croûteuse du visage ou des membres, d'origine staphylococcique ou streptococcique, fréquente chez le jeune enfant et très contagieuse.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Qu'est-ce que la folliculite aiguë superficielle?",
+        "answer": "La folliculite aiguë superficielle est une suppuration localisée à l'orifice du follicule pilo-sébacé.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Qu'est-ce que la staphylococcie maligne de la face?",
+        "answer": "La staphylococcie maligne de la face est une cellulite diffuse de la face d'évolution rapide, souvent consécutive à un furoncle traumatisé, avec un risque important de thrombophlébite du sinus caverneux.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les risques associés aux bactériémies à S. aureus?",
+        "answer": "Les bactériémies à S. aureus peuvent entraîner des métastases septiques avec risque de choc septique et nécessitent la recherche de localisations septiques secondaires comme des abcès profonds, des spondylodiscites et/ou des endocardites.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les principales localisations des myosites staphylococciques en milieu tropical?",
+        "answer": "Les myosites staphylococciques en milieu tropical siègent préférentiellement au niveau du tronc (muscle ilio-psoas), des cuisses (quadriceps) et des fesses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les stades classiques des myosites staphylococciques?",
+        "answer": "Les myosites staphylococciques sont classiquement décrites en trois stades : un début insidieux, une phase suppurative et une phase de complications.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la staphylococcie maligne de la face?",
+        "answer": "Les symptômes incluent une cellulite diffuse de la face, un placard staphylococcique rouge violacé, froid, peu douloureux, et une extension fréquente vers le tissu cellulaire rétro-orbitaire avec protrusion du globe oculaire et chémosis.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les risques de complications locales des furoncles?",
+        "answer": "Les furoncles peuvent entraîner des complications locales telles que des abcès, des lymphangites et des bactériémies.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la staphylococcie maligne de la face?",
+        "answer": "Les signes cliniques incluent une cellulite diffuse de la face, un placard staphylococcique rouge violacé, froid, peu douloureux, et des cordons veineux thrombosés visibles sur le front, le cuir chevelu et l'angle de l'œil.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux types d'infections ostéo-articulaires causées par les staphylocoques?",
+        "answer": "Les principaux types d'infections ostéo-articulaires incluent les atteintes par inoculation directe, les ostéomyélites aiguës, les arthrites primitives hématogènes et les spondylodiscites.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les traitements chirurgicaux urgents pour les spondylodiscites staphylococciques?",
+        "answer": "Le traitement chirurgical urgent pour les spondylodiscites staphylococciques en cas de compression médullaire inclut la laminectomie et le parage.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite aiguë profonde?",
+        "answer": "La folliculite aiguë profonde constitue un abcès intra-folliculaire de la gaine du poil, réalisant l'aspect typique du furoncle ou de l'anthrax.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onyxis et du périonyxis?",
+        "answer": "L'onyxis et le périonyxis sont des infections chroniques du mur unguéal ou du bourrelet péri-unguéal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la staphylococcie maligne de la face?",
+        "answer": "Les symptômes incluent une cellulite diffuse de la face, un placard staphylococcique rouge violacé, froid, peu douloureux, et une extension fréquente vers le tissu cellulaire rétro-orbitaire avec protrusion du globe oculaire et chémosis.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite aiguë superficielle?",
+        "answer": "La folliculite aiguë superficielle est une suppuration localisée à l'orifice du follicule pilo-sébacé.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la staphylococcie maligne de la face?",
+        "answer": "Les symptômes incluent une cellulite diffuse de la face, un placard staphylococcique rouge violacé, froid, peu douloureux, et une extension fréquente vers le tissu cellulaire rétro-orbitaire avec protrusion du globe oculaire et chémosis.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite aiguë profonde?",
+        "answer": "La folliculite aiguë profonde constitue un abcès intra-folliculaire de la gaine du poil, réalisant l'aspect typique du furoncle ou de l'anthrax.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onyxis et du périonyxis?",
+        "answer": "L'onyxis et le périonyxis sont des infections chroniques du mur unguéal ou du bourrelet péri-unguéal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la staphylococcie maligne de la face?",
+        "answer": "Les symptômes incluent une cellulite diffuse de la face, un placard staphylococcique rouge violacé, froid, peu douloureux, et une extension fréquente vers le tissu cellulaire rétro-orbitaire avec protrusion du globe oculaire et chémosis.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite aiguë superficielle?",
+        "answer": "La folliculite aiguë superficielle est une suppuration localisée à l'orifice du follicule pilo-sébacé.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes de la phase I de la pyomyosite?",
+        "answer": "La phase I est marquée par des signes généraux inconstants et modérés, une sensibilité musculaire localisée et des crampes.",
+        "qtype": "symptômes"
+    }
+]

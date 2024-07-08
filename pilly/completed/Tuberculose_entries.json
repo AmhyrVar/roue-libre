@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelle est la cause de mortalité la plus fréquente due à une bactérie unique dans le monde?",
+        "answer": "La tuberculose est la première cause de mortalité due à une bactérie unique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage de la mortalité et de la morbidité de la tuberculose s'observe dans les pays à ressources limitées?",
+        "answer": "Plus de 95 % de la mortalité et de la morbidité s’observent dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le risque annuel d’infection par le bacille de Koch (BK) en Afrique?",
+        "answer": "Le risque annuel d’infection par le bacille de Koch (BK) en Afrique est de 1,5 à 2,5 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le délai moyen de dépistage d’un tuberculeux dans les pays à ressources limitées?",
+        "answer": "Le délai moyen de dépistage d’un tuberculeux est de 1 an à 1 an et demi dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes ont développé une tuberculose multirésistante (MDR) en 2019?",
+        "answer": "En 2019, près de 450 000 personnes ont développé une tuberculose multirésistante (MDR).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les trois pays ayant recensé le plus de cas de tuberculose MDR en 2019?",
+        "answer": "Les trois pays ayant recensé le plus de cas de tuberculose MDR en 2019 étaient l’Inde, la Chine et la fédération de Russie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs d’amplification de la tuberculose?",
+        "answer": "Les principaux facteurs d’amplification de la tuberculose sont la pauvreté, la malnutrition, le VIH et l’extension des tuberculoses à bacilles multirésistants.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le risque de développer la tuberculose pour les personnes infectées par le VIH?",
+        "answer": "Les personnes infectées par le VIH ont 20 à 30 fois plus de risques de développer la tuberculose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les indicateurs épidémiologiques de la tuberculose?",
+        "answer": "Les indicateurs épidémiologiques de la tuberculose incluent la mortalité annuelle par tuberculose, la morbidité, et le risque annuel d’infection (RAI).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les paramètres de l’histoire naturelle de la tuberculose?",
+        "answer": "Les paramètres de l’histoire naturelle de la tuberculose incluent la transmission ou risque d’être infecté, le passage de l’infection à la maladie, et le devenir des malades non traités.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les bactéries responsables de la tuberculose humaine?",
+        "answer": "Les bactéries responsables de la tuberculose humaine sont des mycobactéries du complexe tuberculosis : Mycobacterium tuberculosis, M. bovis et M. africanum.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment se transmet la tuberculose?",
+        "answer": "La tuberculose se transmet par voie aérienne ainsi qu’à partir de gouttelettes de sécrétions respiratoires aérosolisées.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Qu'est-ce que l'infection tuberculeuse latente (ITL)?",
+        "answer": "L’infection tuberculeuse latente (ITL) est une infection où les bacilles sont vivants mais dormants pendant des années après la guérison apparente de la primo-infection tuberculeuse.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quel est le risque de réactivation de la tuberculose chez les adultes immunocompétents?",
+        "answer": "Le risque de réactivation de la tuberculose chez les adultes immunocompétents est d'environ 10%.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la mortalité de la tuberculose pulmonaire active sans traitement?",
+        "answer": "Sans traitement, la tuberculose pulmonaire active est mortelle dans 50 % des cas.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la technique la plus efficace pour l'examen microscopique direct de la tuberculose?",
+        "answer": "La technique la plus efficace est l’examen direct des crachats et des prélèvements broncho-alvéolaires par coloration de Ziehl-Neelsen.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Combien d'examens des crachats sont nécessaires pour un diagnostic de tuberculose?",
+        "answer": "Au moins trois examens à des moments différents des crachats « profonds » ou recueillis par tubage gastrique à jeun sont nécessaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le seuil de bacilles observés sur les frottis pour un examen direct positif?",
+        "answer": "Un examen direct positif correspond à au moins 104 BAAR/mL.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'avantage de la culture dans le diagnostic de la tuberculose?",
+        "answer": "La culture permet aux centres de référence d'évaluer la prévalence des BK résistants.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests d’amplification des acides nucléiques recommandés par l’OMS pour la tuberculose?",
+        "answer": "Les tests d’amplification des acides nucléiques recommandés par l’OMS sont les tests Xpert MTB/RIF et Xpert MTB/RIF Ultra.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Qu'est-ce que l'intradermoréaction (IDR) à la tuberculine?",
+        "answer": "L’intradermoréaction (IDR) à la tuberculine est un test évocateur d’infection tuberculeuse latente (ITL) ou de tuberculose active quand elle est positive chez un sujet antérieurement négatif et non vacciné.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de l’IDR chez un sujet non vacciné par le BCG?",
+        "answer": "Les résultats de l’IDR chez un sujet non vacciné par le BCG sont : 0-4 mm (réaction négative), 5-9 mm (réaction douteuse), > 10 mm ou phlyctène (réaction positive).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes généraux de la tuberculose?",
+        "answer": "Les signes généraux de la tuberculose incluent une perte de poids, des sueurs nocturnes, une fébricule et un syndrome inflammatoire au long cours.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose pulmonaire commune?",
+        "answer": "Les signes cliniques de la tuberculose pulmonaire commune incluent altération de l’état général (asthénie, amaigrissement, fièvre, sueurs nocturnes) et signes respiratoires (toux prolongée, expectoration mucopurulente ou hémoptoïque, douleurs thoraciques).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Qu'est-ce que la tuberculose miliaire?",
+        "answer": "La tuberculose miliaire est une infection généralisée faite de multiples granulomes de la taille d’un grain de mil, affectant divers organes comme les poumons, le foie, la rate, la moelle osseuse, et les méninges.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes radiologiques évocateurs de la tuberculose?",
+        "answer": "Les signes radiologiques évocateurs de la tuberculose incluent infiltrats des sommets, miliaire, cavernes, lacunes osseuses, et fuseaux para-vertébraux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection tuberculeuse (PIT)?",
+        "answer": "La primo-infection tuberculeuse (PIT) est souvent asymptomatique ou entraîne une altération discrète de l’état général avec asthénie et fièvre modérée.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose pulmonaire commune?",
+        "answer": "Les symptômes de la tuberculose pulmonaire commune incluent altération de l’état général (asthénie, amaigrissement, fièvre, sueurs nocturnes) et signes respiratoires (toux prolongée, expectoration mucopurulente ou hémoptoïque, douleurs thoraciques).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose miliaire?",
+        "answer": "Les symptômes de la tuberculose miliaire incluent un syndrome de détresse respiratoire aiguë, des images micronodulaires disséminées dans les deux champs pulmonaires, et souvent un examen direct des crachats négatif.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la méningite tuberculeuse?",
+        "answer": "Les symptômes de la méningite tuberculeuse incluent un syndrome méningé, un syndrome infectieux progressif avec fièvre au long cours, céphalées, vomissements, et parfois des paralysies des paires crâniennes.",
+        "qtype": "diagnostic"
+    }
+]

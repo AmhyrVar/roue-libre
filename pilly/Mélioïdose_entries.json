@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce que la mélioïdose?",
+        "answer": "La mélioïdose est une infection bactérienne systémique due à Burkholderia pseudomallei.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Où se situe le foyer d’endémie de la mélioïdose?",
+        "answer": "Le foyer d’endémie est situé en Asie du Sud-Est, de la Birmanie au Vietnam et de la Chine à l’Indonésie, étendu jusqu’au Nord-Est tropical de l’Australie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la mélioïdose?",
+        "answer": "La mélioïdose se transmet par trois voies : transcutanée, aérienne et digestive.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de la mélioïdose?",
+        "answer": "Les facteurs de risque incluent l'âge (plus de 45 ans), le sexe masculin, les aborigènes, les riziculteurs, les terrassiers, les éleveurs, les diabétiques, les insuffisants rénaux, respiratoires ou hépatiques, les thalassémiques, les sujets sous corticothérapie, les patients atteints d’hémopathie ou d’alcoolisme chronique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose?",
+        "answer": "Les symptômes de la mélioïdose varient largement et peuvent inclure des infections pulmonaires, des abcès dans divers organes, et des formes de sepsis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le taux de létalité de la mélioïdose?",
+        "answer": "Les taux de létalité varient de 10 % dans les pays développés à 50 % en Asie du Sud-Est pour les formes bactériémiques, et peuvent atteindre 90 % en cas de choc septique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels organes sont les plus souvent touchés par la mélioïdose?",
+        "answer": "Le poumon est le premier organe cible, suivi par le foie, la rate, et la prostate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'incidence mondiale estimée de la mélioïdose?",
+        "answer": "En 2015, l'incidence mondiale estimée était de 165 000 cas par an, dont 89 000 létaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les moyens de transmission de la mélioïdose par voie aérienne?",
+        "answer": "La transmission par voie aérienne peut se faire par aérosols contaminés, comme cela a été observé chez les équipages d’hélicoptères pendant la guerre du Vietnam et les victimes du tsunami de 2004.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les moyens de transmission de la mélioïdose par voie digestive?",
+        "answer": "La transmission par voie digestive peut se faire par ingestion d’eau contaminée, comme lors d’épizooties porcines en Australie.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose chez l'enfant?",
+        "answer": "Chez l'enfant, les symptômes de la mélioïdose sont similaires à ceux de l'adulte, avec le même polymorphisme clinique et la même gravité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs influençant la létalité de la mélioïdose?",
+        "answer": "Les facteurs influençant la létalité incluent l’âge, les co-morbidités (diabète, néphropathie, hémopathie), le choc septique, l’atteinte pulmonaire, le délai de mise en route et la qualité du traitement antibiotique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs environnementaux de Burkholderia pseudomallei?",
+        "answer": "Les principaux réservoirs environnementaux incluent certains sols tropicaux, les rizières, les plantations de palmiers à huile et d’hévéas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les moyens de diagnostic de la mélioïdose?",
+        "answer": "Le diagnostic de la mélioïdose repose sur la culture bactérienne de Burkholderia pseudomallei à partir d’échantillons cliniques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements antibiotiques efficaces contre Burkholderia pseudomallei?",
+        "answer": "Les traitements antibiotiques efficaces incluent le cotrimozaxole, le chloramphénicol, les tétracyclines, l’acide clavulanique, les céphalosporines de 3e génération, la ceftazidime, la pipéracilline, et les carbapénèmes.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection pulmonaire due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection pulmonaire due à la mélioïdose peuvent inclure des broncho-pneumonies aiguës, une détresse respiratoire, des abcès pulmonaires et des empyèmes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection cutanée due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection cutanée due à la mélioïdose peuvent inclure des abcès cutanés et des infections des tissus mous.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection hépatique due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection hépatique due à la mélioïdose peuvent inclure des abcès du foie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection splénique due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection splénique due à la mélioïdose peuvent inclure des abcès de la rate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection prostatique due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection prostatique due à la mélioïdose peuvent inclure des abcès de la prostate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection systémique due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection systémique due à la mélioïdose peuvent inclure un sepsis fulminant, un choc septique, et des infections d'organes multiples.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection subaiguë ou chronique due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection subaiguë ou chronique due à la mélioïdose peuvent inclure une évolution lentement progressive et localisée à un seul organe, mimant la tuberculose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection asymptomatique due à la mélioïdose?",
+        "answer": "Une infection asymptomatique due à la mélioïdose peut rester totalement silencieuse jusqu'à un réveil inopiné après 20 ans ou plus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs influençant la sévérité de la mélioïdose?",
+        "answer": "La sévérité de la mélioïdose est influencée par l'âge, les co-morbidités, le choc septique, l’atteinte pulmonaire, le délai de mise en route et la qualité du traitement antibiotique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les moyens de prévention de la mélioïdose?",
+        "answer": "Les moyens de prévention incluent l'évitement des sols et eaux contaminés, surtout pour les personnes à risque, et l'utilisation de protections adéquates lors de travaux agricoles.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection digestive due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection digestive due à la mélioïdose peuvent inclure des douleurs abdominales et des diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par voie transcutanée due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection par voie transcutanée due à la mélioïdose peuvent inclure des plaies ou abrasions infectées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par voie aérienne due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection par voie aérienne due à la mélioïdose peuvent inclure des infections respiratoires et des pneumonies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par voie digestive due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection par voie digestive due à la mélioïdose peuvent inclure des douleurs abdominales et des diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par voie transcutanée due à la mélioïdose?",
+        "answer": "Les symptômes d'une infection par voie transcutanée due à la mélioïdose peuvent inclure des plaies ou abrasions infectées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose au niveau du système nerveux central?",
+        "answer": "Le système nerveux central peut être touché par des méningo-encéphalites, des abcès cérébraux ou épiduraux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le taux de rechute chez les patients bien traités et suivis pour la mélioïdose?",
+        "answer": "Le taux de rechute est inférieur à 5 % chez les patients bien traités et suivis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque qui renforcent la suspicion de mélioïdose?",
+        "answer": "Les facteurs de risque incluent le diabète, l'alcoolisme, l'insuffisance rénale et la corticothérapie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens biologiques courants pour diagnostiquer la mélioïdose?",
+        "answer": "Les examens biologiques courants n’ont aucune valeur indicative pour diagnostiquer la mélioïdose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les produits biologiques dans lesquels B. pseudomallei doit être recherché?",
+        "answer": "B. pseudomallei doit être recherché dans le sang, le pharynx, le pus, les crachats, le liquide broncho-alvéolaire, pleural, articulaire, et les urines.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel milieu est utilisé pour l'isolement de B. pseudomallei?",
+        "answer": "On utilise un milieu sélectif contenant du cristal violet et des aminosides, comme le milieu gélosé d’Ashdown ou le milieu B. pseudomallei selective agar (BPSA).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour le traitement d'attaque de la mélioïdose?",
+        "answer": "Ceftazidime ou carbapénèmes sont les molécules de choix pour le traitement d'attaque.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la durée moyenne pour obtenir l'apyrexie lors du traitement de la mélioïdose?",
+        "answer": "L’obtention de l’apyrexie est lente, en moyenne 9 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la durée recommandée pour la phase d'éradication du traitement de la mélioïdose?",
+        "answer": "La phase d'éradication doit durer de 12 à 20 semaines.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés en phase d'éradication pour la mélioïdose?",
+        "answer": "Cotrimoxazole ou doxycycline sont utilisés en phase d'éradication.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement recommandé en cas de contre-indication aux autres molécules pour la mélioïdose?",
+        "answer": "L’amoxicilline - clavulanate est utilisable en cas de contre-indication des autres molécules.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la recommandation pour les voyageurs en zone d'endémie de la mélioïdose?",
+        "answer": "Il faut éviter le contact cutané avec la boue ou l’eau souillée, particulièrement en cas de blessure ou de plaie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les signes cliniques initiaux de la mélioïdose chez les voyageurs?",
+        "answer": "Les premiers signes cliniques peuvent inclure une pneumopathie infectieuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de la phase intensive du traitement de la mélioïdose?",
+        "answer": "La phase intensive dure de 2 à 8 semaines.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les antibiotiques utilisés en phase intensive pour la mélioïdose?",
+        "answer": "Ceftazidime ou méropénem, associé à du cotrimoxazole en cas d’atteinte sévère, neurologique ou ostéo-articulaire.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la mortalité associée à l'utilisation de ceftazidime pour la mélioïdose?",
+        "answer": "La ceftazidime a réduit la mortalité de moitié.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les antibiotiques à éviter pour le traitement de la mélioïdose?",
+        "answer": "Les céphalosporines de troisième génération comme ceftriaxone et cefotaxime sont à éviter.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est l'efficacité des carbapénèmes par rapport à ceftazidime pour la mélioïdose?",
+        "answer": "L’efficacité des carbapénèmes est équivalente à celle de ceftazidime en dehors des formes sévères.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la durée recommandée pour le traitement par cotrimoxazole post phase intensive?",
+        "answer": "Un traitement de 12 semaines par cotrimoxazole post phase intensive est recommandé.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la protection recommandée pour les travailleurs en zone d'endémie de la mélioïdose?",
+        "answer": "La protection inclut le port de bottes, gants et masque.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité de l'antibioprophylaxie par cotrimoxazole en cas d'exposition à la mélioïdose?",
+        "answer": "L’antibioprophylaxie par cotrimoxazole est efficace si administrée dans les 24 premières heures.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les risques pour les voyageurs immunodéprimés en zone d'endémie de la mélioïdose?",
+        "answer": "Les voyageurs immunodéprimés doivent éviter le contact cutané avec la boue ou l’eau souillée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la mélioïdose chez les vétérans du Vietnam?",
+        "answer": "Les signes cliniques peuvent apparaître plusieurs dizaines d’années après l’exposition.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la recommandation pour les interventions humanitaires en zone d'endémie de la mélioïdose?",
+        "answer": "Il faut éviter le contact cutané avec la boue ou l’eau souillée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose au niveau pulmonaire?",
+        "answer": "Les symptômes incluent une pneumonie sévère ou excavée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose au niveau des ganglions?",
+        "answer": "Les symptômes incluent des tableaux d’allure plus chronique ganglionnaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose au niveau des viscères?",
+        "answer": "Les symptômes incluent des abcès viscéraux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose au niveau de la parotide?",
+        "answer": "Les symptômes incluent une parotidite suppurée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose au niveau des os et des articulations?",
+        "answer": "Les symptômes incluent des ostéites et arthrites septiques.",
+        "qtype": "symptômes"
+    }
+]

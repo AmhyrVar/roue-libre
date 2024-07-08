@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce que l'hydatidose humaine?",
+    "answer": "L'hydatidose humaine est une cestodose provoquée par la forme larvaire d'un petit ténia des canidés : Echinococcus granulosus.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les hôtes intermédiaires et définitifs dans le cycle de l'hydatidose?",
+    "answer": "Le chien est l'hôte définitif et le mouton est l'hôte intermédiaire. D'autres carnivores comme les chacals, hyènes, lycaons, lions peuvent héberger le parasite adulte, et d'autres herbivores comme les chèvres, bovins, dromadaires, antilopes, suidés, équidés et cervidés peuvent constituer l'hôte intermédiaire.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment l'homme s'insère-t-il dans le cycle parasitaire de l'hydatidose?",
+    "answer": "L'homme s'insère dans le cycle parasitaire de façon accidentelle en ingérant des embryophores après contact direct avec le chien, plus rarement indirectement à partir d'aliments ou d'eau contaminés.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les organes principalement touchés par les kystes hydatiques chez l'homme?",
+    "answer": "Chez l'homme, 60-70 % des kystes sont hépatiques, multiples dans 30 % des cas, parfois associés à d'autres localisations, en particulier pulmonaires (≈ 10 %). Les autres localisations concernent principalement les os, la rate, les reins et le cerveau.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'hydatidose hépatique en l'absence de complication?",
+    "answer": "En l'absence de complication et si le kyste est volumineux, une sensation de pesanteur ou une douleur de l'hypochondre droit peuvent être perçus. L'examen clinique peut alors mettre en évidence une hépatomégalie indolore à la palpation, isolée, à surface lisse le plus souvent.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelles sont les complications possibles de l'hydatidose hépatique?",
+    "answer": "Les complications possibles incluent la fissuration et/ou rupture du kyste, la surinfection, et la compression des voies biliaires, des veines sus-hépatiques ou du tronc porte.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment se fait le diagnostic de l'hydatidose?",
+    "answer": "Le diagnostic repose sur l'association d'arguments épidémiologiques, radiologiques et sérologiques. L'organisation interne et la structure du kyste définies par l'échographie ou la tomodensitométrie (TDM) donnent des arguments décisifs pour le diagnostic positif.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les tests sérologiques utilisés pour le dépistage de l'hydatidose?",
+    "answer": "Les tests sérologiques de dépistage incluent l'immunofluorescence indirecte, l'hémagglutination passive et la méthode immuno-enzymatique (ELISA). Une confirmation par un test spécifique (Western blot) est légalement obligatoire.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quelle est la stratégie thérapeutique pour les kystes hépatiques non cloisonnés d'un diamètre > 5 cm?",
+    "answer": "Ces kystes doivent bénéficier d'un traitement par PAIR (Ponction, Aspiration, Injection, Ré-aspiration). La technique inclut la ponction du kyste sous contrôle échographique ou tomodensitométrique, l'aspiration du liquide hydatique, l'injection d'un scolicide, et la ré-aspiration du scolicide et des débris intra-kystiques.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quel est le traitement médical recommandé pour les kystes inopérables et ceux viables < à 5 cm de diamètre?",
+    "answer": "Ces kystes seront traités par l'albendazole (15 mg/kg par jour en deux prises pendant les repas) sur une durée de 3 à 6 mois, voire plus en fonction de l'évolution.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quelles mesures de prophylaxie sont recommandées pour prévenir l'hydatidose?",
+    "answer": "Les mesures de prophylaxie incluent la suppression de l'accès des chiens aux viscères de moutons, leur vermifugation régulière, éviter la promiscuité avec les chiens, bien se laver les mains avant les repas et nettoyer soigneusement fruits et légumes avant leur consommation.",
+    "qtype": "prévention"
+  },
+  {
+    "question": "Qu'est-ce que la cysticercose?",
+    "answer": "La cysticercose est une cestodose provoquée par la forme larvaire (cysticerque) de Taenia solium.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment l'homme se contamine-t-il par la cysticercose?",
+    "answer": "L'homme se contamine par l'ingestion d'aliments ou d'eau souillés par les œufs de T. solium, disséminés dans la nature par un autre humain porteur du ver adulte. La contamination peut aussi être due à une auto-infection liée à une mauvaise hygiène personnelle.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la cysticercose sous-cutanée?",
+    "answer": "Les localisations sous-cutanées prennent l'aspect de nodules de 1 à 2 cm, mobiles, indolores, prédominant sur les bras et le thorax. Au bout de quelques mois d'évolution, ils deviennent inflammatoires puis disparaissent progressivement ou se calcifient.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la présentation clinique la plus commune de la neurocysticercose?",
+    "answer": "La comitialité (épilepsie) est la présentation clinique la plus commune et souvent isolée de la neurocysticercose. Elle est observée chez près de 50 à 80 % des patients porteurs de cysticerques cérébraux ou de calcifications en relation avec la parasitose.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de l'hypertension intracrânienne due à la neurocysticercose?",
+    "answer": "L'hypertension intracrânienne est provoquée par la présence dans les ventricules cérébraux de structures parasitaires bloquant l'écoulement du liquide céphalo-rachidien, par un phénomène mécanique ou suite à une inflammation épendymaire ou à une fibrose séquellaire.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment se fait le diagnostic de la cysticercose sous-cutanée?",
+    "answer": "Le diagnostic de la cysticercose sous-cutanée est aisé : la découverte de nodules amène à pratiquer leur ponction ou leur exérèse, assurant ainsi un diagnostic de certitude.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les médicaments de référence pour le traitement de la neurocysticercose?",
+    "answer": "L'albendazole (ABZ) et le praziquantel (PZQ) sont les médicaments de référence efficaces dans la neurocysticercose sur environ 80 % des cysticerques intra-parenchymateux non calcifiés.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quelle est la prophylaxie recommandée pour prévenir la cysticercose?",
+    "answer": "La prophylaxie passe par des mesures d'hygiène générale et individuelle : l'installation de latrines ou de tout-à-l'égout, la non utilisation des matières fécales humaines comme engrais, et l'élevage des porcs en stabulation.",
+    "qtype": "prévention"
+  },
+  {
+    "question": "Qu'est-ce que la trichinellose?",
+    "answer": "La trichinellose est une zoonose helminthique commune à l'homme et à de nombreux mammifères sauvages ou domestiques, causée par un nématode du genre Trichinella spp.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se fait l'infestation par Trichinella spiralis?",
+    "answer": "L'infestation se fait par ingestion de viande crue ou mal cuite d'omnivores comme les suidés (porc, sanglier, phacochère), de carnivores (félins) voire d'herbivores (cheval) contenant des larves enkystées.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la phase entérique de la trichinellose?",
+    "answer": "La phase entérique correspond à la phase de vie adulte du ver dans la paroi de l'iléon, responsable d'une augmentation du péristaltisme intestinal avec pour conséquence la diarrhée.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de la phase de migration larvaire de la trichinellose?",
+    "answer": "La phase de migration larvaire se présente comme un syndrome grippal avec une infiltration cellulaire inflammatoire autour des larves présentes dans les muscles, associée à un phénomène de vascularite et de microthromboses intra-vasculaires.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la durée d'incubation typique de la trichinellose?",
+    "answer": "L'incubation dure de 7 à 15 jours après absorption de la viande contaminée.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes digestifs possibles pendant la période d'incubation de la trichinellose?",
+    "answer": "Pendant la période d'incubation, le patient peut présenter des troubles digestifs tels que diarrhée, vomissements et douleurs abdominales.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les principaux réservoirs de Trichinella spiralis?",
+    "answer": "Les principaux réservoirs de Trichinella spiralis sont le porc et le cheval.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la durée de vie des larves de Trichinella spiralis dans les muscles?",
+    "answer": "Les larves enkystées peuvent survivre plusieurs années dans les muscles, jusqu'à 40 ans.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les effets secondaires reconnus de l'albendazole?",
+    "answer": "Les effets secondaires reconnus de l'albendazole incluent la leucopénie et la cytolyse hépatique.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quelle est la sensibilité des tests sérologiques pour les localisations pulmonaires et osseuses de l'hydatidose?",
+    "answer": "La sensibilité des tests sérologiques est de l'ordre de 65 % pour les localisations pulmonaires et 30 % pour les localisations osseuses.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes caractéristiques de la trichinellose?",
+    "answer": "Les symptômes caractéristiques de la trichinellose incluent une fièvre rapidement élevée, des myalgies diffuses parfois intenses et des œdèmes de la face.",
+    "qtype": "symptômes"
+  }
+]

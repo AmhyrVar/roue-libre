@@ -1,0 +1,317 @@
+[
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de l'impétigo?",
+        "answer": "Les streptocoques pyogenes et les Staphylococus aureus.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'impétigo?",
+        "answer": "Les lésions élémentaires initiales sont des bulles éphémères à contenu clair qui évoluent vers des pustules flasques puis des érosions suintantes, superficielles, bien limitées par une collerette périphérique, et qui se recouvrent progressivement de croûtes jaunâtres.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de l'impétigo présumé streptococcique?",
+        "answer": "Le traitement antibiotique adapté de l’impétigo streptococcique limite également la dissémination au sein d’une communauté.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce que l'impétiginisation?",
+        "answer": "Elle désigne la surinfection de dermatoses prurigineuses ou érosives telles que la gale ou l’onchocercose, et de dermatoses érosives comme la varicelle ou l’eczéma.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quelle bactérie est principalement responsable de l'impétiginisation?",
+        "answer": "Le staphylocoque doré est la principale bactérie en cause et parfois le streptocoque.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Qu'est-ce que l'ecthyma?",
+        "answer": "L’ecthyma est un impétigo creusant le derme.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quel est le traitement de l'ecthyma?",
+        "answer": "Une antibiothérapie antistreptococcique est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce que la lymphangite?",
+        "answer": "La lymphangite est une inflammation des canaux lymphatiques, habituellement d’origine streptococcique ou staphylococcique.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes de la lymphangite?",
+        "answer": "Elle se manifeste par un cordon érythémateux et douloureux allant de la périphérie d’un membre vers la racine, parfois associée à de la fièvre et à une adénite localisée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la lymphangite?",
+        "answer": "Le traitement est une antibiothérapie antistreptococcique et anti staphylococcique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce que les folliculites?",
+        "answer": "Ce sont des infections des follicules pilo-sébacés, le plus souvent staphylococciques.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite superficielle?",
+        "answer": "La folliculite superficielle se manifeste par une pustule centrée par un poil et reposant sur une base érythémateuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce qu'un furoncle?",
+        "answer": "Le furoncle est une infection folliculaire, profonde, nécrosante, staphylococcique.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes d'un furoncle?",
+        "answer": "Il débute comme une folliculite aiguë profonde mais la nécrose du follicule pilo-sébacé aboutit en quelques jours à la formation du «bourbillon» : concrétion jaune et nécrotique, initialement adhérente qui s’élimine spontanément pour faire place à une ulcération profonde puis à une cicatrice déprimée définitive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des furoncles de la région médio-faciale?",
+        "answer": "Un traitement anti staphylococcique oral est possible, mais non obligatoire. Il permet une guérison plus sûre et la diminution des rechutes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce qu'un anthrax?",
+        "answer": "L’anthrax est un agglomérat de plusieurs furoncles.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quel est le traitement de l'anthrax?",
+        "answer": "Il relève d’un traitement médical anti-staphylococcique parfois complété d’un geste chirurgical.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce qu'un abcès?",
+        "answer": "L’abcès est une collection de pus inflammatoire marquée par l’apparition d’une douleur intense, pulsatile et insomniante.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quel est le traitement d'un abcès?",
+        "answer": "Le traitement est avant tout chirurgical, complété par une antibiothérapie antistaphylococcique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce qu'un érysipèle?",
+        "answer": "L’érysipèle est une inflammation localisée de la peau siégeant au visage ou sur un membre.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes de l'érysipèle?",
+        "answer": "L’aspect est celui d’une inflammation locale aiguë, bien limitée avec rougeur, œdème et douleur. La fièvre est fréquente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de l'érysipèle?",
+        "answer": "L’antibiothérapie par l’amoxicilline est indiquée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce que la gangrène gazeuse?",
+        "answer": "La gangrène gazeuse est une infection nécrosante des tissus mous causée principalement par Clostridium perfringens.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes de la gangrène gazeuse?",
+        "answer": "Une douleur inaugurale intense, des bulles séro-sanoguinolentes, une nécrose formant des zones bronzes, violacées et noirâtres, et un exsudat fétide contenant de nombreux Clostridium.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la gangrène gazeuse?",
+        "answer": "Le traitement implique une antibiothérapie urgente et une intervention chirurgicale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la gangrène gazeuse?",
+        "answer": "Clostridium perfringens, d’autres Clostridium et anaérobies, des streptocoques et des entérobacteries.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Qu'est-ce que la fasciite nécrosante?",
+        "answer": "La fasciite nécrosante est une infection bactérienne grave des tissus mous qui engage le pronostic vital.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes de la fasciite nécrosante?",
+        "answer": "Douleur intense, nécrose cutanée, lividité ou cyanose du membre, et présence de gaz sous-cutané.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la fasciite nécrosante?",
+        "answer": "Le traitement antibiotique doit absolument être associé à la chirurgie précoce.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la fasciite nécrosante?",
+        "answer": "Streptocoques, anaérobies, bacilles Gram négatif ou staphylocoques.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Qu'est-ce que la cellulite?",
+        "answer": "La cellulite est une infection bactérienne de la peau et des tissus sous-cutanés.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les symptômes de la cellulite?",
+        "answer": "Rougeur, œdème, douleur, et parfois fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la cellulite?",
+        "answer": "Le traitement antibiotique est nécessaire, souvent avec des bêtalactamines comme l’amoxicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de la gangrène gazeuse?",
+        "answer": "Le traitement de la gangrène gazeuse consiste en un débridement chirurgical et une résection large de tous les tissus lésés ou suspects, sans fermeture immédiate. En situation de guerre ou de tremblement de terre, l’amputation est souvent la seule réponse adaptée. Le traitement antibiotique associe pénicilline G par voie IV ou amoxicilline et clindamycine par voie IV ou orale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la pyomyosite tropicale?",
+        "answer": "Les symptômes de la pyomyosite tropicale incluent une fièvre aiguë indifférenciée, une douleur localisée sans inflammation locale évidente, une tuméfaction dure et très douloureuse, et une fièvre hectique avec frissons.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on la pyomyosite tropicale?",
+        "answer": "Le diagnostic de la pyomyosite tropicale repose sur l'échographie pour visualiser les abcès, l'imagerie par résonance magnétique, et la ponction écho-guidée pour confirmer le diagnostic et identifier le germe.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la pyomyosite tropicale?",
+        "answer": "Le traitement de la pyomyosite tropicale inclut le drainage chirurgical et des antibiotiques anti-staphylococciques pour une durée de 4 à 6 semaines. Si un streptocoque A est isolé, la pénicilline G ou l’amoxicilline sont suffisantes. Pour les autres germes, on se base sur l’antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de la pyomyosite tropicale?",
+        "answer": "Les facteurs de risque de la pyomyosite tropicale incluent le diabète et l'infection par le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du noma?",
+        "answer": "Les symptômes du noma incluent une malnutrition manifeste, fièvre, œdème facial, haleine fétide, stomatite ulcéreuse, douleurs, hypersalivation, gène à l’alimentation, et des zones de cellulite puis de nécrose noire et sèche.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la physiopathologie du noma?",
+        "answer": "La physiopathologie du noma est mal cernée, mais les bactéries anaérobies de la cavité buccale jouent un rôle possible. La flore buccale des enfants avec malnutrition sévère est différente de celle des enfants en bonne santé. Fusobacterium necrophorum et Prevotella intermedia sont les bactéries les mieux documentées.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quel est le traitement des ulcérations cutanées bactériennes en milieu tropical?",
+        "answer": "Le traitement des ulcérations cutanées bactériennes en milieu tropical repose sur l’utilisation d’antiseptiques, de pansements protecteurs et parfois d’antibiotiques en cas de cellulite débutante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose cutanée?",
+        "answer": "Les symptômes de la bilharziose cutanée incluent des papules, souvent dans la région abdominale ou thoracique, et une éruption congestive urticarienne fugace.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la bilharziose cutanée?",
+        "answer": "Le traitement de la bilharziose cutanée consiste en l'administration de praziquantel.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose cutanéo-muqueuse chronique?",
+        "answer": "Les symptômes de la candidose cutanéo-muqueuse chronique incluent des plaques verruqueuses et hyperkératosiques sur les extrémités des membres, les zones péri-orificielles et le cuir chevelu.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des candidoses cutanées?",
+        "answer": "Le traitement des candidoses cutanées repose sur l’application d’imidazolés topiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du pityriasis versicolor?",
+        "answer": "Les symptômes du pityriasis versicolor incluent des macules arrondies de couleur brun chamois sur peau claire ou hypochromique sur peau noire, finement squameuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement du pityriasis versicolor?",
+        "answer": "Le traitement du pityriasis versicolor consiste en l'application d'un topique azolé comme le gel moussant de ketoconazole à 2 % ou le sulfure de sélénium.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des dermatophyties des plis?",
+        "answer": "Les symptômes des dermatophyties des plis incluent une macération de la peau, une fissuration du fond du pli, une hyperkératose, et une lésion blanc-nacré, épaisse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des dermatophyties?",
+        "answer": "Le traitement des dermatophyties comprend l'application d'antifongiques topiques azolés ou de terbinafine, cyclopiroxolamine, cyclopirox. Le traitement systémique est nécessaire pour les onychomycoses.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onychomycose?",
+        "answer": "Les symptômes de l'onychomycose incluent une tâche jaune à brune sur l'ongle, un épaississement de l'ongle, et une destruction de l'ongle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gangrène de Fournier?",
+        "answer": "Les symptômes de la gangrène de Fournier incluent une cellulite à évolution nécrosante localisée à la région périnéale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la gangrène de Fournier?",
+        "answer": "Le traitement de la gangrène de Fournier est chirurgical urgent associé à une antibiothérapie à large spectre.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la dermatite cercarienne?",
+        "answer": "Les symptômes de la dermatite cercarienne incluent une éruption congestive urticarienne fugace.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la dermatite cercarienne?",
+        "answer": "Le traitement de la dermatite cercarienne consiste en l'administration d'antihistaminiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose du pli fessier?",
+        "answer": "Les symptômes de la candidose du pli fessier incluent des lésions érythémateuses partant du fond des plis, suintantes et recouvertes d’un enduit blanchâtre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la candidose du pli fessier?",
+        "answer": "Le traitement de la candidose du pli fessier repose sur l'application d'imidazolés topiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la pyomyosite tropicale en phase suppurative?",
+        "answer": "Les symptômes de la pyomyosite tropicale en phase suppurative incluent une douleur invalidante, une fièvre hectique avec frissons, et une tuméfaction dure et très douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la pyomyosite tropicale en phase pré-suppurative?",
+        "answer": "Les symptômes de la pyomyosite tropicale en phase pré-suppurative incluent une fièvre aiguë indifférenciée et une douleur localisée sans inflammation locale évidente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la dermatophytie de la peau glabre?",
+        "answer": "Les symptômes de la dermatophytie de la peau glabre incluent des lésions arrondies, bien délimitées, avec une zone active inflammatoire en périphérie et un centre en voie de guérison.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la dermatophytie de la peau glabre?",
+        "answer": "Le traitement de la dermatophytie de la peau glabre comprend l'application d'antifongiques topiques azolés ou de terbinafine, cyclopiroxolamine, cyclopirox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'intertrigo interdigito-plantaire?",
+        "answer": "Les symptômes de l'intertrigo interdigito-plantaire incluent une macération de la peau, une fissuration du fond du pli, une hyperkératose, et une lésion blanc-nacré, épaisse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de l'intertrigo interdigito-plantaire?",
+        "answer": "Le traitement de l'intertrigo interdigito-plantaire comprend l'application d'antifongiques topiques azolés ou de terbinafine, cyclopiroxolamine, cyclopirox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose cutanéo-muqueuse chronique chez les jeunes enfants?",
+        "answer": "Les symptômes de la candidose cutanéo-muqueuse chronique chez les jeunes enfants incluent des plaques verruqueuses et hyperkératosiques sur les extrémités des membres, les zones péri-orificielles et le cuir chevelu.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quelles sont les espèces de spirochètes responsables des fièvres récurrentes?",
+        "response": "Les fièvres récurrentes sont dues à différentes espèces de spirochètes du genre Borrelia.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs de la fièvre récurrente épidémique?",
+        "response": "Le pou du corps de l’homme, Pediculus humanus humanus, transmet Borrelia recurrentis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs des fièvres récurrentes régionales ou endémiques?",
+        "response": "Des tiques molles des genres Ornithodoros et Argas sont les vecteurs de nombreuses borrélioses responsables de fièvres récurrentes humaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où la fièvre récurrente à poux est-elle actuellement rare?",
+        "response": "Elle est actuellement rare hormis certains foyers en Ethiopie, au Soudan, en Erythrée et en Somalie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'incidence annuelle de l'infection à B. duttonii chez les enfants en Tanzanie?",
+        "response": "Elle est estimée à 384/1 000 chez les enfants de moins de 1 an et de 163/1 000 chez les enfants de moins de 5 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée moyenne de la période d'incubation de la fièvre récurrente à poux?",
+        "response": "La durée de la période d’incubation est en moyenne de 7 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de la fièvre récurrente à poux?",
+        "response": "Le début est brutal et marqué par une sensation de froid, un frisson suivi d’une fièvre élevée dépassant souvent 40°C associés à des céphalées, des myalgies, des arthralgies, des douleurs abdominales, une anorexie, une toux sèche, des nausées, des vomissements, des vertiges.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes neurologiques de la fièvre récurrente à poux?",
+        "response": "Des manifestations neurologiques avec des troubles de la vigilance sont habituelles.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée moyenne du premier épisode fébrile de la fièvre récurrente à poux?",
+        "response": "La durée du premier épisode fébrile est en moyenne de 5,5 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée moyenne des intervalles inter critiques de la fièvre récurrente à poux?",
+        "response": "La durée des intervalles inter critiques est en moyenne de 9,25 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée moyenne des rechutes de la fièvre récurrente à poux?",
+        "response": "La durée moyenne des rechutes est de 1,9 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la mortalité sans traitement de la fièvre récurrente à poux?",
+        "response": "Sans traitement, le taux de mortalité varie de 10 à 40%.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la mortalité avec traitement antibiotique de la fièvre récurrente à poux?",
+        "response": "L’antibiothérapie réduit le taux de mortalité à 2 et 4%.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait la contamination de l’homme par la fièvre récurrente à tiques?",
+        "response": "La contamination de l’homme se fait par piqûre, principalement nocturne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée moyenne de l'incubation de la fièvre récurrente à tiques?",
+        "response": "Après une incubation silencieuse de quatre à sept jours en moyenne.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de la fièvre récurrente à tiques?",
+        "response": "La fièvre récurrente à tiques se caractérise par un accès fébrile brutal pouvant atteindre 40 à 41°C, accompagné de frissons, de céphalées, d’asthénie et d’algies diffuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les troubles digestifs fréquents de la fièvre récurrente à tiques?",
+        "response": "Les troubles digestifs fréquents sont l’anorexie, les douleurs abdominales, les nausées, les vomissements et les diarrhées.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les complications rares de la fièvre récurrente à tiques?",
+        "response": "Les complications rares incluent un syndrome méningé, des troubles neuro-psychiques, des atteintes oculaires.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection à B. miyamotoi?",
+        "response": "La symptomatologie est compatible avec les autres fièvres récurrentes à tiques avec des épisodes fébriles récurrents. Certains malades peuvent présenter un érythéma migrans et autres symptômes orientant vers une maladie de Lyme.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase apyrétique de la fièvre récurrente à tiques?",
+        "response": "La phase apyrétique survient avec une chute brutale de la température voire une hypothermie faisant place à une asthénie persistante.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'apyrexie de la fièvre récurrente à poux?",
+        "response": "La phase d'apyrexie est suivie d'une rechute fébrile associée à d’autres manifestations cliniques.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la rechute fébrile de la fièvre récurrente à poux?",
+        "response": "Les rechutes sont moins graves et plus courtes que la première attaque.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les enfants?",
+        "response": "Les enfants peuvent présenter une rougeur de la face, une injection conjonctivale et, plus rarement, une toux sèche.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les adultes?",
+        "response": "Les adultes peuvent présenter des frissons, des céphalées, d’asthénie et d’algies diffuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les femmes enceintes?",
+        "response": "Aucune complication obstétricale n’a été décrite au cours d’une infection par B. crocidurae.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les personnes âgées?",
+        "response": "Les personnes âgées peuvent présenter des troubles neuro-psychiques avec agitation, agressivité, idées de persécution, névralgies, paresthésies, parésies, paralysie faciale, atteinte des VIIe et VIIIe paires de nerfs crâniens et crises convulsives.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les personnes immunodéprimées?",
+        "response": "Les personnes immunodéprimées peuvent présenter des complications graves lors du premier accès fébrile ou lors des récurrences.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les personnes en bonne santé?",
+        "response": "Les personnes en bonne santé peuvent présenter des accès fébriles accompagnés de frissons, de céphalées, d’asthénie et d’algies diffuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les personnes vivant dans des zones endémiques?",
+        "response": "Les personnes vivant dans des zones endémiques peuvent présenter des accès fébriles moins sévères que les nouveaux arrivants dans la zone.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les personnes ayant déjà été infectées?",
+        "response": "Les personnes ayant déjà été infectées peuvent présenter des accès fébriles moins sévères que lors de la première infection.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes classiques de l'insuffisance rénale biologique?",
+        "answer": "Les symptômes classiques de l'insuffisance rénale biologique incluent une cytolyse modérée sans choléstase majeure, une hématurie et une protéinurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens utilisés pour affirmer le diagnostic positif de Borrelia?",
+        "answer": "Les examens utilisés pour affirmer le diagnostic positif de Borrelia sont la visualisation des Borrelia à l’examen direct au microscope et les techniques de biologie moléculaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment l'examen direct établit-il le diagnostic de Borrelia?",
+        "answer": "L'examen direct établit le diagnostic en visualisant la présence de Borrelia dans le sang périphérique de patients fébriles, avec un seuil de détection moyen de 104 à 105 spirochètes par mL de sang.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les avantages des techniques de biologie moléculaire pour le diagnostic de Borrelia?",
+        "answer": "Les avantages des techniques de biologie moléculaire pour le diagnostic de Borrelia incluent une sensibilité, une rapidité et une reproductibilité accrues, ainsi que la possibilité d'identifier les espèces par l’étude comparative des séquences de gènes codant pour l’ARN 16S ou la flagelline.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi l'utilisation de la sérologie est-elle limitée dans le diagnostic des fièvres récurrentes?",
+        "answer": "L'utilisation de la sérologie est limitée dans le diagnostic des fièvres récurrentes en raison des difficultés de culture des bactéries limitant la production d’antigène et de la variabilité antigénique des Borrelia des fièvres récurrentes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments déterminants dans le diagnostic d’une fièvre récurrente à tique?",
+        "answer": "Les éléments déterminants dans le diagnostic d’une fièvre récurrente à tique incluent la notion de contexte épidémiologique et en particulier de séjour en zone endémique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels antibiotiques sont efficaces pour traiter les fièvres récurrentes?",
+        "answer": "Les antibiotiques efficaces pour traiter les fièvres récurrentes incluent le chloramphénicol, les tétracyclines, l’érythromycine et la pénicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la fièvre récurrente à poux chez les femmes enceintes et les enfants de moins de 8 ans?",
+        "answer": "Le traitement recommandé pour la fièvre récurrente à poux chez les femmes enceintes et les enfants de moins de 8 ans est une dose orale unique de 0,5 g d’érythromycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la tétracycline pour traiter les fièvres récurrentes chez l'adulte?",
+        "answer": "La posologie de la tétracycline pour traiter les fièvres récurrentes chez l'adulte est de 500 mg per os toutes les six heures.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement par doxycycline pour les fièvres récurrentes?",
+        "answer": "La durée du traitement par doxycycline pour les fièvres récurrentes est de 5 à 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce que la réaction de Jarisch-Herxheimer?",
+        "answer": "La réaction de Jarisch-Herxheimer est une exacerbation brutale des signes survenant dans les suites immédiates de l’initiation de l’antibiothérapie, caractérisée par un frisson, une tachycardie, une tachypnée, une HTA, une hyperthermie, des sueurs abondantes et une chute brusque de la tension artérielle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase initiale de la réaction de Jarisch-Herxheimer?",
+        "answer": "Les symptômes de la phase initiale de la réaction de Jarisch-Herxheimer incluent un frisson durant 10 à 30 minutes, une tachycardie, une tachypnée, une HTA et une hyperthermie à 40°C.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs de Borrelia recurrentis?",
+        "answer": "Les vecteurs de Borrelia recurrentis sont les poux du corps, Pediculus humanus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les hôtes de Borrelia crocidurae?",
+        "answer": "Les hôtes de Borrelia crocidurae incluent les rongeurs et les renards.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs de Borrelia duttoni?",
+        "answer": "Les vecteurs de Borrelia duttoni sont les tiques du genre Ornithodoros, notamment O. moubata.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes associés à Borrelia hispanica?",
+        "answer": "Les symptômes associés à Borrelia hispanica incluent un début brutal et des formes méningées fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs de Borrelia persica?",
+        "answer": "Les vecteurs de Borrelia persica sont les tiques du genre Ornithodoros, notamment O. tholozani.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes associés à Borrelia turicatae?",
+        "answer": "Les symptômes associés à Borrelia turicatae incluent un syndrome pseudo-grippal et des atteintes neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs de Borrelia venezuelensis?",
+        "answer": "Les vecteurs de Borrelia venezuelensis sont les tiques du genre Ornithodoros, notamment O. rudis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs de Borrelia miyamotoi?",
+        "answer": "Les vecteurs de Borrelia miyamotoi incluent les tiques du genre Ixodes, notamment Ixodes persulcatus, Ixodes ricinus et Ixodes scapularis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes associés à Borrelia miyamotoi?",
+        "answer": "Les symptômes associés à Borrelia miyamotoi incluent un syndrome pseudo-grippal et une atteinte neurologique possible.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les moyens de prévention contre la fièvre récurrente à poux?",
+        "answer": "Les moyens de prévention contre la fièvre récurrente à poux incluent le contrôle et l’élimination de l’infestation par les poux de l’homme, notamment en enlevant les vêtements infestés, en les lavant à plus de 50°C ou en les traitant avec une poudre insecticide.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les moyens de prévention contre les piqûres de tiques?",
+        "answer": "Les moyens de prévention contre les piqûres de tiques incluent le port de pantalons rentrés dans les chaussettes, l’utilisation de répulsifs sur la peau et les vêtements, l’utilisation de poudre acaricide pour les literies et l'usage de moustiquaires.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre récurrente à tiques chez les voyageurs?",
+        "answer": "Les symptômes de la fièvre récurrente à tiques chez les voyageurs ne diffèrent pas de la présentation habituelle en zones d’endémies et incluent des fièvres récurrentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les formes non graves de fièvre récurrente chez les voyageurs?",
+        "answer": "Les traitements recommandés pour les formes non graves de fièvre récurrente chez les voyageurs incluent les cyclines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les formes neurologiques de fièvre récurrente chez les voyageurs?",
+        "answer": "Les traitements recommandés pour les formes neurologiques de fièvre récurrente chez les voyageurs incluent la pénicilline par voie intraveineuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour en savoir plus sur les fièvres récurrentes?",
+        "answer": "Les sites web recommandés pour en savoir plus sur les fièvres récurrentes incluent https://www.hassante.fr/jcms/c_2857552/fr/fiche-autres-maladies-vectorielles-a-tiques, https://www.ecdc.europa.eu/en/louse-borne-relapsingfever, https://www.cdc.gov/relapsingfever/resources/louse.html et https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010212.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes associés à Borrelia duttoni?",
+        "answer": "Les symptômes associés à Borrelia duttoni incluent des poussées fébriles atypiques et brèves, ainsi que des complications hépato-rénales et oculaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs de Borrelia hermsi?",
+        "answer": "Les vecteurs de Borrelia hermsi sont les tiques du genre Ornithodoros, notamment O. hermsi.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes associés à Borrelia hermsi?",
+        "answer": "Les symptômes associés à Borrelia hermsi incluent un syndrome pseudo-grippal.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce que les fièvres hémorragiques virales (FHV) ?",
+        "answer": "Les fièvres hémorragiques virales (FHV) sont un groupe d'infections virales systémiques graves pouvant comporter un syndrome hémorragique. Elles sont hautement contagieuses, notamment en milieu de soins, et ont une forte létalité.",
+        "qtype": "généralités"
+    },
+    {
+        "question": "Quels sont les principaux virus responsables des FHV ?",
+        "answer": "Les principaux virus responsables des FHV appartiennent à plusieurs familles : Flaviviridae, Bunyaviridae, Arenaviridae, et Filoviridae.",
+        "qtype": "classification"
+    },
+    {
+        "question": "Quels sont les réservoirs des FHV arbovirales ?",
+        "answer": "Les réservoirs des FHV arbovirales incluent les primates pour la fièvre jaune et l'homme pour la dengue.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les virus des FHV arbovirales ?",
+        "answer": "Les virus des FHV arbovirales sont transmis par des arthropodes vecteurs tels que les moustiques et les tiques.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux des FHV ?",
+        "answer": "Les symptômes initiaux des FHV incluent un syndrome infectieux aigu, pseudo-grippal avec parfois un rash cutané, pharyngite, douleurs rétro-orbitaires, hyperhémie conjonctivale, et œdème facial.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation moyenne des FHV ?",
+        "answer": "La durée d'incubation moyenne des FHV est de 3 à 10 jours, mais elle peut être prolongée jusqu'à 21 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les taux de létalité pour les différentes FHV ?",
+        "answer": "Les taux de létalité varient : 50 à 80 % pour Ebola, 20 à 30 % pour Marburg, 15 à 20 % pour Lassa (1 à 2 % globalement), 1 à 5 % pour la fièvre de la vallée du Rift, et 5 à 30 % pour la FH de Crimée-Congo.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les critères épidémiologiques pour suspecter une FHV ?",
+        "answer": "Les critères épidémiologiques incluent la notion de séjour en zone d'endémie ou d'épidémie, et l'exposition au risque (contact avec des malades, des primates, des rongeurs, des chauves-souris, participation à une inhumation).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères cliniques pour suspecter une FHV ?",
+        "answer": "Les critères cliniques incluent le délai entre l'exposition et la survenue des symptômes, des signes évocateurs ou compatibles (pharyngite, conjonctivite, exanthème), et l'échec d'un traitement probabiliste.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les mesures de protection des soignants en cas de FHV ?",
+        "answer": "Les mesures de protection des soignants incluent l'isolement géographique et technique des patients, l'utilisation de matériel à usage unique, et la limitation de l'accès aux malades au personnel et aux membres de la famille autorisés.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux points de la stratégie de lutte contre une épidémie de FHV ?",
+        "answer": "Les principaux points incluent l'établissement d'un comité de coordination, un programme de mobilisation sociale, l'aménagement de centres de traitement, un système de surveillance, et le suivi des sujets contact pendant 21 jours.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la période d'état des FHV ?",
+        "answer": "Les symptômes de la période d'état incluent des atteintes de divers appareils (digestif, cardio-vasculaire, rénal, hépatique, nerveux) selon le virus en cause.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la transmission interhumaine des Filoviridae ?",
+        "answer": "La transmission interhumaine des Filoviridae se fait lors de contacts directs avec des liquides biologiques infectés (sang, salive, vomissures, selles, urines, sperme) avec la peau et les muqueuses.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les signes d'orientation étiologique des FHV ?",
+        "answer": "Les signes d'orientation étiologique incluent une pharyngite, des douleurs rétro-orbitaires, une hyperhémie conjonctivale, et un œdème facial.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les réservoirs des Hantavirus ?",
+        "answer": "Les réservoirs des Hantavirus incluent les rongeurs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes évocateurs d'une FHV en période d'épidémie ?",
+        "answer": "Les symptômes évocateurs incluent une fièvre élevée à début brutal, hémorragie, diarrhée sanglante, hématurie, céphalées, fatigue, myalgies, dyspnée, vomissements, nausées, diarrhée, douleurs abdominales, dysphagie, hoquet, ou saignements inexpliqués.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Lassa ?",
+        "answer": "Les symptômes de la fièvre de Lassa incluent une pharyngite, des douleurs rétro-orbitaires, une hyperhémie conjonctivale, et un œdème facial.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de la vallée du Rift ?",
+        "answer": "Les symptômes de la fièvre de la vallée du Rift incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, et parfois des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Crimée-Congo ?",
+        "answer": "Les symptômes de la fièvre de Crimée-Congo incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre d'Ebola ?",
+        "answer": "Les symptômes de la fièvre d'Ebola incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Marburg ?",
+        "answer": "Les symptômes de la fièvre de Marburg incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre jaune ?",
+        "answer": "Les symptômes de la fièvre jaune incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, et parfois des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la dengue ?",
+        "answer": "Les symptômes de la dengue incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des éruptions cutanées, et parfois des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre d'Omsk ?",
+        "answer": "Les symptômes de la fièvre d'Omsk incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, et parfois des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de la forêt de Kyasanur ?",
+        "answer": "Les symptômes de la fièvre de la forêt de Kyasanur incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, et parfois des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Lassa ?",
+        "answer": "Les symptômes de la fièvre de Lassa incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre d'Argentine ?",
+        "answer": "Les symptômes de la fièvre d'Argentine incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Bolivie ?",
+        "answer": "Les symptômes de la fièvre de Bolivie incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre du Venezuela ?",
+        "answer": "Les symptômes de la fièvre du Venezuela incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre du Brésil ?",
+        "answer": "Les symptômes de la fièvre du Brésil incluent une fièvre aiguë, des douleurs musculaires, des maux de tête, des vomissements, des diarrhées, et des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les précautions à prendre pour prévenir la contamination de l'environnement par des liquides biologiques?",
+        "answer": "Il est nécessaire de nettoyer et de décontaminer l'environnement en cas de souillures par des liquides biologiques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles précautions doivent être respectées pour la prise en charge d'un patient suspect de FHV Ebola?",
+        "answer": "Il faut respecter strictement les précautions standard d'hygiène, les précautions complémentaires de type 'air' et 'contact', éviter tout contact avec le sang et les fluides corporels, renforcer le lavage des mains, porter des gants, un masque, des blouses, des lunettes de protection, limiter les gestes invasifs, désinfecter les surfaces et éliminer les déchets médicaux de manière spécifique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels équipements de protection individuelle doivent porter les professionnels de santé?",
+        "answer": "Les professionnels de santé doivent porter une surblouse imperméable à manches longues, une double paire de gants en nitrile, une charlotte, des sur-chaussures étanches, des lunettes couvrant largement les yeux et un appareil de protection respiratoire de type FFP2.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux diagnostics différentiels des fièvres hémorragiques virales?",
+        "answer": "Les principaux diagnostics différentiels incluent le paludisme, les bactériémies, la shigellose, la fièvre typhoïde, les rickettsioses, la leptospirose, la brucellose, les arboviroses, les hépatites virales, l'EBV, le CMV, le VIH, la rougeole, la toxoplasmose, la neutropénie ou pancytopénie fébrile, et l'envenimation ou intoxication chimique ou médicamenteuse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens complémentaires peuvent être réalisés en urgence pour diagnostiquer une FHV?",
+        "answer": "En urgence, des examens comme la numération formule, le frottis sanguin, les hémocultures, les sérologies et la ponction lombaire peuvent être réalisés dans un environnement de biosécurité type P2 avec des pratiques de niveau de sécurité 3.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes biologiques évocateurs mais peu spécifiques des FHV?",
+        "answer": "Les signes biologiques évocateurs mais peu spécifiques des FHV incluent la thrombopénie, la leucopénie, la cytolyse hépatique et la rhabdomyolyse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le transport des échantillons pour le diagnostic des FHV?",
+        "answer": "Le transport des échantillons doit se faire selon les normes en vigueur pour les prélèvements biologiques dangereux, avec un triple emballage conforme à la norme ONU 6.2.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Sur quoi repose le diagnostic de FHV?",
+        "answer": "Le diagnostic de FHV repose sur la détection du matériel génétique du virus par PCR ou la détection des anticorps IgM ou IgG spécifiques produits par les patients par des méthodes sérologiques de type ELISA.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement symptomatique recommandé pour les FHV?",
+        "answer": "Le traitement symptomatique recommandé inclut des mesures de réhydratation, le traitement du choc, des transfusions sanguines en cas d'hémorragies sévères, le traitement des autres infections associées et l'utilisation de paracétamol à visée antipyrétique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels médicaments sont contre-indiqués dans le traitement symptomatique des FHV?",
+        "answer": "L'acide acétylsalicylique, les AINS, les corticoïdes et les anticoagulants sont contre-indiqués.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel antiviral est efficace dans la fièvre de Lassa et la fièvre de Crimée-Congo?",
+        "answer": "La ribavirine est le seul antiviral efficace dans la fièvre de Lassa et la fièvre de Crimée-Congo.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les anticorps monoclonaux ayant montré des résultats encourageants contre le virus Ebola?",
+        "answer": "Les anticorps monoclonaux MAb 114 (commercialisé sous le nom d'Ebanga) et un autre commercialisé par la firme Regeneron ont montré des résultats encourageants.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ribavirine pour le traitement curatif des FHV?",
+        "answer": "La dose de charge est de 33 mg/kg (max : 2 gr), la dose d'entretien est de 16 mg/kg (max : 1 gr) toutes les 6 heures pendant 4 jours, puis 8 mg/kg (max : 0,5 gr) toutes les 6 heures pendant 6 jours, pour une durée totale de traitement de 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment sont classés les contacts d'un cas de FHV?",
+        "answer": "Les contacts sont classés selon le niveau de risque : haut risque, bas risque et sans risque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la conduite à tenir pour un contact à haut risque de FHV?",
+        "answer": "Pour un contact à haut risque, il faut surveiller la température et discuter d'une prophylaxie secondaire si la fièvre de Lassa ou la fièvre de Crimée-Congo est suspectée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la conduite à tenir pour un contact à bas risque de FHV?",
+        "answer": "Pour un contact à bas risque, il faut surveiller la température.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la conduite à tenir pour un contact sans risque de FHV?",
+        "answer": "Pour un contact sans risque, il n'y a pas de mesures spécifiques à prendre (abstention).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle prophylaxie peut être proposée en cas de suspicion de fièvre de Lassa ou de FHCC chez un contact à haut risque?",
+        "answer": "Une prophylaxie secondaire par ribavirine orale à la posologie de 600 mg toutes les 6 heures pendant 7 jours peut être proposée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle prophylaxie post-exposition a été utilisée dans le cadre de la maladie à virus Ebola?",
+        "answer": "Un vaccin (VSV EBOV) a été utilisé en prophylaxie post-exposition, bien que son efficacité ne soit pas validée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles mesures doivent être prises pour la prise en charge des cadavres et rites funéraires en cas de FHV?",
+        "answer": "Les familles ne peuvent pas procéder aux rites mortuaires, la manipulation des défunts doit être réalisée par des équipes dédiées, protégées et formées, qui assurent la désinfection du domicile et les enterrements.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important de mobiliser la communauté dans la prise en charge des contacts de FHV?",
+        "answer": "La mobilisation de la communauté est indispensable pour le suivi des contacts et la recherche active de cas secondaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de surveillance des contacts d'un cas de FHV?",
+        "answer": "Les contacts sont surveillés pendant 21 jours après l'exposition à un cas primaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vaccins disponibles pour l'infection par le virus Ebola?",
+        "answer": "Deux vaccins sont disponibles pour l'infection par le virus Ebola.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention des FHV en l'absence de vaccin?",
+        "answer": "Les mesures de prévention incluent le renforcement de la veille épidémiologique animale et humaine, la régulation du commerce international de viande de brousse, la mise en place de programmes IEC, la lutte contre les vecteurs et les réservoirs, la mise en place de plans de lutte gouvernementaux, l'information et la formation des personnels de santé, et la prévention de la transmission interhumaine par le renforcement des précautions d'hygiène.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour obtenir des informations sur les FHV?",
+        "answer": "Les sites web recommandés incluent ceux de l'OMS, du CDC, et des gouvernements nationaux, tels que https://www.who.int/health-topics/ebola#tab=tab_1, https://www.who.int/emergencies/emergency-events, https://apps.who.int/iris/handle/10665/130883, https://www.cdc.gov/mmwr/preview/mmwrhtml/00037085.htm, et https://www.gov.uk/guidance/viral-haemorrhagic-fevers-origins-reservoirs-transmission-and-guidelines.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs et réservoirs des FHV?",
+        "answer": "Les principaux vecteurs des FHV sont les tiques et les réservoirs sont les rongeurs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une infection par FHV?",
+        "answer": "Les signes cliniques évocateurs incluent la fièvre, les hémorragies, et les signes de choc.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires utiles pour diagnostiquer le paludisme?",
+        "answer": "Les examens complémentaires utiles pour diagnostiquer le paludisme incluent le frottis-goutte épaisse et le test de diagnostic rapide (TDR) paludisme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens complémentaires utiles pour diagnostiquer les bactériémies?",
+        "answer": "Les examens complémentaires utiles pour diagnostiquer les bactériémies incluent les hémocultures et la ponction lombaire (PL).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens complémentaires utiles pour diagnostiquer la shigellose?",
+        "answer": "Les examens complémentaires utiles pour diagnostiquer la shigellose incluent les coprocultures et les hémocultures.",
+        "qtype": "diagnostic"
+    }
+]

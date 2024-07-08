@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelles sont les principales causes des infections pelviennes chez la femme?",
+        "answer": "Les infections sexuellement transmises dues à N. gonorrhoeae et à C. trachomatis, ainsi que la flore endogène comprenant les anaérobies, streptocoques et E. coli.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisants des infections pelviennes hautes?",
+        "answer": "Les dispositifs de contraception intra-utérins, les avortements et les hystérosalpingographies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'appel des infections pelviennes aiguës et subaiguës?",
+        "answer": "Fièvre, douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont réalisés pour diagnostiquer une infection pelvienne aiguë?",
+        "answer": "Examen de l'abdomen, toucher vaginal, examen au spéculum, échographie, cœlioscopie, prélèvement vaginal et sérologie des Chlamydiae.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quand la cœlioscopie est-elle indiquée dans le cas des infections pelviennes?",
+        "answer": "En cas d'échec du traitement médical initial et en cas de suspicion de complications.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels des infections pelviennes aiguës?",
+        "answer": "Grossesse extra-utérine, appendicite aiguë, pyélonéphrite aiguë, rupture de kyste ovarien et nécrobiose aseptique d'un fibrome.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes chroniques?",
+        "answer": "Douleurs abdominales, lombalgie, leucorrhées, dyspareunie, dysménorrhée, ménorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment sont souvent découvertes les formes latentes des infections pelviennes?",
+        "answer": "Lors du bilan d'une stérilité.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques associés à l'obturation de l'ostium des trompes de Fallope?",
+        "answer": "Pyosalpynx, hydrosalpynx, stérilité, grossesse extra-utérine, douleurs chroniques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle de l'échographie dans le diagnostic des infections pelviennes?",
+        "answer": "Dépister une complication comme un pyosalpinx, un abcès ovarien ou du Douglas.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels prélèvements sont réalisés lors de l'examen au spéculum pour les infections pelviennes?",
+        "answer": "Prélèvements bactériologiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques observés lors de l'examen de l'abdomen pour une infection pelvienne aiguë?",
+        "answer": "Défense pelvienne, empâtement douloureux du pelvis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques observés lors du toucher vaginal pour une infection pelvienne aiguë?",
+        "answer": "Empâtement, comblement de cul-de-sac, refoulement du col, douleur du cul de sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques observés lors de l'examen au spéculum pour une infection pelvienne aiguë?",
+        "answer": "Vaginite, cervicite, écoulement purulent cervical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'utilité de la laparoscopie dans le diagnostic des infections pelviennes?",
+        "answer": "Visualiser des trompes inflammatoires, des adhérences pelviennes, d'éventuelles complications et permettre les prélèvements bactériologiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est l'utilité de la sérologie des Chlamydiae dans le diagnostic des infections pelviennes?",
+        "answer": "Évocatrice si une augmentation du titre d'anticorps est observée à deux prélèvements successifs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes latentes?",
+        "answer": "Paucisymptomatiques, souvent découvertes lors du bilan d'une stérilité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes subaiguës?",
+        "answer": "Douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes aiguës?",
+        "answer": "Fièvre, douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes chroniques?",
+        "answer": "Douleurs abdominales, lombalgie, leucorrhées, dyspareunie, dysménorrhée, ménorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque des infections pelviennes hautes?",
+        "answer": "Dispositifs de contraception intra-utérins, avortements, hystérosalpingographies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes subaiguës?",
+        "answer": "Douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes aiguës?",
+        "answer": "Fièvre, douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes chroniques?",
+        "answer": "Douleurs abdominales, lombalgie, leucorrhées, dyspareunie, dysménorrhée, ménorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque des infections pelviennes hautes?",
+        "answer": "Dispositifs de contraception intra-utérins, avortements, hystérosalpingographies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes subaiguës?",
+        "answer": "Douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes aiguës?",
+        "answer": "Fièvre, douleurs pelviennes, leucorrhée, métrorragie, dysurie, proctalgie, douleur lombaire, nausée et vomissement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections pelviennes chroniques?",
+        "answer": "Douleurs abdominales, lombalgie, leucorrhées, dyspareunie, dysménorrhée, ménorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque des infections pelviennes hautes?",
+        "answer": "Dispositifs de contraception intra-utérins, avortements, hystérosalpingographies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les complications aiguës possibles des infections pelviennes chez la femme?",
+        "answer": "Les complications aiguës possibles incluent la péritonite aiguë chirurgicale, la septicémie et le choc septique, le pyosalpinx, l'abcès ovarien, et l'abcès du Douglas.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Comment diagnostique-t-on un pyosalpinx ou un abcès ovarien?",
+        "answer": "Ils sont diagnostiqués par la cœlioscopie et l’échographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est l'indication chirurgicale en cas de pyosalpinx ou d'abcès ovarien?",
+        "answer": "Il y a une indication chirurgicale endoscopique ou par laparotomie en l’absence d’amélioration sous traitement médical.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment est révélé un abcès du Douglas?",
+        "answer": "Il est révélé par les touchers pelviens qui provoquent une douleur aiguë.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment confirme-t-on le diagnostic d'un abcès du Douglas?",
+        "answer": "Le diagnostic est confirmé par l’échographie et la ponction trans-vaginale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les conséquences possibles d'une salpingite gonococcique?",
+        "answer": "Une grossesse extra-utérine et/ou une stérilité par obstruction tubaire sont à craindre.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quel est le risque de stérilité après plusieurs épisodes de salpingite gonococcique?",
+        "answer": "Le risque de stérilité est de 13% après un épisode, 36% après deux épisodes, et 75% après trois épisodes ou plus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles lésions peut entraîner la bilharziose?",
+        "answer": "La bilharziose peut entraîner des lésions tumorales et fibreuses des trompes, parfois une obstruction tubaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on la bilharziose?",
+        "answer": "La biopsie retrouve des œufs de schistosomes au sein d’un granulome.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'effet du traitement médical sur la fibrose causée par la bilharziose?",
+        "answer": "Le traitement médical est peu efficace sur la fibrose qui est responsable de stérilités tubaires.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment sont diagnostiquées les salpingites tuberculeuses?",
+        "answer": "Elles sont surtout diagnostiquées par la biopsie à l’occasion de stérilité, de grossesse extra-utérine, de douleurs abdominales, de métrorragies ou de leucorrhées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la principale complication des salpingites tuberculeuses?",
+        "answer": "La stérilité est la principale complication de cette localisation de la tuberculose.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels autres organes peuvent être atteints en cas de salpingites tuberculeuses?",
+        "answer": "Peut être associée à une atteinte intra abdominale diffuse, en particulier le tube digestif (iléon) et une ascite.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection à Entoemeba histolytica?",
+        "answer": "L’infection à Entoemoba histolytica se caractérise par des pertes vaginales sanglantes et malodorantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle condition peut mimer l'infection à Entoemeba histolytica?",
+        "answer": "Elle peut mimer un cancer du col de l’utérus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement ambulatoire recommandé par l'OMS pour les maladies inflammatoires pelviennes?",
+        "answer": "Le traitement ambulatoire recommandé par l'OMS est une dose unique de 1 g de ceftriaxone, complété par 100 mg de doxycycline deux fois par jour pendant 14 jours, et 500 mg de métronidazole par voie orale, deux fois par jour pendant 14 à 21 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la voie de traitement préférée en cas d'hospitalisation pour maladies inflammatoires pelviennes?",
+        "answer": "La voie parentérale est préférable au moins pendant les premiers jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes qui orientent vers un traitement médical ou chirurgical au niveau 1?",
+        "answer": "Les symptômes permettent une orientation vers un traitement médical ou chirurgical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour la prise en charge des IST selon l'OMS?",
+        "answer": "Guide OMS pour la prise en charge des IST : http://whqlibdoc.who.int/publications/2005/9242546267.pdf et OMS IST général : www.who.int/mediacentre/factsheets/fs110/fr/",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quelle est la complication principale de la bilharziose sur les trompes?",
+        "answer": "La fibrose responsable de stérilités tubaires.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les symptômes associés aux salpingites tuberculeuses?",
+        "answer": "Les symptômes incluent la stérilité, la grossesse extra-utérine, les douleurs abdominales, les métrorragies et les leucorrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la complication principale des infections pelviennes chez la femme?",
+        "answer": "La stérilité par obstruction tubaire.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une infection à Entoemeba histolytica?",
+        "answer": "Le traitement n'est pas spécifié dans le texte fourni.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péritonite aiguë chirurgicale?",
+        "answer": "Les symptômes ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une septicémie et d'un choc septique?",
+        "answer": "Les symptômes ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic pour une obstruction tubaire après une salpingite?",
+        "answer": "La cœlioscopie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection pelvienne chez la femme?",
+        "answer": "Les symptômes ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la complication principale d'une grossesse extra-utérine?",
+        "answer": "La stérilité par obstruction tubaire.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection à Entoemeba histolytica?",
+        "answer": "Des pertes vaginales sanglantes et malodorantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la complication principale des salpingites tuberculeuses?",
+        "answer": "La stérilité.",
+        "qtype": "complications"
+    }
+]

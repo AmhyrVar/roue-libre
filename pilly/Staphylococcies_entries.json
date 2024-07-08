@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les principaux types de staphylocoques?",
+        "answer": "Les principaux types de staphylocoques sont Staphylococcus aureus (coagulase positive), Staphylococcus epidermidis, S. saprophyticus et S. hominis (coagulase négative).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Qu'est-ce qui rend les staphylocoques résistants à la méticilline?",
+        "answer": "Les staphylocoques résistants à la méticilline ont acquis le gène 'mec' qui permet la synthèse d'une enzyme (PLP2a ou PLP2') ayant une faible affinité pour les ß-lactamines, les rendant inefficaces.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où les infections à staphylocoques sont-elles les plus fréquentes?",
+        "answer": "Les infections à staphylocoques sont ubiquitaires et sévissent partout, mais les zones tropicales et équatoriales au climat chaud et humide exposent particulièrement aux infections cutanées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le principal réservoir naturel des staphylocoques?",
+        "answer": "L'homme est le principal réservoir naturel des staphylocoques, qu'il soit infecté ou simplement colonisé, hébergeant des staphylocoques au niveau des fosses nasales et de la peau.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent principalement les staphylocoques?",
+        "answer": "La transmission des staphylocoques est avant tout interhumaine directe et manuportée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les infections à staphylocoques dorés?",
+        "answer": "Les facteurs de risque incluent la présence de matériel étranger (cathéter, prothèse), les services hospitaliers comme la chirurgie et la réanimation, et les infections communautaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la porte d'entrée des staphylococcies?",
+        "answer": "La porte d'entrée des staphylococcies est cutanée, souvent à la faveur d'une plaie même minime ou du point de pénétration d'un cathéter.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs de virulence de S. aureus?",
+        "answer": "S. aureus possède de nombreux facteurs de virulence, y compris des antigènes de surface, des exotoxines, des enzymes, et la coagulase qui induit la formation de microthrombi vasculaires septiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelles sont les propriétés des staphylocoques qui favorisent leur persistance?",
+        "answer": "Les staphylocoques peuvent adhérer à l'endothélium et aux structures inertes, et les bactéries adhérentes peuvent synthétiser des exopolysaccharides formant un biofilm imperméable.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'impétigo?",
+        "answer": "L'impétigo est une dermatose bulleuse et croûteuse du visage ou des membres, fréquente chez le jeune enfant et très contagieuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que la folliculite aiguë superficielle?",
+        "answer": "La folliculite aiguë superficielle est une suppuration localisée à l'orifice du follicule pilo-sébacé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que la staphylococcie maligne de la face?",
+        "answer": "La staphylococcie maligne de la face est une cellulite diffuse de la face d'évolution rapide, souvent consécutive à un furoncle traumatisé, avec un risque de thrombophlébite du sinus caverneux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques associés aux bactériémies à S. aureus?",
+        "answer": "Les bactériémies à S. aureus peuvent entraîner des métastases septiques avec risque de choc septique et nécessitent la recherche de localisations septiques secondaires comme des abcès profonds ou des endocardites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les différentes formes de staphylococcies ostéo-articulaires?",
+        "answer": "Les staphylococcies ostéo-articulaires incluent les atteintes par inoculation directe, les ostéomyélites aiguës, les arthrites primitives hématogènes, et les spondylodiscites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des myosites staphylococciques?",
+        "answer": "Les myosites staphylococciques se manifestent par des douleurs musculaires et des abcès, souvent au niveau du tronc, des cuisses et des fesses, et sont fréquentes en milieu tropical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements pour les infections à staphylocoques dorés sensibles à la méticilline?",
+        "answer": "Les infections à staphylocoques dorés sensibles à la méticilline (SASM) sont généralement traitées avec des antibiotiques ß-lactamines.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Comment traite-t-on les staphylocoques résistants à la méticilline?",
+        "answer": "Les staphylocoques résistants à la méticilline (SARM) sont traités avec des antibiotiques non ß-lactamines, comme la vancomycine ou la daptomycine.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements pour les staphylococcies cutanéo-muqueuses?",
+        "answer": "Les staphylococcies cutanéo-muqueuses sont traitées par des antibiotiques adaptés et des soins locaux, comme le drainage des abcès et l'hygiène des plaies.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Comment prévient-on la transmission des staphylocoques en milieu de soins?",
+        "answer": "La prévention en milieu de soins inclut l'hygiène des mains (lavage au savon ou friction au SHA) et la désinfection de l'environnement médical.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la staphylococcie maligne de la face?",
+        "answer": "Les symptômes incluent une cellulite diffuse de la face, un placard rouge violacé, une protrusion du globe oculaire, et des cordons veineux thrombosés visibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des staphylococcies ostéo-articulaires?",
+        "answer": "Les symptômes incluent des douleurs osseuses et articulaires, des abcès, et des signes de compression médullaire en cas de spondylodiscite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des myosites staphylococciques?",
+        "answer": "Les symptômes incluent des douleurs musculaires, des abcès, et une inflammation localisée, souvent après un traumatisme ou un effort musculaire intense.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les infections à staphylocoques en milieu hospitalier?",
+        "answer": "Les facteurs de risque incluent les interventions chirurgicales, les cathéters, les prothèses, et les services de réanimation et d'oncologie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite aiguë profonde?",
+        "answer": "La folliculite aiguë profonde se manifeste par un abcès intra-folliculaire, réalisant l'aspect typique du furoncle ou de l'anthrax.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onyxis et du périonyxis?",
+        "answer": "L'onyxis et le périonyxis sont des infections chroniques du mur unguéal ou du bourrelet péri-unguéal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la staphylococcie maligne de la face?",
+        "answer": "Les symptômes incluent une cellulite diffuse de la face, un placard rouge violacé, une protrusion du globe oculaire, et des cordons veineux thrombosés visibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des staphylococcies ostéo-articulaires?",
+        "answer": "Les symptômes incluent des douleurs osseuses et articulaires, des abcès, et des signes de compression médullaire en cas de spondylodiscite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des myosites staphylococciques?",
+        "answer": "Les symptômes incluent des douleurs musculaires, des abcès, et une inflammation localisée, souvent après un traumatisme ou un effort musculaire intense.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les infections à staphylocoques en milieu hospitalier?",
+        "answer": "Les facteurs de risque incluent les interventions chirurgicales, les cathéters, les prothèses, et les services de réanimation et d'oncologie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la folliculite aiguë profonde?",
+        "answer": "La folliculite aiguë profonde se manifeste par un abcès intra-folliculaire, réalisant l'aspect typique du furoncle ou de l'anthrax.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'onyxis et du périonyxis?",
+        "answer": "L'onyxis et le périonyxis sont des infections chroniques du mur unguéal ou du bourrelet péri-unguéal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la phase I de la pyomyosite?",
+        "answer": "La phase I est marquée par des signes généraux inconstants et modérés, une sensibilité musculaire localisée et des crampes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste la phase II de la pyomyosite?",
+        "answer": "La phase II se manifeste par des signes généraux plus marqués, des douleurs musculaires franches et une inflammation en regard.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le diagnostic de la phase II de la pyomyosite?",
+        "answer": "Le diagnostic peut être porté par la ponction transcutanée et/ou par l’imagerie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les complications de la phase III de la pyomyosite?",
+        "answer": "La phase III de la pyomyosite peut évoluer vers une ostéomyélite, des foyers secondaires, une septicémie avec un risque vital rapidement engagé.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quel est le traitement de la pyomyosite?",
+        "answer": "Le traitement repose sur une antibiothérapie systémique, complétée par un traitement chirurgical en cas d’abcès volumineux.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la létalité des pneumonies nécrosantes sévères causées par S. aureus producteurs de la toxine PVL?",
+        "answer": "La létalité est proche de 50%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes radiologiques des staphylococcies pleuropulmonaires du nourrisson?",
+        "answer": "Les signes radiologiques incluent des infiltrats pommelés multiples, des bulles, des abcès, et un épanchement pleural aérique et/ou liquidien (pyopneumothorax).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les syndromes liés à la sécrétion de toxines par certains S. aureus?",
+        "answer": "Les syndromes incluent les atteintes cutanées par exfoliatines A et B, le choc toxique staphylococcique par TSST-1, et les expressions digestives et générales par les entérotoxines A à D.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Dans quel contexte surviennent les infections à staphylocoques coagulase négative (SCN)?",
+        "answer": "Les infections à SCN surviennent en contexte nosocomial ou postopératoire, notamment en chirurgie cardiovasculaire, neurochirurgie, réanimation, orthopédie, et hémodialyse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic des infections systémiques à staphylocoques?",
+        "answer": "Le diagnostic nécessite la mise en évidence de la bactérie, le staphylocoque poussant rapidement sur la plupart des milieux de culture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux antibiotiques actifs sur les staphylocoques?",
+        "answer": "Les principaux antibiotiques incluent les pénicillines du groupe M, les céphalosporines, les aminosides, les synergistines, les lincosamides, les quinolones, les glycopeptides, les lipopeptides, les oxazolidinones, l'acide fusidique, la rifampicine, la fosfomycine, et le cotrimoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de référence des staphylocoques sensibles à la méticilline?",
+        "answer": "Le traitement de référence est les pénicillines M (oxacilline, cloxacilline).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont inefficaces contre les staphylocoques résistants à la méticilline?",
+        "answer": "Les ß-lactamines disponibles en 2021 sont inefficaces, à l’exception de la ceftaroline et du ceftobiprole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour les infections à staphylocoques méti-R?",
+        "answer": "Le traitement de première intention fait appel à un glycopeptide (vancomycine) ou à la daptomycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi ne doit-on pas utiliser certains antibiotiques en monothérapie dans les infections staphylococciques?",
+        "answer": "En raison du risque de sélection de mutants résistants.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement d'un furoncle non compliqué?",
+        "answer": "Un furoncle non compliqué relève d’un traitement local (nettoyage simple à l’eau et au savon voire désinfection locale).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement d'un panaris ou d'un abcès?",
+        "answer": "Un panaris ou un abcès doivent être incisés et un traitement antibiotique peut être prescrit au décours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement des staphylococcies malignes de la face?",
+        "answer": "Les staphylococcies malignes de la face relèvent d’une antibiothérapie parentérale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement des staphylococcies profondes?",
+        "answer": "Elles relèvent d’une antibiothérapie systémique adaptée à l’antibiogramme et d’un traitement complémentaire au niveau de la porte d’entrée et/ou de localisation(s) secondaire(s).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une septicémie sans localisation viscérale?",
+        "answer": "La durée du traitement est de 2 semaines au minimum.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une pneumopathie abcédée?",
+        "answer": "La durée du traitement est de 3 semaines au minimum.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite?",
+        "answer": "La durée du traitement est de 4 à 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une ostéoarthrite?",
+        "answer": "La durée du traitement est de 4 à 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une spondylodiscite?",
+        "answer": "La durée du traitement est de 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la particularité des infections à staphylocoques chez le voyageur en zone tropicale?",
+        "answer": "Les infections de la peau et des tissus mous sont plus fréquentes en raison des conditions de voyage favorisant leur apparition (humidité, traumatisme cutané, piqûre d’insecte).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la proportion des piqûres d’insecte surinfectées parmi les infections de la peau du voyageur?",
+        "answer": "Les piqûres d’insecte surinfectées représentent près de 2/3 des causes d’infections de la peau du voyageur.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principes de traitement des infections à staphylocoques chez le voyageur?",
+        "answer": "Les principes de traitement incluent l'incision et l'évacuation des abcès, l'isolement bactérien et l'antibiogramme si possible, le traitement antibiotique par voie générale, et la désinfection du portage du patient et de l’entourage proche.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures doivent appliquer le personnel soignant prenant en charge des patients infectés par des staphylocoques?",
+        "answer": "Le personnel soignant doit appliquer des mesures strictes d’hygiène des mains par usage de SHA entre autres.",
+        "qtype": "prévention"
+    }
+]

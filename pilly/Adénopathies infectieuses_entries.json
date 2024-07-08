@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les éléments cliniques orientant vers une cause infectieuse ou tumorale d'une adénopathie?",
+        "answer": "Les éléments cliniques orientant vers une cause infectieuse ou tumorale d'une adénopathie incluent la consistance, la sensibilité, les signes inflammatoires, l'abcédation, la fistulisation, les signes de compression, les signes régionaux comme la lymphangite et la lésion d'inoculation, ainsi que l'évolution aiguë ou subaiguë.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes régionaux associés à une adénopathie infectieuse?",
+        "answer": "Les signes régionaux associés à une adénopathie infectieuse incluent la lymphangite et la lésion d'inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens paracliniques sont utiles pour le diagnostic d'adénopathies profondes?",
+        "answer": "Les examens paracliniques utiles pour le diagnostic d'adénopathies profondes incluent la radiographie thoracique, l'échographie abdominale, et la tomodensitométrie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les germes responsables de l'adénophlegmon sous-angulomaxillaire?",
+        "answer": "Les germes responsables de l'adénophlegmon sous-angulomaxillaire peuvent être des germes pyogènes comme Staphylococcus aureus et Streptococcus pyogenes, ou Actinomyces israeli, un bacille à Gram positif anaérobie.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une actinomycose cervico-faciale?",
+        "answer": "Le traitement recommandé pour une actinomycose cervico-faciale inclut la pénicilline G (10 à 20 millions d'U/jour par voie veineuse pendant 4 à 6 semaines) suivie d'amoxicilline per os (2 à 4 g/j pendant 3 mois). Un drainage chirurgical est souvent nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une adénopathie infectieuse?",
+        "answer": "Les signes cliniques associés à une adénopathie infectieuse incluent la consistance rénitente, la sensibilité, les signes inflammatoires, et l'abcédation ou la fistulisation possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens de routine recommandés pour le diagnostic d'adénopathies infectieuses?",
+        "answer": "Les examens de routine recommandés pour le diagnostic d'adénopathies infectieuses incluent la radiographie thoracique, l'échographie abdominale, et la tomodensitométrie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments cliniques à rechercher pour diagnostiquer une adénopathie?",
+        "answer": "Les éléments cliniques à rechercher pour diagnostiquer une adénopathie incluent les caractéristiques ganglionnaires (date d'apparition, taille, aspect, nombre, atteinte d'une ou plusieurs aires ganglionnaires), la porte d'entrée loco-régionale (plaie, piqûre, morsure, relations sexuelles), et les signes généraux et cliniques associés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de l'érysipèle?",
+        "answer": "L'érysipèle est causé par le streptocoque ß-hémolytique.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la pasteurellose?",
+        "answer": "La pasteurellose est causée par Pasteurella multocida.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables du charbon?",
+        "answer": "Le charbon est causé par Bacillus anthracis.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables du zona?",
+        "answer": "Le zona est causé par le virus varicelle-zona (VZV).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la primo-infection herpétique?",
+        "answer": "La primo-infection herpétique est causée par le virus de l'herpès simplex (HSV).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une adénopathie infectieuse?",
+        "answer": "Le traitement d'une adénopathie infectieuse peut inclure des antibiotiques appropriés selon l'agent pathogène identifié, et dans certains cas, un drainage chirurgical peut être nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de compression associés à une adénopathie tumorale?",
+        "answer": "Les signes de compression associés à une adénopathie tumorale peuvent inclure des symptômes de compression des structures adjacentes, mais ils sont possibles et non systématiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens paracliniques recommandés pour différencier une cause tumorale d'une cause infectieuse d'une adénopathie?",
+        "answer": "Les examens paracliniques recommandés pour différencier une cause tumorale d'une cause infectieuse d'une adénopathie incluent la ponction ganglionnaire, l'examen direct du frottis après coloration, la mise en culture sur milieux ordinaire, de culture pour mycobactéries et de Sabouraud, ainsi que la biopsie/exérèse chirurgicale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de l'actinomycose cervico-faciale?",
+        "answer": "L'actinomycose cervico-faciale est causée le plus souvent par Actinomyces israeli, un bacille à Gram positif anaérobie.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une adénopathie due à une infection cutanée ou muqueuse?",
+        "answer": "Le traitement d'une adénopathie due à une infection cutanée ou muqueuse inclut des antibiotiques appropriés selon l'agent pathogène identifié, et dans certains cas, un drainage chirurgical peut être nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes généraux à rechercher pour diagnostiquer une adénopathie?",
+        "answer": "Les signes généraux à rechercher pour diagnostiquer une adénopathie incluent la fièvre, la fatigue, la perte de poids, et les sueurs nocturnes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de l'érysipéloïde ou rouget du porc?",
+        "answer": "L'érysipéloïde ou rouget du porc est causé par Erysipelothrix rhusiopathiae.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une adénopathie due à une infection bucco-dentaire?",
+        "answer": "Le traitement d'une adénopathie due à une infection bucco-dentaire inclut des antibiotiques appropriés selon l'agent pathogène identifié, et dans certains cas, un drainage chirurgical peut être nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes inflammatoires associés à une adénopathie infectieuse?",
+        "answer": "Les signes inflammatoires associés à une adénopathie infectieuse incluent la rougeur, la chaleur, la douleur, et le gonflement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la pyodermite?",
+        "answer": "La pyodermite peut être causée par divers agents pathogènes, notamment Staphylococcus aureus et Streptococcus pyogenes.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une adénopathie due à une infection cutanée?",
+        "answer": "Le traitement d'une adénopathie due à une infection cutanée inclut des antibiotiques appropriés selon l'agent pathogène identifié, et dans certains cas, un drainage chirurgical peut être nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de compression associés à une adénopathie infectieuse?",
+        "answer": "Les signes de compression associés à une adénopathie infectieuse sont rares mais peuvent inclure des symptômes de compression des structures adjacentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la bartonellose?",
+        "answer": "La bartonellose est causée par des bactéries du genre Bartonella, notamment Bartonella henselae.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une adénopathie due à la bartonellose?",
+        "answer": "Le traitement de la bartonellose peut inclure des antibiotiques tels que la doxycycline ou l'azithromycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une adénopathie tumorale?",
+        "answer": "Les signes cliniques associés à une adénopathie tumorale incluent une consistance dure et fixée, une sensibilité variable, des signes inflammatoires possibles mais rares, et des signes de compression possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une adénopathie due à une infection par le charbon?",
+        "answer": "Le traitement de l'infection par le charbon inclut des antibiotiques tels que la ciprofloxacine ou la doxycycline, et dans certains cas, un drainage chirurgical peut être nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies volumineuses au niveau du cou?",
+        "answer": "Les adénopathies volumineuses au niveau du cou peuvent se fistuliser, formant des écrouelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour des adénopathies volumineuses au niveau du cou?",
+        "answer": "Les diagnostics différentiels incluent la tuberculose et l'histoplasmose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies inflammatoires dans un contexte fébrile et toxique?",
+        "answer": "Les adénopathies inflammatoires dans un contexte fébrile et toxique font suspecter la peste.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la bartonellose?",
+        "answer": "Le traitement de la bartonellose est l'azithromycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment confirmer le diagnostic de rickettsioses à tiques?",
+        "answer": "Le diagnostic de rickettsioses à tiques peut être confirmé par biopsie d'escarre, PCR, culture et sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la tularémie?",
+        "answer": "Le traitement de la tularémie est la doxycycline, éventuellement associée à un aminoside.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels tests sont utilisés pour diagnostiquer la peste?",
+        "answer": "Le diagnostic de la peste peut être confirmé par examen direct du pus, culture et test de diagnostic rapide.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la syphilis?",
+        "answer": "Le traitement de la syphilis est la pénicilline ou la doxycycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment diagnostiquer la trypanosomose africaine?",
+        "answer": "Le diagnostic de la trypanosomose africaine repose sur la mise en évidence du trypanosome et la sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la leishmaniose cutanée?",
+        "answer": "Le traitement de la leishmaniose cutanée est le stibiogluconate ou la pentamidine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels tests sont utilisés pour diagnostiquer la sporotrichose?",
+        "answer": "Le diagnostic de la sporotrichose repose sur la biopsie cutanée, la ponction de nodules, l'examen direct et la culture du pus sur milieu de Sabouraud.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la sporotrichose?",
+        "answer": "Le traitement de la sporotrichose inclut l'iodure de potassium, l'itraconazole et l'amphotéricine B.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de la BCGite post-vaccin?",
+        "answer": "Le traitement de la BCGite post-vaccin est l'abstention.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels tests sont utilisés pour diagnostiquer les mycobactérioses?",
+        "answer": "Le diagnostic des mycobactérioses repose sur l'examen direct (BAAR), la PCR sur pus ou biopsie, et la culture sur milieu liquide ou solide (type Löwenstein).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement des mycobactérioses?",
+        "answer": "Le traitement des mycobactérioses inclut les antituberculeux; en cas de suspicion de mycobactérie non tuberculeuse, il faut attendre les résultats de l'antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de l'histoplasmose causée par Histoplasma var. duboisii?",
+        "answer": "Le traitement de l'histoplasmose causée par Histoplasma var. duboisii est l'itraconazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment diagnostiquer la toxoplasmose?",
+        "answer": "Le diagnostic de la toxoplasmose repose sur la sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la toxoplasmose chez un patient immunocompétent?",
+        "answer": "Aucun traitement n'est nécessaire pour la toxoplasmose chez un patient immunocompétent.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour des polyadénopathies superficielles?",
+        "answer": "Les diagnostics différentiels pour des polyadénopathies superficielles incluent des infections virales (VIH, mononucléose infectieuse, cytomégalovirose, rubéole, rougeole, adénoviroses), parasitaires (toxoplasmose, trypanosomoses africaine et américaine, leishmaniose viscérale, filarioses lymphatiques) et bactériennes (syphilis secondaire, brucellose, mycobactérioses).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des polyadénopathies superficielles d'origine virale?",
+        "answer": "Les polyadénopathies superficielles d'origine virale peuvent être causées par le VIH, la mononucléose infectieuse, la cytomégalovirose, la rubéole, la rougeole et les adénoviroses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des polyadénopathies superficielles d'origine parasitaire?",
+        "answer": "Les polyadénopathies superficielles d'origine parasitaire peuvent être causées par la toxoplasmose, les trypanosomoses africaine et américaine, la leishmaniose viscérale et les filarioses lymphatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des polyadénopathies superficielles d'origine bactérienne?",
+        "answer": "Les polyadénopathies superficielles d'origine bactérienne peuvent être causées par la syphilis secondaire, la brucellose et les mycobactérioses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par la tuberculose?",
+        "answer": "Les adénopathies causées par la tuberculose peuvent être volumineuses et se fistuliser, formant des écrouelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par l'histoplasmose?",
+        "answer": "Les adénopathies causées par l'histoplasmose peuvent être volumineuses et se fistuliser, formant des écrouelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par la peste?",
+        "answer": "Les adénopathies causées par la peste sont inflammatoires et se manifestent dans un contexte fébrile et toxique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par la mononucléose infectieuse?",
+        "answer": "Les adénopathies causées par la mononucléose infectieuse sont souvent polyadénopathies superficielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par la cytomégalovirose?",
+        "answer": "Les adénopathies causées par la cytomégalovirose sont souvent polyadénopathies superficielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par la rubéole?",
+        "answer": "Les adénopathies causées par la rubéole sont souvent polyadénopathies superficielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par la rougeole?",
+        "answer": "Les adénopathies causées par la rougeole sont souvent polyadénopathies superficielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies causées par les adénoviroses?",
+        "answer": "Les adénopathies causées par les adénoviroses sont souvent polyadénopathies superficielles.",
+        "qtype": "symptômes"
+    }
+]

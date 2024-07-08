@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce que la tungose?",
+        "answer": "La tungose, communément appelée « puce chique », est une ectoparasitose causée par le développement dans l’épiderme d’une puce fécondée du genre Tunga.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle espèce de puce est principalement responsable de la tungose chez l'homme?",
+        "answer": "L'espèce Tunga penetrans (Sarcopsylla penetrans) est principalement responsable de la tungose chez l'homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où vivent les puces responsables de la tungose?",
+        "answer": "Les puces responsables de la tungose vivent dans un sol sableux, dans les régions tropicales chaudes et humides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment la femelle de la puce Tunga devient-elle parasite?",
+        "answer": "La femelle fécondée devient parasite en s’enfonçant dans la peau et en s’enkystant entièrement dans l’épiderme de son hôte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée de vie moyenne d'une femelle puce Tunga fécondée?",
+        "answer": "La durée de vie moyenne d'une femelle puce Tunga fécondée est de 3 à 4 semaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où la tungose est-elle répandue?",
+        "answer": "La tungose est répandue dans toute l’Afrique intertropicale et à Madagascar, sur le continent latino-américain, du nord de l’Argentine et du Chili jusqu’au Mexique, à l’exception des zones d’altitude.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels animaux sont principalement associés à la tungose?",
+        "answer": "Les porcs, moutons, chèvres et chiens sont principalement associés à la tungose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment l'homme se contamine-t-il par la tungose?",
+        "answer": "L'homme se contamine en marchant pieds nus au contact des femelles adultes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la tungose?",
+        "answer": "Les symptômes typiques de la tungose incluent des lésions douloureuses et gênantes pour la marche, qui peuvent se transformer en placards inflammatoires compliqués de lymphangites et d’adénites si les chiques ne sont pas extraites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des adultes de la puce Tunga?",
+        "answer": "Les adultes de la puce Tunga mesurent de 0,8 à 1 mm.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la taille des œufs de la puce Tunga?",
+        "answer": "Les œufs de la puce Tunga mesurent 200 à 250 microns.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de temps faut-il pour qu'une larve de puce Tunga devienne adulte?",
+        "answer": "Il faut environ 8 jours pour qu'une larve de puce Tunga devienne adulte.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques de la tungose pour les communautés endémiques?",
+        "answer": "Dans les communautés endémiques, la tungose peut entraîner des surinfections et des atteintes chroniques handicapantes au niveau des pieds.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la taille de la boule blanchâtre formée par la femelle puce Tunga dans l'épiderme?",
+        "answer": "La boule blanchâtre formée par la femelle puce Tunga dans l'épiderme mesure de 5 à 7 mm de diamètre.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tungose?",
+        "answer": "Les signes cliniques de la tungose incluent des lésions douloureuses, des placards inflammatoires, des lymphangites et des adénites.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les cas européens de tungose?",
+        "answer": "Les cas européens de tungose sont tous importés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de transformation d'une larve de puce Tunga en nymphe?",
+        "answer": "La transformation d'une larve de puce Tunga en nymphe prend environ 8 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les habitats humains où la tungose est fréquente?",
+        "answer": "La tungose est fréquente autour des habitats humains dans les zones fréquentées par les chiens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la surinfection due à la tungose?",
+        "answer": "Les symptômes de la surinfection due à la tungose incluent des placards inflammatoires, des lymphangites et des adénites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des adultes de la puce Tunga?",
+        "answer": "Les adultes de la puce Tunga mesurent de 0,8 à 1 mm.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de vie moyenne d'une femelle puce Tunga fécondée?",
+        "answer": "La durée de vie moyenne d'une femelle puce Tunga fécondée est de 3 à 4 semaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la tungose?",
+        "answer": "Les symptômes typiques de la tungose incluent des lésions douloureuses et gênantes pour la marche, qui peuvent se transformer en placards inflammatoires compliqués de lymphangites et d’adénites si les chiques ne sont pas extraites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des œufs de la puce Tunga?",
+        "answer": "Les œufs de la puce Tunga mesurent 200 à 250 microns.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de temps faut-il pour qu'une larve de puce Tunga devienne adulte?",
+        "answer": "Il faut environ 8 jours pour qu'une larve de puce Tunga devienne adulte.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques de la tungose pour les communautés endémiques?",
+        "answer": "Dans les communautés endémiques, la tungose peut entraîner des surinfections et des atteintes chroniques handicapantes au niveau des pieds.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la taille de la boule blanchâtre formée par la femelle puce Tunga dans l'épiderme?",
+        "answer": "La boule blanchâtre formée par la femelle puce Tunga dans l'épiderme mesure de 5 à 7 mm de diamètre.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tungose?",
+        "answer": "Les signes cliniques de la tungose incluent des lésions douloureuses, des placards inflammatoires, des lymphangites et des adénites.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les cas européens de tungose?",
+        "answer": "Les cas européens de tungose sont tous importés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de transformation d'une larve de puce Tunga en nymphe?",
+        "answer": "La transformation d'une larve de puce Tunga en nymphe prend environ 8 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les habitats humains où la tungose est fréquente?",
+        "answer": "La tungose est fréquente autour des habitats humains dans les zones fréquentées par les chiens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la tungose?",
+        "answer": "La tungose prend la forme d’un nodule blanchâtre centré par un point noir, causant un prurit parfois douloureux. Le pied, notamment les zones sous-unguéales des orteils, est la localisation la plus fréquente, mais la voûte plantaire et les régions péri-malléolaires peuvent aussi être touchées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste la tungose au niveau des pieds?",
+        "answer": "La tungose se manifeste par un nodule blanchâtre centré par un point noir, souvent localisé sous les ongles des orteils, sur la voûte plantaire et les régions péri-malléolaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'aspect typique d'une lésion de tungose?",
+        "answer": "L'aspect typique d'une lésion de tungose est un petit nodule blanchâtre de 1 cm de diamètre, centré par un point noir correspondant à l'extrémité postérieure du parasite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on la tungose?",
+        "answer": "Le diagnostic de la tungose repose sur la localisation et l’aspect en « boule de gui » de la lésion : petit nodule blanchâtre, de 1 cm de diamètre, centré par un point noir correspondant à l’extrémité postérieure du parasite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement curatif de la tungose?",
+        "answer": "Le traitement curatif de la tungose consiste à extirper le parasite par énucléation à l’aide d’une aiguille ou d’un punch à biopsie cutanée. En cas de lésions nombreuses, une crème anesthésiante peut être appliquée pour faciliter l'extraction. La plaie doit être désinfectée après l’énucléation et la vaccination antitétanique doit être contrôlée ou refaite. Un traitement antibiotique par voie orale est préconisé en cas de surinfections ou de lésions multiples.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment extirpe-t-on le parasite responsable de la tungose?",
+        "answer": "Le parasite responsable de la tungose est extirpé par énucléation à l’aide d’une aiguille ou d’un punch à biopsie cutanée. En cas de lésions nombreuses, une crème anesthésiante peut être appliquée pour faciliter l'extraction.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mesure préventive principale contre la tungose?",
+        "answer": "La prévention de la tungose repose sur le port de chaussures fermées et l'évitement de la marche pieds nus ou en chaussures ouvertes sur les sols sablonneux, en particulier dans les zones à risques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important de contrôler ou refaire la vaccination antitétanique en cas de tungose?",
+        "answer": "Il est important de contrôler ou refaire la vaccination antitétanique en cas de tungose pour prévenir les risques d'infection tétanique suite à l'énucléation du parasite.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sites web sont recommandés pour en savoir plus sur la tungose?",
+        "answer": "Les sites web recommandés pour en savoir plus sur la tungose sont : CD photos ANOFEL (http://www.cdanofel.fr), Cours de parasitologie (http://umvf.univ-nantes.fr/parasitologie), et Tungose OMS (https://www.who.int/fr/news-room/fact-sheets/detail/tungiasis).",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quelle est la localisation la plus fréquente des lésions de tungose?",
+        "answer": "La localisation la plus fréquente des lésions de tungose est le pied, notamment les zones sous-unguéales des orteils.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles autres localisations peuvent être touchées par la tungose?",
+        "answer": "Outre les pieds, la tungose peut aussi toucher la voûte plantaire, les régions péri-malléolaires, et les mains suite à une manipulation de sols parasités.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille typique d'un nodule de tungose?",
+        "answer": "La taille typique d'un nodule de tungose est de 1 cm de diamètre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'aspect de la femelle de Tunga penetrans après extraction?",
+        "answer": "Après extraction, la femelle de Tunga penetrans doit être intégralement retirée avec ses œufs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faut-il faire après l'énucléation du parasite de la tungose?",
+        "answer": "Après l'énucléation du parasite de la tungose, la plaie doit être désinfectée et la vaccination antitétanique doit être contrôlée ou refaite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est préconisé en cas de surinfections ou de lésions multiples de tungose?",
+        "answer": "En cas de surinfections ou de lésions multiples de tungose, un traitement antibiotique par voie orale est préconisé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle crème peut être utilisée pour faciliter l'extraction du parasite de la tungose?",
+        "answer": "Une crème anesthésiante peut être utilisée pour faciliter l'extraction du parasite de la tungose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi est-il recommandé d'utiliser une crème anesthésiante avant l'extraction du parasite de la tungose?",
+        "answer": "Il est recommandé d'utiliser une crème anesthésiante avant l'extraction du parasite de la tungose pour étouffer la femelle et faciliter l'extraction par le plan de clivage entre les tissus épidermiques et l'abdomen de la puce.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel outil peut être utilisé pour extirper le parasite de la tungose?",
+        "answer": "Un punch à biopsie cutanée peut être utilisé pour extirper le parasite de la tungose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle profondeur est nécessaire pour utiliser un punch à biopsie cutanée dans le traitement de la tungose?",
+        "answer": "Un punch à biopsie cutanée ne doit être enfoncé que d’un millimètre de profondeur pour traiter la tungose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est l'aspect de la tungose sur les mains?",
+        "answer": "La tungose sur les mains se manifeste par des nodules blanchâtres similaires à ceux observés sur les pieds, souvent suite à une manipulation de sols parasités.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la cause de l'aspect en « boule de gui » des lésions de tungose?",
+        "answer": "L'aspect en « boule de gui » des lésions de tungose est causé par un nodule blanchâtre centré par un point noir, correspondant au corps de la femelle parasite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques associés à la marche pieds nus dans les zones à risques de tungose?",
+        "answer": "La marche pieds nus dans les zones à risques de tungose augmente le risque de contracter l'infection en raison de l'exposition directe aux sols sablonneux parasités.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation principale pour les voyageurs afin de prévenir la tungose?",
+        "answer": "La recommandation principale pour les voyageurs afin de prévenir la tungose est de porter des chaussures fermées et d'éviter de marcher pieds nus ou en chaussures ouvertes sur les sols sablonneux.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le rôle de la crème anesthésiante dans le traitement de la tungose?",
+        "answer": "La crème anesthésiante est utilisée pour étouffer la femelle parasite et faciliter son extraction en créant un plan de clivage entre les tissus épidermiques et l'abdomen de la puce.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi est-il important de retirer intégralement la femelle de Tunga penetrans avec ses œufs?",
+        "answer": "Il est important de retirer intégralement la femelle de Tunga penetrans avec ses œufs pour éviter la persistance de l'infection et prévenir les complications.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les outils utilisés pour l'énucléation du parasite de la tungose?",
+        "answer": "Les outils utilisés pour l'énucléation du parasite de la tungose sont une aiguille ou un punch à biopsie cutanée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la localisation typique des lésions de tungose chez les personnes manipulant des sols parasités?",
+        "answer": "Chez les personnes manipulant des sols parasités, les lésions de tungose peuvent se localiser au niveau des mains.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'aspect de la tungose sous-unguéale?",
+        "answer": "L'aspect de la tungose sous-unguéale est caractérisé par des nodules blanchâtres centré par un point noir sous les ongles des orteils.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la source d'information recommandée pour des photos de tungose?",
+        "answer": "La source d'information recommandée pour des photos de tungose est le site CD photos ANOFEL (http://www.cdanofel.fr).",
+        "qtype": "ressources"
+    }
+]

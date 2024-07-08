@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce qu'une infection associée aux soins?",
+        "answer": "Une infection est dite associée aux soins si elle survient au cours ou au décours d’une prise en charge (diagnostique, thérapeutique, palliative, préventive ou éducative) d’un patient et si elle n’était ni présente, ni en incubation au début de la prise en charge.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les types d'infections nosocomiales les plus fréquentes?",
+        "answer": "Les infections nosocomiales les plus fréquentes sont l'infection urinaire, l'infection respiratoire et pneumopathie, l'infection sur cathéter veineux central en réanimation, l'infection du site opératoire en chirurgie et la bactériémie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque pour les infections nosocomiales?",
+        "answer": "Les principaux facteurs de risque incluent le sondage urinaire, le type de chirurgie, la durée du cathétérisme, le site d'insertion, l'intubation trachéale et ventilation artificielle, les fausses routes, et l'alitement prolongé.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels agents pathogènes sont couramment responsables des infections urinaires nosocomiales?",
+        "answer": "Les agents pathogènes couramment responsables des infections urinaires nosocomiales sont E. coli et les entérobactéries.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quelles mesures préventives peuvent être prises pour éviter les infections du site opératoire?",
+        "answer": "Les mesures préventives incluent la préparation de l’opéré, le lavage des mains et l'antibioprophylaxie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les agents pathogènes habituels pour les infections sur cathéter?",
+        "answer": "Les agents pathogènes habituels pour les infections sur cathéter sont les staphylocoques (50-70%), incluant les staphylocoques dorés et les staphylocoques blancs, ainsi que les entérobactéries (20%).",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes des infections pulmonaires nosocomiales précoces?",
+        "answer": "Les principaux agents pathogènes des infections pulmonaires nosocomiales précoces (< 5 jours) sont le pneumocoque, Haemophilus et les anaérobies.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes des infections pulmonaires nosocomiales tardives?",
+        "answer": "Les principaux agents pathogènes des infections pulmonaires nosocomiales tardives (> 5 jours) sont Pseudomonas aeruginosa et le staphylocoque doré méthi-R.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quelles sont les mesures préventives pour les infections pulmonaires nosocomiales?",
+        "answer": "Les mesures préventives incluent la position semi-assise, les soins de bouche et les aspirations bronchiques avec la technique non contact.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Comment définit-on une bactériémie nosocomiale?",
+        "answer": "Une bactériémie nosocomiale est définie par une hémoculture positive pour des microbes pathogènes ou deux hémocultures positives sur deux prélèvements différents pour des staphylocoques blancs, Bacillus, corynébactéries, ou microcoques.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque pour la bactériémie nosocomiale?",
+        "answer": "Le principal facteur de risque pour la bactériémie nosocomiale est le cathétérisme vasculaire.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les modes de transmission des infections associées aux soins?",
+        "answer": "Les modes de transmission incluent la réalisation d’un geste invasif chez le patient, la transmission d’un agent infectieux pathogène à partir d’un patient infecté à d’autres patients, et la colonisation ou infection par un micro-organisme de l’environnement hospitalier.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les agents pathogènes courants dans les infections nosocomiales en Afrique?",
+        "answer": "En Afrique, les agents pathogènes courants incluent les bactéries multirésistantes comme le staphylocoque doré résistant à la méthicilline, les entérobactéries multirésistantes, Acinetobacter, Pseudomonas, ainsi que les agents de la tuberculose, de la varicelle, de la rougeole, de la grippe, de la Covid-19 et du virus respiratoire syncytial (VRS).",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les risques infectieux pour le personnel soignant?",
+        "answer": "Les risques infectieux pour le personnel soignant sont majoritairement représentés par les accidents d’exposition au sang (AES), avec les virus comme le VIH, le VHB et le VHC étant plus souvent en cause que les bactéries.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales en réanimation?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales en réanimation incluent les staphylocoques dorés, les staphylocoques blancs et les entérobactéries.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque pour les infections nosocomiales en réanimation?",
+        "answer": "Les principaux facteurs de risque pour les infections nosocomiales en réanimation incluent la durée du cathétérisme et le site d'insertion du cathéter.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales en chirurgie?",
+        "answer": "Les agents pathogènes responsables des infections nosocomiales en chirurgie varient selon le type de chirurgie, mais incluent souvent des bactéries comme les staphylocoques et les entérobactéries.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque pour les infections nosocomiales en chirurgie?",
+        "answer": "Les principaux facteurs de risque pour les infections nosocomiales en chirurgie incluent le type de chirurgie (propre, contaminée, sale) et la durée de l'intervention.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales en néonatologie en Afrique?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales en néonatologie en Afrique incluent les bactéries multirésistantes.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales en pédiatrie en Afrique?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales en pédiatrie en Afrique incluent les agents du choléra et de la rougeole.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales chez les patients atteints de VIH/SIDA en Afrique?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales chez les patients atteints de VIH/SIDA en Afrique incluent les souches de bacilles de Koch multirésistantes.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales à partir de l'environnement hospitalier?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales à partir de l'environnement hospitalier incluent la légionellose à partir du réseau d’eau chaude et l'aspergillose à partir des poussières générées par des travaux à proximité.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales chez les immunodéprimés?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales chez les immunodéprimés incluent la légionellose et l'aspergillose.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales transmises par la transfusion sanguine?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales transmises par la transfusion sanguine ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales transmises par les mains du personnel soignant?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales transmises par les mains du personnel soignant incluent les bactéries multirésistantes comme le staphylocoque doré résistant à la méthicilline, les entérobactéries multirésistantes, Acinetobacter et Pseudomonas.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales transmises par les dispositifs invasifs?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales transmises par les dispositifs invasifs incluent les bactéries de la flore endogène du patient.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales transmises par les gestes chirurgicaux?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales transmises par les gestes chirurgicaux incluent les bactéries multirésistantes.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales transmises par les cathéters veineux?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales transmises par les cathéters veineux incluent les staphylocoques dorés et les staphylocoques blancs.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections nosocomiales transmises par les sondes vésicales?",
+        "answer": "Les principaux agents pathogènes responsables des infections nosocomiales transmises par les sondes vésicales incluent E. coli et les entérobactéries.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les types de bactéries résistantes mentionnées dans le document?",
+        "answer": "Les staphylocoques dorés résistants à la méthicilline (SDMR) et les entérobactéries porteuses de bêtalactamase à spectre élargi (BLSE).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment les bactéries résistantes peuvent-elles être transmises de patient à patient?",
+        "answer": "Elles peuvent être transmises par les mains du personnel, le matériel ou, beaucoup plus rarement, par l’environnement.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les antibiotiques à large spectre fréquemment utilisés dans les pays à ressources limitées?",
+        "answer": "Les fluroquinolones et les céphalosporines de 3e génération.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les cibles particulières des infections virales nosocomiales?",
+        "answer": "Les enfants, le personnel soignant, les personnes âgées et les immunodéprimés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels virus affectent principalement les enfants dans le cadre des infections virales nosocomiales?",
+        "answer": "Le VRS, le rotavirus, la rougeole, l'herpès et la varicelle-zona.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels virus affectent principalement les personnes âgées dans le cadre des infections virales nosocomiales?",
+        "answer": "La grippe, le VRS et le COVID-19.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels virus affectent principalement le personnel soignant dans le cadre des infections virales nosocomiales?",
+        "answer": "Le VHB, le VHC, le VIH et la varicelle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels virus affectent principalement les immunodéprimés dans le cadre des infections virales nosocomiales?",
+        "answer": "La varicelle et le CMV.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments de la politique de prévention des infections associées aux soins?",
+        "answer": "La mise en place de structures de lutte contre les infections nosocomiales, une surveillance active, la formation des soignants, l'amélioration des conditions matérielles, un bon usage des antibiotiques et un programme annuel de prévention.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les moyens matériels de prévention des infections nosocomiales?",
+        "answer": "La désinfection et stérilisation des dispositifs médicaux réutilisables, le traitement et l'élimination des déchets, le lavage des mains et l'utilisation des antiseptiques, et l'isolement des patients.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les types de lavage des mains mentionnés dans le document?",
+        "answer": "Le lavage simple, le lavage antiseptique, le lavage chirurgical et l'utilisation de solutés hydro-alcooliques (SHA).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les précautions standard pour prévenir les infections nosocomiales?",
+        "answer": "L'hygiène des mains, le port de gants, les éléments de protection de la tenue, la prévention des AES, la gestion de l'environnement et la gestion du linge et des déchets.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les indications pour le lavage simple des mains?",
+        "answer": "À la prise du service et en le quittant, après tout geste de la vie courante, avant et après des soins infirmiers non invasifs, avant et après chaque geste contaminant.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est l'objectif du lavage simple des mains?",
+        "answer": "Prévenir la transmission manuportée et éliminer la flore transitoire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel produit est utilisé pour le lavage simple des mains?",
+        "answer": "Du savon liquide doux avec distributeur adapté et de l'eau du réseau.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la technique recommandée pour le lavage simple des mains?",
+        "answer": "Mouiller les mains et les poignets, appliquer une dose de savon, laver les mains en massant, insister sur les espaces interdigitaux, le pourtour des ongles, la pulpe des doigts et les poignets, rincer abondamment, sécher soigneusement par tamponnement avec les essuie-mains à usage unique, fermer le robinet avec l'essuie-mains.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les indications pour le lavage antiseptique des mains?",
+        "answer": "Avant un geste invasif, à l'entrée et à la sortie d'une chambre en isolement protecteur, à l'entrée et la sortie de la chambre d'un patient colonisé ou infecté par des bactéries multirésistantes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est l'objectif du lavage antiseptique des mains?",
+        "answer": "Éliminer la flore transitoire et diminuer la flore commensale.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel produit est utilisé pour le lavage antiseptique des mains?",
+        "answer": "Du savon antiseptique en solution moussante avec distributeur adapté et de l'eau du réseau.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la technique recommandée pour le lavage antiseptique des mains?",
+        "answer": "Mouiller les mains et les poignets, prélever une dose de savon, laver en massant chaque main, insister sur les espaces interdigitaux, les poignets, la pulpe des doigts, rincer abondamment du bout des doigts vers les poignets, maintenir les paumes dirigées vers le haut, sécher soigneusement par tamponnement avec les essuie-mains à usage unique, fermer le robinet avec le dernier essuie-main utilisé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les précautions complémentaires pour les patients porteurs de bactéries multirésistantes?",
+        "answer": "Les précautions complémentaires type contact.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les précautions complémentaires pour les infections transmises par des particules émises lors de la parole, la respiration, les éternuements ou la toux?",
+        "answer": "Les précautions complémentaires type gouttelettes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les précautions complémentaires pour certaines maladies transmises par voie respiratoire telles que la tuberculose?",
+        "answer": "Les précautions complémentaires type air.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles mesures peuvent accompagner les précautions complémentaires en cas d'infections hautement contagieuses?",
+        "answer": "Un isolement strict du patient.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "À quoi sert l'isolement préventif ou isolement protecteur?",
+        "answer": "À la protection des patients très vulnérables aux infections en raison de traitements ou de maladies sous-jacentes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Sur quoi repose la protection des personnels soignants?",
+        "answer": "Sur la vaccination contre l'hépatite B, le respect des précautions standard, l'application des précautions complémentaires type air auprès des patients suspects ou atteints de tuberculose bacillifère, et l'application des recommandations locales en cas d'accidents d'exposition au sang.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour la prévention des infections nosocomiales?",
+        "answer": "Le guide OMS « Prévention des infections nosocomiales », l'outil OMS prévention et contrôle des infections, et le site de la Société Française d’Hygiène Hospitalière.",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quels sont les objectifs de la surveillance active des infections nosocomiales?",
+        "answer": "Évaluer des tendances dans l'incidence et la prévalence des infections nosocomiales.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les types de lavage des mains selon les gestes?",
+        "answer": "Lavage simple, lavage antiseptique, lavage chirurgical et utilisation de solutés hydro-alcooliques (SHA).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les éléments de protection de la tenue (EPI) mentionnés dans le document?",
+        "answer": "Masque, lunettes de protection, tabliers/surblouses.",
+        "qtype": "prévention"
+    }
+]

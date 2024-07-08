@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la cause majeure de mortalité maternelle dans le monde?",
+        "answer": "Les infections sont une cause majeure de mortalité maternelle dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques pour la grossesse en cas d'infection pendant le premier trimestre?",
+        "answer": "Une infection pendant le premier trimestre peut causer une embryopathie avec malformations.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels types d'infections sont plus fréquents et graves pendant la grossesse?",
+        "answer": "Les infections à streptocoque B, listériose, arboviroses (Zika), toxoplasmose, rubéole, cytomégalovirose, herpès, hépatite E, syphilis, tuberculose, VIH et VHB sont plus fréquentes et graves pendant la grossesse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels antibiotiques sont contre-indiqués pendant la grossesse?",
+        "answer": "Quelques antibiotiques sont contre-indiqués lors de la grossesse et de l’allaitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes du paludisme pendant la grossesse?",
+        "answer": "Le paludisme pendant la grossesse peut causer des avortements, la mortinatalité, l’hypotrophie du nouveau-né, et une infestation parasitaire plus importante au niveau du placenta.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on le paludisme congénital?",
+        "answer": "Le paludisme congénital est diagnostiqué par la présence de parasites dans le sang du nouveau-né, souvent accompagné d’ictère, d’anémie hémolytique ou d’hépato-splénomégalie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements antipaludiques recommandés pendant la grossesse?",
+        "answer": "Les dérivés de l’artémisine PO peuvent être utilisés pendant toute la grossesse. L’artésunate IV peut être utilisé pour les paludismes graves au deuxième et troisième trimestre. La quinine ne fait pas avorter.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques de la syphilis pendant la grossesse?",
+        "answer": "La syphilis pendant la grossesse peut causer des atteintes fœtales et néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment traite-t-on la tuberculose pendant la grossesse?",
+        "answer": "La tuberculose pendant la grossesse est traitée avec les antituberculeux classiques sans modification, et une supplémentation par la vitamine K1 est proposée en fin de grossesse.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques de la tuberculose pour le nouveau-né si la mère est bacillifère au terme?",
+        "answer": "Si la mère est bacillifère au terme, il y a un risque de transmission à l’enfant, nécessitant un traitement curatif chez la mère et prophylactique chez l’enfant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose pendant la grossesse?",
+        "answer": "La listériose pendant la grossesse peut causer des infections néonatales immédiates ou retardées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de l'infection à streptocoque B pendant la grossesse?",
+        "answer": "L'infection à streptocoque B pendant la grossesse peut causer des infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la rubéole pendant la grossesse?",
+        "answer": "La rubéole pendant la grossesse peut causer des embryopathies, fœtopathies, infections néonatales et post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la cytomégalovirose pendant la grossesse?",
+        "answer": "La cytomégalovirose pendant la grossesse peut causer des embryopathies, fœtopathies, infections néonatales et post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de l'herpès pendant la grossesse?",
+        "answer": "L'herpès pendant la grossesse peut causer des infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la syphilis pendant la grossesse?",
+        "answer": "La syphilis pendant la grossesse peut causer des fœtopathies, infections néonatales et post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la papillomavirose pendant la grossesse?",
+        "answer": "La papillomavirose pendant la grossesse peut causer des infections post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la leptospirose pendant la grossesse?",
+        "answer": "La leptospirose pendant la grossesse peut causer des fœtopathies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la varicelle pendant la grossesse?",
+        "answer": "La varicelle pendant la grossesse peut causer des embryopathies et infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la parvovirose B19 pendant la grossesse?",
+        "answer": "La parvovirose B19 pendant la grossesse peut causer des fœtopathies et infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la rougeole pendant la grossesse?",
+        "answer": "La rougeole pendant la grossesse peut causer des infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la dengue pendant la grossesse?",
+        "answer": "La dengue pendant la grossesse peut causer des infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques du Zika pendant la grossesse?",
+        "answer": "Le Zika pendant la grossesse peut causer des embryopathies et fœtopathies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de l'infection urinaire pendant la grossesse?",
+        "answer": "L'infection urinaire pendant la grossesse peut causer des infections néonatales et fœtopathies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la toxoplasmose pendant la grossesse?",
+        "answer": "La toxoplasmose pendant la grossesse peut causer des embryopathies, fœtopathies et infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la maladie de Chagas pendant la grossesse?",
+        "answer": "La maladie de Chagas pendant la grossesse peut causer des infections néonatales et post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de l'hépatite B pendant la grossesse?",
+        "answer": "L'hépatite B pendant la grossesse peut causer des infections post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques du VIH-SIDA pendant la grossesse?",
+        "answer": "Le VIH-SIDA pendant la grossesse peut causer des infections néonatales et post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques des IST comme la gonococcie et la chlamydiose pendant la grossesse?",
+        "answer": "Les IST comme la gonococcie et la chlamydiose pendant la grossesse peuvent causer des infections néonatales et post-natales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques du sepsis bactérien pendant la grossesse?",
+        "answer": "Le sepsis bactérien pendant la grossesse peut causer des infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence de la listériose pendant la grossesse?",
+        "answer": "La fréquence de la listériose est estimée entre 1/250 à 1 000 grossesses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait la transmission de la listériose au fœtus?",
+        "answer": "La transmission au fœtus se fait avant la naissance (transplacentaire ou ascendante) ou au moment de la naissance.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose chez la mère?",
+        "answer": "La maladie est bénigne pour la mère : fièvre modérée et bien tolérée sans point d’appel, parfois diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la listériose?",
+        "answer": "Le diagnostic se fait par les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de la listériose chez l'enfant à la naissance?",
+        "answer": "L’enfant présente habituellement des signes de sepsis à la naissance (premières heures ou premiers jours) ou de méningite retardée (8 jours), gravissimes dans les deux cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la listériose pendant la grossesse?",
+        "answer": "Le risque de listériose implique une utilisation large et empirique de l’amoxicilline en cas de fièvre au cours de la grossesse (les C3G sont inactives).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prévalence des infections urinaires pendant la grossesse?",
+        "answer": "Les infections urinaires compliquent 5 à 10 % des grossesses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les agents pathogènes dominants des infections urinaires pendant la grossesse?",
+        "answer": "E. coli suivi par d’autres bacilles Gram négatif, mais aussi par les streptocoques D (entérocoque).",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les risques des infections urinaires non traitées pendant la grossesse?",
+        "answer": "Négligées, elles font courir le risque d’un accouchement prématuré et d’un sepsis néonatal.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Pourquoi est-il important de pratiquer un antibiogramme pour les infections urinaires pendant la grossesse?",
+        "answer": "Il est à noter une augmentation des résistances aux antibiotiques dans certains pays à ressources limitées qui peut exposer la femme enceinte à un échec thérapeutique, d’où l’intérêt de pratiquer un antibiogramme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de l'herpès génital de la mère pour le nouveau-né?",
+        "answer": "L’herpès génital de la mère au voisinage du terme fait courir un risque d’herpès néonatal, rare mais de haute gravité.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quand est-il indiqué de pratiquer une césarienne en cas d'herpès génital?",
+        "answer": "La césarienne est indiquée si la primo-infection survient après 34 semaines d’aménorrhée ou en cas de récurrence datant de moins de 8 jours avant l’accouchement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques des papillomavirus pour l'enfant?",
+        "answer": "Les papillomavirus peuvent causer des papillomes laryngés de l’enfant lorsque les lésions géntales sont abondantes chez la mère.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels agents pathogènes peuvent causer des infections ascendantes et des accouchements prématurés?",
+        "answer": "Mycoplasma hominis, Ureaplasma, Gardnerella vaginalis et les Trichomonas peuvent causer infections ascendantes, chorio-amniotites, rupture des membranes et accouchements prématurés.",
+        "qtype": "agents pathogènes"
+    },
+    {
+        "question": "Quels sont les risques de la rubéole pendant la grossesse?",
+        "answer": "Le risque d’embryo-fœtopathie est majeur (70 % au premier trimestre et 35 % au second) avec des conséquences sévères : malformations cérébrales, oculaires, cardiaques et surdité neurosensorielle.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quelle est l'incidence de la rubéole dans les pays à ressources limitées?",
+        "answer": "Dans les pays à ressources limitées, l’incidence générale de la rubéole est mal connue.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement de la toxoplasmose pendant la grossesse?",
+        "answer": "L’infection materno-fœtale est accessible au traitement par la sulfadiazine + pyriméthamine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le risque de transmission du cytomégalovirus (CMV) pendant la grossesse?",
+        "answer": "Le risque de transmission du CMV est élevé (environ 40 %) à tous les stades de la grossesse.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les risques majeurs de l'infection par le CMV pour le fœtus?",
+        "answer": "Le risque majeur est dû aux séquelles, essentiellement à type de surdité, et de l’ordre de 10 % des enfants infectés.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les risques de la varicelle pendant la grossesse?",
+        "answer": "La varicelle peut être sévère chez la mère (pneumopathie rare mais grave) et peut causer des malformations fœtales (varicelle congénitale) ou une varicelle néonatale avec une mortalité élevée.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la varicelle chez la mère à l'approche du terme?",
+        "answer": "Un traitement de la mère par aciclovir atténue le risque néonatal.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont autorisés pendant toute la grossesse?",
+        "answer": "Les pénicillines, amoxicilline + ac. clav., céphalosporines, nitrofuranes, imidazolés, glycopeptides, macrolides et rifampicine sont autorisés pendant toute la grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont contre-indiqués pendant toute la grossesse?",
+        "answer": "Les aminoglycosides, quinolones, phénicolés et cyclines sont contre-indiqués pendant toute la grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont possibles au deuxième et troisième trimestre de la grossesse?",
+        "answer": "Le cotrimoxazole est possible au deuxième et troisième trimestre de la grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisables en situation vitale pendant la grossesse?",
+        "answer": "Les aminoglycosides et quinolones sont utilisables en situation vitale et pour une durée brève (< 72 heures).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques de la toxoplasmose pour le fœtus?",
+        "answer": "Les atteintes concernent le système nerveux central mais ne touchent que 1 % des nouveau-nés à risque.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quel est le risque de transmission de la toxoplasmose au fœtus en fonction de l'âge de la grossesse?",
+        "answer": "Le risque de transmission au fœtus croît avec l’âge de la grossesse (5 % dans les premières semaines, 75 % à terme).",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les risques de la cytomégalovirose pour le fœtus?",
+        "answer": "L’atteinte fœtale-néonatale sévère, voire létale, est rare (< 15 % des cas).",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les risques de la varicelle congénitale?",
+        "answer": "Le risque malformatif (varicelle congénitale) existe mais est rare (< 1/1 000) : atteinte cérébrale, oculaire, des membres, hypotrophie fœtale.",
+        "qtype": "risques"
+    }
+]

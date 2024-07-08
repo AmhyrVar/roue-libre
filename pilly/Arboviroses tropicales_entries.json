@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les principaux vecteurs des arbovirus?",
+        "answer": "Les principaux vecteurs des arbovirus sont les moustiques, les culicoïdes, les phlébotomes et les tiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux syndromes cliniques associés aux arboviroses?",
+        "answer": "Les principaux syndromes cliniques associés aux arboviroses sont le syndrome algique, le syndrome hémorragique et le syndrome méningo-encéphalitique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour les arboviroses?",
+        "answer": "Le traitement des arboviroses est essentiellement symptomatique : antalgiques, réhydratation, lutte contre le choc, transfusions, dialyse. La ribavirine est efficace sur les Bunyaviridae (Crimée-Congo, Fièvre de la Vallée du Rift).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la dengue?",
+        "answer": "Les principaux vecteurs de la dengue sont les moustiques du genre Aedes, notamment Ae. aegypti et Ae. albopictus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la dengue classique?",
+        "answer": "La dengue classique se traduit par un syndrome grippal avec des myalgies et des rachialgies importantes, une injection conjonctivale, une éruption maculeuse, une hépatomégalie et un signe du lacet positif.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'alerte de la dengue nécessitant une hospitalisation?",
+        "answer": "Les signes d'alerte de la dengue nécessitant une hospitalisation sont : somnolence, douleur abdominale, vomissement, hypothermie brutale, chute tensionnelle, purpura vasculaire, saignement muqueux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la fièvre jaune?",
+        "answer": "Les principaux vecteurs de la fièvre jaune sont les moustiques du genre Aedes en Afrique et les Haemagogus en Amérique du Sud.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les cycles de transmission de la fièvre jaune?",
+        "answer": "Les cycles de transmission de la fièvre jaune sont : le cycle primaire selvatique chez les singes, le cycle rural intermédiaire en savane africaine, et le cycle urbain via des vecteurs urbains comme Ae. aegypti.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la fièvre jaune?",
+        "answer": "Les principaux symptômes de la fièvre jaune incluent la fièvre, les céphalées, les myalgies, les nausées, les vomissements, et dans les cas graves, l'ictère, les hémorragies et l'insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour la fièvre jaune?",
+        "answer": "Il n'existe pas de traitement spécifique pour la fièvre jaune. Le traitement est symptomatique et de soutien, incluant la réhydratation, les antipyrétiques et les soins intensifs en cas de complications graves.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs du virus Zika?",
+        "answer": "Les principaux vecteurs du virus Zika sont les moustiques du genre Aedes, notamment Ae. aegypti et Ae. albopictus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du virus Zika?",
+        "answer": "Les symptômes du virus Zika incluent la fièvre, les éruptions cutanées, les douleurs articulaires, les conjonctivites, les maux de tête et les douleurs musculaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus Zika?",
+        "answer": "Le virus Zika se transmet principalement par les piqûres de moustiques Aedes, mais aussi par transmission materno-fœtale, sexuelle et par transfusion sanguine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour le virus Zika?",
+        "answer": "Il n'existe pas de traitement spécifique pour le virus Zika. Le traitement est symptomatique, incluant le repos, l'hydratation et les analgésiques pour soulager la douleur et la fièvre.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs du Chikungunya?",
+        "answer": "Les principaux vecteurs du Chikungunya sont les moustiques du genre Aedes, notamment Ae. aegypti et Ae. albopictus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du Chikungunya?",
+        "answer": "Les symptômes du Chikungunya incluent la fièvre, les douleurs articulaires sévères, les maux de tête, les douleurs musculaires, les éruptions cutanées et la fatigue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour le Chikungunya?",
+        "answer": "Il n'existe pas de traitement spécifique pour le Chikungunya. Le traitement est symptomatique, incluant les analgésiques, les antipyrétiques et le repos.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de l'encéphalite japonaise?",
+        "answer": "Les principaux vecteurs de l'encéphalite japonaise sont les moustiques du genre Culex, notamment Culex tritaeniorhynchus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'encéphalite japonaise?",
+        "answer": "Les symptômes de l'encéphalite japonaise incluent la fièvre, les maux de tête, les vomissements, la confusion, les convulsions et dans les cas graves, le coma.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'encéphalite japonaise?",
+        "answer": "Il n'existe pas de traitement spécifique pour l'encéphalite japonaise. Le traitement est symptomatique et de soutien, incluant les soins intensifs en cas de complications graves.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs du virus West Nile?",
+        "answer": "Les principaux vecteurs du virus West Nile sont les moustiques du genre Culex.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du virus West Nile?",
+        "answer": "Les symptômes du virus West Nile incluent la fièvre, les maux de tête, les douleurs musculaires, les éruptions cutanées, et dans les cas graves, l'encéphalite ou la méningite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour le virus West Nile?",
+        "answer": "Il n'existe pas de traitement spécifique pour le virus West Nile. Le traitement est symptomatique et de soutien, incluant les soins intensifs en cas de complications graves.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la fièvre de la vallée du Rift?",
+        "answer": "Les principaux vecteurs de la fièvre de la vallée du Rift sont les moustiques du genre Aedes et Culex.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de la vallée du Rift?",
+        "answer": "Les symptômes de la fièvre de la vallée du Rift incluent la fièvre, les maux de tête, les douleurs musculaires, les douleurs articulaires, et dans les cas graves, les hémorragies et l'encéphalite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour la fièvre de la vallée du Rift?",
+        "answer": "Le traitement de la fièvre de la vallée du Rift est principalement symptomatique. La ribavirine peut être utilisée dans certains cas.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la fièvre hémorragique de Crimée-Congo?",
+        "answer": "Les principaux vecteurs de la fièvre hémorragique de Crimée-Congo sont les tiques du genre Hyalomma.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre hémorragique de Crimée-Congo?",
+        "answer": "Les symptômes de la fièvre hémorragique de Crimée-Congo incluent la fièvre, les maux de tête, les douleurs musculaires, les douleurs abdominales, les vomissements, et dans les cas graves, les hémorragies et l'insuffisance hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour la fièvre hémorragique de Crimée-Congo?",
+        "answer": "Le traitement de la fièvre hémorragique de Crimée-Congo est principalement symptomatique. La ribavirine peut être utilisée dans certains cas.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la phase d'invasion de la fièvre jaune?",
+        "answer": "La phase d'invasion est marquée par un syndrome grippal avec parfois injection conjonctivale et bradycardie (dissociation pouls-température ou signe de Faget).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de gravité de la fièvre jaune?",
+        "answer": "Les signes de gravité incluent des hémorragies (purpura, vomito negro, épistaxis), myocardite, ictère, défaillance rénale et hépatique, acidose, choc infectieux et coma terminal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic virologique de la fièvre jaune?",
+        "answer": "Le diagnostic virologique se fait par RT-PCR, capture d’antigène, isolement viral les 3 premiers jours de la maladie, et détection post-mortem du virus dans le foie par immuno-fluorescence, hybridation ou culture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la fièvre jaune?",
+        "answer": "Le traitement est symptomatique, incluant la réhydratation et le paracétamol pour les formes mineures, et la réanimation pour les formes graves. Aucun antiviral n’est efficace sur le virus de la fièvre jaune.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de l'immunité après une vaccination contre la fièvre jaune?",
+        "answer": "Une seule injection de vaccin assure une immunité protectrice durant toute la vie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les effets secondaires du vaccin contre la fièvre jaune?",
+        "answer": "Les effets secondaires incluent des réactions fébriles, céphalées, réactions locales, réactions allergiques à l’œuf ou à la gélatine, encéphalite post-vaccinale, et syndrome viscérotrope avec atteinte multiviscérale.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les pays à risque de transmission de la fièvre jaune?",
+        "answer": "Les pays à risque incluent l'Angola, l'Argentine, le Bénin, la Bolivie, le Brésil, le Burkina Faso, le Burundi, le Cameroun, la Colombie, le Congo, la Côte d’Ivoire, l’Équateur, l’Érythrée, l’Éthiopie, le Gabon, la Gambie, le Ghana, la Guinée, la Guinée-Bissau, la Guinée équatoriale, le Guyana, la Guyane française, le Kenya, le Libéria, le Mali, la Mauritanie, le Niger, le Nigeria, l’Ouganda, le Panama, le Paraguay, le Pérou, la RCA, la RDC, le Rwanda, Sao Tomé, le Sénégal, la Sierra Leone, la Somalie, le Soudan, le Soudan du Sud, le Suriname, la Tanzanie, le Tchad, le Togo, Trinité et Tobago, le Venezuela, et la Zambie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection par le virus West Nile?",
+        "answer": "L'infection se manifeste soit par une fièvre pseudo-grippale, éruptive dans la moitié des cas, soit par une affection neurologique fébrile se traduisant par une méningite, une myélite avec paralysie flasque ou une méningo-encéphalite grave.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'infection par le virus West Nile?",
+        "answer": "Le diagnostic repose sur les tests sérologiques des arbovirus, en particulier la détection d’IgM en ELISA dans le sérum et le LCR, l’IH et la séro-neutralisation, la PCR et la culture en phase virémique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'infection par le virus West Nile?",
+        "answer": "Le traitement est symptomatique, aucun traitement antiviral n'a montré d’effet sur la mortalité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection par le virus Chikungunya?",
+        "answer": "La maladie se traduit par une fièvre algique dengue-like marquée par des arthralgies sévères et prolongées et des ténosynovites. Des éruptions maculo-papuleuses ou bulleuses ont été décrites, ainsi que des cas graves d’hépatite, d’encéphalite et de chocs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'infection par le virus Chikungunya?",
+        "answer": "Le diagnostic biologique se fait par RT-PCR pendant la virémie (J1-J7) et sérologie ELISA IgM après J7.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'infection par le virus Chikungunya?",
+        "answer": "Le traitement est symptomatique : antalgique, antipyrétiques. Un surdosage en paracétamol participe à l’atteinte hépatique, les anti-inflammatoires non stéroïdiens pourraient avoir un rôle aggravant, et l’utilisation d’une corticothérapie systémique doit être prudente.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de la Vallée du Rift?",
+        "answer": "La fièvre de la Vallée du Rift peut être responsable de formes graves : méningo-encéphalite, signes hémorragiques, hépatite, rétinite aiguë avec cécité, mort dans 10 à 20 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la fièvre de la Vallée du Rift?",
+        "answer": "Le diagnostic repose sur les méthodes de détection des IgM et d’antigènes, sur la PCR et la culture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la fièvre de la Vallée du Rift?",
+        "answer": "Le traitement est surtout symptomatique, la ribavirine a une activité antivirale prouvée dans des modèles animaux, mais son intérêt dans les formes graves chez l'homme reste à documenter.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre hémorragique Crimée-Congo?",
+        "answer": "Dans sa forme mineure, la fièvre Crimée-Congo se limite à un syndrome grippal avec troubles digestifs, injection conjonctivale, hépatomégalie. La forme grave se traduit par un syndrome hémorragique mortel dans 30 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la fièvre hémorragique Crimée-Congo?",
+        "answer": "Le diagnostic repose sur le dosage d’IgM spécifiques en ELISA, la détection d'antigènes viraux ou la PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la fièvre hémorragique Crimée-Congo?",
+        "answer": "Le traitement symptomatique est associé à la ribavirine en cas de fièvre hémorragique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'encéphalite japonaise?",
+        "answer": "Dans les formes sévères, après une phase fébrile non spécifique, apparaissent des signes méningés, des convulsions, une confusion puis des paralysies flasques, un syndrome parkinsonien, des signes d’encéphalites, un coma précédant la mort.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'encéphalite japonaise?",
+        "answer": "Le diagnostic repose sur la recherche d’antigènes spécifiques dans le sérum et le LCR (capture d’IgM en ELISA, tests rapides) et la PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'encéphalite japonaise?",
+        "answer": "Le traitement est symptomatique. Aucun traitement antiviral ne permet de réduire la létalité qui est en moyenne de 30 % en cas d’encéphalite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection par le virus Zika?",
+        "answer": "Les symptômes incluent une fièvre d’intensité variable, parfois absente, une éruption maculo-papuleuse débutant au visage, extensive, parfois prurigineuse, céphalées, conjonctivite, hyperhémie conjonctivale, arthrite ou arthralgies (mains et chevilles), nausées, vomissements, douleurs abdominales, troubles du transit, vertiges, myalgies, douleurs rétro-oculaires, douleurs pharyngées, aphtes, toux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'infection par le virus Zika?",
+        "answer": "Le diagnostic repose sur la recherche du virus par RT-PCR au cours des 3 - 7 premiers jours dans le sang et jusqu’au 10e jour dans les urines. La séroconversion est retardée et la recherche d’anticorps ne permet pas toujours de distinguer cette infection d’une dengue.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'infection par le virus Zika?",
+        "answer": "Le traitement reste symptomatique en évitant aspirine et antiinflammatoires non stéroïdiens. Il n’y a pas de vaccin disponible et seule la lutte antivectorielle est essentielle.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'encéphalite Saint Louis?",
+        "answer": "Elle se traduit soit par des céphalées fébriles, soit par une méningite, soit par une encéphalite mortelle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'encéphalite équine du Venezuela?",
+        "answer": "L’encéphalite équine du Venezuela se traduit par des épizooties chez les chevaux et des épidémies en zone rurale chez l’homme, avec des symptômes allant de la fièvre à l’encéphalite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'encéphalite équine de l'Ouest?",
+        "answer": "La majorité des infections sont asymptomatiques. L’encéphalite est plus fréquente chez l’enfant (1 cas pour 50 infections) que chez l’adulte (1/1 000 infections).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'encéphalite équine de l'Est?",
+        "answer": "Les infections sporadiques touchent les chevaux et l’homme chez qui les encéphalites sont graves et responsables de séquelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre O’Nyong Nyong?",
+        "answer": "Les symptômes sont voisins de ceux de l‘infection par le virus Chikungunya, avec des adénopathies cervicales fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de la vallée de Kyasanur?",
+        "answer": "La maladie ressemble à la fièvre jaune avec, dans les formes graves, des atteintes hépatiques, rénales et un syndrome hémorragique.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les éléments cliniques orientant vers une cause infectieuse ou tumorale d'une adénopathie?",
+    "answer": "Les éléments cliniques orientant vers une cause infectieuse ou tumorale d'une adénopathie incluent la consistance, la sensibilité, les signes inflammatoires, l'abcédation, la fistulisation, les signes de compression, les signes régionaux comme la lymphangite ou la lésion d'inoculation, et l'évolution de l'adénopathie (aiguë, subaiguë, chronique).",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes cliniques associés à une adénopathie infectieuse?",
+    "answer": "Les signes cliniques associés à une adénopathie infectieuse incluent la consistance rénitente, la sensibilité, les signes inflammatoires, l'abcédation, la fistulisation, et les signes régionaux comme la lymphangite ou la lésion d'inoculation.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels examens paracliniques sont utiles pour diagnostiquer une adénopathie infectieuse?",
+    "answer": "Les examens paracliniques utiles pour diagnostiquer une adénopathie infectieuse incluent la radiographie thoracique, l'échographie abdominale, la tomodensitométrie, la ponction ganglionnaire avec examen direct du frottis après coloration (Gram, Ziehl, May Grunwald Giemsa), la mise en culture sur milieux ordinaire, de culture pour mycobactéries et de Sabouraud, et la biopsie/exérèse chirurgicale.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les traitements pour une actinomycose cervico-faciale?",
+    "answer": "Le traitement pour une actinomycose cervico-faciale inclut la pénicilline G (10 à 20 millions d'U/jour par voie veineuse pendant 4 à 6 semaines) suivie d'amoxicilline per os (2 à 4 g/j pendant 3 mois). Un drainage chirurgical est souvent nécessaire.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les germes responsables d'une adénophlegmon sous-angulomaxillaire?",
+    "answer": "Les germes responsables d'une adénophlegmon sous-angulomaxillaire peuvent inclure un germe pyogène comme S. aureus ou S. pyogenes, ou correspondre à une actinomycose cervico-faciale due le plus souvent à Actinomyces israeli.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie tumorale?",
+    "answer": "Les signes d'une adénopathie tumorale incluent une consistance dure ± fixée, une sensibilité ±, des signes inflammatoires ±, des signes de compression possibles, et une évolution subaiguë ou chronique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les éléments cliniques à rechercher pour diagnostiquer une adénopathie?",
+    "answer": "Les éléments cliniques à rechercher pour diagnostiquer une adénopathie incluent les caractéristiques ganglionnaires (date d'apparition, taille, aspect, nombre, atteinte d'une ou plusieurs aires ganglionnaires), la porte d'entrée loco-régionale (plaie, piqûre, morsure, relations sexuelles), et les signes généraux et signes cliniques associés.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie infectieuse due à Actinomyces israeli?",
+    "answer": "Le traitement pour une adénopathie infectieuse due à Actinomyces israeli inclut la pénicilline G (10 à 20 millions d'U/jour par voie veineuse pendant 4 à 6 semaines) suivie d'amoxicilline per os (2 à 4 g/j pendant 3 mois). Un drainage chirurgical est souvent nécessaire.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes régionaux associés à une adénopathie infectieuse?",
+    "answer": "Les signes régionaux associés à une adénopathie infectieuse incluent la lymphangite et la lésion d'inoculation.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les examens de routine à effectuer pour diagnostiquer une adénopathie infectieuse?",
+    "answer": "Les examens de routine à effectuer pour diagnostiquer une adénopathie infectieuse incluent la radiographie thoracique, l'échographie abdominale, et la tomodensitométrie pour rechercher des adénopathies profondes.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les germes responsables d'une adénopathie infectieuse?",
+    "answer": "Les germes responsables d'une adénopathie infectieuse peuvent inclure des bactéries comme S. aureus, S. pyogenes, Actinomyces israeli, Erysipelothrix rhusiopathiae, P. multocida, et B. anthracis.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie infectieuse?",
+    "answer": "Les signes d'une adénopathie infectieuse incluent une consistance rénitente, une sensibilité, des signes inflammatoires, une abcédation, une fistulisation, et des signes régionaux comme la lymphangite ou la lésion d'inoculation.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie infectieuse?",
+    "answer": "Les traitements pour une adénopathie infectieuse peuvent inclure des antibiotiques adaptés au germe responsable, comme la pénicilline G pour Actinomyces israeli, et un drainage chirurgical si nécessaire.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les examens à effectuer pour différencier une adénopathie tumorale d'une adénopathie infectieuse?",
+    "answer": "Les examens à effectuer pour différencier une adénopathie tumorale d'une adénopathie infectieuse incluent la ponction ganglionnaire avec examen direct du frottis après coloration, la mise en culture sur milieux ordinaire, de culture pour mycobactéries et de Sabouraud, et la biopsie/exérèse chirurgicale avec examen anatomopathologique.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes de compression associés à une adénopathie tumorale?",
+    "answer": "Les signes de compression associés à une adénopathie tumorale peuvent inclure des symptômes de compression des structures adjacentes, bien que cela soit possible mais non systématique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une infection cutanée ou muqueuse?",
+    "answer": "Les traitements pour une adénopathie due à une infection cutanée ou muqueuse incluent des antibiotiques adaptés au germe responsable, comme les streptocoques ß-hémolytiques pour l'érysipèle, Erysipelothrix rhusiopathiae pour l'érysipéloïde, P. multocida pour la pasteurellose, et B. anthracis pour le charbon.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une infection cutanée ou muqueuse?",
+    "answer": "Les signes d'une adénopathie due à une infection cutanée ou muqueuse incluent une adénopathie satellite d'une infection cutanée ou muqueuse comme les amygdalites, l'érysipèle, l'érysipéloïde, la pyodermite, la pasteurellose, le charbon, le zona, ou la primo-infection herpétique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les germes responsables d'une adénopathie due à une infection cutanée ou muqueuse?",
+    "answer": "Les germes responsables d'une adénopathie due à une infection cutanée ou muqueuse incluent les streptocoques ß-hémolytiques pour l'érysipèle, Erysipelothrix rhusiopathiae pour l'érysipéloïde, P. multocida pour la pasteurellose, et B. anthracis pour le charbon.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une actinomycose cervico-faciale?",
+    "answer": "Les signes d'une adénopathie due à une actinomycose cervico-faciale incluent une adénophlegmon sous-angulomaxillaire, souvent dû à Actinomyces israeli, un bacille à Gram positif anaérobie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une actinomycose cervico-faciale?",
+    "answer": "Le traitement pour une adénopathie due à une actinomycose cervico-faciale inclut la pénicilline G (10 à 20 millions d'U/jour par voie veineuse pendant 4 à 6 semaines) suivie d'amoxicilline per os (2 à 4 g/j pendant 3 mois). Un drainage chirurgical est souvent nécessaire.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une infection bucco-dentaire?",
+    "answer": "Les signes d'une adénopathie due à une infection bucco-dentaire incluent une adénophlegmon sous-angulomaxillaire, souvent dû à Actinomyces israeli, un bacille à Gram positif anaérobie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une infection bucco-dentaire?",
+    "answer": "Le traitement pour une adénopathie due à une infection bucco-dentaire inclut la pénicilline G (10 à 20 millions d'U/jour par voie veineuse pendant 4 à 6 semaines) suivie d'amoxicilline per os (2 à 4 g/j pendant 3 mois). Un drainage chirurgical est souvent nécessaire.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une infection cutanée?",
+    "answer": "Les signes d'une adénopathie due à une infection cutanée incluent une adénopathie satellite d'une infection cutanée comme l'érysipèle, l'érysipéloïde, la pyodermite, la pasteurellose, ou le charbon.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une infection cutanée?",
+    "answer": "Les traitements pour une adénopathie due à une infection cutanée incluent des antibiotiques adaptés au germe responsable, comme les streptocoques ß-hémolytiques pour l'érysipèle, Erysipelothrix rhusiopathiae pour l'érysipéloïde, P. multocida pour la pasteurellose, et B. anthracis pour le charbon.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une infection muqueuse?",
+    "answer": "Les signes d'une adénopathie due à une infection muqueuse incluent une adénopathie satellite d'une infection muqueuse comme les amygdalites, le zona, ou la primo-infection herpétique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une infection muqueuse?",
+    "answer": "Les traitements pour une adénopathie due à une infection muqueuse incluent des antibiotiques adaptés au germe responsable, comme les streptocoques ß-hémolytiques pour l'érysipèle, Erysipelothrix rhusiopathiae pour l'érysipéloïde, P. multocida pour la pasteurellose, et B. anthracis pour le charbon.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une infection par le charbon?",
+    "answer": "Les signes d'une adénopathie due à une infection par le charbon incluent une adénopathie satellite d'une infection cutanée ou muqueuse causée par B. anthracis.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une infection par le charbon?",
+    "answer": "Les traitements pour une adénopathie due à une infection par le charbon incluent des antibiotiques adaptés au germe responsable, comme B. anthracis.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes d'une adénopathie due à une infection par le zona?",
+    "answer": "Les signes d'une adénopathie due à une infection par le zona incluent une adénopathie satellite d'une infection cutanée ou muqueuse causée par le virus du zona.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements pour une adénopathie due à une infection par le zona?",
+    "answer": "Les traitements pour une adénopathie due à une infection par le zona incluent des antiviraux adaptés au virus du zona.",
+    "qtype": "traitements"
+  }
+]

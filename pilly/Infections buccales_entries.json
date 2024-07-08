@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les principaux micro-organismes exogènes pouvant infecter la cavité buccale dans les milieux tropicaux?",
+        "answer": "Les principaux micro-organismes exogènes pouvant infecter la cavité buccale dans les milieux tropicaux incluent les tréponèmes non vénériens, les agents des mycoses profondes, les leishmanies, les bacilles de Hansen et du charbon.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une carie dentaire?",
+        "answer": "Les symptômes d'une carie dentaire incluent une douleur si la pulpe est atteinte et la présence d'une cavité dentaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une carie dentaire?",
+        "answer": "Les traitements recommandés pour une carie dentaire incluent des soins de dentisterie et l'utilisation d'antiseptiques locaux.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels examens complémentaires sont utiles pour évaluer l'étendue des infections des dents et de leurs supports?",
+        "answer": "Les examens complémentaires utiles pour évaluer l'étendue des infections des dents et de leurs supports incluent la radiographie rétro-alvéolaire, les clichés panoramiques, l'échographie, la tomodensitométrie et l'imagerie par résonance magnétique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pulpite?",
+        "answer": "Les symptômes d'une pulpite incluent une douleur au froid, au chaud, au sucre et à la percussion latérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une gingivite ulcéro-nécrotique?",
+        "answer": "Les traitements recommandés pour une gingivite ulcéro-nécrotique incluent l'utilisation d'antiseptiques locaux et une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une parodontite?",
+        "answer": "Les symptômes d'une parodontite incluent une douleur, des signes de suppuration locaux et un syndrome infectieux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une parodontite aggressive localisée ou généralisée?",
+        "answer": "Les traitements recommandés pour une parodontite aggressive localisée ou généralisée incluent des soins de dentisterie (débridement mécanique) et une antibiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques associés à une infection dentaire non traitée?",
+        "answer": "Les risques associés à une infection dentaire non traitée incluent l'extension régionale de l'infection (ostéite maxillaire, cellulite, adénite cervicale, sinusite maxillaire, thrombophlébite jugulaire avec emboles septiques pulmonaires du syndrome de Lemierre) et la diffusion de l'infection à distance (bactériémie, endocardite, emboles septiques, actinomycose pulmonaire).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour les infections dentaires sévères?",
+        "answer": "Les traitements de première intention pour les infections dentaires sévères incluent généralement l'amoxicilline, les macrolides (azithromycine, clarithromycine, spiramycine) ou la clindamycine.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une alvéolite suppurée?",
+        "answer": "Les symptômes d'une alvéolite suppurée incluent des signes d'infection généraux et locaux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une alvéolite suppurée?",
+        "answer": "Les traitements recommandés pour une alvéolite suppurée incluent une antibiothérapie systématique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une gingivite?",
+        "answer": "Les symptômes d'une gingivite incluent une pyorrhée, une hypertrophie, des saignements, des ulcérations et une nécrose des gencives.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une gingivite?",
+        "answer": "Les traitements recommandés pour une gingivite incluent l'utilisation d'antiseptiques locaux et une antibiothérapie si la gingivite est ulcéro-nécrotique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection du ligament alvéolo-dentaire (desmontite)?",
+        "answer": "Les symptômes d'une infection du ligament alvéolo-dentaire (desmontite) incluent une douleur pulsatile augmentée par le chaud, le décubitus et la percussion axiale, et calmée par le froid.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une primo-infection herpétique buccale?",
+        "answer": "Les symptômes d'une primo-infection herpétique buccale incluent des ulcérations buccales souvent recouvertes d'un enduit fibrineux blanchâtre, pseudo-membraneux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une primo-infection herpétique buccale sévère?",
+        "answer": "Les traitements recommandés pour une primo-infection herpétique buccale sévère incluent l'aciclovir (oral ou i.v.).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une leucoplasie chevelue?",
+        "answer": "Les symptômes d'une leucoplasie chevelue incluent des stries blanchâtres épaisses sur les bords de la langue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une leucoplasie chevelue?",
+        "answer": "Le traitement recommandé pour une leucoplasie chevelue est la restauration immunitaire due aux antirétroviraux.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une maladie de Kaposi buccale?",
+        "answer": "Les symptômes d'une maladie de Kaposi buccale incluent des macules ou des bourgeonnements rouge-violacés au niveau du palais ou des gencives.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le virus EBV?",
+        "answer": "Les symptômes d'une infection buccale par le virus EBV incluent des stries blanchâtres épaisses sur les bords de la langue, caractéristiques de la leucoplasie chevelue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le virus HHV8?",
+        "answer": "Les symptômes d'une infection buccale par le virus HHV8 incluent des macules ou des bourgeonnements rouge-violacés, caractéristiques de la maladie de Kaposi.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le VIH?",
+        "answer": "Les symptômes d'une infection buccale par le VIH incluent des stries blanchâtres épaisses sur les bords de la langue (leucoplasie chevelue) et des macules ou des bourgeonnements rouge-violacés au niveau du palais ou des gencives (maladie de Kaposi).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le Candida?",
+        "answer": "Les symptômes d'une infection buccale par le Candida incluent des plaques blanches pseudo-membraneuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection buccale par le Candida?",
+        "answer": "Les traitements recommandés pour une infection buccale par le Candida incluent des antifongiques locaux ou systémiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le streptocoque?",
+        "answer": "Les symptômes d'une infection buccale par le streptocoque incluent des angines streptococciques avec inflammation de la région pharyngo-amygdalienne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection buccale par le streptocoque?",
+        "answer": "Les traitements recommandés pour une infection buccale par le streptocoque incluent des antibiotiques tels que la pénicilline.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le virus de l'herpès?",
+        "answer": "Les symptômes d'une infection buccale par le virus de l'herpès incluent des ulcérations buccales souvent recouvertes d'un enduit fibrineux blanchâtre, pseudo-membraneux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection buccale par le virus de l'herpès?",
+        "answer": "Les traitements recommandés pour une infection buccale par le virus de l'herpès incluent l'aciclovir (oral ou i.v.) dans les formes sévères et/ou celles de l'immunodéprimé.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection buccale par le virus de la mononucléose infectieuse?",
+        "answer": "Les symptômes d'une infection buccale par le virus de la mononucléose infectieuse incluent des angines avec inflammation de la région pharyngo-amygdalienne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection buccale par le virus de la mononucléose infectieuse?",
+        "answer": "Les traitements recommandés pour une infection buccale par le virus de la mononucléose infectieuse incluent des soins de support et des analgésiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements pour la candidose orale chez les immunodéprimés?",
+        "answer": "Le traitement repose sur l'application d'antimycosiques locaux : amphotéricine B sous forme de suspension orale en bains de bouche, miconazole en gel buccal ou sous forme de pastille muco-adhésive, nystatine en suspension orale, fluconazole oral chez l'immunodéprimé ou en cas de lésions modérées à sévères.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau de la muqueuse buccale?",
+        "answer": "Les symptômes incluent des 'plaques fauchées' du dos de la langue, des papules périlabiales, des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on la syphilis?",
+        "answer": "Le diagnostic repose sur les sérologies (cardiolipidiques non spécifiques : RPR, VDRL ; tréponémiques spécifiques : TPHA, FTA-ABS), qui sont toutefois négatives au début de la phase primaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose primaire de la bouche?",
+        "answer": "Les ulcérations de la tuberculose primaire de la bouche sont chroniques, indolores et s'accompagnent d'adénopathies cervicales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques des infections de la muqueuse buccale?",
+        "answer": "Un traitement symptomatique inclut le tamponnement de lésions avec du violet de gentiane à 0,25 % en solution aqueuse ou des bains de bouche avec un antiseptique buccal dilué : hexétidine, chlorhexidine, polyvidone iodée. Les préparations mentholées sont contre-indiquées avant l'âge de 30 mois. La xylocaïne visqueuse en application locale peut soulager transitoirement les douleurs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la lèpre au niveau buccal?",
+        "answer": "Les lésions buccales à type de nodules hémorragiques sessiles sont observées dans 20 à 60 % des lèpres lépromateuses, elles peuvent atteindre la langue, les lèvres, le palais mou et le pharynx.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose érythémateuse et atrophique?",
+        "answer": "La candidose érythémateuse et atrophique se manifeste par une langue 'rôtie' et peut se diffuser au reste de la muqueuse buccale. Elle est plus fréquente chez les porteurs de prothèse dentaire ou après une antibiothérapie orale ou une corticothérapie générale prolongée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau buccal?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la leishmaniose cutanéo-muqueuse?",
+        "answer": "Les formes latino-américaines touchant le nez et la muqueuse buccale peuvent survenir des mois ou des années après la primo-infection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la paracoccidioïdomycose buccale?",
+        "answer": "Les ulcérations buccales peuvent être la localisation initiale de la mycose ou accompagner les atteintes pulmonaires. Elles touchent les alvéoles et les gencives, plus rarement le palais et les lèvres.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis primaire au niveau buccal?",
+        "answer": "Les symptômes incluent un chancre buccal, labial ou amygdalien, unique, indolore, induré, accompagné d'adénopathies mais sans éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau de la langue?",
+        "answer": "Les symptômes incluent des 'plaques fauchées' du dos de la langue, des papules périlabiales, des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau de la langue?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose buccale chez les nourrissons?",
+        "answer": "Le muguet est constitué de dépôts blanchâtres dont l'ablation à l'aide de l'abaisse-langue est facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose buccale chez les immunodéprimés?",
+        "answer": "Le muguet est constitué de dépôts blanchâtres dont l'ablation à l'aide de l'abaisse-langue est facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau des lèvres?",
+        "answer": "Les symptômes incluent des papules périlabiales et des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau des lèvres?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau des amygdales?",
+        "answer": "Les symptômes incluent des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau des amygdales?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau du palais?",
+        "answer": "Les symptômes incluent des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau du palais?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau du pharynx?",
+        "answer": "Les symptômes incluent des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau du pharynx?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau des gencives?",
+        "answer": "Les symptômes incluent des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau des gencives?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau des joues?",
+        "answer": "Les symptômes incluent des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis tertiaire au niveau des joues?",
+        "answer": "Les symptômes incluent des leucoplasies et des ulcères creusants. Les lésions primaires sont indolores, accompagnées d'adénopathie satellite et d'induration.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la syphilis secondaire au niveau des lèvres?",
+        "answer": "Les symptômes incluent des papules périlabiales et des ulcérations muqueuses superficielles. Les lésions sont souvent douloureuses, multiples et peuvent être associées à une éruption.",
+        "qtype": "symptômes"
+    }
+]

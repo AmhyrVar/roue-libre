@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite aiguë bactérienne?",
+        "answer": "Un syndrome méningé associant céphalées, vomissements en jet, photophobie et phonophobie, avec signes d’irritation méningée à l’examen (raideur de nuque, signes de Kernig et Brudzinski) et un syndrome infectieux d’apparition brutale ou plus progressive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de gravité des méningites?",
+        "answer": "Purpura extensif (fulminans), état de choc, troubles de la vigilance, coma, convulsions, a fortiori si répétées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont systématiquement demandés lors d'une suspicion de méningite?",
+        "answer": "Étude cytologique (cellularité et formule leucocytaire), étude biochimique (protéinorachie, glycorachie avec glycémie contemporaine, et si possible lactates), étude microbiologique (examen direct après coloration de Gram, cultures bactériologiques standard, recherche d’antigènes solubles méningocoque, pneumocoque, Haemophilus).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de moins de 2 mois?",
+        "answer": "Streptococcus agalactiae, Streptococcus pyogenes, et les entérobactéries.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 2 à 23 mois?",
+        "answer": "Streptococcus pneumoniae, Haemophilus influenzae, Neisseria meningitidis, et les entérobactéries.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 2 à 4 ans?",
+        "answer": "Streptococcus pneumoniae, Haemophilus influenzae, et Neisseria meningitidis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 5 à 14 ans?",
+        "answer": "Neisseria meningitidis, Streptococcus pneumoniae, et Haemophilus influenzae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes de plus de 14 ans?",
+        "answer": "Neisseria meningitidis et Streptococcus pneumoniae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une méningite à méningocoque?",
+        "answer": "Saison sèche, épidémie, début brutal, purpura.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une méningite à pneumocoque?",
+        "answer": "Enfant de moins de 5 ans, immunodépression (alcoolisme, asplénie, VIH, myélome), antécédent de traumatisme crânien, de chirurgie de la base du crâne, infection récente des voies aériennes supérieures, début brutal, coma, convulsions, signes focaux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une méningite à Haemophilus influenzae?",
+        "answer": "Enfant de moins de 5 ans, association otite-conjonctivite, absence de vaccination, début progressif, convulsions fréquentes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une méningite à Listeria monocytogenes?",
+        "answer": "Age supérieur à 50 ans, immunodépression hors VIH, début progressif, atteinte des paires crâniennes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux examens complémentaires à réaliser en cas de méningite?",
+        "answer": "Hémogramme avec formule leucocytaire, glycémie, fonction rénale et hépatique, bilan de coagulation, C réactive protéine, radiographie pulmonaire, sérologie VIH, hémocultures, biopsie des lésions purpuriques avec analyse bactériologique, examen ORL, imagerie cérébrale (scanner ou IRM).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes communautaires selon l'âge?",
+        "answer": "Chez les moins de 2 mois: S. agalactiae, S. pyogenes, entérobactéries. Chez les 2-23 mois: S. pneumoniae, H. influenzae, N. meningitidis, entérobactéries. Chez les 2-4 ans: S. pneumoniae, H. influenzae, N. meningitidis. Chez les 5-14 ans: N. meningitidis, S. pneumoniae, H. influenzae. Chez les plus de 14 ans: N. meningitidis, S. pneumoniae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite chez le nouveau-né et le nourrisson?",
+        "answer": "Trouble du comportement (agitation, somnolence, refus de l’alimentation), prostration, convulsions, hypotonie, bombement de la fontanelle en dehors des périodes de pleurs et cris.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite chez le sujet âgé?",
+        "answer": "Agitation ou somnolence excessive, trouble de la conscience, désorientation, coma, tableau psychiatrique, délire aigu, convulsions.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair?",
+        "answer": "Syndrome méningé sans réaction cellulaire, méningite à méningocoque fulminante (purpura, choc) ou débutante, méningite à cryptocoque d’installation lente au cours du SIDA, méningisme en réponse à un foyer infectieux extra-méningé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec prédominance de polynucléaires neutrophiles?",
+        "answer": "Méningite bactérienne confirmée par l’examen direct du LCS, les cultures et/ou les antigènes solubles. Si aucun pathogène n’est mis en évidence, il s’agit d’une méningite puriforme aseptique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec liquide panaché?",
+        "answer": "Méningite panachée avec hypoglycorachie, listériose, méningite à entérovirus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec liquide lymphocytaire?",
+        "answer": "Méningite lymphocytaire isolée sans signes d’encéphalite, tuberculose, causes fongiques (cryptococcose).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec nombre d’éléments inférieur à 10/mm3?",
+        "answer": "Méningite à méningocoque fulminante (purpura, choc) ou débutante, méningite à cryptocoque d’installation lente au cours du SIDA, méningisme en réponse à un foyer infectieux extra-méningé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec prédominance de polynucléaires neutrophiles?",
+        "answer": "Méningite bactérienne confirmée par l’examen direct du LCS, les cultures et/ou les antigènes solubles. Si aucun pathogène n’est mis en évidence, il s’agit d’une méningite puriforme aseptique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec liquide panaché?",
+        "answer": "Méningite panachée avec hypoglycorachie, listériose, méningite à entérovirus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec liquide lymphocytaire?",
+        "answer": "Méningite lymphocytaire isolée sans signes d’encéphalite, tuberculose, causes fongiques (cryptococcose).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec nombre d’éléments inférieur à 10/mm3?",
+        "answer": "Méningite à méningocoque fulminante (purpura, choc) ou débutante, méningite à cryptocoque d’installation lente au cours du SIDA, méningisme en réponse à un foyer infectieux extra-méningé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec prédominance de polynucléaires neutrophiles?",
+        "answer": "Méningite bactérienne confirmée par l’examen direct du LCS, les cultures et/ou les antigènes solubles. Si aucun pathogène n’est mis en évidence, il s’agit d’une méningite puriforme aseptique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec liquide panaché?",
+        "answer": "Méningite panachée avec hypoglycorachie, listériose, méningite à entérovirus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite à liquide clair avec liquide lymphocytaire?",
+        "answer": "Méningite lymphocytaire isolée sans signes d’encéphalite, tuberculose, causes fongiques (cryptococcose).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à méningocoque?",
+        "answer": "Les traitements de première intention pour la méningite à méningocoque sont la ceftriaxone à la dose de 100 mg/kg/j IM ou IV, ou le céfotaxime 200 mg/kg/j IV. En période épidémique, le chloramphénicol en suspension huileuse à la dose de 100 mg/kg/j IM peut être utilisé.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la neurocysticercose?",
+        "answer": "Les symptômes de la neurocysticercose incluent des tableaux de méningo-encéphalite, de déficit neurologique focal et des convulsions fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la méningite à liquide clair avec éosinophilie?",
+        "answer": "Les agents pathogènes responsables de la méningite à liquide clair avec éosinophilie incluent l'angiostrongyloïdose, la neurocysticercose, la paragonimose, la gnathostomose, et plus rarement les schistosomoses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la méningite à pneumocoque?",
+        "answer": "Le traitement recommandé pour la méningite à pneumocoque repose en première intention sur la ceftriaxone à la dose de 100 mg/kg/j ou le céfotaxime à la dose de 300 mg/kg/j pendant 10 à 14 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la méningite à éosinophiles?",
+        "answer": "Les signes cliniques de la méningite à éosinophiles peuvent inclure des tableaux de méningo-encéphalite, de méningo-radiculite, de déficit neurologique focal, et des convulsions fréquentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Haemophilus influenzae?",
+        "answer": "Le traitement de première intention pour la méningite à Haemophilus influenzae repose sur la ceftriaxone à la dose de 100 mg/kg/j ou le céfotaxime à la dose de 200 mg/kg/j pendant 5 à 7 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Listeria?",
+        "answer": "Le traitement de première intention pour la méningite à Listeria repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours, associée à la gentamicine à la dose de 5 mg/kg/j pendant les 5 premiers jours de traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour les méningites à entérobactéries chez les nouveau-nés?",
+        "answer": "Le traitement de première intention pour les méningites à entérobactéries chez les nouveau-nés repose sur la ceftriaxone à la dose de 100 mg/kg/j ou le céfotaxime à la dose de 200 mg/kg/j pendant 7 à 21 jours, associé à la gentamicine à la dose de 5 mg/kg/j les deux premiers jours de traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus agalactiae chez les nouveau-nés?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus agalactiae chez les nouveau-nés repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus pneumoniae chez les enfants de 2 à 23 mois?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus pneumoniae chez les enfants de 2 à 23 mois repose sur la ceftriaxone à la dose de 100 mg/kg/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Neisseria meningitidis chez les enfants de 5 à 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Neisseria meningitidis chez les enfants de 5 à 14 ans repose sur la ceftriaxone à la dose de 100 mg/kg/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Neisseria meningitidis chez les adultes de plus de 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Neisseria meningitidis chez les adultes de plus de 14 ans repose sur la ceftriaxone à la dose de 2 g/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus pneumoniae chez les adultes de plus de 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus pneumoniae chez les adultes de plus de 14 ans repose sur la ceftriaxone à la dose de 2 g/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Neisseria meningitidis en période épidémique chez les enfants de 2 à 4 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Neisseria meningitidis en période épidémique chez les enfants de 2 à 4 ans repose sur la ceftriaxone à la dose de 100 mg/kg IM ou le chloramphénicol huileux à la dose de 100 mg/kg IM.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Neisseria meningitidis en période épidémique chez les enfants de 5 à 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Neisseria meningitidis en période épidémique chez les enfants de 5 à 14 ans repose sur la ceftriaxone à la dose de 100 mg/kg IM ou le chloramphénicol huileux à la dose de 100 mg/kg IM.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Neisseria meningitidis en période épidémique chez les adultes de plus de 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Neisseria meningitidis en période épidémique chez les adultes de plus de 14 ans repose sur la ceftriaxone à la dose de 100 mg/kg IM ou le chloramphénicol huileux à la dose de 100 mg/kg IM (maximum 3 g).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus pneumoniae en période épidémique chez les enfants de 2 à 4 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus pneumoniae en période épidémique chez les enfants de 2 à 4 ans repose sur la ceftriaxone à la dose de 100 mg/kg IM ou le chloramphénicol huileux à la dose de 100 mg/kg IM.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus pneumoniae en période épidémique chez les enfants de 5 à 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus pneumoniae en période épidémique chez les enfants de 5 à 14 ans repose sur la ceftriaxone à la dose de 100 mg/kg IM ou le chloramphénicol huileux à la dose de 100 mg/kg IM.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus pneumoniae en période épidémique chez les adultes de plus de 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus pneumoniae en période épidémique chez les adultes de plus de 14 ans repose sur la ceftriaxone à la dose de 100 mg/kg IM ou le chloramphénicol huileux à la dose de 100 mg/kg IM (maximum 3 g).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Haemophilus influenzae chez les enfants de 2 à 23 mois?",
+        "answer": "Le traitement de première intention pour la méningite à Haemophilus influenzae chez les enfants de 2 à 23 mois repose sur la ceftriaxone à la dose de 100 mg/kg/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Haemophilus influenzae chez les enfants de 2 à 4 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Haemophilus influenzae chez les enfants de 2 à 4 ans repose sur la ceftriaxone à la dose de 100 mg/kg/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Haemophilus influenzae chez les enfants de 5 à 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Haemophilus influenzae chez les enfants de 5 à 14 ans repose sur la ceftriaxone à la dose de 100 mg/kg/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Haemophilus influenzae chez les adultes de plus de 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Haemophilus influenzae chez les adultes de plus de 14 ans repose sur la ceftriaxone à la dose de 2 g/j IM ou IV pendant 5 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Listeria chez les enfants de 2 à 23 mois?",
+        "answer": "Le traitement de première intention pour la méningite à Listeria chez les enfants de 2 à 23 mois repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours, associée à la gentamicine à la dose de 5 mg/kg/j pendant les 5 premiers jours de traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Listeria chez les enfants de 2 à 4 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Listeria chez les enfants de 2 à 4 ans repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours, associée à la gentamicine à la dose de 5 mg/kg/j pendant les 5 premiers jours de traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Listeria chez les enfants de 5 à 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Listeria chez les enfants de 5 à 14 ans repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours, associée à la gentamicine à la dose de 5 mg/kg/j pendant les 5 premiers jours de traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Listeria chez les adultes de plus de 14 ans?",
+        "answer": "Le traitement de première intention pour la méningite à Listeria chez les adultes de plus de 14 ans repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours, associée à la gentamicine à la dose de 5 mg/kg/j pendant les 5 premiers jours de traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements de première intention pour la méningite à Streptococcus agalactiae chez les enfants de moins de 2 mois?",
+        "answer": "Le traitement de première intention pour la méningite à Streptococcus agalactiae chez les enfants de moins de 2 mois repose sur l'amoxicilline à la dose de 200 mg/kg/j pendant 21 jours.",
+        "qtype": "traitements"
+    }
+]

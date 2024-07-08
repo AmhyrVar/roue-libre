@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle est la bactérie responsable de la peste?",
+    "response": "La peste est due à Yersinia pestis, également appelé bacille de Yersin.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment la peste est-elle principalement transmise à l'homme?",
+    "response": "La peste est principalement transmise à l'homme par les puces.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels continents sont les plus touchés par la peste?",
+    "response": "L'Afrique, l'Asie et les Amériques sont les continents les plus touchés par la peste.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quel pourcentage des cas mondiaux de peste a été signalé en Afrique entre 2010 et 2015?",
+    "response": "90 % des cas mondiaux de peste ont été signalés en Afrique entre 2010 et 2015.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels pays signalent presque chaque année des cas de peste?",
+    "response": "Des cas de peste sont signalés presque chaque année en Inde, en Chine, en Mongolie, au Pérou, en Bolivie et dans l’ouest des États-Unis.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment les rongeurs sauvages peuvent-ils être contaminés par la peste?",
+    "response": "Les rongeurs sauvages peuvent être contaminés par la peste par la piqûre de puces infectées, l'inhalation de poussières des terriers ou l'ingestion de cadavres d'animaux pesteux.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels types de rats sont très sensibles à la peste et meurent rapidement après infection?",
+    "response": "Les rats tels que Rattus rattus (rat noir) et Rattus norvegicus (surmulot) sont très sensibles à la peste et meurent rapidement après infection.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les modes de contamination humaine de la peste autres que la piqûre de puce?",
+    "response": "Les autres modes de contamination humaine de la peste incluent la pénétration au travers d’une excoriation cutanée des bacilles contenus dans les déjections de puces ou dans des poussières, la manipulation du cadavre d’un rongeur infecté ou l’inhalation d’aérosols de gouttelettes émis par un malade atteint de peste pulmonaire.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment les bactéries de la peste se diffusent-elles après une inoculation cutanée par piqûre de puce?",
+    "response": "Après une inoculation cutanée par piqûre de puce, les bactéries de la peste diffusent par voie lymphatique aux ganglions satellites, se multiplient et provoquent une réaction inflammatoire avec des foyers nécrotiques.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quelles sont les conséquences possibles de la dissémination des bactéries de la peste par voie lymphatique et sanguine?",
+    "response": "La dissémination des bactéries de la peste par voie lymphatique et sanguine peut être à l’origine d’une atteinte pulmonaire dite secondaire, d’un choc septique, d’une atteinte multiviscérale et d’un syndrome de coagulation intravasculaire disséminée.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quelle est la forme clinique la plus fréquente de la peste?",
+    "response": "La forme clinique la plus fréquente de la peste est la peste bubonique.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes initiaux de la peste bubonique?",
+    "response": "Les symptômes initiaux de la peste bubonique incluent un malaise, des frissons, une fièvre à 39° - 40°C, des nausées, des vomissements et des douleurs diffuses.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Qu'est-ce qu'un bubon et où se situe-t-il le plus souvent?",
+    "response": "Un bubon est une hypertrophie d’un ou de plusieurs ganglions lymphatiques, le plus souvent de siège inguinocrural, plus rarement axillaire, cervical, épitrochléen ou poplité.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la létalité de la peste bubonique en l'absence de traitement?",
+    "response": "En l'absence de traitement, le taux de létalité de la peste bubonique varie de 30 à 60 %.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la période d'incubation de la peste pulmonaire primitive?",
+    "response": "La période d'incubation de la peste pulmonaire primitive varie de quelques heures à 3 jours.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de la peste pulmonaire?",
+    "response": "Les symptômes de la peste pulmonaire incluent une fièvre élevée, une altération profonde de l’état général, une dyspnée, une cyanose, une toux et des expectorations abondantes, spumeuses et striées de sang.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes radiographiques de la peste pulmonaire?",
+    "response": "Les signes radiographiques de la peste pulmonaire incluent des images alvéolo-interstitielles bilatérales avec zones de condensation traduisant une broncho-pneumonie.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la cause de la peste pulmonaire dite primitive?",
+    "response": "La peste pulmonaire dite primitive est causée par la contamination par voie respiratoire.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les modes de transmission de la peste pulmonaire?",
+    "response": "Les modes de transmission de la peste pulmonaire incluent l'inhalation d'aérosols de gouttelettes émis par un malade atteint de peste pulmonaire.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux réservoirs de la peste en zones rurales?",
+    "response": "Les principaux réservoirs de la peste en zones rurales sont les rongeurs sauvages.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment les chasseurs peuvent-ils contracter la peste?",
+    "response": "Les chasseurs peuvent contracter la peste en entrant en contact avec des foyers naturels et pérennes de peste.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la taille maximale que peut atteindre un bubon?",
+    "response": "La taille d'un bubon peut atteindre dix centimètres.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes généraux de la peste bubonique?",
+    "response": "Les signes généraux de la peste bubonique incluent un malaise, des frissons, une fièvre élevée, des nausées, des vomissements et des douleurs diffuses.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la période d'incubation de la peste bubonique?",
+    "response": "La période d'incubation de la peste bubonique est de 2 à 6 jours.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de la peste septicémique?",
+    "response": "Les symptômes de la peste septicémique incluent un choc septique, une atteinte multiviscérale et un syndrome de coagulation intravasculaire disséminée.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment la peste septicémique peut-elle se développer?",
+    "response": "La peste septicémique peut se développer à partir d'une piqûre intracapillaire d'une puce ou du contact direct d'une peau lésée avec des matières infectées par les bactéries.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la peste pulmonaire secondaire?",
+    "response": "Les symptômes de la peste pulmonaire secondaire incluent une fièvre élevée, une altération profonde de l’état général, une dyspnée, une cyanose, une toux et des expectorations abondantes, spumeuses et striées de sang.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la cause de la peste pulmonaire secondaire?",
+    "response": "La peste pulmonaire secondaire est causée par la dissémination des bactéries de la peste par voie lymphatique et sanguine.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la peste pulmonaire primitive?",
+    "response": "Les symptômes de la peste pulmonaire primitive incluent une fièvre élevée, une altération profonde de l’état général, une dyspnée, une cyanose, une toux et des expectorations abondantes, spumeuses et striées de sang.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de la peste septicémique?",
+    "answer": "La peste septicémique associe un syndrome infectieux sévère, un syndrome hémorragique et des signes de défaillance multiviscérale.",
+    "qtype": "symptômes"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle est la principale cause de mortalité infantile dans le monde?",
+    "answer": "Les infections respiratoires aiguës basses (IRAb) sont la principale cause mondiale de mortalité infantile.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quel pourcentage de la mortalité infantile est représenté par les infections respiratoires aiguës?",
+    "answer": "Les infections respiratoires aiguës représentent 20 % de la mortalité infantile.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quel est le taux de mortalité infantile attribué à la pneumonie en 2017?",
+    "answer": "En 2017, 808 614 enfants de moins de 5 ans sont décédés d’une pneumonie.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les agents pathogènes les plus fréquents responsables des infections respiratoires basses chez les enfants?",
+    "answer": "Chez les enfants, les agents pathogènes les plus fréquents sont le pneumocoque, Haemophilus influenzae et le virus respiratoire syncytial (VRS).",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les facteurs de risque d'infections respiratoires aiguës basses chez l'adulte?",
+    "answer": "Les facteurs de risque chez l'adulte incluent la broncho-pneumopathie chronique, le tabagisme, l'alcoolisme, le diabète, l'insuffisance rénale/hépatique et l'âge > 65 ans.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels en faveur d’une infection respiratoire aiguë basse?",
+    "answer": "Les signes fonctionnels incluent la fièvre, la toux (avec ou sans expectoration), la dyspnée et la douleur thoracique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes de gravité clinique chez l'enfant atteinte d'une infection respiratoire aiguë basse?",
+    "answer": "Les signes de gravité clinique chez l'enfant incluent l'aggravation rapide des signes généraux et respiratoires, la fièvre élevée, la somnolence, l'incapacité de boire, la dyspnée à la prise des biberons, les perturbations hémodynamiques, les signes d'hypoxie et la détresse respiratoire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux micro-organismes responsables des infections respiratoires basses?",
+    "answer": "Les principaux micro-organismes incluent Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Klebsiella pneumoniae, Mycoplasma pneumoniae, Chlamydia pneumoniae, Bordetella pertussis, Coxiella burnetii, les bactéries anaérobies, les entérobactéries, le bacille de Koch, les leptospires, Nocardia sp., le coronavirus (principalement le SARS CoV 2), le virus respiratoire syncytial, les myxovirus para influenzae, les morbillivirus, les adénovirus, les entérovirus, les myxovirus influenzae, les herpesviridae, certains arbovirus et virus des fièvres hémorragiques (Hantavirus), Histoplasma duboisii et H. capsulatum, Aspergillus sp., Pneumocystis jiroveci, Cryptococcus neoformans, Talaromyces marneffei, Paragominus sp., Echinococcus granulosus, les migrations larvaires et le syndrome de Löffler, et les bilharzies.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les traitements recommandés par l'OMS pour les infections respiratoires aiguës basses sans signe de gravité?",
+    "answer": "L'OMS recommande l'amoxicilline 40mg/kg 2 fois par jour per os pendant 5 jours, pouvant être réduit à 3 jours dans les zones de faible endémie VIH.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements recommandés par l'OMS pour les infections respiratoires aiguës basses avec signes de gravité chez les enfants de moins de 1 an infectés par le VIH?",
+    "answer": "L'OMS recommande l'amoxicilline 50 mg/kg + gentamicine 7,5 mg/kg IM ou IV pendant au moins 5 jours ; ceftriaxone en deuxième intention. Chez les enfants de moins de 1 an infectés par le VIH, il est recommandé d'ajouter du cotrimoxazole si suspicion de pneumocystose.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de l'épiglottite de l'enfant?",
+    "answer": "Les signes fonctionnels incluent un début brutal, une fièvre élevée, une dysphagie, une hypersalivation, une bradypnée inspiratoire, une dysphagie, un stridor, une toux rare et claire, une voix claire et une asphyxie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de la laryngite sous glottique de l'enfant?",
+    "answer": "Les signes fonctionnels incluent un début progressif, une bradypnée inspiratoire, une dyspnée intense, une toux aboyante et une voix rauque ou éteinte, l'absence de dysphagie, une fièvre en règle peu élevée, une rhinopharyngite fréquente et un état général conservé.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de la laryngite striduleuse de l'enfant?",
+    "answer": "Les signes fonctionnels incluent une apparition brutale de signes de laryngite aiguë de durée brève, des apnées et cyanoses brèves et récidivantes, une fièvre peu élevée ou absente, un rhume, une voix et une toux rauque.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de la laryngite diphtérique?",
+    "answer": "Les signes fonctionnels incluent des adénopathies submaxillaires importantes, une angine pseudomembraneuse extensive jusqu’aux voies aériennes basses, une dyspnée jusqu’à l’asphyxie (croup), des signes exotoxiniques comme la myocardite et l’atteinte du SNC.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de la trachéite ou bronchite?",
+    "answer": "Les signes fonctionnels incluent une toux sèche, des brûlures thoraciques, une expectoration purulente, une fièvre inconstante et des râles bronchiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de la bronchiolite de l'enfant?",
+    "answer": "Les signes fonctionnels incluent une dyspnée expiratoire, un wheezing (sifflement respiratoire), un tirage, des râles sibilants ou sous crépitants.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes fonctionnels de la pneumonie ou bronchopneumonie?",
+    "answer": "Les signes fonctionnels incluent un début brutal, une toux, une douleur thoracique, une tachypnée, un tirage (forme grave), une fièvre modérée ou élevée, des râles crépitants, un syndrome de condensation parenchymateux (matité, abolition des murmures vésiculaires, augmentation des vibrations vocales, souffle tubaire), et parfois un syndrome pleurétique (matité, abolition des murmures vésiculaires et des vibrations vocales).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les critères de gravité clinique chez l'enfant atteinte d'une infection respiratoire aiguë basse?",
+    "answer": "Les critères de gravité clinique chez l'enfant incluent l'âge < 6 mois, une pathologie respiratoire ou cardiaque antérieure, la drépanocytose, l'immunosuppression, la malnutrition sévère, l'aggravation rapide des signes généraux et respiratoires, la fièvre élevée, le contact de l'enfant anormal, la somnolence, l'incapacité de boire, la dyspnée à la prise des biberons, les perturbations hémodynamiques (marbrures, hypotension), les signes d'hypoxie (cyanose, désaturation), la détresse respiratoire (polypnée, signes de lutte, balancement, battement des ailes du nez, tirage, geignement expiratoire), le stridor et les signes d'hypercapnie (sueurs, troubles de conscience).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les critères de gravité clinique chez l'adulte atteinte d'une infection respiratoire aiguë basse?",
+    "answer": "Les critères de gravité clinique chez l'adulte incluent l'âge > 65 ans, l'immunodépression, le cancer, la pneumopathie par inhalation/troubles de déglutition, la confusion, la polypnée > 30/min, les signes de détresse respiratoire (balancement, tirage), l'insuffisance circulatoire (hypotension, fréquence cardiaque > 120/min, marbrure, allongement du temps de recoloration cutanée, oligo- ou anurie).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les diagnostics différentiels des infections respiratoires aiguës basses chez l'enfant?",
+    "answer": "Les diagnostics différentiels incluent les corps étrangers des voies respiratoires, le paludisme, la myocardite aiguë et le syndrome thoracique aigu chez le sujet drépanocytaire.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les diagnostics différentiels des infections respiratoires aiguës basses chez l'adulte?",
+    "answer": "Les diagnostics différentiels incluent l'insuffisance cardiaque aiguë lors d'une infection extra respiratoire chez un sujet cardiopathe et le syndrome thoracique aigu chez le sujet drépanocytaire.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les examens complémentaires recommandés pour le diagnostic des infections respiratoires aiguës basses?",
+    "answer": "Les examens complémentaires incluent la numération-formule sanguine, la radiographie thoracique, le frottis-mince et goutte épaisse ou TDR du paludisme, les hémocultures, la recherche rapide d'antigènes spécifiques dans les urines, les sérologies des Legionella, leptospires, Chlamydiae, Coxiella et Mycoplasma, les gaz du sang, l'examen cytobactériologique des crachats, la recherche de BK dans les crachats, la broncho-aspiration, l'aspiration pharyngée ou le lavage broncho-alvéolaire.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les traitements associés recommandés pour les infections respiratoires aiguës basses chez l'enfant de moins de 5 ans?",
+    "answer": "Les traitements associés incluent le traitement antipaludique en zone d'endémie, l'éducation de l'entourage (hydratation, renutrition), le traitement d'une diarrhée associée en utilisant les sels de réhydratation orale (SRO), la vitamine A per os, le paracétamol per os 20 mg/kg/j en 4 prises en cas de température > 39°C, le diazépam per os 1 mg/kg/j en 4 prises en cas de convulsions, et le traitement symptomatique de la détresse respiratoire (support ventilatoire, gestion des voies aériennes supérieures).",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements recommandés pour les infections respiratoires aiguës basses avec signes de gravité chez l'adulte?",
+    "answer": "Le traitement recommandé inclut une céphalosporine de 3e génération injectable associée d'emblée à un macrolide (ou à un nitro-imidazolé en cas d'inhalation).",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements recommandés en cas d'échec du traitement initial des infections respiratoires aiguës basses?",
+    "answer": "En cas d'échec du traitement initial, il est recommandé de suspecter une tuberculose, de réévaluer les facteurs de risques (conditions environnementales, terrain) faisant suspecter un pathogène particulier, et d'évoquer une pneumocystose chez le sujet porteur d'une quelconque forme d'immunodépression.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les traitements recommandés pour les surinfections des bronchites chroniques?",
+    "answer": "Les traitements recommandés incluent l'amoxicilline ou la céphalosporine de 2e génération (cefpodoxime-proxétil) ou le macrolide ou la pristinamycine en cas de dyspnée d'effort et d'expectoration purulente, l'amoxicilline-acide clavulanique per os ou la céphalosporine de 3e génération parentérale (céfotaxime IV ou ceftriaxone IM) ou la fluoroquinolone anti-pneumococcique per os (lévofloxacine) en cas de dyspnée de repos, et la durée du traitement est de 5 à 10 jours selon l'antibiotique utilisé.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les signes cliniques de gravité au cours d'une exacerbation de BPCO?",
+    "answer": "Les signes cliniques de gravité incluent la dyspnée de repos, la cyanose, la polypnée > 25/mn, la respiration abdominale et/ou par muscles respiratoires accessoires, la tachycardie > 110/mn, l'hypotension, les marbrures, les œdèmes des membres inférieurs, les troubles du rythme, l'agitation, la confusion, l'obnubilation, l'astérixis et le coma.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les facteurs favorisant la fréquence et/ou la gravité de la pneumonie à pneumocoque?",
+    "answer": "Les facteurs favorisant incluent les infections virales lésant l'appareil ciliaire, le tabagisme, les obstacles bronchiques (BPCO, cancers), les fausses routes, les âges extrêmes de la vie, le diabète, l'infection par le VIH (CD4 < 200/mm3), l'alcoolisme, les insuffisances rénale et hépatique, la splénectomie et l'asplénie fonctionnelle de la drépanocytose, la neutropénie et le déficit en complément.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les critères de gravité des infections respiratoires aiguës basses (IRAb) ?",
+    "answer": "Les critères de gravité des IRAb incluent l'atteinte de plusieurs lobes, d'autres organes que le poumon, une leucopénie, une forte hyperleucocytose, des hémocultures positives (surtout au cours du VIH-SIDA) et le retard à la prise en charge.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les traitements recommandés pour une pneumonie à pneumocoques au niveau 2 et 3 ?",
+    "answer": "Au niveau 2 et 3, le traitement recommandé pour une pneumonie à pneumocoques est l'amoxicilline 1 g x 3/j chez l'adulte durant 5 à 7 jours. En cas de souche de sensibilité diminuée à la pénicilline, la ceftriaxone IM (50 mg/kg/jour) sans dépasser 2 g/j durant 10 jours est utilisée.",
+    "qtype": "traitement"
+  }
+]

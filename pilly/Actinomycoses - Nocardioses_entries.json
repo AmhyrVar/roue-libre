@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les facteurs favorisants des actinomycoses?",
+        "answer": "Le diabète, la malnutrition et l’immunosuppression sont des facteurs favorisants des actinomycoses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'espèce d'actinomycète la plus fréquente?",
+        "answer": "Actinomyces israelii est l’espèce de loin la plus fréquente.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les sites de développement des actinomycètes?",
+        "answer": "Les actinomycètes se développent par contiguité dans les tissus profonds à la faveur d’une lésion muqueuse (endo-buccale, œsophagienne, colique, génitale).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose cervico-faciale?",
+        "answer": "Elle se manifeste par un processus inflammatoire d’évolution progressive, d’aspect ligneux, infiltrant et de siège sous-mandibulaire, cervical ou facial.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les complications de l'actinomycose cervico-faciale?",
+        "answer": "Les complications sont les suivantes : ostéite mandibulaire, spondylite cervicale et extension cérébrale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se manifeste l'actinomycose abdominale?",
+        "answer": "Les signes cliniques sont aspécifiques : douleurs abdominales, fièvre, trouble du transit ou masse perceptible.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose thoracique?",
+        "answer": "Les signes cliniques et radiologiques peuvent faire évoquer une néoplasie ou une tuberculose pulmonaire.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la cause de l'actinomycose pelvienne?",
+        "answer": "Elle est soit secondaire à une localisation péritonéale, soit consécutive à la mise en place d’un dispositif intra-utérin (plusieurs mois après sa mise en place).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait le diagnostic microbiologique des actinomycètes?",
+        "answer": "L’étude histologique montre typiquement des filaments palissadiques et des grains sulfure au sein d’un follicule actinomycosique peu vascularisé, siège d’une intense fibrose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de choix pour les actinomycoses?",
+        "answer": "L’amoxicilline (6-12 g/j IV) pendant 4-6 semaines, puis 3-6 g/j per os pendant au moins 3 mois, est le traitement de choix.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques peuvent être utilisés en cas d’intolérance aux pénicillines pour traiter les actinomycoses?",
+        "answer": "Les macrolides, la clindamycine, les synergistines et les cyclines et l’imipénème peuvent être utilisés en cas d’intolérance aux pénicillines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques ne sont pas recommandés pour traiter les actinomycoses?",
+        "answer": "Le métronidazole, les fluoroquinolones, le cotrimoxazole et l’oxacilline ne sont pas recommandés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de la culture pour diagnostiquer les actinomycètes?",
+        "answer": "Le délai de pousse est de 2 à 3 semaines.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il important de prévenir le microbiologiste en cas de suspicion d’infection à Actinomycetes?",
+        "answer": "Il est recommandé de prévenir le microbiologiste de façon à ce que les prélèvements soient maintenus en culture plus longtemps.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose pelvienne?",
+        "answer": "Le tableau clinique est celui d’une maladie inflammatoire pelvienne, d’un abcès pelvien ou encore d’une fibrose rétro-péritonéale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose thoracique?",
+        "answer": "Les signes cliniques et radiologiques peuvent faire évoquer une néoplasie ou une tuberculose pulmonaire.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose abdominale?",
+        "answer": "Les signes cliniques sont aspécifiques : douleurs abdominales, fièvre, trouble du transit ou masse perceptible.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose cervico-faciale?",
+        "answer": "Elle se manifeste par un processus inflammatoire d’évolution progressive, d’aspect ligneux, infiltrant et de siège sous-mandibulaire, cervical ou facial.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les facteurs favorisants des actinomycoses?",
+        "answer": "Le diabète, la malnutrition et l’immunosuppression sont des facteurs favorisants des actinomycoses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'espèce d'actinomycète la plus fréquente?",
+        "answer": "Actinomyces israelii est l’espèce de loin la plus fréquente.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les sites de développement des actinomycètes?",
+        "answer": "Les actinomycètes se développent par contiguité dans les tissus profonds à la faveur d’une lésion muqueuse (endo-buccale, œsophagienne, colique, génitale).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose cervico-faciale?",
+        "answer": "Elle se manifeste par un processus inflammatoire d’évolution progressive, d’aspect ligneux, infiltrant et de siège sous-mandibulaire, cervical ou facial.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les complications de l'actinomycose cervico-faciale?",
+        "answer": "Les complications sont les suivantes : ostéite mandibulaire, spondylite cervicale et extension cérébrale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se manifeste l'actinomycose abdominale?",
+        "answer": "Les signes cliniques sont aspécifiques : douleurs abdominales, fièvre, trouble du transit ou masse perceptible.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'actinomycose thoracique?",
+        "answer": "Les signes cliniques et radiologiques peuvent faire évoquer une néoplasie ou une tuberculose pulmonaire.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la cause de l'actinomycose pelvienne?",
+        "answer": "Elle est soit secondaire à une localisation péritonéale, soit consécutive à la mise en place d’un dispositif intra-utérin (plusieurs mois après sa mise en place).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait le diagnostic microbiologique des actinomycètes?",
+        "answer": "L’étude histologique montre typiquement des filaments palissadiques et des grains sulfure au sein d’un follicule actinomycosique peu vascularisé, siège d’une intense fibrose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de choix pour les actinomycoses?",
+        "answer": "L’amoxicilline (6-12 g/j IV) pendant 4-6 semaines, puis 3-6 g/j per os pendant au moins 3 mois, est le traitement de choix.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques peuvent être utilisés en cas d’intolérance aux pénicillines pour traiter les actinomycoses?",
+        "answer": "Les macrolides, la clindamycine, les synergistines et les cyclines et l’imipénème peuvent être utilisés en cas d’intolérance aux pénicillines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques ne sont pas recommandés pour traiter les actinomycoses?",
+        "answer": "Le métronidazole, les fluoroquinolones, le cotrimoxazole et l’oxacilline ne sont pas recommandés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les patients les plus à risque de nocardiose?",
+        "answer": "Les patients immunodéprimés, en particulier ceux vivant avec le VIH et ayant un nombre de lymphocytes CD4 < 100/µL, sont les plus à risque de nocardiose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la porte d'entrée la plus fréquente de la nocardiose?",
+        "answer": "La porte d'entrée la plus fréquente de la nocardiose est aérienne, pulmonaire, mais elle peut aussi être cutanée par inoculation directe.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la forme pulmonaire de la nocardiose?",
+        "answer": "Les signes cliniques de la forme pulmonaire de la nocardiose incluent fièvre, sueur, asthénie, toux chronique, expectoration muco-purulente et douleur thoracique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de la nocardiose pulmonaire?",
+        "answer": "Les diagnostics différentiels de la nocardiose pulmonaire sont principalement les pneumonies aiguës communautaires et la tuberculose pulmonaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est l'évolution de la nocardiose pulmonaire sans traitement?",
+        "answer": "L'évolution de la nocardiose pulmonaire sans traitement reste grave et seul le traitement précoce peut permettre la régression des lésions.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme cérébro-méningée de la nocardiose?",
+        "answer": "Les symptômes de la forme cérébro-méningée de la nocardiose incluent fièvre, céphalées, crises comitiales et déficits neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se présente la nocardiose cutanée chez les sujets non immunodéprimés?",
+        "answer": "Chez les sujets non immunodéprimés, la nocardiose cutanée se présente sous forme de pyodermite, d'abcès sous-cutané, voire de cellulite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment est définie la nocardiose disséminée?",
+        "answer": "La nocardiose disséminée est définie par l'atteinte d'au moins deux organes non contigus.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels organes peuvent être atteints par la nocardiose disséminée?",
+        "answer": "Les organes pouvant être atteints par la nocardiose disséminée incluent les poumons, l'encéphale, la peau, l'œil, l'endocarde, le muscle et les testicules.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quand doit-on évoquer la nocardiose dans le diagnostic?",
+        "answer": "La nocardiose doit être évoquée devant une pneumopathie chronique de l'immunodéprimé qui ne fait pas sa preuve ou devant une infection plurifocale, pulmonaire, neuro-méningée et/ou cutanée.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens peuvent mettre en évidence les Nocardia?",
+        "answer": "L'examen direct des expectorations et des pus peut mettre en évidence des bactéries filamenteuses à Gram positif, partiellement acido-alcoolo-résistantes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait la confirmation bactériologique de la nocardiose?",
+        "answer": "La confirmation bactériologique de la nocardiose se fait par culture des expectorations, lavages bronchiques, ponction pleurale, biopsie pulmonaire et pus d'abcès.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement probabiliste le plus habituel de la nocardiose?",
+        "answer": "Le traitement probabiliste le plus habituel de la nocardiose est l'association imipenem + amikacine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de choix des nocardioses pulmonaires non graves ou des formes cutanées?",
+        "answer": "Le cotrimoxazole est le traitement de choix des nocardioses pulmonaires non graves ou des formes cutanées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est une alternative au cotrimoxazole pour le traitement de la nocardiose?",
+        "answer": "Le linézolide est une alternative au cotrimoxazole pour le traitement de la nocardiose, bien que ses indications soient limitées par la durée du traitement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand une bithérapie ou une trithérapie est-elle indiquée dans le traitement de la nocardiose?",
+        "answer": "Une bithérapie voire une trithérapie est indiquée dans les formes graves et/ou disséminées et/ou avec localisation cérébrale de la nocardiose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les piliers des associations thérapeutiques pour les formes graves de nocardiose?",
+        "answer": "Les piliers des associations thérapeutiques pour les formes graves de nocardiose sont les β-lactamines (cefotaxime, cefriaxone, imipénem), l’amikacine et le cotrimoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée minimale de traitement pour les formes cutanées de nocardiose?",
+        "answer": "Les formes cutanées de nocardiose sont traitées au minimum pendant 3 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement pour les formes pulmonaires ou disséminées de nocardiose?",
+        "answer": "Les formes pulmonaires ou disséminées de nocardiose sont traitées pendant 6 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement pour les atteintes du système nerveux central par la nocardiose?",
+        "answer": "Les atteintes du système nerveux central par la nocardiose sont traitées pendant 12 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "De quoi dépendent les chances de guérison de la nocardiose?",
+        "answer": "Les chances de guérison de la nocardiose dépendent de la rapidité de mise en œuvre du traitement.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quel est le taux de létalité global de la nocardiose?",
+        "answer": "La létalité globale de la nocardiose reste élevée.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les aspects radiologiques de la nocardiose pulmonaire?",
+        "answer": "Les aspects radiologiques de la nocardiose pulmonaire incluent infiltrats localisés, condensations, images cavitaires et épanchement pleural.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques de l'imagerie cérébrale dans la nocardiose cérébro-méningée?",
+        "answer": "L'imagerie cérébrale dans la nocardiose cérébro-méningée montre des abcès multiples, confluents.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques du LCR dans les méningites à Nocardia?",
+        "answer": "Les méningites à Nocardia peuvent montrer une pléiocytose à prédominance neutrophile avec hyperprotéinorachie et hypoglycorachie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la durée de culture nécessaire pour la confirmation bactériologique de la nocardiose?",
+        "answer": "Les cultures pour la confirmation bactériologique de la nocardiose doivent être gardées pendant 3 semaines.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'apport des techniques de biologie moléculaire dans le diagnostic de la nocardiose?",
+        "answer": "Les techniques de biologie moléculaire (ARN16S) constituent un apport pour le diagnostic d'espèce à partir des prélèvements pathologiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il important d'adresser les souches de Nocardia à un laboratoire de référence?",
+        "answer": "Il est important d'adresser les souches de Nocardia à un laboratoire de référence pour identification et antibiogramme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la nocardiose cutanée disséminée chez l'immunodéprimé?",
+        "answer": "Les localisations cutanées des formes disséminées de nocardiose chez l'immunodéprimé sont plutôt rares.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la nocardiose cutanée primitive?",
+        "answer": "Les signes cliniques de la nocardiose cutanée primitive incluent pyodermite, abcès sous-cutané et cellulite.",
+        "qtype": "symptômes"
+    }
+]

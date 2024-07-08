@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les groupes zoologiques responsables d'accidents d'envenimation?",
+        "answer": "Les groupes zoologiques responsables d'accidents d'envenimation sont les insectes, les serpents, les scorpions, les araignées et la faune marine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la proportion des accidents d'envenimation causés par les insectes?",
+        "answer": "Les insectes sont responsables de 80% des accidents d'envenimation.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome vipérin?",
+        "answer": "Le syndrome vipérin est caractérisé par une violente douleur, un œdème dur et extensif, une ecchymose locale, une lymphangite, des adénopathies satellites, de la fièvre et une hyperleucocytose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux composants du venin responsables des syndromes hémorragiques?",
+        "answer": "Les principaux composants du venin responsables des syndromes hémorragiques sont les métalloprotéases, les activateurs de la coagulation sanguine et les activateurs de la plasmine.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques des troubles de la coagulation après une morsure de vipère?",
+        "answer": "Les signes cliniques des troubles de la coagulation après une morsure de vipère incluent des saignements locaux prolongés, un purpura, des saignements au niveau des cicatrices récentes ou des muqueuses, et des phlyctènes volumineuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome cobraïque?",
+        "answer": "Le syndrome cobraïque se manifeste par une anesthésie locale, des paresthésies, une paralysie flasque progressive, des acouphènes, des phosphènes, une dysgueusie, une ptôse palpébrale bilatérale, une paralysie des masséters, une dysphonie et une dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques pour la douleur causée par une envenimation?",
+        "answer": "Les traitements symptomatiques pour la douleur causée par une envenimation incluent des antalgiques comme le paracétamol, la codéine, le tramadol et les morphiniques. En cas de persistance de la douleur, une anesthésie loco-régionale peut être envisagée.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques associés à l'utilisation d'anti-inflammatoires en cas d'envenimation?",
+        "answer": "Les anti-inflammatoires sont peu efficaces et peuvent aggraver le syndrome hémorragique. Les anti-inflammatoires stéroïdiens sont contre-indiqués, et l'abstention est préférable.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux sérums anti-ophidiens polyvalents pour l'Afrique subsaharienne?",
+        "answer": "Les principaux sérums anti-ophidiens polyvalents pour l'Afrique subsaharienne sont le SAIMR Polyvalent Antivenom® et l'Inoserp Panafricain®.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome muscarinique observé après une morsure de mamba?",
+        "answer": "Les symptômes du syndrome muscarinique incluent des sueurs abondantes, une sialorrhée, un larmoiement, un myosis, des douleurs abdominales, de la diarrhée et des vomissements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une projection de venin dans l'œil?",
+        "answer": "La projection de venin dans l'œil provoque une hyperhémie conjonctivale persistante, un chémosis, une douleur intense et une photophobie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements substitutifs en cas d'envenimation?",
+        "answer": "Les traitements substitutifs incluent la transfusion sanguine, l'administration de plasma frais congelé, de plaquettes ou de culots d'hématies, et de fibrinogène. Ils sont contre-indiqués tant que l'immunothérapie n'a pas neutralisé le venin.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par scorpions?",
+        "answer": "Les symptômes d'une envenimation par scorpions incluent une douleur immédiate et intense, une ecchymose, un œdème discret, une hyperglycémie et une hyperleucocytose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les stades cliniques de l'envenimation par scorpions?",
+        "answer": "Selon les auteurs, on distingue 3 ou 4 stades cliniques de l'envenimation par scorpions. La période critique se situe entre la troisième et la douzième heure.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques associés aux complications cardiovasculaires après une piqûre de scorpion?",
+        "answer": "Les complications cardiovasculaires semblent plus fréquentes avec les scorpions de l'ancien monde (Androctonus, Leiurus, Buthus) et ceux d'Amérique du Sud (Tityus).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques associés aux complications neurologiques après une piqûre de scorpion?",
+        "answer": "Avec les espèces d'Amérique du Nord (Centruroides), les complications neurologiques telles que l'agitation et les convulsions sont à redouter.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par élapidés marins?",
+        "answer": "Les symptômes d'une envenimation par élapidés marins incluent des myalgies, une myoglobinurie massive, une élévation des CPK et une insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par vipéridés?",
+        "answer": "Les symptômes d'une envenimation par vipéridés incluent une douleur violente, un œdème dur et extensif, une ecchymose locale, une lymphangite, des adénopathies satellites, de la fièvre et une hyperleucocytose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par Atractaspis?",
+        "answer": "Les symptômes d'une envenimation par Atractaspis incluent une inflammation, des hémorragies, une nécrose et une cardiotoxicité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par cobras?",
+        "answer": "Les symptômes d'une envenimation par cobras incluent une neurotoxicité, une inflammation, une nécrose et, exceptionnellement, des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par mambas?",
+        "answer": "Les symptômes d'une envenimation par mambas incluent une neurotoxicité et un syndrome muscarinique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par serpents corail?",
+        "answer": "Les symptômes d'une envenimation par serpents corail incluent une neurotoxicité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par serpents marins?",
+        "answer": "Les symptômes d'une envenimation par serpents marins incluent une neurotoxicité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par crotales?",
+        "answer": "Les symptômes d'une envenimation par crotales incluent une inflammation, des hémorragies, une nécrose et une neurotoxicité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par vipères?",
+        "answer": "Les symptômes d'une envenimation par vipères incluent une inflammation, des hémorragies, une nécrose et une neurotoxicité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par bongares?",
+        "answer": "Les symptômes d'une envenimation par bongares incluent des myalgies, une myoglobinurie massive et une insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par élapidés australiens?",
+        "answer": "Les symptômes d'une envenimation par élapidés australiens incluent des hémorragies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par crotales américains?",
+        "answer": "Les symptômes d'une envenimation par crotales américains incluent des myalgies, une myoglobinurie massive et une insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par scorpions de l'ancien monde?",
+        "answer": "Les symptômes d'une envenimation par scorpions de l'ancien monde incluent des complications cardiovasculaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l'envenimation locale par scorpion (stade I) ?",
+        "answer": "Douleur, ecchymose et œdème discrets.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation locale par scorpion (stade I) ?",
+        "answer": "Antalgique, désinfection locale et surveillance constante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l'envenimation bénigne par scorpion (stade II) ?",
+        "answer": "Douleur locale, agitation, fébricule, sueurs, nausées, variations de la pression artérielle dans les limites de la normale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation bénigne par scorpion (stade II) ?",
+        "answer": "Antalgique, désinfection locale, surveillance constante, traitement symptomatique et administration d’un antivenin à envisager surtout chez le jeune enfant.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l'envenimation grave par scorpion (stade III) ?",
+        "answer": "Douleur locale, syndrome muscarinique (sueurs, sialorrhée, vomissements, diarrhée, douleur épigastrique, bradycardie, encombrement pulmonaire), priapisme, hypotension, dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation grave par scorpion (stade III) ?",
+        "answer": "Antalgique, désinfection locale, surveillance constante, traitement symptomatique et administration d’un antivenin fortement recommandée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l'envenimation mettant en jeu le pronostic vital par scorpion (stade IV) ?",
+        "answer": "Collapsus cardiovasculaire, œdème aigu des poumons, insuffisance cardiaque gauche avec réduction de la fraction d’éjection systolique, troubles de la conscience.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation mettant en jeu le pronostic vital par scorpion (stade IV) ?",
+        "answer": "Antalgique, désinfection locale, surveillance constante, traitement symptomatique, réanimation et soins intensifs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le délai de réponse au traitement par antivenin pour une envenimation scorpionique ?",
+        "answer": "La réponse au traitement est rapide (< 30 minutes, disparition des signes en 4 heures environ).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux sérums anti-scorpioniques disponibles pour le Maghreb et le Moyen-Orient ?",
+        "answer": "Polyvalent Scorpion Antivenom® et Inoscorpi®.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la morsure de Latrodectus (veuve noire) ?",
+        "answer": "Douleur croissante, agitation, convulsions, réactions psychiques (hallucinations, confusion, psychose), dyspnée, syndrome muscarinique (sialorrhée, hypersudation, nausées, vomissements, douleur épigastrique, troubles de la déglutition).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement symptomatique pour la morsure de Latrodectus (veuve noire) ?",
+        "answer": "Myorelaxants centraux (méthocarbamol), benzodiazépines, analgésie par opiacés en cas de douleurs violentes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la morsure de Loxosceles ?",
+        "answer": "Œdème, érythème, douleur tardive, œdème induré, zone ecchymotique, rash cutané, fièvre, céphalées, nécrose cutanée extensive, hémolyse intravasculaire, ictère, oligurie, hémoglobinurie, état de choc, insuffisance rénale aiguë, rhabdomyolyse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement symptomatique pour la morsure de Loxosceles ?",
+        "answer": "Désinfection locale, corticoïdes ou dapsone, chirurgie une fois la nécrose stabilisée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par Lonomia ?",
+        "answer": "Douleur au contact, ecchymoses, syndrome hémorragique systémique, insuffisance rénale, hémorragies cérébrales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par Lonomia ?",
+        "answer": "Aprotinine et acide-aminocaproïque (controversé), traitements substitutifs inefficaces, sérum anti Lonomia efficace s’il est administré précocement (moins de 48 heures).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par poisson-pierre ?",
+        "answer": "Douleur immédiate et intense, plaie pâle et insensible entourée d’une zone ecchymotique hyper algique, œdème rapide, vertiges, malaise général, syndrome vagal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par poisson-pierre ?",
+        "answer": "Choc thermique (chauffage puis application de froid), antivenin Stonefish Antivenom® (difficile à se procurer et cher).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par méduse ?",
+        "answer": "Décharge électrique, brûlure persistante, érythème immédiat, phlyctènes, nécrose, cicatrisation de mauvaise qualité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par méduse ?",
+        "answer": "Enlever les tentacules, rinçage à l’eau de mer, saupoudrage de sable sec, raclage délicat, désinfection, traitement local par topique cicatrisant, antivenin CSL Box jellyfish antivenom® en Australie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par cône ?",
+        "answer": "Lésion punctiforme, érythème, ecchymose, œdème local, paresthésie locale, incoordination motrice, paralysie progressive, paralysie diaphragmatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par cône ?",
+        "answer": "Traitement symptomatique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par scorpion ?",
+        "answer": "Douleur, œdème, agitation, fébricule, sueurs, nausées, variations de la pression artérielle, syndrome muscarinique, priapisme, hypotension, dyspnée, collapsus cardiovasculaire, œdème aigu des poumons, insuffisance cardiaque, troubles de la conscience.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par scorpion ?",
+        "answer": "Antalgique, désinfection locale, surveillance constante, traitement symptomatique, administration d’antivenin, réanimation et soins intensifs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par araignée ?",
+        "answer": "Douleur croissante, agitation, convulsions, réactions psychiques, dyspnée, syndrome muscarinique, œdème, érythème, nécrose cutanée, hémolyse intravasculaire, ictère, oligurie, hémoglobinurie, état de choc, insuffisance rénale aiguë, rhabdomyolyse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par araignée ?",
+        "answer": "Myorelaxants centraux, benzodiazépines, analgésie par opiacés, désinfection locale, corticoïdes ou dapsone, chirurgie, antivenin.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par insecte ?",
+        "answer": "Érythème, urticaire, chute de la pression artérielle, tachycardie, dysphagie, toux, dyspnée, défaillance multiviscérale, arrêt circulatoire, spasme bronchique, œdème aigu du poumon, insuffisance rénale aiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par insecte ?",
+        "answer": "Adrénaline, antihistaminiques, glucocorticoïdes, diurèse, surveillance de l’équilibre électrolytique, antivenin en développement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une envenimation par faune marine ?",
+        "answer": "Douleur intense, plaie pâle et insensible, zone ecchymotique, œdème, vertiges, malaise général, syndrome vagal, érythème, phlyctènes, nécrose, cicatrisation de mauvaise qualité, paresthésie, incoordination motrice, paralysie progressive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une envenimation par faune marine ?",
+        "answer": "Choc thermique, rinçage à l’eau de mer, saupoudrage de sable sec, raclage délicat, désinfection, traitement local par topique cicatrisant, antivenin.",
+        "qtype": "traitement"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quels sont les symptômes d'une méningo-encéphalite?",
+        "answer": "Les symptômes incluent des troubles du comportement, confusion, troubles de conscience allant de l’obnubilation au coma, comitialité, signes de focalisation variés (déficit moteur, sensitif, atteinte de paires crâniennes, aphasie), et une irritation méningée (céphalées, raideur de nuque, photo-phono-phobie).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de gravité d'une méningo-encéphalite?",
+        "answer": "Les signes de gravité incluent des signes de mauvaise tolérance hémodynamique (hypotension, signes de souffrance d’organe) et des signes neurologiques d’alarme (état de mal convulsif, coma, engagement cérébral).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens permettent d'éliminer les diagnostics différentiels d'une méningo-encéphalite?",
+        "answer": "Les examens incluent la ponction lombaire, l’imagerie cérébrale (scanner ou IRM), les tests rapides et frottis sanguins pour le paludisme, les hémocultures et/ou coprocultures pour la fièvre typhoïde, et des examens pour éliminer les causes non infectieuses d’encéphalopathie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux virus responsables de méningo-encéphalites?",
+        "answer": "Les principaux virus incluent les virus du groupe Herpès (HSV, VZV, EBV, CMV, HHV6), entérovirus, rougeole, oreillons, rubéole, VIH, grippe, arbovirus (Tick Born Encephalitis, fièvre de la vallée du Rift, West-Nile, dengue, Toscana, encéphalite japonaise), fièvres hémorragiques (Lassa, Ebola, Marburg), et rage.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents bactériens responsables de méningo-encéphalites?",
+        "answer": "Les principaux agents bactériens incluent la tuberculose, listériose, rickettsioses, syphilis, brucelloses, leptospiroses, borrélioses, Chlamydia, Mycoplasma, Nocardia, et Actinomyces.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels parasites peuvent causer des méningo-encéphalites?",
+        "answer": "Les parasites incluent Trypanosoma gambiense, T. rhodesiense, T. cruzi, Toxoplasma gondii, Taenia solium, Echinococcus, Entamoeba histolytica, Naegleria, Acanthamoeba, Strongyloides stercoralis, Loa-loa, Toxocara, et Schistosoma.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux champignons responsables de méningo-encéphalites?",
+        "answer": "Les principaux champignons incluent Cryptococcus, Histoplasma, Aspergillus, et Mucor.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels antécédents doivent être recherchés lors de l'interrogatoire d'un patient suspecté de méningo-encéphalite?",
+        "answer": "Les antécédents incluent le VIH, diabète, éthylisme, autres causes d’immunodépression, notion de contage (contexte épidémique, piqûre d’insectes, contact avec des animaux, contage tuberculeux, exposition sexuelle à risque), et l’évolution des symptômes (brutale ou progressive).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels signes neurologiques peuvent orienter le diagnostic d'une méningo-encéphalite?",
+        "answer": "Les signes neurologiques incluent les hallucinations de l’encéphalite herpétique, atteinte des paires crâniennes dans la tuberculose et la listériose, et l’hydrophobie caractéristique de la rage.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels signes extra-neurologiques peuvent accompagner une méningo-encéphalite?",
+        "answer": "Les signes extra-neurologiques incluent une éruption cutanée (rougeole, rubéole, VZV, arboviroses, cryptococcose, histoplasmose), adénopathies (infection VIH, trypanosomoses, chikungunya, zika, tuberculose), atteinte pulmonaire (mycoplasme, tuberculose, cryptococcose), et altération de l’état général (tuberculose, SIDA).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite bactérienne?",
+        "answer": "L'analyse du LCR montre un LCR puriforme avec prédominance de PNN.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite virale?",
+        "answer": "L'analyse du LCR montre un LCR lymphocytaire avec glycorachie normale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques de l'analyse du LCR pour une méningo-encéphalite tuberculeuse?",
+        "answer": "L'analyse du LCR montre un LCR lymphocytaire avec glycorachie basse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens complémentaires sont demandés pour le diagnostic d'une méningo-encéphalite?",
+        "answer": "Les examens complémentaires incluent l’hémogramme, les fonctions rénale et hépatique, les hémocultures, et des sérologies (VIH systématique et autres selon le contexte).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'encéphalite herpétique?",
+        "answer": "Les signes cliniques incluent confusion, hallucinations, aphasie, atteinte des lobes temporaux, et glycorachie le plus souvent normale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'encéphalite à VZV?",
+        "answer": "Les signes cliniques incluent confusion, signe de focalisation, et éruption vésiculaire inconstamment présente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la tuberculose cérébrale?",
+        "answer": "Les signes cliniques incluent un tableau progressif, contage, atteinte pulmonaire associée, terrain (VIH++), et tuberculomes cérébraux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques des trypanosomoses africaines?",
+        "answer": "Les signes cliniques incluent un contexte épidémiologique, fièvre persistante, adénopathies, et hyperprotéinorachie modérée constituée d’au moins 10 % d’IgM.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la listériose?",
+        "answer": "Les signes cliniques incluent rhombencéphalite (paralysie des nerfs crâniens, notamment paralysie oculo-motrice), terrain fragile (éthylique, corticothérapie, sujet âgé, immunodépression), et glycorachie normale ou basse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la cryptococcose neuroméningée?",
+        "answer": "Les signes cliniques incluent atteinte respiratoire associée, hypertension intra-crânienne, et présence de levures à l’encre de Chine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la syphilis neuroméningée?",
+        "answer": "Les signes cliniques incluent des manifestations neurologiques variées, souvent associées à d'autres signes cliniques spécifiques de la syphilis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la brucellose neuroméningée?",
+        "answer": "Les signes cliniques incluent des manifestations neurologiques variées, souvent associées à d'autres signes cliniques spécifiques de la brucellose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'encéphalite grippale?",
+        "answer": "Les signes cliniques incluent des manifestations neurologiques variées, souvent associées à d'autres signes cliniques spécifiques de la grippe.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'encéphalite à Mycoplasma pneumoniae?",
+        "answer": "Les signes cliniques incluent des manifestations neurologiques variées, souvent associées à d'autres signes cliniques spécifiques de l'infection à Mycoplasma pneumoniae.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques pour l'encéphalite herpétique?",
+        "answer": "Le traitement spécifique repose sur l'administration d'antiviraux, principalement l'acyclovir.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques pour l'encéphalite à VZV?",
+        "answer": "Le traitement spécifique repose sur l'administration d'antiviraux, principalement l'acyclovir ou le valacyclovir.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques pour la tuberculose cérébrale?",
+        "answer": "Le traitement spécifique repose sur l'administration d'antituberculeux, souvent en association avec des corticostéroïdes.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques pour les trypanosomoses africaines?",
+        "answer": "Le traitement spécifique repose sur l'administration d'antiparasitaires, tels que la pentamidine ou le suramine pour T. gambiense, et le melarsoprol pour T. rhodesiense.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques pour la listériose?",
+        "answer": "Le traitement spécifique repose sur l'administration d'antibiotiques, principalement l'ampicilline ou l'amoxicilline, souvent en association avec un aminoglycoside.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques pour la cryptococcose neuroméningée?",
+        "answer": "Le traitement spécifique repose sur l'administration d'antifongiques, principalement l'amphotéricine B en association avec le flucytosine, suivi de fluconazole.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une méningo-encéphalite en l'absence de moyens diagnostiques dans un centre périphérique?",
+        "answer": "Le traitement anti-infectieux empirique recommandé comprend : ceftriaxone IV (100 mg/kg/j chez l’enfant, 2 g/j chez l’adulte) pour une durée de 5 jours (7 jours chez l’enfant de moins de 2 ans); artésunate IV ou à défaut quinine IV (dose de charge de 16 mg/kg puis 8 mg/kg/8 h dans sérum glucosé) pour une durée de 7 jours en cas de test de diagnostic rapide du paludisme positif; aciclovir IV (10 mg/kg/8 h en perfusion sur une heure) pour HSV et VZV; amoxicilline IV (200 mg/kg/j en 6 injections) pour la listériose neuro-méningée.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques à rechercher en structure de niveau 2 ou 3 pour diagnostiquer une méningo-encéphalite?",
+        "answer": "En structure de niveau 2 ou 3, la démarche diagnostique comprend : interrogatoire; examen clinique (signes neurologiques et extra-neurologiques d’orientation); ponction lombaire; examens biologiques (dont hémocultures, recherche de paludisme, sérologie VIH); imagerie (cérébrale/pulmonaire en fonction du contexte).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'encéphalite herpétique?",
+        "answer": "Le traitement de l'encéphalite herpétique repose sur l’aciclovir à la dose de 10 mg/kg/8 heures en perfusion lente, pour une durée de 14 jours chez l’immunocompétent (21 jours si immunodéprimé).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une encéphalite à VZV?",
+        "answer": "Le traitement de l'encéphalite à VZV repose sur l’aciclovir à la dose de 15 mg/kg/8 heures en perfusion lente, pour une durée de 14 jours.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement de l'encéphalite listerienne?",
+        "answer": "Le traitement de l'encéphalite listerienne comprend l’amoxicilline IV (200 mg/kg/j en 6 injections) pendant 21 jours, associée à la gentamicine (5 mg/kg/jour) pendant 5 jours. Le trimethoprime/sulfaméthoxazole est une alternative.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Que faire en l'absence de documentation disponible pour une méningo-encéphalite?",
+        "answer": "En l'absence de documentation disponible, la PCR HSV sur LCS a une bonne valeur prédictive négative si elle est prélevée au delà de 4 jours suivant le début des symptômes. L’aciclovir peut alors être arrêté. En l’absence de terrain à risque, et à la réception des hémocultures et de la culture du LCS négative pour Listeria monocytogenes, voire d’une PCR négative sur LCS, l’amoxicilline peut être arrêtée. Un traitement antituberculeux peut être discuté selon les facteurs de risque du patient (immunodépression, zone d’endémie...).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Comment prévenir l'encéphalite herpétique?",
+        "answer": "L’encéphalite herpétique ne peut être prévenue en l’absence à ce jour de facteur de risque de survenue clairement identifié et d’un vaccin contre l’HSV.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention pour les maladies virales pouvant se compliquer d'encéphalite?",
+        "answer": "Les maladies virales cosmopolites (poliomyélite, rougeole, oreillons, rubéole, grippe, varicelle) pouvant se compliquer d’encéphalite ou de méningo-encéphalite devraient être évitées par les vaccinations selon les schémas habituels.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Comment prévenir l'encéphalite rabique?",
+        "answer": "L’encéphalite rabique est évitable par la vaccination précoce post-exposition après effraction cutanée ou contact muqueux avec de la salive infectante d’un animal enragé (carnivore ou chauve-souris).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation de l'OMS concernant l'encéphalite japonaise?",
+        "answer": "L’OMS recommande d’intégrer l’encéphalite japonaise dans les calendriers vaccinaux des pays endémiques d’Asie, du Pacifique et de l’Océanie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation concernant la vaccination contre la dengue?",
+        "answer": "La vaccination contre la dengue peut être envisagée avec le seul vaccin actuellement disponible chez des patients avec antécédent de dengue (séropositifs) dans des pays avec une épidémiologie marquée par l’infection et ayant à disposition des tests sérologiques performants (spécificité).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles mesures de protection individuelle sont recommandées dans les régions où sévissent des infections transmissibles par des vecteurs?",
+        "answer": "Dans les régions où sévissent des infections transmissibles par des vecteurs, l’emploi individuel de répulsifs cutanés et vestimentaires ainsi que l’épandage d’insecticides ne peuvent se concevoir que pendant des phases épidémiques. Sur le long terme, il vaut mieux privilégier l’hygiène corporelle et alimentaire, une modification des comportements et un respect de l’environnement.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les recommandations aux voyageurs pour prévenir la méningo-encéphalite?",
+        "answer": "Les recommandations aux voyageurs incluent : partir bien vacciné contre les maladies infectieuses, cosmopolites et tropicales; protection personnelle antivectorielle (répulsifs cutanés et vestimentaires, vêtements couvrants, moustiquaire); observance de règles d’hygiène corporelle et alimentaire; choix raisonné des lieux de séjour; éloignement des animaux mordeurs; absence de comportement sexuel à risque.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Que faire en cas de survenue de manifestations neuropsychiques accompagnées de fièvre après un voyage?",
+        "answer": "En cas de survenue de manifestations neuropsychiques accompagnées de fièvre, le patient ou son entourage doivent porter à la connaissance du médecin l’antécédent du voyage et son contexte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques associés au traitement étiologique d'une méningo-encéphalite?",
+        "answer": "Les mesures symptomatiques associées au traitement étiologique comprennent : équilibre hydro-électrolytique, maintien des fonctions cardiorespiratoires, traitement des crises convulsives et de l'hypertension intracrânienne.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes de gravité immédiate à rechercher en cas de méningo-encéphalite?",
+        "answer": "Les signes de gravité immédiate à rechercher sont : purpura, signes de localisation, coma.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé en cas de méningite bactérienne?",
+        "answer": "Le traitement recommandé en cas de méningite bactérienne est la ceftriaxone IV.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement recommandé en cas de test de diagnostic rapide du paludisme positif?",
+        "answer": "Le traitement recommandé en cas de test de diagnostic rapide du paludisme positif est l’artésunate IV ou à défaut la quinine IV.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement probabiliste efficace sur l'HSV et le VZV?",
+        "answer": "Le traitement probabiliste efficace sur l'HSV et le VZV est l’aciclovir IV (10 mg/kg/8 h en perfusion sur une heure).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement probabiliste de choix de la listériose neuro-méningée?",
+        "answer": "Le traitement probabiliste de choix de la listériose neuro-méningée est l’amoxicilline IV (200 mg/kg/j en 6 injections).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quand doit-on discuter un traitement antituberculeux en cas de méningo-encéphalite?",
+        "answer": "Un traitement antituberculeux doit être discuté si le tableau est évocateur (évolution subaiguë, immunodépression connue, altération de l’état général, atteinte respiratoire).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quand est-il formellement indiqué de transférer un patient dans une structure de niveau 2 ou 3?",
+        "answer": "Le transfert est formellement indiqué en cas d’évolution défavorable à 48 heures (persistance de la fièvre, convulsions, signes focaux) ou en l’absence de moyens thérapeutiques adaptés.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les examens biologiques recommandés en structure de niveau 2 ou 3 pour diagnostiquer une méningo-encéphalite?",
+        "answer": "Les examens biologiques recommandés comprennent : hémocultures, recherche de paludisme, sérologie VIH.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens d'imagerie recommandés en structure de niveau 2 ou 3 pour diagnostiquer une méningo-encéphalite?",
+        "answer": "Les examens d'imagerie recommandés comprennent : imagerie cérébrale et pulmonaire en fonction du contexte.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que faire en l'absence d'élément d'orientation ou dans l'attente des résultats microbiologiques pour une méningo-encéphalite?",
+        "answer": "En l'absence d’élément d’orientation ou dans l’attente des résultats microbiologiques, un traitement large comme décrit au paragraphe 2.1 doit être prescrit.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la valeur prédictive négative de la PCR HSV sur LCS?",
+        "answer": "La PCR HSV sur LCS a une bonne valeur prédictive négative si elle est prélevée au delà de 4 jours suivant le début des symptômes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quand peut-on arrêter l’amoxicilline en l'absence de documentation disponible pour une méningo-encéphalite?",
+        "answer": "En l’absence de terrain à risque, et à la réception des hémocultures et de la culture du LCS négative pour Listeria monocytogenes, voire d’une PCR négative sur LCS, l’amoxicilline peut être arrêtée.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est l'intérêt épidémiologique et sanitaire des investigations en l'absence de moyens diagnostiques adaptés?",
+        "answer": "L’absence de moyens diagnostiques adaptés selon la structure où est hospitalisé le patient et l’absence de traitement spécifique pour de nombreux agents infectieux en limitent l’intérêt thérapeutique. Elle peut par contre avoir un intérêt épidémiologique et sanitaire pour les recherches de cas secondaires (tuberculose, fièvre hémorragique virale...).",
+        "qtype": "épidémiologie"
+    }
+]

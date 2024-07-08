@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelle est la répartition géographique des salmonelloses non typhiques?",
+        "answer": "Elle est mondiale. Les salmonelloses non typhiques (NTS) sont cosmopolites car de nombreuses espèces d’animaux domestiques, d’élevage ou de compagnie, sont porteurs de salmonelles transmissibles à l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs des salmonelles?",
+        "answer": "Le réservoir est animal : les salmonelles sont des hôtes du tube digestif de divers animaux, notamment oiseaux et reptiles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les salmonelloses non typhiques?",
+        "answer": "La transmission peut être directe interhumaine (rôle des porteurs sains), plus souvent indirecte à partir d’aliments contaminés (rupture de la chaîne du froid) : œufs++ (S. Enteritidis), viandes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux des salmonelloses non typhiques?",
+        "answer": "Dans 99,5 % des cas, les NTS appartiennent à l’espèce Salmonella enterica : parmi les 2 000 sérotypes existants, deux totalisent la moitié des cas : S. Enteritidis et S. Typhimurium.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque des salmonelloses non typhiques?",
+        "answer": "Déficit de l’immunité cellulaire (sujets dénutris, SIDA, sujets âgés), hémoglobinopathie (drépanocytose homozygote, thalassémie majeure, drépano-thalassémies), maladie du tube digestif (néoplasie, entérite inflammatoire, bilharziose), hypochlorhydrie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la physiopathologie des salmonelloses non typhiques?",
+        "answer": "Après franchissement de la muqueuse digestive, les salmonelles vont se multiplier dans les ganglions mésentériques. Leur potentiel invasif et la production d’entérotoxine entraînent une entérocolite. La diffusion hématogène est rare, sauf facteur de risque : elle est alors responsable d’atteintes viscérales profondes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la diarrhée aiguë fébrile causée par les salmonelloses non typhiques?",
+        "answer": "Après une incubation de 6 à 72 heures, le tableau associe une fièvre élevée avec céphalées, polyalgies, vomissements pouvant évoquer une méningite avant qu’apparaisse une diarrhée profuse (> 5 selles/24 heures). La diarrhée est fécale, hydrique de type syndrome gastro-entéritique. Plus rarement, la diarrhée s’accompagne d’un syndrome dysentérique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se diagnostiquent les bactériémies causées par les salmonelloses non typhiques?",
+        "answer": "C’est la pratique d’hémocultures devant une fièvre d’allure isolée qui assure le diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types d'atteintes extradigestives causées par les salmonelloses non typhiques?",
+        "answer": "Les atteintes extradigestives peuvent inclure des atteintes ostéo-articulaires (surtout chez les sujets porteurs d’hémoglobinopathie), des abcès de la rate, et des atteintes pleuropulmonaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes associés à une atteinte ostéo-articulaire causée par les salmonelloses non typhiques?",
+        "answer": "Les atteintes ostéo-articulaires sont surtout observées chez les sujets porteurs d’hémoglobinopathie et doivent être différenciées des arthrites réactives associées à l’antigène HLA B27.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes associés à une atteinte pleuropulmonaire causée par les salmonelloses non typhiques?",
+        "answer": "Les atteintes pleuropulmonaires peuvent se manifester par des symptômes respiratoires, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes associés à un abcès de la rate causé par les salmonelloses non typhiques?",
+        "answer": "Les abcès de la rate peuvent se manifester par des douleurs abdominales et des symptômes systémiques, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la déshydratation causée par les salmonelloses non typhiques?",
+        "answer": "La déshydratation peut se voir surtout aux âges extrêmes de la vie et peut se manifester par une soif intense, une sécheresse de la bouche, une diminution de la production d'urine, et une fatigue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de la diarrhée aiguë fébrile causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes initiaux incluent une fièvre élevée avec céphalées, polyalgies, et vomissements pouvant évoquer une méningite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la diarrhée profuse causée par les salmonelloses non typhiques?",
+        "answer": "La diarrhée profuse est fécale, hydrique de type syndrome gastro-entéritique, et peut dépasser 5 selles par 24 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes rares de la diarrhée causée par les salmonelloses non typhiques?",
+        "answer": "Plus rarement, la diarrhée s’accompagne d’un syndrome dysentérique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre isolée causée par les salmonelloses non typhiques?",
+        "answer": "La fièvre isolée peut être un symptôme de bactériémie, diagnostiquée par hémocultures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la méningite causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes peuvent inclure des céphalées, polyalgies, et vomissements avant l'apparition de la diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la polyalgie causée par les salmonelloses non typhiques?",
+        "answer": "Les polyalgies peuvent se manifester par des douleurs musculaires généralisées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la céphalée causée par les salmonelloses non typhiques?",
+        "answer": "Les céphalées peuvent se manifester par des douleurs intenses à la tête.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des vomissements causés par les salmonelloses non typhiques?",
+        "answer": "Les vomissements peuvent se manifester par des nausées et des rejets alimentaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la néoplasie causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de la néoplasie peuvent inclure des douleurs abdominales et des symptômes systémiques, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'entérite inflammatoire causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de l'entérite inflammatoire peuvent inclure des douleurs abdominales et des diarrhées, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de la bilharziose peuvent inclure des douleurs abdominales et des symptômes systémiques, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'hypochlorhydrie causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de l'hypochlorhydrie peuvent inclure des douleurs abdominales et des symptômes digestifs, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la drépanocytose homozygote causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de la drépanocytose homozygote peuvent inclure des douleurs osseuses et des crises vaso-occlusives, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la thalassémie majeure causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de la thalassémie majeure peuvent inclure une anémie sévère et des déformations osseuses, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des drépano-thalassémies causées par les salmonelloses non typhiques?",
+        "answer": "Les symptômes des drépano-thalassémies peuvent inclure des douleurs osseuses et des crises vaso-occlusives, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la dénutrition causée par les salmonelloses non typhiques?",
+        "answer": "Les symptômes de la dénutrition peuvent inclure une perte de poids, une faiblesse musculaire, et une fatigue générale, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du SIDA causé par les salmonelloses non typhiques?",
+        "answer": "Les symptômes du SIDA peuvent inclure une immunodéficience sévère, des infections opportunistes, et une perte de poids, mais le document ne fournit pas de détails spécifiques.",
+        "qtype": "symptômes"
+    }
+]

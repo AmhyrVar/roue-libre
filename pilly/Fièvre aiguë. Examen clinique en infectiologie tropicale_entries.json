@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les signes cliniques imposant une prise en charge urgente en cas de fièvre aiguë?",
+        "answer": "Les signes cliniques imposant une prise en charge urgente incluent une fréquence respiratoire > 24/min, une fréquence cardiaque > 120/min, une TA systolique < 80 mmHg, des marbrures cutanées, des extrémités froides, et une oligurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels diagnostics sont à redouter en cas de signes de gravité comme une fréquence respiratoire > 24/min et une fréquence cardiaque > 120/min?",
+        "answer": "Les diagnostics à redouter incluent le sepsis, le choc septique et la déshydratation aiguë.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de sepsis ou de choc septique?",
+        "answer": "Les traitements recommandés incluent le remplissage, l'oxygénothérapie et l'antibiothérapie probabiliste.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une méningococcémie?",
+        "answer": "Les signes cliniques d'une méningococcémie incluent un purpura.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion de méningococcémie?",
+        "answer": "Les examens recommandés incluent les hémocultures, l'isolement et l'antibiothérapie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une neuropaludisme?",
+        "answer": "Les signes cliniques d'une neuropaludisme incluent des troubles neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion de neuropaludisme?",
+        "answer": "Les examens recommandés incluent le frottis, la goutte épaisse, le TDR, la PL et le scanner cérébral.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une appendicite ou d'une péritonite?",
+        "answer": "Les signes cliniques incluent des douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une dermo-hypodermite nécrosante?",
+        "answer": "Les signes cliniques incluent un œdème douloureux d'un membre ou du cou.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une endocardite (sub)aiguë?",
+        "answer": "Les signes cliniques incluent une valvulopathie et un souffle cardiaque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics à redouter chez un nouveau-né de moins de 28 jours présentant une fièvre?",
+        "answer": "Les diagnostics à redouter incluent une infection par Streptocoque B, Listeria monocytogenes et Escherichia coli.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les diagnostics à redouter chez une femme enceinte présentant une fièvre?",
+        "answer": "Les diagnostics à redouter incluent le paludisme, Listeria monocytogenes et Escherichia coli.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les diagnostics à redouter chez une personne asplénique présentant une fièvre?",
+        "answer": "Les diagnostics à redouter incluent une infection par Pneumocoque et le paludisme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments à rechercher lors de l'interrogatoire d'un patient fébrile?",
+        "answer": "Les éléments à rechercher incluent les vaccinations, les antécédents de maladie immunisante, les déficits immunitaires, la prise de médicaments anti-infectieux ou immunosuppresseurs, les risques liés à des injections ou transfusions, les risques liés à des relations sexuelles non protégées, le type d'alimentation, l'habitation, le contage, la profession à risque, le contact avec des animaux et les séjours à l'étranger.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'accompagnement d'une fièvre?",
+        "answer": "Les signes d'accompagnement incluent des frissons, des sueurs, des céphalées, des arthralgies, des myalgies, des courbatures et une éruption cutanée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'altération de l'état général associés à une fièvre?",
+        "answer": "Les signes d'altération de l'état général incluent l'asthénie, l'anorexie, l'amaigrissement et l'insomnie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les syndromes de souffrance viscérale éventuellement associés à un syndrome fébrile?",
+        "answer": "Les syndromes de souffrance viscérale incluent les syndromes respiratoire, cardiovasculaire, digestif, urogénital, neurologique, dermatologique et rhumatologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à une agranulocytose?",
+        "answer": "Les risques infectieux associés à une agranulocytose incluent les infections par E. coli, P. aeruginosa, les cocci à Gram+ et les infections fongiques par Candida et Aspergillus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à un déficit de type B « humoral »?",
+        "answer": "Les risques infectieux associés à un déficit de type B « humoral » incluent les infections par E. coli, P. aeruginosa, les cocci à Gram+ et les infections fongiques par Candida et Aspergillus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à une asplénie?",
+        "answer": "Les risques infectieux associés à une asplénie incluent les infections par Pneumocoque et le paludisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une déshydratation aiguë?",
+        "answer": "Les signes cliniques incluent une fréquence respiratoire > 24/min, une fréquence cardiaque > 120/min, une TA systolique < 80 mmHg, des marbrures cutanées, des extrémités froides et une oligurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de déshydratation aiguë?",
+        "answer": "Les traitements recommandés incluent la réhydratation.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une fièvre hémorragique?",
+        "answer": "Les signes cliniques incluent un purpura.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion de fièvre hémorragique?",
+        "answer": "Les examens recommandés incluent les hémocultures, l'isolement et l'antibiothérapie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une méningo-encéphalite?",
+        "answer": "Les signes cliniques incluent des troubles neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion de méningo-encéphalite?",
+        "answer": "Les examens recommandés incluent le frottis, la goutte épaisse, le TDR, la PL et le scanner cérébral.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une infection par Listeria monocytogenes chez une femme enceinte?",
+        "answer": "Les signes cliniques incluent une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion d'infection par Listeria monocytogenes chez une femme enceinte?",
+        "answer": "Les examens recommandés incluent le frottis sanguin et les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une infection par Escherichia coli chez une femme enceinte?",
+        "answer": "Les signes cliniques incluent une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion d'infection par Escherichia coli chez une femme enceinte?",
+        "answer": "Les examens recommandés incluent le frottis sanguin et les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les pathogènes les plus courants associés à un déficit immunitaire de type T cellulaire?",
+        "answer": "Mycobactéries (tuberculose++), Listeria, Nocardia, Legionella, Herpesviridae (CMV, Herpes simplex, VZV), Toxoplasma gondii, Leishmania sp., Pneumocystis jirovecii, Cryptococcus neoformans, Histoplasma capsulatum var. capsulatum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une fièvre hectique?",
+        "answer": "Grands frissons, bactériémie à bactérie pyogène secondaire à une pneumonie, infection urinaire, hépato-biliaire, un abcès profond, spirochétoses, leishmaniose viscérale, paludisme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les pathogènes les plus rares associés à un déficit immunitaire de type T cellulaire?",
+        "answer": "H. influenzae b, méningocoque, Salmonelle, pathogènes capsulés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques recommandés pour la fièvre de l'enfant?",
+        "answer": "Éviter de couvrir l’enfant; aérer la pièce; faire boire le plus souvent possible, utiliser les sels de réhydratation orale (SRO). Ne prescrire qu’un seul médicament antipyrétique. Prescrire le médicament antipyrétique à dose efficace: paracétamol (60 mg/kg/jour en 4 ou 6 prises, sans dépasser 80 mg/kg/jour), ibuprofène (20 à 30 mg/kg/jour en 3 ou 4 prises, sans dépasser 30 mg/kg/jour), acide acétylsalicylique (60 mg/kg/jour en 4 ou 6 prises) n’est plus recommandé en raison d’un risque très rare mais mortel de syndrome de Reye.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une fièvre intermittente?",
+        "answer": "Fièvre tous les 2 ou 3 jours, paludisme (fièvres tierce et quarte).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une fièvre récurrente et ondulante?",
+        "answer": "Périodes fébriles de durée variable alternant avec plusieurs jours d’apyrexie, fièvres récurrentes dues aux poux ou aux tiques: borrélioses, brucellose, lymphomes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une fièvre en plateau?",
+        "answer": "Fièvre continue durant plusieurs jours, fièvre typhoïde (deuxième semaine).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une fébricule?",
+        "answer": "Fièvre ne dépassant pas 38,5°C, tuberculose, endocardite subaiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des céphalées intenses accompagnant la fièvre?",
+        "answer": "Méningite, paludisme, typhoïde, leptospirose, borréliose, rickettsiose, fièvre Q, arbovirose (dengue…).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des arthro-myalgies accompagnant la fièvre?",
+        "answer": "Septicémie à pyogène, leptospirose, borréliose, rickettsiose, arbovirose (myalgies de la dengue, polyarthrite du Chikungunya, Ebola), paludisme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une éruption cutanée accompagnant la fièvre?",
+        "answer": "Voir « Fièvres éruptives ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une splénomégalie accompagnant la fièvre?",
+        "answer": "Peut indiquer une infection localisée ou une maladie à diffusion hématogène.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une hépatomégalie accompagnant la fièvre?",
+        "answer": "Peut indiquer une infection localisée ou une maladie à diffusion hématogène.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des adénopathies accompagnant la fièvre?",
+        "answer": "Peut indiquer une infection localisée ou une maladie à diffusion hématogène.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des signes focaux accompagnant la fièvre?",
+        "answer": "Peut indiquer une infection localisée ou une maladie à diffusion hématogène.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une atteinte d’organe accompagnant la fièvre?",
+        "answer": "Infection localisée: ORL, pneumonie, pyélonéphrite, dermohypodermite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une atteinte polyviscérale accompagnant la fièvre?",
+        "answer": "Maladie à diffusion hématogène, risque de paludisme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les contre-indications du paracétamol pour le traitement symptomatique de la fièvre?",
+        "answer": "Hypersensibilité au paracétamol, insuffisance hépato-cellulaire.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les contre-indications des AINS pour le traitement symptomatique de la fièvre?",
+        "answer": "Hypersensibilité à l’AINS, grossesse > 24 semaines, antécédent d’éruption cutanée, d’asthme ou de choc anaphylactique déclenché par la prise d’AINS ou de substance d’activité proche (acide acétylsalicylique), insuffisance rénale, ulcère gastro-duodénal, insuffisance hépatique, insuffisance cardiaque sévère, lupus érythémateux disséminé (pour l’ibuprofène).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les contre-indications de l'aspirine pour le traitement symptomatique de la fièvre?",
+        "answer": "Hypersensibilité à l’aspirine, antécédent d’éruption cutanée, d’asthme ou de choc anaphylactique déclenché par la prise de salicylés ou de substance d’activité proche (AINS), insuffisance rénale sévère, ulcère gastro-duodénal, insuffisance hépatique sévère, insuffisance cardiaque sévère non contrôlée, toute maladie ou risque hémorragique constitutionnel ou acquis, méthotrexate.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les précautions particulières à prendre lors de l'utilisation du paracétamol pour le traitement symptomatique de la fièvre?",
+        "answer": "À éviter en cas de varicelle.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les précautions particulières à prendre lors de l'utilisation des AINS pour le traitement symptomatique de la fièvre?",
+        "answer": "Une insuffisance rénale fonctionnelle peut survenir chez les sujets présentant des facteurs de risque tels qu’une situation d’hypovolémie (notamment par diarrhée, vomissements) ou une maladie rénale préexistante. À éviter en cas de viroses, en particulier, varicelle, dengue et épisodes d’allure grippale.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les précautions particulières à prendre lors de l'utilisation de l'aspirine pour le traitement symptomatique de la fièvre?",
+        "answer": "Une insuffisance rénale fonctionnelle peut survenir chez les sujets présentant des facteurs de risque tels qu’une situation d’hypovolémie (notamment par diarrhée, vomissements) ou une maladie rénale préexistante.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des troubles neuroméningés accompagnant la fièvre?",
+        "answer": "Méningite, encéphalite, typhoïde, accès pernicieux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des signes urinaires accompagnant la fièvre?",
+        "answer": "Pyélonéphrite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à un mal de gorge accompagnant la fièvre?",
+        "answer": "Voir le chapitre « Infections ORL ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des douleurs d’oreille accompagnant la fièvre?",
+        "answer": "Voir le chapitre « Infections ORL ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une toux accompagnant la fièvre?",
+        "answer": "Voir le chapitre « Infections respiratoires basses ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une diarrhée accompagnant la fièvre?",
+        "answer": "Voir le chapitre « Diarrhée infectieuses ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à des douleurs de ventre importantes accompagnant la fièvre?",
+        "answer": "Défense, contracture, appendicite, péritonite, cholécystite, abcès du foie.",
+        "qtype": "symptômes"
+    }
+]

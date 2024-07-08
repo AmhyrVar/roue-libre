@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce que le rhumatisme articulaire aigu (RAA) ?",
+        "answer": "Le rhumatisme articulaire aigu (RAA) est une complication différée non suppurée de l’angine à streptocoque bêtahémolytique du groupe A.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement principal du rhumatisme articulaire aigu (RAA) ?",
+        "answer": "La thérapeutique et la prévention du RAA font appel à la pénicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'incidence du RAA dans les pays à ressources limitées ?",
+        "answer": "L'incidence du RAA dans les pays à ressources limitées varie entre 8 à 194 cas pour 100 000 enfants d’âge scolaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les âges les plus touchés par le RAA ?",
+        "answer": "Les enfants de 10 à 14 ans sont les plus touchés par le RAA, suivis par ceux de 5 à 9 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le principal réservoir du germe Streptococcus pyogenes du groupe A (SGA) ?",
+        "answer": "L’enfant de 4 à 16 ans est le principal réservoir du germe avec un portage rhinopharyngé chronique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet le streptocoque du groupe A (SGA) ?",
+        "answer": "La transmission du streptocoque se fait par voie aérienne par des micro-gouttelettes issues de sécrétions rhino-pharyngées à la suite d’un contact rapproché avec un malade ou un porteur asymptomatique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant la transmission du streptocoque du groupe A (SGA) ?",
+        "answer": "La transmission est favorisée par un niveau socio-économique bas et la promiscuité.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du RAA ?",
+        "answer": "Le RAA comporte une atteinte inflammatoire du cœur, des articulations et du système nerveux central.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la phase de latence entre l'atteinte ORL et l'atteinte articulaire dans le RAA ?",
+        "answer": "La phase de latence qui sépare l’atteinte ORL (angine, pharyngite) non traitée de l’atteinte articulaire est de 2 à 4 semaines.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les critères majeurs de Jones pour le diagnostic du RAA ?",
+        "answer": "Les critères majeurs de Jones pour le diagnostic du RAA sont la polyarthrite, la cardite, l’érythème marginé, les nodules sous-cutanés de Meynet et la chorée de Sydenham.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères mineurs de Jones pour le diagnostic du RAA ?",
+        "answer": "Les critères mineurs de Jones pour le diagnostic du RAA sont les polyarthralgies, la fièvre, l’antécédent de RAA, l’élévation de la VS ou de la CRP, et l’allongement de l’intervalle PR à l’ECG.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la forme classique de l'enfant atteinte de RAA ?",
+        "answer": "La forme classique de l’enfant atteinte de RAA est la polyarthrite aiguë avec cardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée spontanée de l’accès rhumatismal dans le RAA ?",
+        "answer": "La durée spontanée de l’accès rhumatismal est de l’ordre de un mois.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est l'atteinte cardiaque la plus sévère dans le RAA ?",
+        "answer": "L’endocardite, responsable d’un souffle auscultatoire, est l’atteinte la plus sévère car source de séquelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux types d'infections causées par le Streptococcus pyogenes du groupe A (SGA) ?",
+        "answer": "Le SGA est habituellement à l’origine d’infections non invasives de la sphère ORL, cutanée ou de la scarlatine, et plus rarement d'infections invasives comme la fasciite nécrosante, le choc toxique, la bactériémie, et les infections pulmonaires, pleurales, méningées, ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement antibiotique des infections à streptocoque ?",
+        "answer": "Le traitement antibiotique des infections à streptocoque repose sur l’amoxicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les syndromes post-streptococciques ?",
+        "answer": "Les syndromes post-streptococciques incluent le RAA, la glomérulonéphrite aiguë, la chorée de Sydenham et l’érythème noueux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de susceptibilité au RAA ?",
+        "answer": "Il existe des facteurs de susceptibilité au RAA avec transmission polygénique, de pénétrance variable et incomplète, certains HLA étant associés (HLA DR2 chez les Africains, HLA DR4 chez les caucasiens).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la valeur prédictive négative (VPN) des ASLO dans le diagnostic du RAA ?",
+        "answer": "La valeur prédictive négative (VPN) des ASLO est excellente (99 %).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la principale cause de cardiopathie dans le RAA ?",
+        "answer": "Le RAA est une cause importante de cardiopathie avec un risque de séquelles valvulaires graves.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Combien de personnes sont porteuses de cardiopathies rhumatismales dans le monde ?",
+        "answer": "Plus de 15 millions de personnes sont porteuses de cardiopathies rhumatismales dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes décèdent chaque année de cardiopathies rhumatismales ?",
+        "answer": "250 000 personnes décèdent chaque année de cardiopathies rhumatismales.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la forme classique de l'enfant atteinte de RAA ?",
+        "answer": "Les principaux symptômes de la forme classique de l’enfant atteinte de RAA sont la polyarthrite aiguë avec cardite et la fièvre quasi constante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types d'atteintes articulaires dans le RAA ?",
+        "answer": "Les grosses articulations (genoux, chevilles, coudes, poignets) sont préférentiellement atteintes, plus rarement les petites, avec des atteintes fluxionnaires hyperalgiques fugaces et migratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'une arthrite dans le RAA ?",
+        "answer": "Chaque arthrite dure 3 à 10 jours puis disparaît sans séquelle tandis que d’autres articulations sont touchées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la proportion de cardite détectée par échocardiographie dans le RAA ?",
+        "answer": "La cardite est décelée dans 70 % des cas par l’échocardiographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types d'atteintes cardiaques dans le RAA ?",
+        "answer": "La cardite peut réaliser soit une pancardite, soit une atteinte dissociée des tuniques cardiaques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types d'infections non invasives causées par le SGA ?",
+        "answer": "Les infections non invasives causées par le SGA incluent les infections de la sphère ORL, cutanée et la scarlatine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types d'infections invasives causées par le SGA ?",
+        "answer": "Les infections invasives causées par le SGA incluent la fasciite nécrosante, le choc toxique, la bactériémie, et les infections pulmonaires, pleurales, méningées, ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cutanés associés à la cardite dans le rhumatisme articulaire aigu (RAA) ?",
+        "answer": "Les signes cutanés sont exceptionnels, tardifs et le plus souvent observés en présence de la cardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la forme de RAA chez l'adulte ?",
+        "answer": "La forme de l’adulte est la polyarthrite rhumatismale aiguë isolée sans atteinte cardiaque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels symptômes peuvent retarder le diagnostic de RAA ?",
+        "answer": "Une mono, oligoarthrite, voire simple arthralgie, une douleur abdominale, une diarrhée, et une pleurésie peuvent retarder le diagnostic.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Sur quoi repose le diagnostic de RAA ?",
+        "answer": "Le diagnostic de RAA repose sur l’analyse des critères de Jones, une infection streptococcique récente associée à la présence d'au moins deux critères majeurs ou un majeur + deux mineurs de Jones.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel rôle joue l’échographie cardiaque dans le diagnostic de RAA ?",
+        "answer": "L’échographie cardiaque systématique joue un rôle déterminant dans le diagnostic différentiel avec d’autres affections cardiovasculaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les objectifs du traitement d'une poussée de RAA ?",
+        "answer": "Les objectifs sont d’éradiquer le streptocoque, traiter les manifestations aiguës, et éviter les rechutes et les complications.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les composants du traitement de l’épisode aigu de RAA ?",
+        "answer": "Le traitement repose sur l’antibiothérapie, les anti-inflammatoires et les traitements de support.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'efficacité de la pénicilline G dans le traitement de RAA ?",
+        "answer": "La pénicilline G est constamment efficace pour éradiquer le portage streptococcique, même si le prélèvement de gorge est négatif.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle alternative est utilisée en cas d’allergie à la pénicilline dans le traitement de RAA ?",
+        "answer": "En cas d’allergie, on utilise les synergistines ou les macrolides après antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est indiqué dans les cardites graves avec insuffisance cardiaque ?",
+        "answer": "La corticothérapie est logiquement indiquée dans les cardites graves notamment avec insuffisance cardiaque.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la pénicilline V pour le traitement de la phase aiguë de RAA par voie orale ?",
+        "answer": "100 000 unités/kg/jour en 4 prises/jour pendant 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l’amoxicilline pour le traitement de la phase aiguë de RAA par voie orale ?",
+        "answer": "25 à 50 mg/kg en 3 prises par jour pendant 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la benzathine-pénicilline pour le traitement de la phase aiguë de RAA par voie intramusculaire ?",
+        "answer": "1,2 millions d’unités en injection unique, 600 000 unités si poids < 27 kg.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'alternative à la pénicilline pour le traitement de la phase aiguë de RAA ?",
+        "answer": "L’érythromycine (50 mg/kg/jour en 3 prises/jour pendant 10 jours).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la benzathine-pénicilline pour la prévention secondaire de RAA chez l'enfant ?",
+        "answer": "600 000 unités/mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la benzathine-pénicilline pour la prévention secondaire de RAA chez l'adulte et les enfants de plus de 30 kg ?",
+        "answer": "1,2 millions d’unités/mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de la prévention secondaire de RAA en l'absence de cardite ?",
+        "answer": "5 ans et jusqu’à l’âge de 21 ans maximum.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de la prévention secondaire de RAA en cas de cardite sans séquelles ?",
+        "answer": "10 ans et jusqu’à l’âge de 21 ans maximum.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de la prévention secondaire de RAA en cas de cardite avec séquelles ?",
+        "answer": "10 ans et jusqu’à l’âge de 40 ans maximum.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement anti-inflammatoire en l'absence de cardite dans le RAA ?",
+        "answer": "Acide salycilique per os (100 à 120 mg/kg/jour pendant 15 jours, puis 50 à 60 mg/kg/j, arrêt au moins 14 jours après la fin des symptômes).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement anti-inflammatoire en présence de cardite dans le RAA ?",
+        "answer": "Corticoïde per os (prednisone, 1 à 2 mg/kg pendant 2 semaines, puis décroissance prudente de 5 mg tous les 3 jours ; durée totale corticothérapie = 8 à 10 semaines).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la principale complication des cardites rhumatismales ?",
+        "answer": "Les séquelles valvulaires définitives des cardites rhumatismales constituent la principale complication.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelle est la première cause de décès d’origine cardiaque chez les moins de 25 ans dans les pays en développement ?",
+        "answer": "Les séquelles valvulaires définitives des cardites rhumatismales.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les recommandations pour prévenir les endocardites de type subaiguë (Osler) en cas de séquelle valvulaire ?",
+        "answer": "Les caries dentaires doivent être dépistées et traitées. L’antibioprophylaxie n’est plus systématiquement recommandée avant les gestes à risque.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Sur quoi repose la prévention secondaire de RAA ?",
+        "answer": "Elle repose sur la pénicilline intramusculaire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Sur quoi repose la prévention primaire de RAA ?",
+        "answer": "Elle repose sur le traitement systématique et probabiliste de toute angine aiguë par la pénicilline V ou l’amoxicilline pendant 10 jours ou les macrolides en cas d’allergie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels tests devraient permettre de mieux cibler les indications de l'antibiothérapie dans les pays en développement ?",
+        "answer": "Les tests de diagnostic rapides du SGA.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels vaccins sont en cours de développement pour la prévention de RAA ?",
+        "answer": "Des vaccins antistreptococciques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la posologie de l'érythromycine pour la prévention secondaire de RAA ?",
+        "answer": "10 à 20 mg/kg/jour en 2 prises/jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la pénicilline V pour la prévention secondaire de RAA ?",
+        "answer": "20 à 30 000 U/kg/jour en 2 prises/jour.",
+        "qtype": "traitement"
+    }
+]

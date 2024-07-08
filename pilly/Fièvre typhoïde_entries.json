@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la répartition géographique de la fièvre typhoïde?",
+        "answer": "La fièvre typhoïde est présente dans tous les pays à ressources limitées avec un nombre de cas dans le monde estimé à 21 millions et une incidence annuelle > 100 cas /100,000 pour moins de 1 cas /100,000 dans les pays économiquement développés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la fièvre typhoïde?",
+        "answer": "La transmission de la fièvre typhoïde peut être directe interhumaine, mais le plus souvent indirecte à partir de l'eau ou d'aliments contaminés comme les coquillages, fruits de mer, légumes crus contaminés, et aliments manipulés par un porteur de bactéries.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les agents infectieux responsables de la fièvre typhoïde?",
+        "answer": "99,5 % des cas de fièvre typhoïde sont dus à Salmonella enterica, principalement les serovars S. Typhi et Paratyphi A, B, C.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de contracter la fièvre typhoïde?",
+        "answer": "L’hypochlorhydrie gastrique et la drépanocytose homozygote sont des facteurs de risque de contracter la fièvre typhoïde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la mortalité de la fièvre typhoïde dans les pays développés et en Afrique/Asie du Sud?",
+        "answer": "La mortalité est inférieure à 0.1/100.000 habitants/an dans les pays développés versus 5 et 10/100 000 habitants/an en Afrique et en Asie du Sud.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la phase d'incubation de la fièvre typhoïde?",
+        "answer": "La phase d’incubation de la fièvre typhoïde est de 7 à 21 jours.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la phase d'invasion de la fièvre typhoïde?",
+        "answer": "Les symptômes typiques de la phase d'invasion de la fièvre typhoïde incluent une ascension progressive de la fièvre, céphalée frontale, fixe, insomniante, épistaxis, pouls dissocié, fosse iliaque droite gargouillante, et discrète splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes biologiques observés lors de la phase d'invasion de la fièvre typhoïde?",
+        "answer": "Les signes biologiques incluent leucopénie, parfois thrombopénie, VS peu élevée, CRP augmentée de façon variable, et transaminases modérément élevées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes atypiques de la fièvre typhoïde chez l'enfant?",
+        "answer": "Chez l’enfant, les symptômes atypiques peuvent inclure des vomissements, une évolution plus rapide sur deux jours, et une hyperleucocytose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes digestifs observés lors de la phase d'état de la fièvre typhoïde?",
+        "answer": "Les signes digestifs incluent diarrhée, typiquement ocre, fétide, « jus de melon » ou au contraire constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes neurologiques observés lors de la phase d'état de la fièvre typhoïde?",
+        "answer": "Les signes neurologiques incluent tuphos (prostation).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cutanéo-muqueux observés lors de la phase d'état de la fièvre typhoïde?",
+        "answer": "Les signes cutanéo-muqueux incluent des tâches rosées lenticulaires au niveau des flancs ou du thorax et l'«angine» de Duguet (ulcération(s) indolore(s) sur les piliers antérieurs du voile du palais).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes annonciateurs des complications endotoxiniques de la fièvre typhoïde?",
+        "answer": "Les complications endotoxiniques sont annoncées par une tachycardie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications digestives possibles de la fièvre typhoïde?",
+        "answer": "Les complications digestives possibles incluent des hémorragies et perforation (péritonite sthénique ou asthénique).",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications cardiaques possibles de la fièvre typhoïde?",
+        "answer": "Les complications cardiaques possibles incluent la myocardite.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications neurologiques possibles de la fièvre typhoïde?",
+        "answer": "Les complications neurologiques possibles incluent l'encéphalite, qui est rare mais très grave.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Sur quoi repose le diagnostic de la fièvre typhoïde lors de la phase d'invasion?",
+        "answer": "Le diagnostic repose sur la notion éventuelle d’un contage 7 à 21 jours avant le début de la fièvre et les hémocultures positives dans plus de 90 % des cas au cours du premier septénaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels tests sont utilisés pour le diagnostic de la fièvre typhoïde lors de la phase d'état et des complications?",
+        "answer": "Les tests incluent les hémocultures (inconstamment positives), les coprocultures sur milieu selectif salmonelles-shigelles (SS) (positives à la 2e semaine dans 40 à 80 % des cas), et la sérologie de Widal-Félix (positive dans 70 à 90 % des cas).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels autres tests sérologiques et techniques de biologie moléculaire peuvent être utilisés pour un diagnostic rapide de la fièvre typhoïde?",
+        "answer": "D’autres tests sérologiques et des nouvelles techniques de biologie moléculaire (génomique, protéomique) peuvent être utilisés pour un diagnostic rapide.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles affections peuvent simuler une fièvre typhoïde à la phase d'invasion?",
+        "answer": "Certaines affections incluent le paludisme, la leptospirose, le typhus, les hépatites virales, la primo-infection à VIH, et plus rarement la tuberculose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement spécifique de la fièvre typhoïde?",
+        "answer": "Le traitement spécifique inclut l'antibiothérapie avec des molécules actives in vitro sur les salmonelles ayant une bonne diffusion lymphatique et intracellulaire. La voie orale est utilisée chaque fois que possible.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements classiques de la fièvre typhoïde?",
+        "answer": "Les traitements classiques incluent des antibiotiques, mais la résistance croissante aux Phénicolés et au cotrimoxazole a imposé la généralisation d'autres antibiotiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la phase d'incubation de la fièvre typhoïde?",
+        "answer": "La phase d’incubation de la fièvre typhoïde est de 7 à 21 jours.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la phase d'invasion de la fièvre typhoïde?",
+        "answer": "Les symptômes typiques de la phase d'invasion de la fièvre typhoïde incluent une ascension progressive de la fièvre, céphalée frontale, fixe, insomniante, épistaxis, pouls dissocié, fosse iliaque droite gargouillante, et discrète splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes biologiques observés lors de la phase d'invasion de la fièvre typhoïde?",
+        "answer": "Les signes biologiques incluent leucopénie, parfois thrombopénie, VS peu élevée, CRP augmentée de façon variable, et transaminases modérément élevées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes atypiques de la fièvre typhoïde chez l'enfant?",
+        "answer": "Chez l’enfant, les symptômes atypiques peuvent inclure des vomissements, une évolution plus rapide sur deux jours, et une hyperleucocytose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes digestifs observés lors de la phase d'état de la fièvre typhoïde?",
+        "answer": "Les signes digestifs incluent diarrhée, typiquement ocre, fétide, « jus de melon » ou au contraire constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes neurologiques observés lors de la phase d'état de la fièvre typhoïde?",
+        "answer": "Les signes neurologiques incluent tuphos (prostation).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cutanéo-muqueux observés lors de la phase d'état de la fièvre typhoïde?",
+        "answer": "Les signes cutanéo-muqueux incluent des tâches rosées lenticulaires au niveau des flancs ou du thorax et l'«angine» de Duguet (ulcération(s) indolore(s) sur les piliers antérieurs du voile du palais).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée moyenne de traitement par fluoroquinolones pour les formes non compliquées de la fièvre typhoïde chez l'adulte?",
+        "answer": "La durée moyenne de traitement est de 5 à 7 jours dans les formes non compliquées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel antibiotique est recommandé en première intention pour la fièvre typhoïde en attendant de connaître la sensibilité aux quinolones?",
+        "answer": "La ceftriaxone représente un traitement de première intention de la fièvre typhoïde.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques restent actifs sur les souches de S. Typhi XDR résistantes à la ceftriaxone?",
+        "answer": "Sur ces souches seuls restent actifs l’azithromycine, les pénèmes et la tigecycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose quotidienne d'azithromycine pour le traitement de la fièvre typhoïde non compliquée avec une CMI ciprofloxacine ≥ 0,125 mg/L?",
+        "answer": "La dose quotidienne d'azithromycine est de 10 mg/kg/jour pour une durée de 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques à surveiller lors du suivi d'un patient atteint de fièvre typhoïde?",
+        "answer": "Suivi de la température, du pouls, de la pression artérielle, auscultation cardiaque, observation des selles, examen de l’abdomen.",
+        "qtype": "surveillance"
+    },
+    {
+        "question": "Quelle est la durée de protection du vaccin conjugué contre la typhoïde Typbar-TCV®?",
+        "answer": "La durée de protection est de 5 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les traitements associés en cas de signes toxiniques majeurs dans la fièvre typhoïde?",
+        "answer": "Une corticothérapie (prednisone : 1 mg/kg/j) est indiquée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose quotidienne de ceftriaxone pour le traitement de la fièvre typhoïde compliquée avec une CMI ciprofloxacine ≥ 0,125 mg/L?",
+        "answer": "La dose quotidienne de ceftriaxone est de 60 à 75 mg/kg/jour (≤ 4 g) pour une durée de 5 à 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les vaccins disponibles pour la prévention de la fièvre typhoïde?",
+        "answer": "Typhim Vi, Typherix®, Vivotif®, Tyavax®, Typbar-TCV®.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité du vaccin conjugué contre la typhoïde selon l'OMS?",
+        "answer": "Le vaccin conjugué assure une efficacité > 80 %, durable (> 2 à 3 ans).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les antibiotiques de choix pour le traitement de la fièvre typhoïde non compliquée avec une CMI ciprofloxacine < 0,125 mg/L?",
+        "answer": "Ofloxacine ou ciprofloxacine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement par ofloxacine ou ciprofloxacine pour la fièvre typhoïde compliquée avec une CMI ciprofloxacine < 0,125 mg/L?",
+        "answer": "La durée de traitement est de 10 à 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques à surveiller pour détecter une complication de la fièvre typhoïde?",
+        "answer": "Toute accélération du pouls doit faire craindre une complication.",
+        "qtype": "surveillance"
+    },
+    {
+        "question": "Quelle est la recommandation pour les hémorragies dans le cadre de la fièvre typhoïde?",
+        "answer": "Les hémorragies relèvent de transfusions.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation pour les perforations dans le cadre de la fièvre typhoïde?",
+        "answer": "Les perforations relèvent de la chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mesure collective recommandée pour l'isolement d'un patient atteint de fièvre typhoïde?",
+        "answer": "Isolement « entérique » du patient : si possible hospitalisation en chambre seule, désinfection avec de l’eau de Javel des excreta, du linge et de la chambre.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour éradiquer un portage biliaire de salmonelles?",
+        "answer": "La cholécystectomie est le moyen pour éradiquer un portage biliaire et donc digestif des salmonelles.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la dose quotidienne de prednisone en cas de signes toxiniques majeurs dans la fièvre typhoïde?",
+        "answer": "La dose quotidienne de prednisone est de 1 mg/kg/j.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement par azithromycine pour la fièvre typhoïde non compliquée avec une CMI ciprofloxacine ≥ 0,125 mg/L?",
+        "answer": "La durée de traitement est de 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation pour la consommation d'eau pour prévenir la fièvre typhoïde?",
+        "answer": "Consommation d'une eau sûre (filtrée, désinfectée,…).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour la consommation d'aliments pour prévenir la fièvre typhoïde?",
+        "answer": "Consommation d'aliments cuits + bonnes pratiques de manipulation de tout aliment.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour la propreté de l'environnement pour prévenir la fièvre typhoïde?",
+        "answer": "Veiller sur la propreté de son environnement (élimination adéquate des eaux usées (déchets humains)).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour les voyageurs pour prévenir la fièvre typhoïde?",
+        "answer": "Voyager vacciné.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la dose quotidienne d'ofloxacine ou ciprofloxacine pour le traitement de la fièvre typhoïde non compliquée avec une CMI ciprofloxacine < 0,125 mg/L?",
+        "answer": "La dose quotidienne est de 15 mg/kg/jour pour une durée de 5 à 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose quotidienne d'ofloxacine ou ciprofloxacine pour le traitement de la fièvre typhoïde compliquée avec une CMI ciprofloxacine < 0,125 mg/L?",
+        "answer": "La dose quotidienne est de 15 mg/kg/jour pour une durée de 10 à 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation pour le suivi biologique à la fin du traitement de la fièvre typhoïde?",
+        "answer": "Coproculture pour s’assurer de l’absence de portage.",
+        "qtype": "surveillance"
+    },
+    {
+        "question": "Quelle est la recommandation pour le suivi biologique pendant le traitement de la fièvre typhoïde?",
+        "answer": "Suivi de l’hémogramme.",
+        "qtype": "surveillance"
+    },
+    {
+        "question": "Quelle est l'évolution typique sous traitement antibiotique efficace pour la fièvre typhoïde?",
+        "answer": "La défervescence thermique se produit en 2 à 7 jours, et l’évolution est favorable dans près de 95 % des cas.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quelle est la létalité de la fièvre typhoïde sous traitement antibiotique efficace?",
+        "answer": "La létalité est exceptionnelle sauf chez des sujets fragiles (très âgés, dénutris…).",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quelle est la durée typique de portage intestinal de salmonelles après guérison de la fièvre typhoïde?",
+        "answer": "Dans plus de 95 % des cas, le portage disparaît en moins de 6 mois.",
+        "qtype": "évolution"
+    }
+]

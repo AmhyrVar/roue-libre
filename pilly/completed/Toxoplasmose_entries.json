@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelles sont les trois formes sous lesquelles Toxoplasma gondii peut se présenter?",
+        "response": "Toxoplasma gondii peut se présenter sous trois formes : le trophozoïte ou tachyzoïte, les kystes, et l’oocyste.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme invasive de Toxoplasma gondii?",
+        "response": "La forme invasive de Toxoplasma gondii est le trophozoïte ou tachyzoïte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment se multiplie le trophozoïte de Toxoplasma gondii?",
+        "response": "Le trophozoïte de Toxoplasma gondii se multiplie dans n’importe quelle cellule nucléée, en particulier au sein des cellules à fonction macrophagique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme quiescente de l’infestation par Toxoplasma gondii?",
+        "response": "La forme quiescente de l’infestation par Toxoplasma gondii est représentée par les kystes contenant des bradyzoïtes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui résulte du cycle de reproduction sexué chez les félidés?",
+        "response": "La forme de Toxoplasma gondii qui résulte du cycle de reproduction sexué chez les félidés est l’oocyste.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment les oocystes de Toxoplasma gondii deviennent-ils infestants?",
+        "response": "Les oocystes de Toxoplasma gondii deviennent infestants en 2 à 5 jours si la température, l’hygrométrie et l’oxygénation dans le milieu extérieur sont favorables.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission de la toxoplasmose?",
+        "response": "La toxoplasmose se transmet principalement par absorption d’oocystes sporulés contenus dans les déjections de félidés et par absorption de bradyzoïtes contenus dans la viande d’animaux contaminés.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels animaux sont principalement responsables de la transmission de la toxoplasmose par leurs déjections?",
+        "response": "Les félidés, notamment les jeunes chats, sont principalement responsables de la transmission de la toxoplasmose par leurs déjections.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Comment la toxoplasmose peut-elle être transmise par la viande?",
+        "response": "La toxoplasmose peut être transmise par la viande contenant des bradyzoïtes (kystes) provenant d’animaux contaminés et non détruits par une cuisson insuffisante.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose en Afrique dans les pays recouverts par les grands blocs forestiers?",
+        "response": "En Afrique, la prévalence de la toxoplasmose est élevée, souvent supérieure à 50 %, dans les pays recouverts par les deux grands blocs forestiers (congolais et éburnéo-libérien).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose en Amérique latine dans la région amazonienne?",
+        "response": "En Amérique latine, la prévalence de la toxoplasmose est très élevée dans la région amazonienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose en Asie?",
+        "response": "La prévalence de la toxoplasmose est globalement faible en Asie sauf en Indonésie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes les plus fréquents de la primo-infestation toxoplasmique?",
+        "response": "Les symptômes les plus fréquents de la primo-infestation toxoplasmique sont la fébricule, l’asthénie, la polyadénopathie surtout cervicale et le syndrome mononucléosique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les formes sévères de la toxoplasmose observées en Amazonie?",
+        "response": "En Amazonie, les formes sévères de la toxoplasmose peuvent être létales et associent un syndrome infectieux grave à au moins une localisation viscérale, la plus fréquente étant pulmonaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la forme de toxoplasmose qui peut se réactiver en cas d’immunodépression?",
+        "response": "Les kystes contenant des bradyzoïtes peuvent se réactiver en cas d’immunodépression et libérer des tachyzoïtes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de toxoplasmose observée chez les patients infectés par le VIH?",
+        "response": "Chez les patients infectés par le VIH, la réactivation des kystes peut entraîner une toxoplasmose maladie de l’immunodéprimé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée pendant laquelle un jeune chat peut rejeter des oocystes dans son environnement après sa primo-infestation?",
+        "response": "Un jeune chat peut rejeter des oocystes dans son environnement pendant une période d’une quinzaine de jours après sa primo-infestation.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii impliquée dans la transmission materno-fœtale de la toxoplasmose?",
+        "response": "La forme de Toxoplasma gondii impliquée dans la transmission materno-fœtale de la toxoplasmose est le trophozoïte ou tachyzoïte.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut persister durant toute la vie de l’homme infesté?",
+        "response": "Les kystes contenant des bradyzoïtes peuvent persister durant toute la vie de l’homme infesté.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut être libérée en cas de réactivation des kystes?",
+        "response": "En cas de réactivation des kystes, des tachyzoïtes peuvent être libérés.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs environnementaux favorables à la sporulation des oocystes de Toxoplasma gondii?",
+        "response": "Les facteurs environnementaux favorables à la sporulation des oocystes de Toxoplasma gondii sont la température, l’hygrométrie et l’oxygénation.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée pendant laquelle les oocystes de Toxoplasma gondii peuvent rester infestants?",
+        "response": "Les oocystes de Toxoplasma gondii peuvent rester infestants pendant un an.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes associés aux formes apparentes bénignes de la primo-infestation toxoplasmique?",
+        "response": "Les formes apparentes bénignes de la primo-infestation toxoplasmique associent fébricule, asthénie, polyadénopathie surtout cervicale et syndrome mononucléosique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la localisation viscérale la plus fréquente dans les formes sévères de toxoplasmose observées en Amazonie?",
+        "response": "La localisation viscérale la plus fréquente dans les formes sévères de toxoplasmose observées en Amazonie est pulmonaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose dans les états soudano-sahéliens en Afrique?",
+        "response": "La prévalence de la toxoplasmose est faible dans les états soudano-sahéliens en Afrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose sur la côte Pacifique en Amérique latine?",
+        "response": "La prévalence de la toxoplasmose est faible sur la côte Pacifique en Amérique latine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui circule dans le flux sanguin lors de la primo-infestation toxoplasmique?",
+        "response": "La forme de Toxoplasma gondii qui circule dans le flux sanguin lors de la primo-infestation toxoplasmique est le trophozoïte ou tachyzoïte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut être trouvée dans la viande de gibier dans les régions tropicales?",
+        "response": "Dans les régions tropicales, la forme de Toxoplasma gondii qui peut être trouvée dans la viande de gibier est le bradyzoïte contenu dans les kystes.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut être rejetée par les jeunes chats après leur primo-infestation?",
+        "response": "Les jeunes chats peuvent rejeter des oocystes de Toxoplasma gondii après leur primo-infestation.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les signes cliniques typiques de la toxoplasmose chez les patients immunodéprimés?",
+        "answer": "La toxoplasmose chez les patients immunodéprimés se caractérise le plus souvent par des abcès cérébraux responsables de signes de focalisation neurologique, se développant dans un contexte fébrile. Les autres localisations peuvent être oculaires, pulmonaires ou disséminées.",
+        "qtype": "symptômes"
+    }
+]

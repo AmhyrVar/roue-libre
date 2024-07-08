@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle est la prévalence de l'infection par le CMV dans le sous-continent africain?",
+    "answer": "La prévalence de l'infection par le CMV est de l'ordre de 100 % dans le sous-continent africain.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se transmet principalement le CMV?",
+    "answer": "La transmission du CMV se fait le plus souvent par voie respiratoire (gouttelettes de salive) mais aussi par voie sexuelle, par l’urine ou le lait maternel.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quel est le risque de transmission du CMV de la femme enceinte au fœtus?",
+    "answer": "Le risque de transmission du CMV de la femme enceinte au fœtus est de l’ordre de 40 %, le plus souvent par voie hématogène transplacentaire.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la prévalence de l'infection par l'EBV dans le continent africain?",
+    "answer": "La séroprévalence de l’EBV est quasiment de 100 % dans le continent africain.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se transmet principalement l'EBV?",
+    "answer": "La transmission de l'EBV s’effectue principalement par voie salivaire, exceptionnellement par voie sanguine ou sexuelle.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelles sont les trois phases du cycle viral des infections par le CMV et l'EBV?",
+    "answer": "Les trois phases du cycle viral des infections par le CMV et l'EBV sont la phase de primo-infection, la phase de latence et la phase de récurrence.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez l'immunocompétent?",
+    "answer": "Les symptômes de la primo-infection à CMV chez l'immunocompétent peuvent inclure une fièvre isolée, une hépatite cytolytique peu cholestatique, et des complications telles qu’une polyradiculonévrite, une arthrite, une myocardite, une péricardite, une pneumopathie interstitielle, une colite ulcéreuse, une anémie hémolytique, ou un syndrome d’activation macrophagique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les risques pour le nouveau-né en cas d'infection par le CMV chez la femme enceinte?",
+    "answer": "Le nouveau-né présente un syndrome infectieux polyviscéral avec une microcéphalie, une surdité et des calcifications intracrâniennes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes classiques de la primo-infection à EBV?",
+    "answer": "Les symptômes classiques de la primo-infection à EBV incluent une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes moins fréquents de la primo-infection à EBV?",
+    "answer": "Les symptômes moins fréquents de la primo-infection à EBV peuvent inclure une hépatite cytolytique, des anomalies hématologiques, la présence d’une cryoglobulinémie, et une rupture de rate.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes rares de la primo-infection à EBV?",
+    "answer": "Les symptômes rares de la primo-infection à EBV peuvent inclure une péricardite, une myocardite, une polyradiculonévrite, une encéphalite, une paralysie faciale, et une méningite lymphocytaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les deux entités cliniques particulières aux pays tropicaux associées à l'EBV?",
+    "answer": "Les deux entités cliniques particulières aux pays tropicaux associées à l'EBV sont le lymphome de Burkitt et le cancer du naso-pharynx.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement principal du lymphome de Burkitt?",
+    "answer": "Le traitement principal du lymphome de Burkitt repose sur la chimiothérapie, avec une sensibilité particulière au cyclophosphamide en monothérapie.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les symptômes de la mononucléose infectieuse (MNI) causée par l'EBV?",
+    "answer": "Les symptômes de la mononucléose infectieuse (MNI) causée par l'EBV incluent une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelle est la durée de guérison de la mononucléose infectieuse (MNI)?",
+    "answer": "La mononucléose infectieuse (MNI) guérit en 3 semaines, laissant la place à une asthénie qui peut durer plusieurs mois.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez la femme enceinte?",
+    "answer": "Chez la femme enceinte, la primo-infection à CMV entraîne un fort risque d'embryo-fœtopathie chez l’enfant, avec des symptômes tels qu'une microcéphalie, une surdité et des calcifications intracrâniennes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à EBV chez l'adulte jeune?",
+    "answer": "Chez l'adulte jeune, la primo-infection à EBV peut se manifester par une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez l'immunodéprimé?",
+    "answer": "Chez l'immunodéprimé, la primo-infection à CMV peut entraîner des atteintes tissulaires graves.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la récurrence de l'infection à EBV chez l'immunodéprimé?",
+    "answer": "Chez l'immunodéprimé, la récurrence de l'infection à EBV peut entraîner des processus lymphoprolifératifs.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la récurrence de l'infection à CMV chez l'immunodéprimé?",
+    "answer": "Chez l'immunodéprimé, la récurrence de l'infection à CMV peut entraîner des atteintes tissulaires graves.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la récurrence de l'infection à EBV chez l'immunocompétent?",
+    "answer": "Chez l'immunocompétent, les récurrences de l'infection à EBV sont toujours asymptomatiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la récurrence de l'infection à CMV chez l'immunocompétent?",
+    "answer": "Chez l'immunocompétent, les récurrences de l'infection à CMV sont toujours asymptomatiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à EBV chez l'enfant?",
+    "answer": "Chez l'enfant, la primo-infection à EBV peut se manifester par une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez l'enfant?",
+    "answer": "Chez l'enfant, la primo-infection à CMV est le plus souvent asymptomatique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à EBV chez l'adolescent?",
+    "answer": "Chez l'adolescent, la primo-infection à EBV peut se manifester par une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez l'adolescent?",
+    "answer": "Chez l'adolescent, la primo-infection à CMV est le plus souvent asymptomatique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à EBV chez l'adulte?",
+    "answer": "Chez l'adulte, la primo-infection à EBV peut se manifester par une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez l'adulte?",
+    "answer": "Chez l'adulte, la primo-infection à CMV est le plus souvent asymptomatique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à EBV chez l'immunodéprimé?",
+    "answer": "Chez l'immunodéprimé, la primo-infection à EBV peut entraîner des processus lymphoprolifératifs.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la primo-infection à CMV chez l'immunodéprimé?",
+    "answer": "Chez l'immunodéprimé, la primo-infection à CMV peut entraîner des atteintes tissulaires graves.",
+    "qtype": "symptômes"
+  }
+]

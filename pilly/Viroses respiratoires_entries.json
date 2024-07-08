@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quelle est la période d'incubation de la rougeole?",
+        "answer": "La période d'incubation de la rougeole dure environ 10 à 14 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la rougeole?",
+        "answer": "La phase d'invasion de la rougeole associe une fièvre élevée, un catarrhe oculo-respiratoire (conjonctivite, rhinite, toux) et des signes neurologiques possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que le signe de Koplik?",
+        "answer": "Le signe de Koplik correspond à un semis de petites tâches blanchâtres sur fond érythémateux sur la muqueuse jugale en regard des prémolaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste l'éruption cutanée de la rougeole?",
+        "answer": "L'éruption cutanée de la rougeole apparaît sous forme de maculopapules de un à plusieurs millimètres de diamètre, séparées par des intervalles de peau saine, et progresse en tache d'huile à partir de la tête.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications bactériennes possibles de la rougeole?",
+        "answer": "Les complications bactériennes possibles de la rougeole incluent l'otite moyenne aiguë, la laryngite, la laryngo-trachéite sous glottique et la pneumopathie bactérienne.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications neurologiques de la rougeole?",
+        "answer": "Les complications neurologiques de la rougeole incluent l'encéphalite aiguë post-éruptive, l'encéphalite à inclusion et la panencéphalite subaiguë sclérosante.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de complications de la rougeole?",
+        "answer": "Les facteurs de risque de complications de la rougeole incluent la malnutrition, la carence en vitamine A, un âge inférieur à 5 ans ou supérieur à 20 ans, et l'immunodépression.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la rougeole?",
+        "answer": "Le diagnostic de la rougeole est essentiellement clinique, basé sur l'absence d'immunisation préalable, l'éruption descendante, le signe de Koplik et l'aspect bouffi du visage.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels tests paracliniques peuvent confirmer la rougeole?",
+        "answer": "Les tests paracliniques pour confirmer la rougeole incluent la sérologie (présence d'IgM spécifiques) et la PCR rougeole (détection de l'ARN viral).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement curatif de la rougeole?",
+        "answer": "Le traitement curatif de la rougeole est uniquement symptomatique, incluant des antipyrétiques, des antalgiques, une hydratation et une alimentation correcte. Dans les pays à ressources limitées, l'OMS recommande l'administration de vitamine A.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures de prévention collective existent pour la rougeole?",
+        "answer": "Les mesures de prévention collective pour la rougeole incluent l'éviction scolaire jusqu'à 5 jours après le début de l'éruption et la vaccination antirougeoleuse.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité de la vaccination antirougeoleuse?",
+        "answer": "La vaccination antirougeoleuse offre une protection de 90 à 95 % après une injection, avec une deuxième injection recommandée au cours de la deuxième année.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les types de virus grippaux responsables des épidémies?",
+        "answer": "Les types de virus grippaux responsables des épidémies sont les virus A et B.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la grippe?",
+        "answer": "La grippe se transmet par sécrétions respiratoires (gouttelettes) de manière directe interhumaine ou de façon indirecte par contact avec des sécrétions.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes habituels de la grippe?",
+        "answer": "Les symptômes habituels de la grippe incluent un malaise, une fièvre élevée, des céphalées, des arthro-myalgies, un catarrhe rhinopharyngée et une toux sèche douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications respiratoires basses de la grippe?",
+        "answer": "Les complications respiratoires basses de la grippe incluent la pneumopathie virale, la pneumopathie bactérienne secondaire et la bronchite aiguë.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les traitements antiviraux spécifiques pour la grippe?",
+        "answer": "Les traitements antiviraux spécifiques pour la grippe incluent l'amantadine, les inhibiteurs de la neuraminidase (oseltamivir, zanamivir, peramivir) et le baloxavir.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de forme sévère de la grippe?",
+        "answer": "Les facteurs de risque de forme sévère de la grippe incluent l'âge avancé, les maladies chroniques, l'immunodépression et l'obésité.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la grippe?",
+        "answer": "Le diagnostic de la grippe se fait par détection rapide d'antigènes viraux ou par détection moléculaire (RT-PCR) sur des prélèvements rhino-pharyngés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention de la grippe?",
+        "answer": "Les mesures de prévention de la grippe incluent les mesures d'hygiène de base, l'isolement respiratoire en cas d'hospitalisation, la surveillance nationale des épidémies et la vaccination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité de la vaccination anti-grippale?",
+        "answer": "L'efficacité de la vaccination anti-grippale est de 35 à 75 % chez les adultes de moins de 65 ans, variable selon la souche circulante et la population.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la grippe chez l'enfant?",
+        "answer": "Chez l'enfant, les symptômes de la grippe sont souvent moins typiques, avec des symptômes digestifs assez fréquents et des formes pauci-symptomatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la grippe chez les sujets âgés?",
+        "answer": "Chez les sujets âgés, la grippe peut provoquer des complications directes et des décompensations de tares sous-jacentes, entraînant un nombre important de décès.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la grippe chez les immunodéprimés?",
+        "answer": "Chez les immunodéprimés, la grippe peut entraîner une excrétion prolongée du virus et une surinfection bactérienne plus fréquente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la grippe chez la femme enceinte?",
+        "answer": "Chez la femme enceinte, la grippe peut entraîner des complications pulmonaires chez la mère et des conséquences graves pour le fœtus, telles que la prématurité et les malformations neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la grippe aviaire chez l'homme?",
+        "answer": "Les symptômes de la grippe aviaire chez l'homme incluent une fièvre élevée, des symptômes respiratoires sévères et une forte mortalité, surtout chez les enfants ayant des pathologies sous-jacentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la transmission de la grippe aviaire à l'homme?",
+        "answer": "La transmission de la grippe aviaire à l'homme se fait sporadiquement par contact direct ou indirect étroit avec des volailles ou des oiseaux sauvages infectés vivants ou morts, avec leurs plumes et avec les milieux contaminés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les recommandations de vaccination contre la grippe pour les voyageurs?",
+        "answer": "La vaccination contre la grippe saisonnière est recommandée pour les voyageurs ciblés par les recommandations du calendrier vaccinal de leur pays d'origine, en particulier pour ceux qui voyagent en groupe ou en bateau de croisière, pour le personnel navigant des bateaux de croisière et des avions ainsi que pour les guides accompagnant les groupes de voyageurs.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour des informations sur la rougeole?",
+        "answer": "Les sites web recommandés pour des informations sur la rougeole incluent https://www.who.int/news-room/fact-sheets/detail/measles, https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/measles et http://www.cdc.gov/measles/index.html.",
+        "qtype": "référence"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour des informations sur la grippe?",
+        "answer": "Les sites web recommandés pour des informations sur la grippe incluent https://www.who.int/health-topics/influenza-seasonal#tab=tab_1, http://www.cdc.gov/flu/ et https://www.who.int/fr/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic).",
+        "qtype": "référence"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du VRS chez le nourrisson?",
+        "answer": "L'infection par le VRS chez le nourrisson peut entraîner une rhinopharyngite, une otite moyenne aiguë, une laryngite, une bronchiolite ou une pneumopathie. Les sibilants présents à l'auscultation sont en faveur de ce diagnostic.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet le VRS?",
+        "answer": "La transmission virale du VRS se fait par contact direct avec les sécrétions respiratoires ou indirect par les mains ou le matériel souillé.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une infection à VRS chez l'enfant?",
+        "answer": "Le traitement est symptomatique et repose sur la kinésithérapie respiratoire et une désobstruction nasale avec du sérum physiologique. En cas de détresse respiratoire, une assistance respiratoire peut être nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de sévérité de l'infection par VRS dans les pays à ressources limitées?",
+        "answer": "Les facteurs de risque de sévérité dans les pays à ressources limitées incluent la malnutrition, l'infection par le VIH et la promiscuité.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du VRS?",
+        "answer": "La durée d'incubation du VRS est d'environ 4 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du VRS chez l'adulte?",
+        "answer": "Chez l'adulte, les manifestations sont moindres et peuvent inclure une infection bénigne des voies aériennes supérieures ou un syndrome grippal. En cas d'immunodépression ou d'âge avancé, des formes sévères avec détresse respiratoire peuvent survenir.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de certitude du VRS?",
+        "answer": "Le diagnostic de certitude se fait par détection rapide d'antigènes viraux dans les sécrétions. La détection par PCR en temps réel est également possible mais encore réservée à quelques centres.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre le VRS?",
+        "answer": "Les mesures de prévention incluent le respect des règles d'hygiène en collectivité (désinfection des surfaces, hygiène des mains) et l'isolement respiratoire en cas d'hospitalisation. Aucun vaccin n'est commercialisé à ce jour, mais des anticorps monoclonaux anti-VRS (Palivizumab) sont proposés en prévention chez des enfants à haut risque de forme sévère.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la proportion de bronchiolites et de pneumopathies chez l'enfant causées par le VRS?",
+        "answer": "Le VRS est responsable de 85 % des bronchiolites et de 20 % des pneumopathies de l'enfant.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques du SARS-CoV?",
+        "answer": "Les symptômes cliniques du SARS-CoV incluent une fièvre élevée, un syndrome pseudo-grippal, des signes respiratoires et des signes digestifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le réservoir du SARS-CoV?",
+        "answer": "Le réservoir du SARS-CoV est une chauve-souris insectivore, et l'hôte intermédiaire permettant le passage du virus à l'homme serait la civette palmiste masquée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic du SARS-CoV?",
+        "answer": "Le diagnostic spécifique repose sur l'identification du virus dans les sécrétions respiratoires ou les selles par amplification génique (PCR).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement du SARS-CoV?",
+        "answer": "Aucun traitement n'a été trouvé avant la fin de l'épidémie. Le pronostic de cette pathologie était sombre avec une mortalité élevée de l'ordre de 10 %. Le terrain (âge élevé, comorbidités) semblait jouer un rôle important dans la mortalité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques du MERS-CoV?",
+        "answer": "La présentation clinique du MERS-CoV va de formes asymptomatiques à des formes de syndrome de défaillance respiratoire et de défaillance multiple d'organes. La fièvre est habituellement présente ainsi que des signes respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque des formes graves de MERS-CoV?",
+        "answer": "Un terrain d'immunodépression (corticothérapie, greffe d'organe) est un facteur de risque des formes les plus graves de MERS-CoV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic du MERS-CoV?",
+        "answer": "La confirmation du diagnostic de MERS-CoV se fait par PCR sur les sécrétions respiratoires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prévention recommandée pour le MERS-CoV?",
+        "answer": "La prévention du MERS-CoV est la même que pour le SARS. Il n'y a pas de vaccin disponible. Il est recommandé aux voyageurs de ne pas consommer de produits laitiers crus de dromadaire et d'éviter les contacts avec ces animaux.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la COVID-19?",
+        "answer": "Les principaux symptômes de la COVID-19 incluent la toux, la fièvre, les myalgies, les céphalées, la dyspnée, le mal de gorge, la diarrhée, les nausées, les vomissements, l'anosmie, l'agueusie, la rhinorrhée et les douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de formes graves de la COVID-19?",
+        "answer": "Les facteurs de risque de formes graves de la COVID-19 incluent l'âge avancé, le sexe masculin, l'obésité, les pathologies cardio-vasculaires, l'insuffisance rénale, les cancers solides, les hémopathies, le diabète, les maladies neurologiques et la grossesse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la COVID-19?",
+        "answer": "Le diagnostic direct de la COVID-19 se fait par RT-PCR spécifique SARS-CoV-2 dans les sécrétions nasopharyngées ou respiratoires. Des tests antigéniques peuvent aussi détecter la présence de virus sur des sécrétions nasopharyngées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les formes non graves de la COVID-19?",
+        "answer": "Pour les formes non graves de la COVID-19 chez les sujets non à haut risque d'évolution défavorable, seul le traitement symptomatique est préconisé. Pour les patients à haut risque d'évolution vers une forme grave, des associations d'anticorps monoclonaux peuvent être administrées par voie intraveineuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre la COVID-19?",
+        "answer": "Les mesures de prévention contre la COVID-19 incluent les mesures barrières (port du masque chirurgical, distanciation physique/sociale, lavage des mains), l'isolement des cas hospitalisés avec port d'équipement de protection individuel pour les soignants, et la vaccination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes persistants possibles après une infection à la COVID-19?",
+        "answer": "Les symptômes persistants après une infection à la COVID-19 peuvent inclure l'asthénie, la dyspnée, les douleurs thoraciques, et d'autres symptômes parfois dénommés 'COVID-long'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les variants du SARS-CoV-2 les plus connus?",
+        "answer": "Les variants du SARS-CoV-2 les plus connus incluent le variant alpha (B.1.1.7), le variant delta (B.1.617.2), le variant omicron (B.1.1.529), le variant bêta (B.1.351) et le variant gamma (P1).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques du SARS-CoV-2?",
+        "answer": "Les symptômes cliniques du SARS-CoV-2 incluent la toux, la fièvre, les myalgies, les céphalées, la dyspnée, le mal de gorge, la diarrhée, les nausées, les vomissements, l'anosmie, l'agueusie, la rhinorrhée et les douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les formes graves de la COVID-19?",
+        "answer": "Pour les formes graves de la COVID-19 nécessitant une hospitalisation, le traitement associe des soins de support (oxygénothérapie, drogues vasoactives), l'administration de dexaméthasone, une anticoagulation préventive ou curative, et d'autres traitements selon les recommandations en vigueur.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du MERS-CoV?",
+        "answer": "Les symptômes du MERS-CoV incluent la fièvre, des signes respiratoires, et peuvent aller de formes asymptomatiques à des formes de syndrome de défaillance respiratoire et de défaillance multiple d'organes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de formes graves de MERS-CoV?",
+        "answer": "Un terrain d'immunodépression (corticothérapie, greffe d'organe) est un facteur de risque des formes les plus graves de MERS-CoV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic du MERS-CoV?",
+        "answer": "La confirmation du diagnostic de MERS-CoV se fait par PCR sur les sécrétions respiratoires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prévention recommandée pour le MERS-CoV?",
+        "answer": "La prévention du MERS-CoV est la même que pour le SARS. Il n'y a pas de vaccin disponible. Il est recommandé aux voyageurs de ne pas consommer de produits laitiers crus de dromadaire et d'éviter les contacts avec ces animaux.",
+        "qtype": "prévention"
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les genres de champignons responsables des teignes?",
+        "answer": "Les champignons responsables des teignes appartiennent à trois genres différents : Microsporum sp., Trichophyton sp., et Nannizzia sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les trois types de teignes selon leur origine?",
+        "answer": "On distingue schématiquement trois origines : les teignes anthropophiles (interhumaine), les teignes zoophiles (contact avec un animal porteur), et les teignes géophiles ou telluriques (issues du sol).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait la contamination des teignes anthropophiles?",
+        "answer": "La contamination interhumaine est aisée et se fait soit par contact direct (cuir chevelu, sports de combat), soit par l’intermédiaire d’objets comme les taies d’oreillers, les bonnets ou casquettes, ou par des objets de coiffure (peignes, brosses à cheveux, tondeuses, instruments de nattage).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les caractéristiques des teignes tondantes microsporiques?",
+        "answer": "Les teignes tondantes microsporiques se présentent comme des grandes plaques d’alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts. Elles sont peu ou pas inflammatoires, bien limitées, et leur taille est de 1 à 3 cm de diamètre.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux dermatophytes responsables des teignes tondantes à grandes plaques?",
+        "answer": "Les principaux dermatophytes responsables des teignes tondantes à grandes plaques sont Microsporum canis, Microsporum audouinii, et Microsporum ferrugineum.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées?",
+        "answer": "Les teignes suppurées se présentent comme des placards arrondis, bien limités, du cuir chevelu, très inflammatoires, de plusieurs centimètres de diamètre et surélevées (kérion).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables des teignes suppurées?",
+        "answer": "Les teignes suppurées sont dues surtout aux dermatophytes d’origine animale (zoophile) : Trichophyton mentagrophytes, Trichophyton verrucosum ou tellurique (Microsporum gypseum), parfois aussi à certains anthropophiles (Trichophyton violaceum).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se présente la teigne favique?",
+        "answer": "La teigne favique se présente au départ comme une petite croûte jaunâtre friable centrée par un cheveu qui, en grandissant et en fusionnant, prend l’aspect d’un godet, sorte de dépression en cupule, remplie de croûtes jaunes soufrées, dégageant une odeur de souris.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel est le champignon responsable de la teigne favique?",
+        "answer": "La teigne favique est due à une seule espèce : Trichophyton schoenleinii.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les aspects cliniques des teignes tondantes trichophytiques?",
+        "answer": "Les teignes tondantes trichophytiques se caractérisent par de nombreuses petites plaques d’alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables des teignes tondantes trichophytiques?",
+        "answer": "Les teignes tondantes trichophytiques sont dues à des Trichophyton anthropophiles : Trichophyton violaceum, Trichophyton soudanense, Trichophyton tonsurans.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait l'envahissement des cheveux par les dermatophytes?",
+        "answer": "Les cheveux sont pénétrés par un dermatophyte après une colonisation et une invasion de l’épiderme. L’envahissement se fait à partir de l’ostium folliculaire avec une propagation du mycélium descendant vers le bulbe.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les types de spores dans les cheveux envahis par les dermatophytes?",
+        "answer": "Selon les espèces, les spores peuvent s’accumuler en surface (ectothrix) ou rester tassées à l’intérieur des cheveux (endothrix).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs augmentant la prévalence des teignes en milieu tropical?",
+        "answer": "En milieu tropical, le manque d’hygiène, faute d’accès à l’eau courante, augmente la prévalence des teignes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux dermatophytes responsables des teignes inflammatoires ou suppurées?",
+        "answer": "Les principaux dermatophytes responsables des teignes inflammatoires ou suppurées sont Trichophyton verrucosum, Trichophyton mentagrophytes, Microsporum canis, Microsporum gypseum, Nannizzia gypsea, et Trichophyton erinacei.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux dermatophytes responsables des teignes tondantes à petites plaques?",
+        "answer": "Les principaux dermatophytes responsables des teignes tondantes à petites plaques sont Trichophyton soudanense, Trichophyton violaceum, et Trichophyton tonsurans.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques?",
+        "answer": "Les teignes tondantes microsporiques se présentent comme des grandes plaques d’alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts. Elles sont peu ou pas inflammatoires, bien limitées, et leur taille est de 1 à 3 cm de diamètre.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques?",
+        "answer": "Les teignes tondantes trichophytiques se caractérisent par de nombreuses petites plaques d’alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées?",
+        "answer": "Les teignes suppurées se présentent comme des placards arrondis, bien limités, du cuir chevelu, très inflammatoires, de plusieurs centimètres de diamètre et surélevées (kérion).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la teigne favique?",
+        "answer": "La teigne favique se présente au départ comme une petite croûte jaunâtre friable centrée par un cheveu qui, en grandissant et en fusionnant, prend l’aspect d’un godet, sorte de dépression en cupule, remplie de croûtes jaunes soufrées, dégageant une odeur de souris.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables des teignes tondantes microsporiques?",
+        "answer": "Les teignes tondantes microsporiques sont dues à des Microsporum soit zoophiles (Microsporum canis), soit anthropophiles (Microsporum audouinii).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables des teignes tondantes trichophytiques?",
+        "answer": "Les teignes tondantes trichophytiques sont dues à des Trichophyton anthropophiles : Trichophyton violaceum, Trichophyton soudanense, Trichophyton tonsurans.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables des teignes suppurées?",
+        "answer": "Les teignes suppurées sont dues surtout aux dermatophytes d’origine animale (zoophile) : Trichophyton mentagrophytes, Trichophyton verrucosum ou tellurique (Microsporum gypseum), parfois aussi à certains anthropophiles (Trichophyton violaceum).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables de la teigne favique?",
+        "answer": "La teigne favique est due à une seule espèce : Trichophyton schoenleinii.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes microsporiques?",
+        "answer": "Les teignes tondantes microsporiques se présentent comme des grandes plaques d’alopécie, finement squameuses, en nombre limité, parcourues de cheveux cassés courts. Elles sont peu ou pas inflammatoires, bien limitées, et leur taille est de 1 à 3 cm de diamètre.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes tondantes trichophytiques?",
+        "answer": "Les teignes tondantes trichophytiques se caractérisent par de nombreuses petites plaques d’alopécie, squameuses, croûteuses, parfois peu visibles, pouvant secondairement fusionner pour former de grandes plaques mal limitées.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des teignes suppurées?",
+        "answer": "Les teignes suppurées se présentent comme des placards arrondis, bien limités, du cuir chevelu, très inflammatoires, de plusieurs centimètres de diamètre et surélevées (kérion).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la teigne favique?",
+        "answer": "La teigne favique se présente au départ comme une petite croûte jaunâtre friable centrée par un cheveu qui, en grandissant et en fusionnant, prend l’aspect d’un godet, sorte de dépression en cupule, remplie de croûtes jaunes soufrées, dégageant une odeur de souris.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les champignons responsables des teignes tondantes microsporiques?",
+        "answer": "Les teignes tondantes microsporiques sont dues à des Microsporum soit zoophiles (Microsporum canis), soit anthropophiles (Microsporum audouinii).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les types de parasitisme pilaire observés dans les cheveux lors d'un examen direct?",
+        "answer": "On distingue le type trichophytique (spores à l'intérieur du cheveu, endothrix, pas de fluorescence), le type microsporique (spores à l'intérieur et à l'extérieur, endoectothrix, fluorescence verte) et le type favique (filaments uniquement intrapilaires, faible fluorescence vert-jaune).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de la lampe de Wood dans le diagnostic des teignes?",
+        "answer": "La lampe de Wood permet de déceler une fluorescence spontanée des zones atteintes dans les teignes microsporiques et faviques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes pathognomoniques de teigne observés lors de la trichoscopie?",
+        "answer": "Les cheveux en virgule sont un signe pathognomonique de teigne. D'autres aspects prédictifs du diagnostic incluent les cheveux en tire-bouchon, zigzag, et morse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de choix pour les teignes endothrix à Trichophyton sp. en cas de contre-indications à la griséofulvine?",
+        "answer": "La terbinafine est indiquée en cas de teignes endothrix à Trichophyton sp. avec une posologie de 250 mg/jour pendant 2 à 4 semaines chez l'adulte, 125 mg/jour chez l'enfant de 20-40 kg et 62,5 mg/jour si le poids est inférieur à 20 kg.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée moyenne d'un diagnostic mycologique à partir d'une culture pour les dermatophytes agents de teigne?",
+        "answer": "La durée moyenne d'un diagnostic mycologique à partir d'une culture pour les dermatophytes agents de teigne est de 3 semaines environ.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements locaux recommandés pour les teignes?",
+        "answer": "Le traitement local inclut l'utilisation d'un shampooing antifongique, d'un kératolytique pour décaper les croûtes, et d'un antifongique local. On coupe les cheveux aux ciseaux et on désinfecte les bonnets et les instruments de coiffure par un antifongique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'itraconazole pour le traitement des teignes microsporiques?",
+        "answer": "L'itraconazole est administré à une posologie de 3-5 mg/kg/jour pendant 4 à 6 semaines pour le traitement des teignes microsporiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les objectifs du traitement des teignes?",
+        "answer": "Les objectifs du traitement des teignes sont de guérir le patient, d'éviter la contagion, de diminuer le retentissement psychologique sur l'enfant et son entourage, et d'éviter une alopécie cicatricielle définitive dans le cas du favus.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du fluconazole pour le traitement des teignes à Trichophyton sp.?",
+        "answer": "Le fluconazole est administré à une posologie de 6 mg/kg/jour pendant 3 semaines pour le traitement des teignes à Trichophyton sp.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes chez le nourrisson de moins d'un an et chez la femme enceinte ou allaitante?",
+        "answer": "Le traitement se limite à l'application d'un antifongique local chez le nourrisson de moins d'un an et chez la femme enceinte ou allaitante.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures préventives doivent être prises en cas de découverte de teigne dans une famille?",
+        "answer": "Tous les membres de la famille doivent être examinés et traités simultanément. Les parents, camarades de classe et de jeu doivent être informés pour que leurs enfants puissent être examinés et traités si nécessaire. Il faut décourager le partage des fomites et la participation à des sports de contact, et pratiquer un nettoyage adéquat des objets partagés potentiellement contaminés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le traitement recommandé en cas de kérion?",
+        "answer": "En cas de kérion, il est préconisé de faire épiler les plaques et de traiter le patient par un anti-inflammatoire non stéroïdien et un antalgique en cas de besoin. Il n'est pas indiqué de prescrire des corticoïdes par voie générale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du ketoconazole pour le traitement des teignes à Trichophyton sp.?",
+        "answer": "Le ketoconazole est administré à une posologie de 8 mg/kg/jour pendant 6 semaines pour le traitement des teignes à Trichophyton sp.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour le diagnostic des teignes?",
+        "answer": "Les examens recommandés pour le diagnostic des teignes incluent l'examen direct des squames et des fragments de cheveux, la culture sur géloses de Sabouraud, et la trichoscopie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la posologie de la griséofulvine pour le traitement des teignes chez l'enfant et l'adulte?",
+        "answer": "La griséofulvine est administrée à une posologie de 20 à 25 mg/kg/jour (en 2 prises) pendant 6 semaines chez l'enfant et de 1 g/jour pendant 6 semaines chez l'adulte.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les aspects prédictifs du diagnostic de teigne observés lors de la trichoscopie?",
+        "answer": "Les aspects prédictifs du diagnostic de teigne observés lors de la trichoscopie incluent les cheveux en virgule, tire-bouchon, zigzag, et morse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la procédure recommandée en cas de teigne zoophile?",
+        "answer": "En cas de teigne zoophile, l'animal en cause doit être traité. L'éviction scolaire n'est pas exigée si le traitement est mis en route dès le diagnostic établi.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de teigne trichophytique et microsporique?",
+        "answer": "En cas de teigne trichophytique, le traitement par terbinafine est recommandé. En cas de teigne microsporique, la terbinafine peut être poursuivie pendant 2 semaines ou un switch vers l'itraconazole pendant 2 semaines peut être effectué.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la terbinafine pour le traitement des teignes chez l'enfant en fonction du poids?",
+        "answer": "La posologie de la terbinafine pour le traitement des teignes chez l'enfant est de 62,5 mg/jour pour un poids de 10-20 kg, 125 mg/jour pour un poids de 21-40 kg, et 250 mg/jour pour un poids supérieur à 40 kg.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens à réaliser pour le diagnostic des teignes?",
+        "answer": "Les examens à réaliser pour le diagnostic des teignes incluent l'examen direct des squames et des fragments de cheveux, la culture sur géloses de Sabouraud, et la trichoscopie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la durée de traitement recommandée pour la terbinafine en cas de teigne à Trichophyton sp. chez l'adulte?",
+        "answer": "La durée de traitement recommandée pour la terbinafine en cas de teigne à Trichophyton sp. chez l'adulte est de 2 à 4 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes chez les enfants de moins de 10 kg?",
+        "answer": "Les enfants de moins de 10 kg doivent être pris en charge hospitalièrement en raison du manque de données disponibles pour identifier la meilleure stratégie de traitement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'itraconazole pour le traitement des teignes chez l'enfant en fonction du poids?",
+        "answer": "La posologie de l'itraconazole pour le traitement des teignes chez l'enfant est de 50 mg/jour pour un poids de 10-20 kg et de 100 mg/jour pour un poids supérieur à 20 kg.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de teigne microsporique?",
+        "answer": "En cas de teigne microsporique, l'itraconazole est recommandé à une posologie de 3-5 mg/kg/jour pendant 4 à 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de teigne trichophytique?",
+        "answer": "En cas de teigne trichophytique, la terbinafine est recommandée à une posologie de 250 mg/jour pendant 2 à 4 semaines chez l'adulte, 125 mg/jour chez l'enfant de 20-40 kg et 62,5 mg/jour si le poids est inférieur à 20 kg.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes chez les enfants de plus de 10 kg?",
+        "answer": "Les enfants de plus de 10 kg peuvent être traités par terbinafine (62,5 mg/jour pour 10-20 kg, 125 mg/jour pour 21-40 kg, 250 mg/jour pour plus de 40 kg) ou par itraconazole (50 mg/jour pour 10-20 kg, 100 mg/jour pour plus de 20 kg).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes en cas de kérion?",
+        "answer": "En cas de kérion, il est recommandé de faire épiler les plaques et de traiter le patient par un anti-inflammatoire non stéroïdien et un antalgique en cas de besoin. Il n'est pas indiqué de prescrire des corticoïdes par voie générale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes chez les nourrissons de moins d'un an?",
+        "answer": "Chez les nourrissons de moins d'un an, le traitement se limite à l'application d'un antifongique local.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes chez les femmes enceintes ou allaitantes?",
+        "answer": "Chez les femmes enceintes ou allaitantes, le traitement se limite à l'application d'un antifongique local.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les teignes en cas de contre-indications à la griséofulvine?",
+        "answer": "En cas de contre-indications à la griséofulvine, la terbinafine est recommandée pour les teignes endothrix à Trichophyton sp., et l'itraconazole pour les teignes microsporiques.",
+        "qtype": "traitement"
+    }
+]

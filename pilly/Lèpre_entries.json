@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelle est la cause de la lèpre?",
+        "answer": "La lèpre est due à Mycobacterium leprae, un germe non cultivable in vitro, à multiplication lente et à tropisme cutané et nerveux périphérique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les trois pays concentrant 81 % des nouveaux cas de lèpre dans le monde?",
+        "answer": "L'Inde, le Brésil et l'Indonésie concentrent 81 % des nouveaux cas de lèpre dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet principalement la lèpre?",
+        "answer": "La transmission de la lèpre se fait surtout par voie respiratoire via les gouttelettes nasales très chargées en M. leprae.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la durée d'incubation de la lèpre?",
+        "answer": "La durée d'incubation de la lèpre est de 3 à 20 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la lèpre tuberculoïde?",
+        "answer": "Les symptômes typiques de la lèpre tuberculoïde incluent des taches hypochromiques, anesthésiques, à bord infiltré, et une névrite hypertrophique de quelques gros troncs nerveux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la classification simplifiée de la lèpre selon l'OMS?",
+        "answer": "La classification simplifiée de la lèpre selon l'OMS se base sur le nombre de lésions cutanées : lèpre à lésion unique, lèpre à moins de 5 lésions (paucibacillaire), et lèpre à lésions multiples de plus de 5 lésions (multibacillaire).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prévalence actuelle de la lèpre?",
+        "answer": "La prévalence de la lèpre est en baisse de 90 % depuis 20 ans en raison du traitement anti-infectieux court et efficace.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de lésions cutanées dans la lèpre multibacillaire?",
+        "answer": "Les lésions cutanées dans la lèpre multibacillaire sont des papulo-nodules cuivrés, disséminés (dits lépromes).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale source de séquelles dans la lèpre?",
+        "answer": "L'atteinte nerveuse est la principale source de séquelles mutilantes et de stigmatisation dans la lèpre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la lèpre?",
+        "answer": "La lèpre est curable par une antibiothérapie spécifique de 6 à 12 mois, accessible et gratuite partout.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la proportion de nouveaux cas de lèpre avec atteinte neurologique significative?",
+        "answer": "Environ 10 % des nouveaux cas de lèpre s’accompagnent d’une atteinte neurologique significative.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle de la réaction d’immunité cellulaire dans la lèpre?",
+        "answer": "La réaction d’immunité cellulaire à M. leprae intervient chez l’hôte dans l’expression et le contrôle de la maladie, bloquant la réplication bacillaire et limitant les lésions dans la lèpre tuberculoïde.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la lèpre tuberculoïde?",
+        "answer": "Les symptômes de la lèpre tuberculoïde incluent des taches hypochromiques, anesthésiques, à bord infiltré, et une névrite hypertrophique de quelques gros troncs nerveux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la lèpre multibacillaire?",
+        "answer": "Les symptômes de la lèpre multibacillaire incluent des papulo-nodules cuivrés, disséminés, une atteinte diffuse des nerfs avec anesthésie en gants et chaussettes, et des complications neuro-trophiques majeures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la charge bacillaire dans la lèpre tuberculoïde?",
+        "answer": "La charge bacillaire dans la lèpre tuberculoïde est faible ou indétectable, d'où le terme de « lèpre paucibacillaire ».",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la charge bacillaire dans la lèpre multibacillaire?",
+        "answer": "La charge bacillaire dans la lèpre multibacillaire est très élevée, d'où le terme de « lèpre multibacillaire ».",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de granulomes dans la lèpre tuberculoïde?",
+        "answer": "Les granulomes dans la lèpre tuberculoïde sont de type tuberculoïde, non spécifiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les types de granulomes dans la lèpre multibacillaire?",
+        "answer": "Les granulomes dans la lèpre multibacillaire sont spécifiques, à macrophages spumeux de Wirchow.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes des neuropathies dans la lèpre?",
+        "answer": "Les neuropathies dans la lèpre incluent une diminution de la sensibilité tactile, thermique, douloureuse, ainsi que des troubles moteurs et trophiques comme la paralysie des deux derniers doigts de la main, le pied tombant, les amyotrophies et les rétractions.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes neuro-trophiques dans la lèpre?",
+        "answer": "Les atteintes neuro-trophiques dans la lèpre incluent des complications sensitivo-motrices, par exemple cubito-médiane, et des complications majeures comme les grosses mains, les gros pieds, le mal perforant et les mutilations.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes infectieuses directes dans la lèpre?",
+        "answer": "Les atteintes infectieuses directes dans la lèpre peuvent inclure des atteintes oculaires, ORL et osseuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes immuno-inflammatoires dans la lèpre?",
+        "answer": "Les atteintes immuno-inflammatoires dans la lèpre peuvent inclure des névrites, des uvéites, des orchites et des arthrites réactionnelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions cutanées dans la lèpre tuberculoïde?",
+        "answer": "Les lésions cutanées dans la lèpre tuberculoïde sont des taches sans relief (macules) ou papuleuses (en relief), hypochromiques ou cuivrées sur peau fortement pigmentée, érythémateuses sur peau claire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions cutanées dans la lèpre multibacillaire?",
+        "answer": "Les lésions cutanées dans la lèpre multibacillaire sont des papulo-nodules cuivrés, disséminés (dits lépromes).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions nerveuses dans la lèpre tuberculoïde?",
+        "answer": "Les lésions nerveuses dans la lèpre tuberculoïde incluent une névrite hypertrophique de quelques gros troncs nerveux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions nerveuses dans la lèpre multibacillaire?",
+        "answer": "Les lésions nerveuses dans la lèpre multibacillaire incluent une atteinte diffuse des nerfs avec anesthésie en gants et chaussettes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications neuro-trophiques dans la lèpre tuberculoïde?",
+        "answer": "Les complications neuro-trophiques dans la lèpre tuberculoïde sont limitées et incluent des complications sensitivo-motrices, par exemple cubito-médiane.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications neuro-trophiques dans la lèpre multibacillaire?",
+        "answer": "Les complications neuro-trophiques dans la lèpre multibacillaire sont majeures et incluent des grosses mains, des gros pieds, le mal perforant et des mutilations.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes viscérales dans la lèpre?",
+        "answer": "Les viscères, les troncs nerveux profonds et le système nerveux central restent indemnes dans la lèpre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes caractéristiques de la lèpre lépromateuse/multibacillaire?",
+        "answer": "Les symptômes incluent des papules/nodules fermes et souvent symétriques, un gros nez avec rhinite, des oreilles et arcades sourcilières tuméfiées, un visage infiltré et cuirassé, et des névrites hypertrophiques sensitivo-motrices distales et symétriques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications neurotrophiques fréquentes de la lèpre?",
+        "answer": "Les complications neurotrophiques fréquentes incluent des atteintes oculaires, ORL (paralysie faciale, atteinte des os du nez, des cordes vocales avec dysphonie), ostéo-articulaires (ostéites, arthrites, ostéolyse trophique), et des déformations des mains et des pieds avec ulcérations et maux perforants plantaires.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les types de réactions lépreuses?",
+        "answer": "Il existe deux types de réactions lépreuses : le type 1 ou réaction reverse de la lèpre tuberculoïde ou interpolaire, et le type 2 ou érythème noueux lépreux (ENL) exclusivement dans la lèpre lépromateuse.",
+        "qtype": "réactions"
+    },
+    {
+        "question": "Quels sont les symptômes de la réaction lépreuse de type 2?",
+        "answer": "Les symptômes incluent fièvre, névrites aiguës douloureuses avec paralysies, œdème et rougeur des lésions cutanées préexistantes, érythème noueux nodulaire disséminé inflammatoire, uvéite, polyarthrite, adénite, et orchiépididymite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont requis pour le diagnostic positif de la lèpre?",
+        "answer": "Les examens requis incluent un examen complet du revêtement cutanéo-muqueux, testing des sensibilités superficielles, palpation des gros troncs nerveux, écouvillonnage nasal ou recueil de suc dermique, et biopsie cutanée.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de la lèpre?",
+        "answer": "Les diagnostics différentiels incluent la leishmaniose cutanée, les lymphomes cutanés, la neurofibromatose de Recklinghausen, les mycoses profondes tropicales, la sarcoïdose, le granulome annulaire, et le lupus discoïde.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les médicaments recommandés par l'OMS pour le traitement de la lèpre paucibacillaire?",
+        "answer": "Les médicaments recommandés sont la dapsone (100 mg quotidien), la rifampicine (600 mg mensuel), et la clofazimine (300 mg mensuel + 50 mg quotidien) pour une durée de 6 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les médicaments recommandés par l'OMS pour le traitement de la lèpre multibacillaire?",
+        "answer": "Les médicaments recommandés sont la dapsone (100 mg quotidien), la rifampicine (600 mg mensuel), et la clofazimine (300 mg mensuel + 50 mg quotidien) pour une durée de 1 an.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les réactions lépreuses de type 1 et type 2?",
+        "answer": "Pour les réactions de type 1, le traitement est la prednisone (0,5-1 mg/kg/jour). Pour les réactions de type 2, le traitement inclut la prednisone (0,5-1 mg/kg/jour) et la clofazimine (300 mg/j) ou la thalidomide (400 mg/j).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les neuropathies lépreuses?",
+        "answer": "Le traitement pour les neuropathies lépreuses est la prednisone (0,5-1 mg/kg/jour).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels autres traitements sont utiles pour la réduction des atteintes neurotrophiques de la lèpre?",
+        "answer": "Les autres traitements incluent la chirurgie (neurolyses, transpositions de troncs nerveux et tendons, plasties sur rétractions, opérations sur les paupières, greffes de peau) et la rééducation et l'appareillage.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'efficacité du BCG dans la prévention de la lèpre?",
+        "answer": "Le BCG administré dans l’enfance offre une protection de 20 à 80 % selon les études.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle chimioprophylaxie a été testée pour la prévention de la lèpre chez les sujets contacts?",
+        "answer": "La rifampicine en dose unique de 600 mg a été testée et réduit de 60 % l’incidence de la lèpre dans les premières années qui suivent.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les risques pour un voyageur de contracter la lèpre?",
+        "answer": "Le voyageur qui se rend pour un séjour prolongé en pays tropical pour y vivre dans des conditions sanitaires et nutritionnelles satisfaisantes ne court à priori aucun risque de contracter la lèpre.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles de la dapsone utilisée dans le traitement de la lèpre?",
+        "answer": "Les effets secondaires possibles de la dapsone incluent l'anémie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles de la rifampicine utilisée dans le traitement de la lèpre?",
+        "answer": "Les effets secondaires possibles de la rifampicine incluent des réactions allergiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles de la clofazimine utilisée dans le traitement de la lèpre?",
+        "answer": "Les effets secondaires possibles de la clofazimine incluent la coloration des téguments.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles de la thalidomide utilisée dans le traitement des réactions lépreuses de type 2?",
+        "answer": "Les effets secondaires possibles de la thalidomide incluent des effets tératogènes et neurotoxiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles de la corticothérapie au long cours utilisée dans le traitement des réactions lépreuses?",
+        "answer": "Les effets secondaires possibles incluent diverses complications liées à la corticothérapie au long cours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des neuropathies lépreuses?",
+        "answer": "Les symptômes incluent des névrites hypertrophiques, sensitivo-motrices, distales et symétriques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications ostéo-articulaires de la lèpre?",
+        "answer": "Les symptômes incluent des ostéites, arthrites, et ostéolyse trophique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications ORL de la lèpre?",
+        "answer": "Les symptômes incluent la paralysie faciale, l'atteinte des os du nez, et des cordes vocales avec dysphonie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications oculaires de la lèpre?",
+        "answer": "Les symptômes incluent diverses atteintes oculaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des ulcérations et maux perforants plantaires dans la lèpre?",
+        "answer": "Les symptômes incluent des ulcérations et des maux perforants plantaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des déformations des mains et des pieds dans la lèpre?",
+        "answer": "Les symptômes incluent des phalanges grignotées ou amputées, spontanément ou post brûlure du fait de la perte de la sensibilité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la lèpre réactionnelle chez un malade traité?",
+        "answer": "Les symptômes incluent une détérioration paradoxale avec des manifestations inflammatoires aiguës.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la lèpre tuberculoïde ou interpolaire?",
+        "answer": "Les symptômes incluent la réapparition de lésions précédemment guéries et une névrite aiguë hyperalgique et déficitaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la lèpre lépromateuse?",
+        "answer": "Les symptômes incluent des manifestations variées associant fièvre, névrites aiguës douloureuses avec paralysies, œdème et rougeur des lésions cutanées préexistantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'érythème noueux lépreux (ENL)?",
+        "answer": "Les symptômes incluent un érythème noueux nodulaire disséminé inflammatoire, sensible et associé à une uvéite, polyarthrite, adénite, et orchiépididymite.",
+        "qtype": "symptômes"
+    }
+]

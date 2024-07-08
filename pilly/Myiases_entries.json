@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce qu'une myiase?",
+        "answer": "Les myiases sont des parasitoses humaines ou animales dues à des larves de mouches non piqueuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les principales espèces de mouches responsables de myiases épicutannées?",
+        "answer": "Auchmeromyia senegalensis en Afrique tropicale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les myiases furonculoïdes?",
+        "answer": "En Afrique, elles se transmettent par contact avec du linge ou du sable contaminé. En Amérique Centrale et du Sud, elles se transmettent par les moustiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des myiases sous-cutanées?",
+        "answer": "Les myiases sous-cutanées peuvent causer des papules furonculoïdes, des douleurs intermittentes et des lésions inflammatoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de développement des larves de Cordylobia anthropophaga?",
+        "answer": "Le développement des larves de Cordylobia anthropophaga dure de 7 à 21 jours.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les types de myiases cavitaires?",
+        "answer": "Les myiases cavitaires incluent les myiases oculaires, nasosinusiennes et du conduit auditif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste une myiase épicutanée?",
+        "answer": "La myiase épicutanée se manifeste par une piqûre peu douloureuse pouvant causer un œdème local.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases des plaies?",
+        "answer": "Les principaux vecteurs des myiases des plaies sont les mouches des genres Cochliomyia, Chrysomyia, Lucilia, Sarcophaga, Calliphora, Callitroga, Musca et Fannia.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se développe une myiase furonculoïde causée par Dermatobia hominis?",
+        "answer": "La larve de Dermatobia hominis pénètre la peau, souvent au niveau du cuir chevelu, causant une papule inflammatoire puis un furoncle. La larve mature en six semaines.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une myiase furonculoïde causée par Cordylobia anthropophaga?",
+        "answer": "Les symptômes incluent des papules furonculoïdes, des piqûres peu douloureuses et des lésions oblongues caractéristiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des myiases cavitaires?",
+        "answer": "Les myiases cavitaires peuvent causer des lésions inflammatoires et des infections secondaires dans les cavités naturelles du corps.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmettent les myiases des plaies?",
+        "answer": "Les myiases des plaies se transmettent par l'attirance des mouches pour les tissus nécrosés et malodorants où elles pondent leurs œufs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des myiases rampantes?",
+        "answer": "Les myiases rampantes causent des lésions migrantes sous la peau, se déplaçant de quelques centimètres par jour.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases sous-cutanées en Afrique?",
+        "answer": "Les principaux vecteurs des myiases sous-cutanées en Afrique sont les mouches Cordylobia anthropophaga.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases sous-cutanées en Amérique Centrale et du Sud?",
+        "answer": "Les principaux vecteurs des myiases sous-cutanées en Amérique Centrale et du Sud sont les mouches Dermatobia hominis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste une myiase oculaire?",
+        "answer": "Une myiase oculaire se manifeste par des lésions inflammatoires au niveau des yeux causées par les larves de mouches.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des myiases nasosinusiennes?",
+        "answer": "Les myiases nasosinusiennes causent des lésions inflammatoires et des infections secondaires dans les cavités nasales et sinusiennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des myiases du conduit auditif?",
+        "answer": "Les myiases du conduit auditif causent des lésions inflammatoires et des infections secondaires dans le conduit auditif.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste une myiase des plaies?",
+        "answer": "Une myiase des plaies se manifeste par des lésions nécrosées et malodorantes où les larves de mouches se nourrissent et se développent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases épicutannées?",
+        "answer": "Les principaux vecteurs des myiases épicutannées sont les mouches Auchmeromyia senegalensis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases rampantes?",
+        "answer": "Les principaux vecteurs des myiases rampantes sont les larves d'Hypoderma.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se développe une myiase cavitaire?",
+        "answer": "Les myiases cavitaires se développent à partir de pontes d'œufs au niveau des fentes palpébrales ou à proximité d'orifices naturels.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des myiases furonculoïdes?",
+        "answer": "Les myiases furonculoïdes causent des papules furonculoïdes, des douleurs intermittentes et des lésions inflammatoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases des plaies en Amérique tropicale?",
+        "answer": "Les principaux vecteurs des myiases des plaies en Amérique tropicale sont les mouches Cochliomyia hominivorax.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases des plaies en Asie, Afrique tropicale et Australie?",
+        "answer": "Les principaux vecteurs des myiases des plaies en Asie, Afrique tropicale et Australie sont les mouches Chrysomyia.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases des plaies cosmopolites?",
+        "answer": "Les principaux vecteurs des myiases des plaies cosmopolites sont les mouches Lucilia, Sarcophaga, Calliphora, Callitroga, Musca et Fannia.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des myiases des plaies?",
+        "answer": "Les myiases des plaies causent des lésions nécrosées et malodorantes où les larves de mouches se nourrissent et se développent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases oculaires?",
+        "answer": "Les principaux vecteurs des myiases oculaires sont les mouches Oestrus ovis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases nasosinusiennes?",
+        "answer": "Les principaux vecteurs des myiases nasosinusiennes sont les mouches Lucilia, Sarcophaga et Calliphora.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des myiases du conduit auditif?",
+        "answer": "Les principaux vecteurs des myiases du conduit auditif sont les mouches Lucilia, Sarcophaga et Calliphora.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment les animaux se contaminent-ils par les œufs de la mouche?",
+        "answer": "Les animaux se contaminent en avalant les œufs de la mouche déposés sur leurs poils en se léchant.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes chez l'homme après contamination par les œufs de la mouche?",
+        "answer": "Les symptômes chez l'homme incluent des signes allergiques tels que prurit, urticaire, arthro-myalgies, lésions furonculoïdes, tuméfactions rampantes, et atteintes profondes après égarement dans le système nerveux ou l’œil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels animaux sont principalement parasités par les larves de Gasterophilus?",
+        "answer": "Les chevaux, les ânes et les mulets sont principalement parasités par les larves de Gasterophilus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifestent les myiases cavitaires de la face?",
+        "answer": "Les myiases cavitaires de la face résultent de la ponte des œufs de mouche au niveau des yeux, des narines ou des conduits auditifs, provoquant des conjonctivites, des nasomyiases, et des otomyiases.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle espèce de mouche est responsable de conjonctivite dans les régions d’élevage de moutons?",
+        "answer": "Oestrus ovis est responsable de conjonctivite dans les régions d’élevage de moutons.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des nasomyiases?",
+        "answer": "Les symptômes des nasomyiases incluent prurit, rhinorrhée séreuse puis purulente, et douleur locale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifestent les myiases intestinales?",
+        "answer": "Les myiases intestinales se manifestent par des douleurs abdominales, des hémorragies et des perforations digestives.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les conséquences des myiases génito-urinaires?",
+        "answer": "Les myiases génito-urinaires peuvent affecter l’urètre, la vessie, le vagin ou le rectum, résultant d’une hygiène défectueuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle espèce de mouche peut détruire les cartilages et les os en Amérique du Sud?",
+        "answer": "Cochliomyia hominivorax peut détruire les cartilages et les os en Amérique du Sud.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic des myiases superficielles?",
+        "answer": "Le diagnostic des myiases superficielles est basé sur l’aspect clinique et la zone géographique, et confirmé par la mise en évidence de la larve.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques des myiases superficielles?",
+        "answer": "Les signes cliniques des myiases superficielles incluent des lésions cutanées avec présence de larves.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment extraire les larves des lésions furonculoïdes?",
+        "answer": "Les larves des lésions furonculoïdes peuvent être extraites par simple pression digitale de part et d’autre de la lésion cutanée, facilitée par une occlusion préalable à visée anoxique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les myiases rampantes?",
+        "answer": "Les myiases rampantes seraient sensibles à l‘ivermectine à la dose de 200 microgrammes/kg en prise unique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement des myiases cavitaires?",
+        "answer": "Le traitement des myiases cavitaires peut inclure des injections de chloroforme ou des inhalations de ce produit, suivies d'irrigations de sérum physiologique ou extraction avec une pince.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment prévenir la myiase à Auchmeromyia luteola?",
+        "answer": "La myiase à Auchmeromyia luteola peut être évitée en remplaçant la natte au sol par une literie surélevée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Comment prévenir la myiase à Cordylobia anthropophaga?",
+        "answer": "La myiase à Cordylobia anthropophaga est prévenue en évitant de laisser pendre ou sécher du linge à l’extérieur des logements et en repassant le linge au fer chaud.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la principale cause des myiases autres que celles à Dermatobia hominis?",
+        "answer": "La principale cause des myiases autres que celles à Dermatobia hominis est la promiscuité avec des animaux et un manque d’hygiène corporelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment prévenir les myiases en général?",
+        "answer": "Pour prévenir les myiases, il est recommandé de couvrir systématiquement toute plaie cutanée par un pansement et de détruire les mouches par des produits insecticides.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les conseils pour les voyageurs pour éviter les myiases?",
+        "answer": "Les voyageurs doivent veiller à repasser leur linge au fer chaud s'ils ne peuvent le sécher dans des locaux isolés de l’extérieur et désinfecter immédiatement toute lésion de piqûre de moustique.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la méthode de prévention recommandée pour la myiase à D. hominis?",
+        "answer": "Pour prévenir la myiase à D. hominis, il est recommandé d'utiliser des répulsifs cutanés et des moustiquaires.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes des otomyiases?",
+        "answer": "Les symptômes des otomyiases incluent prurit, douleur locale, et parfois rupture tympanique (otite).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifestent les myiases des plaies?",
+        "answer": "Les myiases des plaies se manifestent par la présence de larves dans les plaies, certaines pouvant détruire les cartilages et les os.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des myiases des plaies?",
+        "answer": "Le traitement des myiases des plaies nécessite un décapage suivi d’une antisepsie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques des myiases superficielles?",
+        "answer": "Les signes cliniques des myiases superficielles incluent des lésions cutanées avec présence de larves.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic des myiases superficielles?",
+        "answer": "Le diagnostic des myiases superficielles est basé sur l’aspect clinique et la zone géographique, et confirmé par la mise en évidence de la larve.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des myiases intestinales?",
+        "answer": "Les symptômes des myiases intestinales incluent des douleurs abdominales, des hémorragies et des perforations digestives.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifestent les myiases génito-urinaires?",
+        "answer": "Les myiases génito-urinaires peuvent affecter l’urètre, la vessie, le vagin ou le rectum, résultant d’une hygiène défectueuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle espèce de mouche peut détruire les cartilages et les os en Amérique du Sud?",
+        "answer": "Cochliomyia hominivorax peut détruire les cartilages et les os en Amérique du Sud.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment extraire les larves des lésions furonculoïdes?",
+        "answer": "Les larves des lésions furonculoïdes peuvent être extraites par simple pression digitale de part et d’autre de la lésion cutanée, facilitée par une occlusion préalable à visée anoxique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les myiases rampantes?",
+        "answer": "Les myiases rampantes seraient sensibles à l‘ivermectine à la dose de 200 microgrammes/kg en prise unique.",
+        "qtype": "traitement"
+    }
+]

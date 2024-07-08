@@ -1,0 +1,287 @@
+[
+    {
+        "question": "Quels sont les agents microbiens les plus fréquemment impliqués dans les infections urinaires communautaires?",
+        "answer": "Les agents microbiens les plus fréquemment impliqués ont une origine digestive comme les entérobactéries (Escherichia coli, Proteus mirabilis, Klebsiella pneumoniae, Enterobacter cloacae…) et les entérocoques. Staphylococcus saprophyticus est responsable de 10 % des cystites non compliquées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques d'une cystite aiguë?",
+        "answer": "Les symptômes typiques d'une cystite aiguë incluent des signes fonctionnels urinaires isolés (pollakiurie, brûlures mictionnelles, hématurie, dysurie) et parfois une douleur pelvienne. La fièvre et la douleur lombaire sont absentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infection urinaire?",
+        "answer": "Les facteurs de risque d'infection urinaire incluent l'immunosuppression, la drépanocytose, l'infection par le VIH, le diabète, la néoplasie des voies urinaires, la malnutrition et l'hypoprotidémie, la grossesse, la mutilation sexuelle féminine, la lithiase urinaire, le reflux vésico-urétéral, la bilharziose uro-génitale, les gestes invasifs du tractus urinaire, et les troubles de la commande neurologique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste cliniquement une pyélonéphrite aiguë?",
+        "answer": "La pyélonéphrite aiguë se manifeste par des signes fonctionnels urinaires parfois absents, une fièvre, des douleurs de la fosse lombaire et de l'angle costo-lombaire, en règle unilatérales, à irradiation descendante vers le pubis et les organes génitaux externes. Elle peut aussi s'accompagner de signes digestifs (nausées, troubles du transit, douleur abdominale).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une prostatite?",
+        "answer": "Les signes cliniques d'une prostatite peuvent inclure des signes urinaires (dysurie voire rétention aiguë d'urine, brûlures mictionnelles), une douleur pelvienne et une fièvre. Le toucher rectal montre une prostate augmentée de volume et douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés pour diagnostiquer une cystite récidivante?",
+        "answer": "Pour diagnostiquer une cystite récidivante, il est recommandé de rechercher une anomalie anatomique urinaire et/ou génitale, congénitale ou acquise, par échographie, urographie intraveineuse ou mieux uro-scanner si disponible.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes d'une orchi-épididymite?",
+        "answer": "Les symptômes d'une orchi-épididymite incluent des douleurs unilatérales et vives de la bourse, irradiant le long du canal inguinal, des troubles urinaires du bas appareil dans un contexte fébrile. L'examen met en évidence une bourse inflammatoire avec disparition des plis scrotaux et opacité à la trans-illumination, un testicule douloureux, augmenté de volume, et une infiltration douloureuse de la queue ou de la totalité de l'épidydime.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux facteurs mécaniques favorisant les infections urinaires?",
+        "answer": "Les principaux facteurs mécaniques favorisant les infections urinaires incluent la grossesse, la mutilation sexuelle féminine, la lithiase urinaire, le reflux vésico-urétéral, la bilharziose uro-génitale, et les gestes invasifs du tractus urinaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels urinaires typiques d'une cystite aiguë?",
+        "answer": "Les signes fonctionnels urinaires typiques d'une cystite aiguë incluent la pollakiurie, les brûlures mictionnelles, l'hématurie et la dysurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une cystite récidivante?",
+        "answer": "Les symptômes d'une cystite récidivante incluent des épisodes typiques de cystite récidivant à une fréquence annuelle supérieure à 4 par an.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pyélonéphrite aiguë?",
+        "answer": "Les symptômes d'une pyélonéphrite aiguë incluent des signes fonctionnels urinaires parfois absents, une fièvre, des douleurs de la fosse lombaire et de l'angle costo-lombaire, en règle unilatérales, à irradiation descendante vers le pubis et les organes génitaux externes, et parfois des signes digestifs (nausées, troubles du transit, douleur abdominale).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une prostatite?",
+        "answer": "Les symptômes d'une prostatite incluent des signes urinaires (dysurie voire rétention aiguë d'urine, brûlures mictionnelles), une douleur pelvienne et une fièvre. Le toucher rectal montre une prostate augmentée de volume et douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une orchi-épididymite?",
+        "answer": "Les symptômes d'une orchi-épididymite incluent des douleurs unilatérales et vives de la bourse, irradiant le long du canal inguinal, des troubles urinaires du bas appareil dans un contexte fébrile. L'examen met en évidence une bourse inflammatoire avec disparition des plis scrotaux et opacité à la trans-illumination, un testicule douloureux, augmenté de volume, et une infiltration douloureuse de la queue ou de la totalité de l'épidydime.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infection urinaire?",
+        "answer": "Les facteurs de risque d'infection urinaire incluent l'immunosuppression, la drépanocytose, l'infection par le VIH, le diabète, la néoplasie des voies urinaires, la malnutrition et l'hypoprotidémie, la grossesse, la mutilation sexuelle féminine, la lithiase urinaire, le reflux vésico-urétéral, la bilharziose uro-génitale, les gestes invasifs du tractus urinaire, et les troubles de la commande neurologique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques d'une cystite aiguë?",
+        "answer": "Les symptômes typiques d'une cystite aiguë incluent des signes fonctionnels urinaires isolés (pollakiurie, brûlures mictionnelles, hématurie, dysurie) et parfois une douleur pelvienne. La fièvre et la douleur lombaire sont absentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pyélonéphrite aiguë?",
+        "answer": "Les symptômes d'une pyélonéphrite aiguë incluent des signes fonctionnels urinaires parfois absents, une fièvre, des douleurs de la fosse lombaire et de l'angle costo-lombaire, en règle unilatérales, à irradiation descendante vers le pubis et les organes génitaux externes, et parfois des signes digestifs (nausées, troubles du transit, douleur abdominale).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une prostatite?",
+        "answer": "Les symptômes d'une prostatite incluent des signes urinaires (dysurie voire rétention aiguë d'urine, brûlures mictionnelles), une douleur pelvienne et une fièvre. Le toucher rectal montre une prostate augmentée de volume et douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une orchi-épididymite?",
+        "answer": "Les symptômes d'une orchi-épididymite incluent des douleurs unilatérales et vives de la bourse, irradiant le long du canal inguinal, des troubles urinaires du bas appareil dans un contexte fébrile. L'examen met en évidence une bourse inflammatoire avec disparition des plis scrotaux et opacité à la trans-illumination, un testicule douloureux, augmenté de volume, et une infiltration douloureuse de la queue ou de la totalité de l'épidydime.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infection urinaire?",
+        "answer": "Les facteurs de risque d'infection urinaire incluent l'immunosuppression, la drépanocytose, l'infection par le VIH, le diabète, la néoplasie des voies urinaires, la malnutrition et l'hypoprotidémie, la grossesse, la mutilation sexuelle féminine, la lithiase urinaire, le reflux vésico-urétéral, la bilharziose uro-génitale, les gestes invasifs du tractus urinaire, et les troubles de la commande neurologique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques d'une cystite aiguë?",
+        "answer": "Les symptômes typiques d'une cystite aiguë incluent des signes fonctionnels urinaires isolés (pollakiurie, brûlures mictionnelles, hématurie, dysurie) et parfois une douleur pelvienne. La fièvre et la douleur lombaire sont absentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pyélonéphrite aiguë?",
+        "answer": "Les symptômes d'une pyélonéphrite aiguë incluent des signes fonctionnels urinaires parfois absents, une fièvre, des douleurs de la fosse lombaire et de l'angle costo-lombaire, en règle unilatérales, à irradiation descendante vers le pubis et les organes génitaux externes, et parfois des signes digestifs (nausées, troubles du transit, douleur abdominale).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une prostatite?",
+        "answer": "Les symptômes d'une prostatite incluent des signes urinaires (dysurie voire rétention aiguë d'urine, brûlures mictionnelles), une douleur pelvienne et une fièvre. Le toucher rectal montre une prostate augmentée de volume et douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une orchi-épididymite?",
+        "answer": "Les symptômes d'une orchi-épididymite incluent des douleurs unilatérales et vives de la bourse, irradiant le long du canal inguinal, des troubles urinaires du bas appareil dans un contexte fébrile. L'examen met en évidence une bourse inflammatoire avec disparition des plis scrotaux et opacité à la trans-illumination, un testicule douloureux, augmenté de volume, et une infiltration douloureuse de la queue ou de la totalité de l'épidydime.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infection urinaire?",
+        "answer": "Les facteurs de risque d'infection urinaire incluent l'immunosuppression, la drépanocytose, l'infection par le VIH, le diabète, la néoplasie des voies urinaires, la malnutrition et l'hypoprotidémie, la grossesse, la mutilation sexuelle féminine, la lithiase urinaire, le reflux vésico-urétéral, la bilharziose uro-génitale, les gestes invasifs du tractus urinaire, et les troubles de la commande neurologique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques d'une cystite aiguë?",
+        "answer": "Les symptômes typiques d'une cystite aiguë incluent des signes fonctionnels urinaires isolés (pollakiurie, brûlures mictionnelles, hématurie, dysurie) et parfois une douleur pelvienne. La fièvre et la douleur lombaire sont absentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pyélonéphrite aiguë?",
+        "answer": "Les symptômes d'une pyélonéphrite aiguë incluent des signes fonctionnels urinaires parfois absents, une fièvre, des douleurs de la fosse lombaire et de l'angle costo-lombaire, en règle unilatérales, à irradiation descendante vers le pubis et les organes génitaux externes, et parfois des signes digestifs (nausées, troubles du transit, douleur abdominale).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une prostatite?",
+        "answer": "Les symptômes d'une prostatite incluent des signes urinaires (dysurie voire rétention aiguë d'urine, brûlures mictionnelles), une douleur pelvienne et une fièvre. Le toucher rectal montre une prostate augmentée de volume et douloureuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une orchi-épididymite?",
+        "answer": "Les symptômes d'une orchi-épididymite incluent des douleurs unilatérales et vives de la bourse, irradiant le long du canal inguinal, des troubles urinaires du bas appareil dans un contexte fébrile. L'examen met en évidence une bourse inflammatoire avec disparition des plis scrotaux et opacité à la trans-illumination, un testicule douloureux, augmenté de volume, et une infiltration douloureuse de la queue ou de la totalité de l'épidydime.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes prédominants dans les prostatites et orchites chez les hommes sexuellement actifs?",
+        "answer": "Les infections à Chlamydia trachomatis et Neisseria gonorrhoeae sont prédominantes, parfois associées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels examens sont systématiquement associés à l'ECBU en cas d'orchite chez un sujet jeune?",
+        "answer": "Un prélèvement urétral, un dépistage de la syphilis et du VIH.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels pathogènes doivent être recherchés en cas d'orchite chronique en zone tropicale?",
+        "answer": "La tuberculose, la brucellose, la bilharziose, la filariose lymphatique, voire une maladie non infectieuse (néoplasie).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de complications d'une prostatite ou orchite mal traitée?",
+        "answer": "Suppuration locale, généralisation de l'infection, passage à la chronicité, fibrose rénale, atrophie testiculaire, cancer du testicule, infertilité, abcès testiculaire, ischémie, nécrose testiculaire.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quel est le traitement initial des infections urinaires communautaires?",
+        "answer": "Le traitement antibiotique est d'abord probabiliste puis adapté aux données de l'antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une cystite aiguë simple chez la femme jeune?",
+        "answer": "Fosfomycine trométamol, pivmecillinam, nitrofurantoïne.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques doivent être évités en traitement probabiliste des infections urinaires?",
+        "answer": "L'amoxicilline et le cotrimoxazole doivent être évités en probabiliste.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pyélonéphrite aiguë?",
+        "answer": "Signes fonctionnels urinaires, fièvre, douleur lombaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une pyélonéphrite aiguë simple?",
+        "answer": "Ceftriaxone, céfotaxime, fluoroquinolones (ciprofloxacine, ofloxacine, norfloxacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée totale du traitement pour une pyélonéphrite aiguë?",
+        "answer": "10 à 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une prostatite aiguë?",
+        "answer": "Signes fonctionnels urinaires, fièvre, toucher rectal douloureux, douleur lombaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une prostatite aiguë?",
+        "answer": "Fluoroquinolone, cotrimoxazole, ceftriaxone ou céfotaxime.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée totale du traitement pour une prostatite aiguë?",
+        "answer": "14 jours si fluoroquinolones, cotrimoxazole ou bêta-lactamines injectables, 21 jours sinon.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels conseils d'hygiène sont recommandés pour prévenir les cystites récidivantes?",
+        "answer": "Miction post-coïtale, hydratation, transit intestinal minimal, port de vêtements non serrés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le traitement des orchites aiguës chez les hommes sexuellement actifs?",
+        "answer": "Le traitement repose sur l'association d'une molécule anti-gonococcique et d'une molécule active sur Chlamydia.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand les patients doivent-ils être adressés à une structure de santé de niveau 2 ou 3?",
+        "answer": "Si le tableau clinique initial est sévère (choc septique) ou en cas d'inefficacité du traitement antibiotique de première ligne.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une cystite aiguë?",
+        "answer": "Signes fonctionnels urinaires, apyrexie, absence de douleur lombaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une cystite compliquée chez la femme âgée?",
+        "answer": "Amoxicilline, cotrimoxazole, nitrofurantoïne, amoxicilline-clavulanate, cefixime.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une cystite gravidique?",
+        "answer": "Amoxicilline, cotrimoxazole (sauf au premier trimestre), nitrofurantoïne, amoxicilline-clavulanate, cefixime.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une pyélonéphrite aiguë compliquée?",
+        "answer": "Ceftriaxone, céfotaxime, fluoroquinolone, amoxicilline, amoxicilline-ac. clavulanique, cefixime, cotrimoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une pyélonéphrite aiguë gravidique?",
+        "answer": "Céfotaxime ou ceftriaxone + amikacine, piperacilline-tazobactem + amikacine, imipénème + amikacine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de BLSE (bêta-lactamase à spectre étendu)?",
+        "answer": "Antécédents de traitement par amoxicilline-clavulanate, fluoroquinolones, C3G, séjours en zone d'endémie, antécédents de colonisation/infection urinaire à BLSE.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés en cas de sepsis et colonisation/infection urinaire BLSE dans les 6 mois?",
+        "answer": "Piperacilline-tazobactem + amikacine, imipénème + amikacine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une cystite aiguë chez la femme enceinte?",
+        "answer": "Signes fonctionnels urinaires, apyrexie, absence de douleur lombaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une cystite aiguë chez la femme enceinte?",
+        "answer": "Amoxicilline, cotrimoxazole (sauf au premier trimestre), nitrofurantoïne, amoxicilline-clavulanate, cefixime.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pyélonéphrite aiguë chez la femme enceinte?",
+        "answer": "Signes fonctionnels urinaires, fièvre, douleur lombaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une pyélonéphrite aiguë chez la femme enceinte?",
+        "answer": "Céfotaxime ou ceftriaxone + amikacine, piperacilline-tazobactem + amikacine, imipénème + amikacine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une prostatite aiguë chez l'homme?",
+        "answer": "Signes fonctionnels urinaires, fièvre, toucher rectal douloureux, douleur lombaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour une prostatite aiguë chez l'homme?",
+        "answer": "Fluoroquinolone, cotrimoxazole, ceftriaxone ou céfotaxime.",
+        "qtype": "traitement"
+    }
+]

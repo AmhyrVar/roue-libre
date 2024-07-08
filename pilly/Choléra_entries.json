@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelle est la bactérie responsable du choléra?",
+        "answer": "Le choléra est dû à Vibrio cholerae.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la pathogénie du choléra?",
+        "answer": "Sa pathogénie est liée à l’action d’une entérotoxine thermolabile au niveau de la partie initiale du jéjunum.",
+        "qtype": "pathogénie"
+    },
+    {
+        "question": "Quelle est la mortalité du choléra non traité?",
+        "answer": "Non traitée, cette infection peut s’accompagner d’une mortalité pouvant dépasser 50% par collapsus, déshydratation et insuffisance rénale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où trouve-t-on V. cholerae?",
+        "answer": "V. cholerae est présent dans les eaux chaudes saumâtres, parfois dans les eaux douces.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les biotypes de V. cholerae responsables du choléra?",
+        "answer": "Il faut distinguer V. cholerae O1 El Tor et V. cholerae O139, responsables du choléra.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs principaux de V. cholerae?",
+        "answer": "L’homme est le principal réservoir de l’agent pathogène, présent en quantité très importante dans les selles des malades.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet le choléra?",
+        "answer": "Le choléra est transmissible par contamination interhumaine à l’intérieur d’un même foyer ou par l’intermédiaire d’aliments ou d’eau de boisson souillés par des excrétas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques du choléra?",
+        "answer": "Le patient présente brutalement des nausées, des vomissements, des douleurs abdominales et une diarrhée très rapidement aqueuse, afécale, incolore, d’odeur fade, contenant quelques grumeaux blanchâtres, d’aspect classiquement « eau de riz ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence des selles chez un patient atteint de choléra?",
+        "answer": "Les selles sont très fréquentes, souvent incessantes, entraînant une perte hydrique qui peut atteindre dix à quinze litres par jour.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de déshydratation dans le choléra?",
+        "answer": "Rapidement, s’installe un état de déshydratation globale avec collapsus et anurie, en cas de retard au diagnostic.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que le « choléra sec »?",
+        "answer": "Une déshydratation majeure, parfois fébrile, souvent mortelle, peut survenir avant que le patient n’émette la diarrhée évocatrice, c’est le « choléra sec ».",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les résultats typiques des examens sanguins chez un patient atteint de choléra?",
+        "answer": "Le bilan sanguin montre une hémoconcentration, des signes de déshydratation globale ou extracellulaire et des perturbations électrolytiques, parfois une insuffisance rénale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi l'analyse des selles est-elle importante dans le choléra?",
+        "answer": "L’analyse des selles est surtout intéressante pour affirmer le début d’une épidémie ou pour en démontrer la fin.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels tests peuvent orienter lors d’une investigation d’épidémie de choléra?",
+        "answer": "Les tests de diagnostic rapide peuvent orienter lors d’une investigation d’épidémie, mais manquent de fiabilité pour poser des diagnostics individuels.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment les prélèvements de choléra sont-ils transportés?",
+        "answer": "Les prélèvements sont facilement transportables à température ambiante sur milieu de Carry-Blair.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que montre l'examen microscopique direct des selles dans le choléra?",
+        "answer": "L’examen microscopique direct des selles confirme la présence de bacilles légèrement incurvés, en virgule, présentant une mobilité importante de type polaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle coloration met en évidence V. cholerae?",
+        "answer": "La coloration de Gram met en évidence des bacilles à Gram négatif.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme typique du choléra?",
+        "answer": "Le tableau caractéristique correspond au syndrome cholériforme avec nausées, vomissements, douleurs abdominales et diarrhée aqueuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la proportion des cas de choléra qui présentent une forme typique sévère?",
+        "answer": "Le syndrome cholériforme n’est présent sous sa forme typique sévère que dans 10 % des cas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme clinique la plus fréquente du choléra?",
+        "answer": "Il s’agit plus fréquemment d’un tableau de diarrhée aqueuse non fébrile sans déshydratation marquée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la proportion des formes asymptomatiques lors d'une épidémie de choléra?",
+        "answer": "Lors d’une épidémie, les formes asymptomatiques sont généralement les plus nombreuses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de déshydratation dans le choléra?",
+        "answer": "À l’examen clinique, la déshydratation est évidente ; parfois, il existe une sensibilité abdominale diffuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la souche de V. cholerae en cause actuellement?",
+        "answer": "La seule souche en cause actuellement est V. cholerae O1 biotype El Tor.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la souche de V. cholerae responsable de la septième pandémie?",
+        "answer": "V. cholerae O1 biotype El Tor est l'agent de la septième pandémie qui a débuté en 1961.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle souche de V. cholerae a été isolée en 1992?",
+        "answer": "Vibrio cholerae O139, isolé en 1992, est resté cantonné à l’Asie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les variants actuels de V. cholerae O1 El Tor?",
+        "answer": "Des variants de V. cholerae O1 El Tor circulent actuellement, présentant des gènes de toxine similaires à ceux de V. cholerae O1 biotype classique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la quantité de bactéries nécessaire pour une infection chez un sujet sain?",
+        "answer": "La survenue d’une infection nécessite l’ingestion d’une quantité importante de bactéries chez le sujet antérieurement sain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la quantité de bactéries nécessaire pour une infection chez un sujet atteint d’hypochlorhydrie gastrique?",
+        "answer": "L’inoculum infestant est beaucoup plus faible chez le sujet atteint d’a- ou d’hypochlorhydrie gastrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux du choléra?",
+        "answer": "Quelques heures à une semaine après la contamination, le patient présente brutalement des nausées, des vomissements, des douleurs abdominales et une diarrhée très rapidement aqueuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les tests utilisés pour confirmer le diagnostic du choléra?",
+        "answer": "Les tests biochimiques et l’agglutination avec des sérums anti-O1 et anti-O139 permettent de confirmer le diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels tests peuvent être nécessaires pour l'investigation d'une épidémie de choléra?",
+        "answer": "L’investigation d’une épidémie peut nécessiter la réalisation de tests biologiques plus sophistiqués, comme le génotypage des souches.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement principal du choléra?",
+        "answer": "Le traitement principal repose sur la réhydratation qui doit être instituée le plus rapidement possible pour compenser les pertes hydriques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment se fait la réhydratation chez un malade de choléra?",
+        "answer": "La réhydratation se fait par voie orale lorsque le malade est en mesure de boire, et par voie parentérale dans les autres cas.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel soluté de perfusion est le plus adapté pour la réhydratation des malades du choléra?",
+        "answer": "Le soluté de perfusion le plus adapté est le Ringer-Lactate.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques peuvent être utilisés pour traiter le choléra?",
+        "answer": "Le traitement antibiotique repose sur des tétracyclines, du cotrimoxazole, des macrolides ou des fluoroquinolones pendant 3 à 4 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi la prescription de zinc est-elle préconisée dans le traitement du choléra?",
+        "answer": "La prescription de zinc est préconisée car elle facilite la prise en charge de la diarrhée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi le traitement de masse en période épidémique n'est-il pas recommandé par l'OMS?",
+        "answer": "Le traitement de masse n’est pas recommandé car il ne diminue pas le risque de dissémination et augmente le risque de sélection de souches résistantes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la principale voie de contamination du choléra?",
+        "answer": "Le choléra relève d’une contamination féco-orale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles mesures de prévention sont recommandées pour éviter la propagation du choléra?",
+        "answer": "Les mesures de prévention incluent l’accès à l’eau potable, les installations sanitaires, et l’information sur les règles élémentaires d’hygiène comme le lavage des mains et l’hygiène alimentaire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels vaccins sont utilisés en cas d'épidémie de choléra?",
+        "answer": "Les vaccins anti-cholériques commencent à être utilisés en cas d’épidémie en association avec des interventions portant sur la sécurisation de l’eau de boisson, la promotion de l’hygiène des mains et le traitement par antibiotiques des sujets contacts.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité du vaccin oral Dukoral® contre le choléra?",
+        "answer": "Le vaccin oral Dukoral® protège contre V. cholerae O1 mais pas contre le sérovar O139 ni contre les autres vibrions.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles du vaccin Dukoral®?",
+        "answer": "Les effets secondaires possibles incluent une hypersensibilité à un composant du vaccin.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la contre-indication principale du vaccin Dukoral®?",
+        "answer": "Le vaccin Dukoral® est contre-indiqué chez les enfants de moins de 2 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le schéma de primovaccination pour le vaccin Dukoral® chez les enfants de moins de 6 ans?",
+        "answer": "La primovaccination pour les enfants de moins de 6 ans consiste en 3 doses strictement séparées de 1 à 6 semaines.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le schéma de rappel pour le vaccin Dukoral® chez les enfants de 2 à 6 ans?",
+        "answer": "Le rappel consiste en une dose dans les 6 mois pour les enfants de 2 à 6 ans sans rappel; au-delà des délais, il faut reprendre la primovaccination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le délai d'efficacité du vaccin Dukoral® après la primovaccination?",
+        "answer": "Le délai d’efficacité est de 7 jours après 2 ou 3 doses.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les conseils de prévention pour les voyageurs afin d'éviter le choléra?",
+        "answer": "Les conseils de prévention incluent des conseils alimentaires et d’hygiène des mains afin d’éviter les maladies à transmission féco-orale.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le risque de choléra pour les voyageurs?",
+        "answer": "Le risque est faible : environ 1/50 000 voyageur et variable selon l’existence d’épidémie dans les pays visités et les activités du voyageur.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'indication principale du vaccin oral Dukoral®?",
+        "answer": "L’indication principale concerne surtout le personnel de l’aide humanitaire travaillant dans des camps de réfugiés en période épidémique et les pèlerins se rendant en zone endémo-épidémique.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les critères cliniques pour suivre la réhydratation chez un malade du choléra?",
+        "answer": "La réhydratation est suivie sur des critères cliniques tels que l’état de conscience du malade et son degré d’hydratation.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la quantité de liquide à perfuser pour un malade du choléra?",
+        "answer": "Le volume de liquide à perfuser doit corriger le volume des pertes liquidiennes estimées sur l’état de déshydratation du malade, ce qui peut représenter plus de 10 litres sur les premières 24 heures.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de réhydratation pour les formes collapsiques majeures chez l'enfant?",
+        "answer": "Le recours à la voie intra-osseuse chez l’enfant est possible pour les formes collapsiques majeures.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de réhydratation pour les formes modérées de choléra?",
+        "answer": "La réhydratation par voie orale est envisageable en relais de la voie parentérale ou d’emblée dans les formes modérées en utilisant des solutions adaptées comme la préparation pour réhydratation par voie orale de l’OMS.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de décontamination des selles et vomissements des malades du choléra?",
+        "answer": "Les selles et les vomissements sont décontaminés par de l’eau de Javel.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation de l'OMS concernant la notification des cas de choléra?",
+        "answer": "La notification officielle de tous les cas de choléra n’est plus obligatoire dans le cadre du Règlement Sanitaire International (2005).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour obtenir des informations sur le choléra?",
+        "answer": "Les sites web recommandés sont : https://www.who.int/fr/news-room/fact-sheets/detail/cholera et https://www.pasteur.fr/fr/centre-medical/fiches-maladies/cholera.",
+        "qtype": "information"
+    },
+    {
+        "question": "Quel est le dosage du vaccin Dukoral®?",
+        "answer": "Le dosage du vaccin Dukoral® est de 1,1011 bactéries + 1 mg tox B.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la voie d'administration du vaccin Dukoral®?",
+        "answer": "Le vaccin Dukoral® est administré par voie orale sous forme de solution buvable.",
+        "qtype": "prévention"
+    }
+]

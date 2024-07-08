@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quelle est la principale espèce pathogène pour l'homme responsable de l'amoebose tissulaire?",
+        "answer": "Entamoeba histolytica",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Dans quelles régions du monde l'amoebose est-elle endémique?",
+        "answer": "Afrique, Amérique du Sud et Centrale, Asie",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les trois formes sous lesquelles se présente Entamoeba histolytica?",
+        "answer": "Les kystes, la forme végétative minuta, la forme végétative histolytica",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait la transmission de l'amoebose?",
+        "answer": "Directement par les mains sales ou indirectement par les eaux ou aliments souillés",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le groupe de population le plus touché par l'amoebose à l'âge adulte?",
+        "answer": "Les hommes, avec une forte prédominance masculine (80%)",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant la transformation de la forme minuta en forme histolytica?",
+        "answer": "Réponse immunitaire de l'hôte, facteurs environnementaux, facteurs de virulence propres à certaines souches",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la triade de Fontan dans l'amoebose hépatique?",
+        "answer": "Hépatalgie, hépatomégalie, fièvre",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la complication la plus fréquente de l'amoebose hépatique?",
+        "answer": "Amoebose pleuropulmonaire",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la complication exceptionnelle et grave de l'amoebose hépatique?",
+        "answer": "Amoebose péricardique",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les autres localisations extracoliques de l'amoebose?",
+        "answer": "Atteintes spléniques, cérébrales ou cutanées",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Qu'est-ce qu'un amoebome?",
+        "answer": "Tumeur inflammatoire caecale ou recto-sigmoïdienne pouvant mimer un cancer colique",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation pour le diagnostic de l'amoebose?",
+        "answer": "Hyperleucocytose à polynucléaires neutrophiles, anémie inflammatoire, vitesse de sédimentation et CRP élevées",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la forme de résistance et de contamination d'Entamoeba histolytica?",
+        "answer": "Les kystes",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques atypiques de l'amoebose hépatique?",
+        "answer": "Un des éléments de la triade peut manquer, hépatomégalie inconstante, fièvre isolée",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes compliquées de l'amoebose hépatique?",
+        "answer": "Rupture dans les organes de voisinages ou dans des voies de drainage biliaire ou bronchique",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'amoebose pleuropulmonaire?",
+        "answer": "Surélévation de coupole, pleurésie, abcès, pleurésie purulente, pneumopathie résistante aux antibiotiques",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'amoebose péricardique?",
+        "answer": "Tamponnade",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'amoebome?",
+        "answer": "Tumeur inflammatoire caecale ou recto-sigmoïdienne, amibes au sein d’un tissu granulomateux, sérologie amibienne positive",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes biologiques de l'amoebose hépatique?",
+        "answer": "Cholestase, cytolyse",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes radiographiques de l'amoebose hépatique?",
+        "answer": "Ascension de l’hémi-coupole droite hypokinétique, épanchement pleural, atélectasies planes de la base droite",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de virulence propres à certaines souches d'Entamoeba histolytica?",
+        "answer": "Lectine, peptide, protéases",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les processus d'immunité à médiation cellulaire intervenant dans l'amoebose?",
+        "answer": "Induction d’une prolifération lymphoblastique, production de lymphokines, destruction d’Ehh par les macrophages activés et par les polynucléaires neutrophiles",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes suraiguës de l'amoebose hépatique?",
+        "answer": "Formes suraiguës parfois associées à une forme colique maligne (abcès fulminant de Rogers)",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes pseudotumorales de l'amoebose hépatique en Afrique?",
+        "answer": "Manifestations pleuropulmonaires, ictère",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes compliquées de l'amoebose pleuropulmonaire?",
+        "answer": "Pleurésie purulente parfois compliquée d’une vomique chocolat",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes compliquées de l'amoebose péricardique?",
+        "answer": "Tamponnade",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des atteintes spléniques de l'amoebose?",
+        "answer": "Atteintes spléniques",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des atteintes cérébrales de l'amoebose?",
+        "answer": "Atteintes cérébrales",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des atteintes cutanées de l'amoebose?",
+        "answer": "Atteintes cutanées",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des abcès amibiens hépatiques perforés?",
+        "answer": "Abcès amibiens hépatiques perforés",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel est l'examen de diagnostic présomptif de l'amoebose hépatique?",
+        "answer": "L'échographie demeure l'examen de diagnostic présomptif de l'amoebose hépatique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux effets indésirables du métronidazole?",
+        "answer": "Le principal effet indésirable est l'effet antabuse lors de la prise d'alcool.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du métronidazole pour traiter l'amoebose hépatique chez l'adulte?",
+        "answer": "La posologie est de 1,5 g à 2 g/jour par voie orale ou intraveineuse pendant 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle technique est plus sensible à la phase précoce de l'amoebose hépatique?",
+        "answer": "La tomodensitométrie est plus sensible à la phase précoce.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes d'une amoebose thoracique?",
+        "answer": "Les symptômes incluent des images d'abcès, de pleurésie ou de pneumonie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'utilité de la ponction écho-guidée en zone endémique?",
+        "answer": "Elle peut être utile pour différencier l'abcès amibien des abcès dus aux bactéries anaérobies.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements alternatifs au métronidazole pour l'amoebose hépatique?",
+        "answer": "Le tinidazole ou l'ornidazole à la posologie de 1,5 g/jour pendant 5 jours représentent une alternative.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires des amoebicides tissulaires?",
+        "answer": "Les effets secondaires incluent l'effet antabuse avec l'alcool, des nausées, des vomissements et une neuropathie périphérique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement avec le métronidazole pour l'amoebose hépatique?",
+        "answer": "La durée de traitement est de 7 à 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de choix pour l'amoebose hépatique?",
+        "answer": "Le métronidazole est le traitement de choix.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du tinidazole pour traiter l'amoebose hépatique chez l'enfant?",
+        "answer": "La posologie est de 30 mg/kg par voie orale ou intraveineuse pendant 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens complémentaires pour le diagnostic de l'amoebose extra-intestinale?",
+        "answer": "La recherche d'antigènes parasitaires circulants par techniques immunoenzymatiques et la PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic de certitude pour l'amoebose tissulaire?",
+        "answer": "Le diagnostic de certitude repose sur la mise en évidence d'anticorps spécifiques dans le sérum.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux amoebicides tissulaires?",
+        "answer": "Les principaux amoebicides tissulaires sont le métronidazole, l'ornidazole et le tinidazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'ornidazole pour traiter l'amoebose hépatique chez l'adulte?",
+        "answer": "La posologie est de 1,5 g/jour par voie orale ou intraveineuse pendant 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement avec l'ornidazole pour l'amoebose hépatique?",
+        "answer": "La durée de traitement est de 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du métronidazole pour traiter l'amoebose hépatique chez l'enfant?",
+        "answer": "La posologie est de 50 mg/kg/jour par voie orale ou intraveineuse pendant 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une amoebose tissulaire?",
+        "answer": "Les symptômes incluent des abcès, de la pleurésie ou de la pneumonie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de prévention de l'amoebose tissulaire dans les régions endémiques?",
+        "answer": "Elle repose sur l'amélioration des conditions d'assainissement et d'hygiène par la lutte contre le péril fécal et sur l'éducation sanitaire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour les voyageurs pour prévenir l'amoebose tissulaire?",
+        "answer": "L'observance des règles d'hygiène corporelle, d'hygiène des aliments et des boissons.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la durée de positivité de l'hémagglutination indirecte (HAI) et de l'ELISA pour le diagnostic de l'amoebose tissulaire?",
+        "answer": "Elles restent positives pendant plusieurs années.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la durée de positivité de l'immunofluorescence indirecte (IFI) pour le diagnostic de l'amoebose tissulaire?",
+        "answer": "Elle se négative en 6 à 12 mois.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est l'utilité de la technique d'agglutination au latex pour le diagnostic de l'amoebose tissulaire?",
+        "answer": "Elle permet d'obtenir une réponse en urgence.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la recommandation en cas de négativité initiale des sérologies pour le diagnostic de l'amoebose tissulaire?",
+        "answer": "Un second prélèvement doit être réalisé après 8 à 10 jours d'évolution.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de traitement des formes compliquées d'amoebose hépatique?",
+        "answer": "Le drainage chirurgical est réservé aux formes compliquées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de traitement des formes résistantes au traitement médical de l'amoebose hépatique?",
+        "answer": "La réalisation d'une ponction aspiration écho-guidée, parfois associée à la mise en place d'un drain.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de traitement des autres amoeboses tissulaires?",
+        "answer": "Elle repose sur les mêmes amoebicides que ceux utilisés au cours de l'amoebose hépatique, associés au drainage des collections purulentes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de traitement d'épreuve pour l'amoebose tissulaire au niveau de soins primaires?",
+        "answer": "Un traitement d'épreuve par 5-nitro-imidazolés est licite devant un tableau clinique compatible.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de traitement des formes sévères d'amoebose hépatique où la prise orale est difficile?",
+        "answer": "Un traitement par voie intraveineuse est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de traitement des abcès volumineux (> 10 cm de diamètre) sous-capsulaires en pré-rupture?",
+        "answer": "Une ponction évacuatrice du foie guidée par échographie, associée ou non à un drainage percutané, doit être envisagée.",
+        "qtype": "traitement"
+    }
+]

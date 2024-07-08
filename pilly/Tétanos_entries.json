@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelle est la durée moyenne d'incubation du tétanos?",
+        "answer": "Sa durée, en moyenne 10 à 15 jours, varie de moins de 24 heures à 3 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le premier symptôme du tétanos?",
+        "answer": "Le trismus est souvent le premier symptôme, débutant par une gêne à la mastication et évoluant vers une contracture permanente, bilatérale des masséters.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les trois types de symptômes caractérisant la phase d'état du tétanos?",
+        "answer": "Contractures généralisées, spasmes réflexes, troubles neurovégétatifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux facteurs pronostiques du score de Dakar pour le tétanos?",
+        "answer": "Incubation, invasion, porte d’entrée, paroxysme, température rectale, pouls adulte/nouveau-né.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux types de complications du tétanos?",
+        "answer": "Complications infectieuses, cardiovasculaires, respiratoires, digestives, rénales, hydro-électrolytiques, ostéo-articulaires, neurologiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la bactérie responsable du tétanos?",
+        "answer": "Clostridium tetani.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment se transmet la toxine tétanique dans l'organisme?",
+        "answer": "Elle pénètre dans le système nerveux au niveau des jonctions neuromusculaires des motoneurones proches de la porte d’entrée et est transportée par voie sanguine.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos néonatal?",
+        "answer": "Impossibilité de téter suivi de contractures généralisées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux éléments du diagnostic différentiel du trismus?",
+        "answer": "Infection de la cavité buccale, arthrite temporomaxillaire, cause neurologique, cause toxique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux éléments du diagnostic différentiel des contractures avec spasmes?",
+        "answer": "Intoxication à la strychnine, état de mal épileptique, alcalose hypocalcémique, état hystérique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux traitements à visée étiologique du tétanos?",
+        "answer": "Immunoglobulines spécifiques, sérum antitétanique hétérologue.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelle est la mortalité du tétanos en France?",
+        "answer": "Le taux de létalité de cette maladie est important y compris dans les pays industrialisés (27 % en France).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la phase d'invasion du tétanos?",
+        "answer": "Contractures généralisées, spasmes réflexes, troubles neurovégétatifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos localisé?",
+        "answer": "Contractures limitées au membre où siège la blessure.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos céphalique?",
+        "answer": "Contractures touchant le nerf facial après une blessure de la tête ou du cou.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos néonatal?",
+        "answer": "Impossibilité de téter suivi de contractures généralisées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos généralisé?",
+        "answer": "Contractures généralisées, spasmes réflexes, troubles neurovégétatifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos aigu généralisé?",
+        "answer": "Trismus, raideur rachidienne, contracture abdominale, troubles respiratoires, dysphagie, paroxysmes toniques généralisés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos grave?",
+        "answer": "Contractures généralisées, troubles respiratoires avec blocage thoracique, dysphagie intense, paroxysmes tonicocloniques spontanés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos fruste?",
+        "answer": "Trismus, faciès sardonique, pas de trouble respiratoire, pas de dysphagie, pas de paroxysme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos aigu?",
+        "answer": "Trismus, raideur rachidienne, contracture abdominale, troubles respiratoires, dysphagie, paroxysmes toniques généralisés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos très sévère?",
+        "answer": "Contractures généralisées, troubles respiratoires avec blocage thoracique, dysphagie intense, paroxysmes tonicocloniques spontanés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos modéré?",
+        "answer": "Trismus, raideur rachidienne, contracture abdominale, troubles respiratoires, dysphagie, paroxysmes toniques généralisés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos léger?",
+        "answer": "Trismus, faciès sardonique, pas de trouble respiratoire, pas de dysphagie, pas de paroxysme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos sévère?",
+        "answer": "Contractures généralisées, troubles respiratoires avec blocage thoracique, dysphagie intense, paroxysmes tonicocloniques spontanés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos très léger?",
+        "answer": "Trismus, faciès sardonique, pas de trouble respiratoire, pas de dysphagie, pas de paroxysme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos modérément sévère?",
+        "answer": "Trismus, raideur rachidienne, contracture abdominale, troubles respiratoires, dysphagie, paroxysmes toniques généralisés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos modérément léger?",
+        "answer": "Trismus, faciès sardonique, pas de trouble respiratoire, pas de dysphagie, pas de paroxysme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du tétanos modérément grave?",
+        "answer": "Contractures généralisées, troubles respiratoires avec blocage thoracique, dysphagie intense, paroxysmes tonicocloniques spontanés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de Besredka pour l'injection de sérum hétérologue?",
+        "answer": "La méthode de Besredka consiste à injecter 0,25 mL de sérum par voie sous-cutanée à deux reprises à 15 minutes d’écart. Si aucun accident ne s’est produit, administrer le reste de la dose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les doses de sérum antitétanique hétérologue en fonction de l'âge du patient?",
+        "answer": "Moins de 1 an: 250 UI, 1 à 5 ans: 500 UI, 6 à 12 ans: 750 UI, Après 12 ans: 1 000 UI, Adulte: 2 000 UI.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement antibiotique recommandé par l'OMS pour le tétanos?",
+        "answer": "L'OMS préconise en première intention le métronidazole 500 mg toutes les 6 heures IV/PO pendant 7 à 10 jours. La Peni G à la dose de 100 000 à 200 000 IU/kg/j IV en 2 à 4 perfusions peut être utilisée en l’absence d’allergie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de la porte d'entrée pour le tétanos?",
+        "answer": "Désinfection, nettoyage, parage de la plaie, éventuellement débridement chirurgical, toujours effectués après injection d’immunoglobulines spécifiques, sous antibiothérapie et traitement sédatif.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi la vaccination est-elle nécessaire même après avoir contracté le tétanos?",
+        "answer": "Le tétanos n’étant pas une maladie immunisante, il faut débuter la vaccination par une injection d’anatoxine en un site différent de l’injection d’immunoglobulines. On répète ultérieurement cette injection à 1 mois puis à 6 mois.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la posologie du diazépam pour le traitement symptomatique du tétanos?",
+        "answer": "La posologie du diazépam est de 3 à 5 mg/kg/jour en perfusion continue avec des bolus de 5 à 10 mg ou par voie intra-rectale en cas de paroxysme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques associés à l'administration de diazépam à haute dose?",
+        "answer": "À posologie élevée, en intraveineuse, le propylèneglycol contenu dans la préparation peut entraîner une acidose métabolique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose de midazolam recommandée pour le traitement symptomatique du tétanos?",
+        "answer": "Le midazolam peut être utilisé en perfusion continue à la dose de 5 à 15 mg/heure.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires possibles du baclofène utilisé pour le tétanos?",
+        "answer": "Le baclofène peut être à l’origine de dépression respiratoire par atteinte nerveuse centrale réversible sous flumazénil.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Dans quels cas les agents curarisants sont-ils indiqués pour le tétanos?",
+        "answer": "Les agents curarisants sont indiqués pour la mise en place d’une sonde d’intubation, d’une sonde gastrique, la réalisation d’une trachéotomie, ou de façon prolongée lorsque les paroxysmes ne sont pas contrôlés par les sédatifs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les sédatifs et analgésiques qui ne sont plus utilisés pour le tétanos?",
+        "answer": "Les autres sédatifs (méprobamate), les analgésiques morphinomimétiques (phénopéridine et fentanyl) et les neuroleptiques (chlorpromazine) ne sont plus utilisés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose de labétalol recommandée pour le syndrome dysautonomique dans le tétanos?",
+        "answer": "Le labétalol est indiqué à la dose de 0,25 à 1 mg/min en perfusion continue.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose de morphine recommandée pour le traitement du tétanos?",
+        "answer": "La morphine peut être utilisée à la dose de 0,5 à 1 mg/kg/heure.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi les diurétiques sont-ils contre-indiqués pour contrôler la tension artérielle dans le tétanos?",
+        "answer": "Les diurétiques sont contre-indiqués car la déplétion volémique qu’ils entraînent peut aggraver la dysautonomie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas d'hypotension dans le tétanos?",
+        "answer": "Il faut assurer un apport liquidien au mieux sous contrôle de la pression centrale et envisager l’utilisation d’amines vasopressives (dopamine, noradrénaline).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la conduite à tenir en cas de bradycardie prolongée dans le tétanos?",
+        "answer": "La survenue d’une bradycardie prolongée impose le recours à une sonde d’entraînement électrosystolique sous couvert d’atropine ou d’isoprénaline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures adjuvantes recommandées pour les patients atteints de tétanos?",
+        "answer": "Installer le malade au calme, en chambre individuelle, dans une pièce peu éclairée. Les soins et manipulations doivent être limités, groupés, effectués doucement. L’alimentation et les apports hydriques par voie orale seront interdits.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est l'apport calorique recommandé pour les patients atteints de tétanos?",
+        "answer": "L’apport calorique est de 2 000 à 3 000 calories/jour avec 150 à 200 g/jour de protides.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement sédatif et myorelaxant pour le tétanos?",
+        "answer": "La durée du traitement sédatif et myorelaxant est de 2 à 3 semaines, période à l’issue de laquelle on peut effectuer un sevrage progressif sur 2 semaines, guidé par l’évolution clinique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures d'hygiène recommandées pour prévenir le tétanos?",
+        "answer": "Notamment d’asepsie/antisepsie lors de soins médicaux et d’accouchements.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le calendrier vaccinal recommandé par l'OMS pour la protection contre le tétanos?",
+        "answer": "L'OMS recommande une protection contre le tétanos à vie pour tous en maintenant une forte couverture vaccinale par 6 doses de vaccin contenant l'anatoxine tétanique (provaccination en 3 doses entre 6 semaines et 6 mois puis 3 doses de rappel à 12-23 mois, 4-7 ans et 9-15 ans).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la conduite à tenir vis-à-vis de l’immunisation contre le tétanos en cas de plaie mineure et propre pour une personne à jour de ses vaccinations?",
+        "answer": "Pas d’injection. Préciser la date du prochain rappel.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la conduite à tenir vis-à-vis de l’immunisation contre le tétanos en cas de plaie majeure pour une personne non à jour de ses vaccinations?",
+        "answer": "Dans un bras, immunoglobuline tétanique humaine 250 UI. Dans l’autre bras, administration immédiate d’une dose de vaccin contenant la valence tétanique. Proposer si nécessaire un programme de mise à jour et préciser la date du prochain rappel.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les nouveaux tests de diagnostic rapide pour le tétanos?",
+        "answer": "Les tétanos Quick Sticks reposent sur le principe d’immunochromatographie et déterminent si le patient est protégé contre le tétanos en mesurant le taux sanguin d’anticorps.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les avantages des tétanos Quick Sticks par rapport à l'interrogatoire pour le diagnostic du statut antitétanique?",
+        "answer": "Les tétanos Quick Sticks permettent un diagnostic du statut antitétanique avec une meilleure sensibilité et une meilleure spécificité, 82 % et 97 %, par rapport à l’interrogatoire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le tétanos du groupe I (Score de Dakar 0-1)?",
+        "answer": "Le traitement fait appel au diazépam. Dès que sa posologie dépasse 4 mg/kg/jour, il faut envisager une trachéotomie et une ventilation contrôlée. Le baclofène peut également être utilisé ; s’il est à l’origine d’une dépression respiratoire, le flumazénil est indiqué.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le tétanos du groupe II (Score de Dakar 2-3)?",
+        "answer": "Ils sont traités par le diazépam, systématiquement associé à la trachéotomie avec ventilation contrôlée. La curarisation peut être indiquée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le tétanos du groupe III (Score de Dakar 4-6)?",
+        "answer": "Ils justifient le recours au diazépam associé aux curarisants, avec trachéotomie et ventilation contrôlée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour obtenir des informations supplémentaires sur le tétanos?",
+        "answer": "https://www.statista.com/statistics/1121381/tetanus-cases-worldwide-by-region, https://www.santepubliquefrance.fr/les-actualites/2021/tetanos-en-france-donnees-epidemiologiques-2020",
+        "qtype": "épidémiologie"
+    }
+]

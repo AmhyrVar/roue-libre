@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce que le SRIS?",
+        "answer": "Le syndrome de réponse inflammatoire systémique (SRIS) est une réponse inflammatoire systémique de l’organisme à une agression infectieuse ou non infectieuse se manifestant par au moins deux des signes suivants : température > 38,3 °C ou < 36 °C, fréquence cardiaque > 90/min, fréquence respiratoire > 20/min (ou PaCO2 < 32 mmHg), leucocytose > 12 ou < 4 G/L ou présence de > 10 % de formes immatures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment est défini le sepsis?",
+        "answer": "Le sepsis est défini comme un syndrome de réponse inflammatoire systémique (SRIS) de l’organisme à une agression par un agent infectieux bactérien, viral, fongique ou parasitaire. Il est caractérisé par une dysfonction d’organe menaçant le pronostic vital causée par une réponse dérégulée de l’hôte à l’infection.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères pour diagnostiquer un choc septique?",
+        "answer": "Le choc septique est diagnostiqué par la présence de sepsis avec des anomalies circulatoires et cellulaires/métaboliques suffisamment profondes pour augmenter considérablement la mortalité. Les patients peuvent être identifiés par une hypotension artérielle persistante nécessitant l’administration de vasopresseurs pour maintenir la pression artérielle moyenne (PAM) à 65 mm Hg et un taux de lactates sériques > 2 mmol/L (18 mg/dL) malgré une correction adéquate de la volémie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'un choc septique?",
+        "answer": "Les signes cliniques d'un choc septique incluent un contexte infectieux avec frissons et hyperthermie (parfois remplacée par une hypothermie).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes biologiques d'un choc septique?",
+        "answer": "Les signes biologiques d'un choc septique incluent une CRP élevée (souvent en retard par rapport à la clinique) et une hyperleucocytose franche (parfois leucopénie et thrombopénie).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les gestes à faire en urgence au niveau du centre de santé communautaire pour un choc septique?",
+        "answer": "Au niveau du centre de santé communautaire, il faut rechercher systématiquement le paludisme en zone d’endémie, mettre en place une voie veineuse si possible avec remplissage vasculaire par cristalloïdes, débuter l’antibiothérapie et évacuer le patient.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les gestes à faire en urgence au niveau du secteur de santé de district pour un choc septique?",
+        "answer": "Au niveau du secteur de santé de district, il faut poser une voie d’abord veineuse de bon calibre, effectuer un remplissage par cristalloïdes (sérum salé isotonique ou Ringer lactate) pour corriger l’hypotension artérielle et reprendre la diurèse. Si cela échoue, il faut rapidement évacuer le patient vers l’hôpital de proximité. Dans la mesure du possible, il faut administrer de l’oxygénothérapie nasale ou au masque à haute concentration pour un objectif de saturation périphérique en O2 ≥ 95 %.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les gestes à faire en urgence au niveau hospitalier pour un choc septique?",
+        "answer": "Au niveau hospitalier, il faut poser deux grosses voies d’abord veineuses et perfuser des cristalloïdes, administrer de l’oxygène pour un objectif de saturation périphérique en O2 ≥ 95 %, et mettre en place une sonde urinaire pour la surveillance de la diurèse horaire.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour la respiration?",
+        "answer": "Les critères du score SOFA pour la respiration sont : PaO2/FiO2 > 400 (0 point), 301-400 (1 point), 201-300 (2 points), 101-200 avec assistance respiratoire (3 points), ≤ 100 avec assistance respiratoire (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour la coagulation?",
+        "answer": "Les critères du score SOFA pour la coagulation sont : Plaquettes x 103/mm3 > 150 (0 point), 101-150 (1 point), 51-100 (2 points), 21-50 (3 points), ≤ 20 (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le foie?",
+        "answer": "Les critères du score SOFA pour le foie sont : Bilirubine, umol/L - (mmol/L) < 1.2 (<20) (0 point), 1.2-1.9 (20-32) (1 point), 2.0-5.9 (33-101) (2 points), 6.0-11.9 (102+204) (3 points), > 12.0 (> 204) (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le système cardiovasculaire?",
+        "answer": "Les critères du score SOFA pour le système cardiovasculaire sont : PAM > 70 mmHg (0 point), PAM < 70 mmHg (1 point), Dopamine* < 5 ou dobutamine* (2 points), Dopamine* > 5 ou adrénaline* ≤ 0.1 ou noradrénaline* ≤ 0.1 (3 points), Dopamine* > 15 ou adrénaline* > 0.1 ou noradrénaline* > 0.1 (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le système nerveux central?",
+        "answer": "Les critères du score SOFA pour le système nerveux central sont : Glasgow Score 15 (0 point), 13-14 (1 point), 10-12 (2 points), 6-9 (3 points), < 6 (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le système rénal?",
+        "answer": "Les critères du score SOFA pour le système rénal sont : Créatinine, mg/dL (μmol/L) ou diurèse < 1.2 (< 110) (0 point), 1.2-1.9 (110-170) (1 point), 2.0-3.4 (171-299) (2 points), 3.5-4.9 (300-440) ou < 500 mL/jour (3 points), > 5.0 (> 440) ou < 200 mL/jour (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'un choc cardiogénique?",
+        "answer": "Les signes d’un choc cardiogénique incluent des signes d’insuffisance cardiaque gauche (œdème aigu pulmonaire), droite (turgescence des jugulaires, hépatalgie) ou globale, douleur thoracique, phlébite, embolie pulmonaire, trouble du rythme cardiaque, et une cardiopathie sous-jacente connue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'un choc hypovolémique?",
+        "answer": "Les signes d’un choc hypovolémique incluent des signes de déshydratation (pli cutané, sensation de soif), diarrhée, vomissements, et brûlures cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'un choc hémorragique?",
+        "answer": "Les signes d’un choc hémorragique incluent une pâleur conjonctivale et une hémorragie extériorisée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'un choc anaphylactique?",
+        "answer": "Les signes d’un choc anaphylactique incluent une circonstance déclenchante (piqûre d’insecte, prise médicamenteuse), une éruption cutanée diffuse, de l’urticaire, un œdème de Quincke, et un terrain allergique connu.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la première étape de la prise en charge d'un choc septique au niveau du centre de santé communautaire?",
+        "answer": "La première étape est la recherche systématique du paludisme en zone d’endémie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est l'objectif de saturation périphérique en O2 lors de l'administration d'oxygène pour un choc septique?",
+        "answer": "L'objectif de saturation périphérique en O2 est ≥ 95 %.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement initial pour corriger l'hypotension artérielle dans un choc septique au niveau du secteur de santé de district?",
+        "answer": "Le traitement initial est le remplissage par cristalloïdes (sérum salé isotonique ou Ringer lactate).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes d'une dysfonction d'organe dans le sepsis?",
+        "answer": "Une dysfonction d’organe dans le sepsis peut être identifiée comme un changement récent du score SOFA ≥ 2 points secondaire à l’infection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la mortalité associée au choc septique?",
+        "answer": "La mortalité associée au choc septique est supérieure à 40 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes d'une réponse inflammatoire systémique dans le SRIS?",
+        "answer": "Les signes d’une réponse inflammatoire systémique dans le SRIS incluent une température > 38,3 °C ou < 36 °C, une fréquence cardiaque > 90/min, une fréquence respiratoire > 20/min (ou PaCO2 < 32 mmHg), et une leucocytose > 12 ou < 4 G/L ou présence de > 10 % de formes immatures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments permettant de présumer rapidement le caractère septique d'un choc?",
+        "answer": "Les éléments permettant de présumer rapidement le caractère septique d’un choc incluent des éléments cliniques (contexte infectieux avec frissons et hyperthermie ou hypothermie), des éléments biologiques (CRP élevée, hyperleucocytose franche ou leucopénie et thrombopénie), et l’absence d’argument en faveur d’une autre origine du choc.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la seule preuve de l'origine bactérienne d'un choc septique?",
+        "answer": "La positivité des cultures microbiologiques (sang, urine, expectoration…) est la seule preuve de l’origine bactérienne d’un choc septique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une insuffisance cardiaque gauche dans un choc cardiogénique?",
+        "answer": "Les signes d’une insuffisance cardiaque gauche dans un choc cardiogénique incluent un œdème aigu pulmonaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'une insuffisance cardiaque droite dans un choc cardiogénique?",
+        "answer": "Les signes d’une insuffisance cardiaque droite dans un choc cardiogénique incluent une turgescence des jugulaires et une hépatalgie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'une insuffisance cardiaque globale dans un choc cardiogénique?",
+        "answer": "Les signes d’une insuffisance cardiaque globale dans un choc cardiogénique incluent des signes d’insuffisance cardiaque gauche et droite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'une déshydratation dans un choc hypovolémique?",
+        "answer": "Les signes d’une déshydratation dans un choc hypovolémique incluent un pli cutané et une sensation de soif.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens paracliniques à réaliser en cas de sepsis ou de choc septique?",
+        "answer": "Hémogramme, frottis sanguin pour la recherche d’hématozoaires, TP, TCA, fibrinogène, CRP, Na+, K+, urée, créatinine, Ca2+, glycémie, HCO3–, TGO, TGP, γ-GT, PAL, bilirubine totale et conjuguée, gaz du sang artériel, lactates artériels, prélèvements bactériologiques (hémocultures, ECBU, prélèvement respiratoire, ponctions), examen radiographique (radiographie du thorax, échographie abdominale, scanner).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prise en charge initiale du choc septique?",
+        "answer": "La prise en charge du choc septique est une urgence médicale et parfois chirurgicale. Elle est basée sur la correction de l’état hémodynamique, une antibiothérapie urgente adaptée au site présumé de l’infection et au risque d’infection à des bactéries multirésistantes, et une chirurgie urgente et un retrait des dispositifs endovasculaires suspects.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour restaurer la pression artérielle en cas de choc septique?",
+        "answer": "La noradrénaline est la catécholamine de choix et doit être utilisée en première intention.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de détresse respiratoire nécessitant une ventilation mécanique artificielle?",
+        "answer": "Cyanose, polypnée, tirage, sueurs, diminution de l’amplitude des inspirations, bradypnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une infection urinaire en situation de choc septique?",
+        "answer": "E. coli, autre entérobactérie, P. aeruginosa (patient sondé).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie probabiliste recommandée pour une pneumopathie communautaire en situation de choc septique?",
+        "answer": "Céfotaxime + macrolide (ou Lévofloxacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une méningite en situation de choc septique?",
+        "answer": "Méningocoque, pneumocoque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une infection sur cathéter intra-vasculaire en situation de choc septique?",
+        "answer": "Piperacilline/tazobactam (± vancomycine ± aminoside).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une endocardite aiguë (valve native) en situation de choc septique?",
+        "answer": "Staphylococcus aureus, streptocoque, entérocoque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une dermo-hypodermite nécrosante des membres ou cervico-faciale en situation de choc septique?",
+        "answer": "Amoxicilline/acide clavulanique + dalacine (± vancomycine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une dermo-hypodermite nécrosante des membres, cervicale, périnéale en situation de choc septique?",
+        "answer": "Streptocoque ß-hémolytique, Staphylococcus aureus, streptocoques, anaérobies, entérobactéries.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une méningite en situation de choc septique?",
+        "answer": "Ceftriaxone ou céfotaxime ± amoxicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une infection sur cathéter endovasculaire en situation de choc septique?",
+        "answer": "Staphylococcus sp., streptocoque ß-hémolytique, BGN.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une endocardite aiguë (valve native) en situation de choc septique?",
+        "answer": "Amoxicilline/acide clavulanique + gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une pneumonie en situation de choc septique?",
+        "answer": "Pneumocoque, Legionella sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une infection urinaire en situation de choc septique?",
+        "answer": "Céfotaxime (± amikacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une angiocholite, sigmoïdite, péritonite, annexite en situation de choc septique?",
+        "answer": "Entérobactéries, streptocoques, entérocoques, anaérobies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une infection de cause inconnue en situation de choc septique?",
+        "answer": "Piperacilline/tazobactam (± aminoside).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une entérocolite en situation de choc septique?",
+        "answer": "Salmonelle, shigelle, Clostridium difficile (post-antibiotique).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour des infections intra-abdominales en situation de choc septique?",
+        "answer": "Piperacilline/tazobactam (± amikacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'un abcès du poumon en situation de choc septique?",
+        "answer": "Pneumocoque, Staphylococcus aureus, streptocoque du complexe milleri, anaérobies, Klebsiella spp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une dermohypodermite périnéale en situation de choc septique?",
+        "answer": "Piperacilline/tazobactam (± amikacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une infection urinaire en situation de choc septique chez un patient sondé?",
+        "answer": "E. coli, autre entérobactérie, P. aeruginosa.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une infection urinaire en situation de choc septique chez un patient sondé?",
+        "answer": "Céfotaxime (± amikacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une infection urinaire en situation de choc septique chez un patient non sondé?",
+        "answer": "E. coli, autre entérobactérie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une pneumopathie communautaire en situation de choc septique chez un patient immunocompétent?",
+        "answer": "Céfotaxime + macrolide (ou Lévofloxacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une pneumopathie communautaire en situation de choc septique chez un patient immunocompétent?",
+        "answer": "Pneumocoque, Legionella sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie de première intention pour une infection sur cathéter intra-vasculaire en situation de choc septique chez un patient immunocompétent?",
+        "answer": "Piperacilline/tazobactam (± vancomycine ± aminoside).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les germes responsables d'une infection sur cathéter intra-vasculaire en situation de choc septique chez un patient immunocompétent?",
+        "answer": "Staphylococcus sp., streptocoque ß-hémolytique, BGN.",
+        "qtype": "épidémiologie"
+    }
+]

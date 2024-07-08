@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les pays où la morve est endémique?",
+    "answer": "La morve est endémique de certains pays d’Afrique (Ethiopie, Erythrée), d’Asie (Russie, Inde, Pakistan), du Moyen-Orient (Iran, Irak) et d’Amérique du Sud (Brésil).",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels animaux sont principalement affectés par la morve?",
+    "answer": "La morve est principalement une maladie affectant les chevaux. Elle touche également les ânes et les mules et peut être contractée naturellement par d’autres mammifères comme les chèvres, les chiens et les chats.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se transmet la morve à l'homme?",
+    "answer": "La transmission accidentelle vers l’homme est possible, principalement par contact direct avec des lésions cutanées ou muqueuses, plus rarement par voie respiratoire (inhalation de poussières contaminées).",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la bactérie responsable de la morve?",
+    "answer": "La bactérie responsable est Burkholderia mallei.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les professionnels les plus à risque de contracter la morve?",
+    "answer": "Les professions en contact direct et prolongé avec des animaux infectés : vétérinaires, palefreniers, personnels des abattoirs, mais aussi agents de laboratoire en contact avec la bactérie.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelles sont les formes les plus graves de la morve?",
+    "answer": "Les formes pulmonaires et septicémiques sont les plus graves, avec une mortalité proche de 50 %, principalement chez les sujets immunodéprimés.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se fait la diffusion de l'infection par B. mallei dans l'organisme?",
+    "answer": "Après pénétration dans l’organisme (plaie, muqueuse nasale), l’infection est responsable d’abcès et d’ulcérations cutanées ou muqueuses, suppuratives. La diffusion se fait ensuite par voie lymphatique (adénite locale puis régionale avec abcédation), puis, en l’absence de traitement, par voie hématogène vers différents organes (rate, foie, poumons notamment).",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quelle est la réponse immunitaire initiale à l'infection par B. mallei?",
+    "answer": "Dans la phase aiguë de l’infection, la réponse cellulaire innée (polynucléaires neutrophiles, macrophages) joue un rôle prépondérant.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les types d'infection que B. mallei peut causer chez l'homme?",
+    "answer": "Chez l’homme, l’infection à B. mallei peut toucher la sphère nasale et pulmonaire (morve) ou cutanée (farcin), et évoluer sur un mode aigu ou chronique.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la période d'incubation de la forme cutanée de la morve?",
+    "answer": "La période d'incubation de la forme cutanée de la morve est de 1 à 5 jours.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de la forme cutanée de la morve?",
+    "answer": "Apparition de lésions nodulaires rapidement ulcérées parfois accompagnées d’une adénopathie satellite. Si le site de contamination est la muqueuse nasale, une perforation de la cloison nasale est possible et un écoulement nasal très abondant est observé.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment se développe la pneumopathie dans la morve?",
+    "answer": "La pneumopathie fait suite à une inhalation de B. mallei ou complique les formes septicémiques.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la période d'incubation de la forme pulmonaire de la morve?",
+    "answer": "La période d'incubation de la forme pulmonaire de la morve est de 10 à 14 jours.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes de la forme pulmonaire de la morve?",
+    "answer": "Apparition brutale d’une toux, de douleurs thoraciques, d’une fièvre, et d’un syndrome pseudo-grippal.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes radiographiques de la forme pulmonaire de la morve?",
+    "answer": "La radiographie thoracique peut mettre en évidence des infiltrats alvéolaires ou nodulaires, un épanchement pleural, des lésions abcédées voire cavitaires prédominant dans les lobes supérieurs.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quelle est l'évolution de la forme pulmonaire de la morve en l'absence de traitement?",
+    "answer": "En l’absence de traitement, elle évolue vers la forme septicémique.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les organes principalement affectés par la diffusion hématogène de B. mallei?",
+    "answer": "Les organes principalement affectés sont la rate, le foie et les poumons.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quelle est la coloration de la bactérie Burkholderia mallei?",
+    "answer": "La bactérie Burkholderia mallei a une coloration bipolaire.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les tests biochimiques positifs pour Burkholderia mallei?",
+    "answer": "Burkholderia mallei est catalase et oxydase positif.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la mortalité des formes pulmonaires et septicémiques de la morve?",
+    "answer": "La mortalité des formes pulmonaires et septicémiques est proche de 50 %, principalement chez les sujets immunodéprimés.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la forme septicémique de la morve?",
+    "answer": "Les symptômes de la forme septicémique de la morve incluent une atteinte septicémique associée, souvent chez l’immunodéprimé.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les symptômes d'une infection pulmonaire par B. mallei?",
+    "answer": "Les symptômes incluent une toux, des douleurs thoraciques, une fièvre, et un syndrome pseudo-grippal.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques de la forme cutanée de la morve?",
+    "answer": "Les signes cliniques incluent des lésions nodulaires rapidement ulcérées et une adénopathie satellite.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la période d'incubation de la morve après contamination par une plaie cutanée?",
+    "answer": "La période d'incubation est de 1 à 5 jours.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une atteinte pulmonaire par B. mallei?",
+    "answer": "Les signes cliniques incluent une toux, des douleurs thoraciques, une fièvre, et un syndrome pseudo-grippal.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes radiographiques d'une infection pulmonaire par B. mallei?",
+    "answer": "Les signes radiographiques incluent des infiltrats alvéolaires ou nodulaires, un épanchement pleural, des lésions abcédées voire cavitaires.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une infection cutanée par B. mallei?",
+    "answer": "Les signes cliniques incluent des lésions nodulaires rapidement ulcérées et une adénopathie satellite.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une infection nasale par B. mallei?",
+    "answer": "Les signes cliniques incluent une perforation de la cloison nasale et un écoulement nasal très abondant.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une infection pulmonaire par B. mallei?",
+    "answer": "Les signes cliniques incluent une toux, des douleurs thoraciques, une fièvre, et un syndrome pseudo-grippal.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'une infection cutanée par B. mallei?",
+    "answer": "Les signes cliniques incluent des lésions nodulaires rapidement ulcérées et une adénopathie satellite.",
+    "qtype": "clinique"
+  }
+]

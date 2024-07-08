@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéomyélites aiguës chez les nourrissons dans les pays tropicaux?",
+    "response": "Streptocoques A ou B, H. influenzae, BGN, S. aureus",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les symptômes de l'ostéomyélite aiguë staphylococcique?",
+    "response": "Frissons, fièvre à 40°C, altération de l’état général, douleur locale vive, insomniante, empêchant la marche, zone métaphysaire hypersensible avec parfois un empâtement.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement de l'ostéomyélite aiguë staphylococcique?",
+    "response": "Le traitement antibiotique doit être entrepris au plus tôt avec des molécules antistaphylococciques, guidé par les molécules disponibles, le niveau de certitude du diagnostic microbiologique et le terrain. Sa durée est de 3 semaines en général.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéomyélites chez les adultes dans les pays tropicaux?",
+    "response": "Mycobacterium sp., Brucella, staphylocoque, salmonelle, autres BGN, gonocoque, H. duboisii",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les signes cliniques de l'ostéomyélite aiguë staphylococcique?",
+    "response": "Frissons, fièvre à 40°C, altération de l’état général, douleur locale vive, insomniante, empêchant la marche, zone métaphysaire hypersensible avec parfois un empâtement.",
+    "qtype": "signes cliniques"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéomyélites chez les sujets âgés dans les pays tropicaux?",
+    "response": "BGN, staphylocoque, Mycobacterium sp.",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéomyélites chez les drépanocytaires dans les pays tropicaux?",
+    "response": "Salmonelles, staphylocoque",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéomyélites chez les diabétiques dans les pays tropicaux?",
+    "response": "Staphylocoque, streptocoque, BGN, anaérobies",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéomyélites chez les porteurs de prothèses dans les pays tropicaux?",
+    "response": "Staphylocoque, streptocoques, BGN",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les symptômes de l'ostéite tuberculeuse?",
+    "response": "Tableau torpide sur les os longs, calcanéum, crâne, sternum, côtes et rachis, abcès centro-osseux, froid, abcès avec réaction périostée importante et tuméfaction.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites bactériennes communes dans les pays tropicaux?",
+    "response": "Bacilles à Gram négatif (salmonelles...), Staphylococcus aureus",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les symptômes des arthrites bactériennes communes?",
+    "response": "Mono-arthrite aiguë, début brutal, douleurs articulaires vives, signes inflammatoires locaux avec fluxion, empâtement périarticulaire, tuméfaction des parties molles, attitude vicieuse.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites à streptocoque chez l'enfant?",
+    "response": "Streptocoque, Streptococcus pneumoniae",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites à Haemophilus influenzae chez l'enfant?",
+    "response": "Haemophilus influenzae",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites à Kingella kingae chez les enfants de moins de 6 ans?",
+    "response": "Kingella kingae",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites à méningocoque?",
+    "response": "Neisseria gonorrhoeae",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites gonococciques chez les adultes jeunes?",
+    "response": "Neisseria gonorrhoeae",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des arthrites à bacilles à Gram négatif (hors salmonelles)?",
+    "response": "Bacilles à Gram négatif",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les symptômes de l'ostéoarthrite aiguë de la hanche chez le nourrisson?",
+    "response": "Fièvre, limitation douloureuse des mouvements de la hanche, augmentation de l’espace entre la tête fémorale et le fond du cotyle à la radiographie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement de l'ostéoarthrite aiguë de la hanche chez le nourrisson?",
+    "response": "Antibiothérapie prolongée, ponction articulaire, immobilisation plâtrée.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les séquelles possibles de l'ostéoarthrite aiguë de la hanche chez le nourrisson?",
+    "response": "Luxation, ankyloses articulaires.",
+    "qtype": "séquelles"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à bactéries communes?",
+    "response": "Staphylococcus aureus, Staphylococcus epidermidis, bacille à Gram négatif, Clostridium",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les symptômes de l'ostéite tuberculeuse?",
+    "response": "Tableau torpide sur les os longs, calcanéum, crâne, sternum, côtes et rachis, abcès centro-osseux, froid, abcès avec réaction périostée importante et tuméfaction.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à salmonelloses chez les drépanocytaires?",
+    "response": "Salmonelles",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à syphilis tertiaire?",
+    "response": "Treponema pallidum",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à tréponématoses endémiques?",
+    "response": "Treponema pallidum",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à brucellose?",
+    "response": "Brucella",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à lèpre lépromateuse?",
+    "response": "Mycobacterium leprae",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à donovanose?",
+    "response": "Klebsiella granulomatis",
+    "qtype": "agents pathogènes"
+  },
+  {
+    "question": "Quels sont les agents pathogènes responsables des ostéites à ulcère phagédénique?",
+    "response": "Bactéries diverses",
+    "qtype": "agents pathogènes"
+  }
+]

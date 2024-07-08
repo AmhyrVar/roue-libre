@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelles sont les bactéries responsables des bartonelloses?",
+        "response": "Les bartonelloses sont dues à des bactéries du genre Bartonella, qui appartiennent au groupe alpha 2 des Proteobacteria.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet Bartonella henselae chez les chats?",
+        "response": "Les puces de chats, Ctenaephalides felis, sont responsables de la transmission de B. henselae au sein de la population féline.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le mode de transmission de Bartonella henselae de l'animal à l'homme?",
+        "response": "Le mode de transmission du chat à l’homme est direct par griffures ou morsures de chats et plus rarement par l’intermédiaire des puces.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie des griffes du chat?",
+        "response": "Les symptômes incluent des lésions cutanées au site d’inoculation, une lymphadénopathie régionale, et parfois des formes atypiques comme la fièvre récurrente, l'endocardite, et des atteintes viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la maladie des griffes du chat?",
+        "response": "Le diagnostic repose sur la clinique et le contexte épidémiologique, confirmé par la sérologie, la PCR et/ou l'isolement des bactéries à partir du sang, du pus ganglionnaire, ou du tissu de la biopsie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la maladie des griffes du chat?",
+        "response": "Le traitement antibiotique n’est pas systématiquement justifié, mais certaines études suggèrent qu’un traitement par 5 jours d’azithromycine pourrait réduire la durée d’évolution de l’adénopathie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prévention contre la maladie des griffes du chat?",
+        "response": "Il est proposé de traiter les chats infectés et de contrôler l’infestation des chats par les puces.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la bactérie responsable de la fièvre des tranchées?",
+        "response": "La fièvre des tranchées est due à Bartonella quintana.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la fièvre des tranchées?",
+        "response": "La fièvre des tranchées est transmise à l’homme par le pou de corps Pediculus humanus humanus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre des tranchées?",
+        "response": "La maladie est caractérisée par une fièvre avec rechute 5 jours plus tard et des douleurs sévères et persistantes des jambes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le réservoir naturel de Bartonella quintana?",
+        "response": "Le réservoir naturel de B. quintana est vraisemblablement l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs potentiels de Bartonella quintana?",
+        "response": "Le pou de corps est le principal vecteur, mais B. quintana a également été retrouvée dans des puces de chats et des punaises de lit.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les tableaux cliniques associés à Bartonella henselae chez l'homme?",
+        "response": "Selon le terrain de son hôte humain, B. henselae est responsable de différents tableaux cliniques, incluant des adénopathies, des lésions vasculaires prolifératives, et des formes systémiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation des colonies de Bartonella sur géloses?",
+        "response": "Les colonies apparaissent après 9 à 15 jours d’incubation ; le délai de croissance peut atteindre 45 jours.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs de Bartonella henselae?",
+        "response": "Le principal réservoir de la bactérie est la population féline, plus particulièrement les chatons âgés de moins d’un an.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie des griffes du chat chez les enfants et les jeunes adultes?",
+        "response": "Les symptômes incluent des lésions cutanées au site d’inoculation, une lymphadénopathie régionale douloureuse et inflammatoire, et parfois des formes atypiques comme la fièvre récurrente et l'endocardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes atypiques de la maladie des griffes du chat?",
+        "response": "Les formes atypiques incluent la fièvre récurrente, l'endocardite, les atteintes viscérales, les formes neurologiques, ostéo-articulaires, ophtalmiques, et pulmonaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste l'infection à Bartonella henselae chez le chat?",
+        "response": "L’infection chez le chat se traduit par une bactériémie persistante et asymptomatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les endocardites à Bartonella henselae?",
+        "response": "Le traitement consiste en une association de Doxycycline et gentamicine (2 semaines de bithérapie puis poursuite doxycycline seule pendant 6 semaines au total).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les vecteurs indirects de Bartonella henselae?",
+        "response": "Les puces jouent un rôle indirect en déposant la bactérie présente dans leurs déjections sur les poils de l’animal, qui pénètre ensuite dans l’organisme via une effraction cutanée ou une lésion de grattage.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie des griffes du chat au site d'inoculation?",
+        "response": "Les symptômes incluent des lésions cutanées évoluant par une phase vésiculeuse, érythémateuse et papuleuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des ganglions dans la maladie des griffes du chat?",
+        "response": "La taille des ganglions varie de 1 à 5 cm, pouvant atteindre parfois 8 à 10 cm.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la localisation fréquente des adénopathies dans la maladie des griffes du chat?",
+        "response": "Leur localisation est le plus souvent axillaire, épitrochléenne, cervicale, supraclaviculaire ou submandibullaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de régression des adénopathies dans la maladie des griffes du chat?",
+        "response": "Les adénopathies régressent spontanément en 1 à 4 mois, mais peuvent dans de rares cas persister plusieurs années.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie des griffes du chat chez les patients immunodéprimés?",
+        "response": "Chez l’immunodéprimé, la bactérie est responsable de lésions vasculaires prolifératives par inhibition de l’apoptose des cellules endothéliales et stimulation de l’angiogénèse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les atteintes hépatiques et les fièvres prolongées de l’enfant dans la maladie des griffes du chat?",
+        "response": "Des données suggèrent l’utilisation de rifampicine pendant 10 à 14 jours, avec l’ajout de gentamicine, azithromycine ou triméthoprime-sulfaméthoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre des tranchées pendant les guerres mondiales?",
+        "response": "La fièvre des tranchées était caractérisée par une fièvre avec rechute 5 jours plus tard et des douleurs sévères et persistantes des jambes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs expérimentaux de Bartonella quintana?",
+        "response": "Des modèles expérimentaux ont montré que les puces de chat Ctenocephalides felis, mais aussi les punaises de lit, pouvaient être des vecteurs compétents pour B. quintana.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie des griffes du chat au niveau des ganglions lymphatiques?",
+        "response": "Les ganglions sont fréquemment douloureux et inflammatoires à l’examen clinique, avec une taille variant de 1 à 5 cm, pouvant atteindre parfois 8 à 10 cm.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la fièvre des tranchées?",
+        "answer": "La période d’incubation s’étend de 15 à 25 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre des tranchées chez les patients symptomatiques?",
+        "answer": "Le début est en général aigu et caractérisé par une fièvre associée à des céphalées et des douleurs pré-tibiales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les patients ayant une bactériémie aiguë ou chronique à B. quintana?",
+        "answer": "Les patients peuvent être traités avec de la doxycycline (200 mg par jour) pendant 28 jours associée à de la gentamicine (3 mg/kg/jour IV) pendant 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment peut-on prévenir les infections à B. quintana?",
+        "answer": "La prévention passe par la lutte contre les poux et la pauvreté.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la principale complication thérapeutique de la fièvre des tranchées?",
+        "answer": "Les rechutes sont le principal problème thérapeutique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les vecteurs connus de la maladie de Carrion?",
+        "answer": "Les vecteurs connus sont des phlébotomes de l’espèce Lutzomia verrucanum au Pérou.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Oroya?",
+        "answer": "Survient une fièvre avec anémie, la fièvre est irrégulière, les accès correspondent souvent à une poussée de déglobulisation, comme en témoigne la présence d’un ictère et d’une hépato-splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la mortalité de la fièvre de Oroya?",
+        "answer": "La mortalité peut atteindre 40 %, la mort survenant en 3 ou 4 semaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de lésions cutanées observées dans la verruga peruana?",
+        "answer": "On distingue 3 types de lésions cutanées : la forme miliaire, la forme mulaire et la forme nodulaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de choix pour la verruga peruana?",
+        "answer": "La rifampicine est le traitement de choix (600 mg/j chez l’adulte ; 10 mg/kg/j chez l’enfant pendant 15-21 jours).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la sensibilité du frottis sanguin pour le diagnostic de la maladie de Carrion?",
+        "answer": "La sensibilité reste faible (35 %).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les formes sévères de la maladie de Carrion?",
+        "answer": "L’association ceftriaxone - ciprofloxacine peut être proposée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prévention recommandée pour éviter les piqures de phlébotomes en zone endémique de maladie de Carrion?",
+        "answer": "La protection personnelle antivectorielle par répulsifs et insecticides peut être recommandée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les manifestations cliniques de l’angiomatose bacillaire?",
+        "answer": "La lésion cutanée est en général une petite papule rouge/pourpre qui s’agrandit pour former un nodule voire une tumeur parfois confondue avec une maladie de Kaposi.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour l’angiomatose bacillaire chez les immunodéprimés?",
+        "answer": "L’érythromycine per os, à la posologie de 500 mg, 4 fois par jour, est recommandée pour une durée totale de 3 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée minimale de traitement pour les endocardites à Bartonella?",
+        "answer": "Une durée minimale de 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les infections du système nerveux central à Bartonella?",
+        "answer": "L’association de doxycycline (100 mg par jour per os) et de rifampicine (300 mg par jour per os) pendant 10 à 14 jours est à privilégier.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prévalence de bactériémie asymptomatique en zone endémique de la maladie de Carrion au Pérou?",
+        "answer": "Une prévalence de 0,5 % de bactériémie asymptomatique a été trouvée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes généraux accompagnant l’éruption de la verruga peruana?",
+        "answer": "Fièvre (57 %), malaise (53 %), douleurs ostéo-articulaires (47 %), céphalées (27 %).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de l’éruption de la verruga peruana?",
+        "answer": "L’éruption dure 4 à 6 mois.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la péliose hépatique?",
+        "answer": "Elle est caractérisée par une prolifération des capillaires sinusoïdes hépatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la péliose hépatique chez les immunodéprimés?",
+        "answer": "L’érythromycine per os, à la posologie de 500 mg, 4 fois par jour, est recommandée pour une durée totale de 4 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l’endocardite à hémocultures négatives causée par Bartonella?",
+        "answer": "Les symptômes peuvent inclure des signes cliniques multiples, mais des détails spécifiques ne sont pas fournis dans le texte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les endocardites à Bartonella?",
+        "answer": "L’administration de doxycycline 200 mg par jour par voie intraveineuse ou orale est préconisée pour une durée minimale de 6 semaines, en association à la gentamicine (1 mg/kg toutes les 8 heures) pendant 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre des tranchées chez les sujets immunodéprimés?",
+        "answer": "Chez les sujets immunodéprimés, B. quintana peut causer des bactériémies chroniques, des endocardites, de l’angiomatose bacillaire, de la péliose hépatique et/ou splénique et des fièvres indifférenciées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre de Oroya?",
+        "answer": "Survient une fièvre avec anémie, la fièvre est irrégulière, les accès correspondent souvent à une poussée de déglobulisation, comme en témoigne la présence d’un ictère et d’une hépato-splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les formes modérées de la maladie de Carrion?",
+        "answer": "La ciprofloxacine par voie orale (500 mg x 2/jour) pendant 14 jours est recommandée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la verruga peruana?",
+        "answer": "Elle est caractérisée par l’apparition sur tout le corps, mais surtout à la face et aux membres, d’une éruption non prurigineuse, faite d’éléments verruqueux, rouge vif, dont la taille varie du pois à l’œuf, et riche en Bartonella.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements alternatifs pour la verruga peruana en cas d’échec de la rifampicine?",
+        "answer": "L’azithromycine orale (500 mg pendant 7 jours chez l’adulte ; ou 10 mg/kg/j chez l’enfant), la ciprofloxacine et l’érythromycine sont des alternatives.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l’angiomatose bacillaire?",
+        "answer": "La lésion cutanée est en général une petite papule rouge/pourpre qui s’agrandit pour former un nodule voire une tumeur parfois confondue avec une maladie de Kaposi.",
+        "qtype": "symptômes"
+    }
+]

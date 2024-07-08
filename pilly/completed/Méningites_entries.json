@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les principaux symptômes d'une méningite aiguë bactérienne?",
+    "answer": "Les principaux symptômes d'une méningite aiguë bactérienne incluent un syndrome méningé (céphalées, vomissements en jet, photophobie, phonophobie, raideur de nuque, signes de Kernig et Brudzinski) et un syndrome infectieux d'apparition brutale ou progressive.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes de gravité d'une méningite?",
+    "answer": "Les signes de gravité d'une méningite incluent un purpura extensif, un état de choc, des troubles de la vigilance, un coma, et des convulsions, surtout si elles sont répétées.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels examens sont systématiquement demandés lors d'une suspicion de méningite?",
+    "answer": "Les examens systématiquement demandés incluent une étude cytologique (cellularité et formule leucocytaire), une étude biochimique (protéinorachie, glycorachie, lactates), et une étude microbiologique (examen direct après coloration de Gram, cultures bactériologiques, recherche d'antigènes solubles).",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de moins de 5 ans?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les enfants de moins de 5 ans sont Streptococcus pneumoniae, Haemophilus influenzae, et Neisseria meningitidis.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les adultes de plus de 14 ans?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les adultes de plus de 14 ans sont Neisseria meningitidis et Streptococcus pneumoniae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes cliniques évocateurs d'une méningite à méningocoque?",
+    "answer": "Les signes cliniques évocateurs d'une méningite à méningocoque incluent la présence d'un purpura, un début brutal, et une réaction nucléée variable en fonction de la précocité de la ponction lombaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques évocateurs d'une méningite à pneumocoque?",
+    "answer": "Les signes cliniques évocateurs d'une méningite à pneumocoque incluent un début brutal, un coma, des convulsions, des signes focaux, et une polynucléose marquée avec hyperprotéinorachie et hypoglycorachie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques évocateurs d'une méningite à Haemophilus influenzae?",
+    "answer": "Les signes cliniques évocateurs d'une méningite à Haemophilus influenzae incluent un début progressif, des convulsions fréquentes, et la présence de bacilles Gram négatif à l'examen direct.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques évocateurs d'une méningite à Listeria monocytogenes?",
+    "answer": "Les signes cliniques évocateurs d'une méningite à Listeria monocytogenes incluent un début progressif, une atteinte des paires crâniennes, et un liquide céphalo-rachidien variable (panaché, purulent ou lymphocytaire).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les nouveau-nés de moins de 2 mois?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les nouveau-nés de moins de 2 mois sont Streptococcus agalactiae, Streptococcus pyogenes, et les entérobactéries.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 2 à 23 mois?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 2 à 23 mois sont Streptococcus pneumoniae, Haemophilus influenzae, Neisseria meningitidis, et les entérobactéries.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 2 à 4 ans?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 2 à 4 ans sont Streptococcus pneumoniae, Haemophilus influenzae, et Neisseria meningitidis.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 5 à 14 ans?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les enfants de 5 à 14 ans sont Neisseria meningitidis, Streptococcus pneumoniae, et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les adultes de plus de 14 ans?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les adultes de plus de 14 ans sont Neisseria meningitidis et Streptococcus pneumoniae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes âgées de plus de 50 ans?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes âgées de plus de 50 ans sont Listeria monocytogenes et Streptococcus pneumoniae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes immunodéprimées?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes immunodéprimées sont Streptococcus pneumoniae, Listeria monocytogenes, et Neisseria meningitidis.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de traumatisme crânien?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de traumatisme crânien sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de chirurgie de la base du crâne?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de chirurgie de la base du crâne sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des infections récentes des voies aériennes supérieures?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des infections récentes des voies aériennes supérieures sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents d'alcoolisme?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents d'alcoolisme sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de splénectomie?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de splénectomie sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de drépanocytose?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de drépanocytose sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de néoplasie?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de néoplasie sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de tuberculose?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de tuberculose sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de VIH?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de VIH sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de myélome?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de myélome sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de corticothérapie générale?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de corticothérapie générale sont Streptococcus pneumoniae et Haemophilus influenzae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de contage épidémique?",
+    "answer": "Les principaux agents pathogènes responsables de méningites purulentes chez les personnes ayant des antécédents de contage épidémique sont Neisseria meningitidis et Streptococcus pneumoniae.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelles sont les causes bactériennes de méningite mentionnées dans le document?",
+    "answer": "Les causes bactériennes de méningite mentionnées incluent la leptospirose, la rickettsiose, la brucellose chronique, la borréliose, et la syphilis tardive.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les virus pouvant causer une méningite selon le document?",
+    "answer": "Les virus pouvant causer une méningite incluent les entérovirus, Herpes viridae (HSV2, VZV), VIH, poliovirus, oreillons, et les arboviroses.",
+    "qtype": "étiologie"
+  }
+]

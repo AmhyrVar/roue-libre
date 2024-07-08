@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce qu'une diarrhée infectieuse?",
+        "answer": "Les diarrhées infectieuses sont des émissions des selles trop fréquentes (> 3/jour) et trop abondantes (> 300 g/jour) dues à des micro-organismes : bactéries, virus, parasites ou champignons.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quelles sont les principales causes des diarrhées infectieuses?",
+        "answer": "Les principales causes des diarrhées infectieuses sont les bactéries (E. coli entéropathogènes, Salmonella sp., Shigella sp., etc.), les parasites (Entamoeba histolytica, Giardia duodenalis, Cryptosporidium parvum, etc.), les champignons (Candida albicans) et les virus (Rotavirus, Norovirus, Astrovirus, Adénovirus).",
+        "qtype": "causes"
+    },
+    {
+        "question": "Combien de cas de diarrhée sont recensés chaque année dans le monde selon l'OMS?",
+        "answer": "Il y aurait 1,7 milliards de cas de diarrhée par an dans le monde selon l'OMS.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la deuxième cause de mortalité chez les enfants de moins de 5 ans?",
+        "answer": "La diarrhée est la deuxième cause de mortalité chez les enfants de moins de 5 ans, après les infections respiratoires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le mécanisme de contamination le plus fréquent des diarrhées infectieuses?",
+        "answer": "Le mécanisme de contamination le plus fréquent est l'ingestion de micro-organismes à partir de boissons ou d'aliments contaminés ou par les mains sales.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de diarrhées aiguës chez les enfants de moins de 5 ans?",
+        "answer": "Les principaux agents pathogènes responsables de diarrhées aiguës chez les enfants de moins de 5 ans sont les rotavirus, les norovirus, les Escherichia coli (entéropathogènes), les shigelles, les salmonelles, les Yersinia, les Campylobacter, les protozoaires et les vibrions.",
+        "qtype": "causes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une diarrhée infectieuse aiguë?",
+        "answer": "Les symptômes d'une diarrhée infectieuse aiguë incluent des selles liquides mais fécales, non sanglantes, sans glaires, accompagnées de douleurs abdominales, parfois de vomissements et d'une fièvre peu élevée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs favorisants des diarrhées infectieuses aiguës?",
+        "answer": "Les facteurs favorisants des diarrhées infectieuses aiguës incluent un bas niveau socio-économique, l'inaccessibilité aux soins, l'inaccessibilité à l'eau propre, l'allaitement artificiel, la malnutrition, la rougeole, le petit poids de naissance et les pratiques traditionnelles inadaptées (restriction hydrique).",
+        "qtype": "facteurs favorisants"
+    },
+    {
+        "question": "Quel est le traitement principal des diarrhées infectieuses aiguës?",
+        "answer": "Le traitement principal des diarrhées infectieuses aiguës est essentiellement symptomatique, avec une réhydratation per os à l'aide de sels de réhydratation orale (SRO).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par les rotavirus chez les nourrissons?",
+        "answer": "Les symptômes d'une infection par les rotavirus chez les nourrissons incluent une diarrhée fécale ou aqueuse accompagnée de fièvre, souvent de vomissements, et parfois des signes respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmettent les rotavirus?",
+        "answer": "Les rotavirus se transmettent directement ou indirectement par les surfaces souillées contaminant les mains portées à la bouche.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quel est le traitement d'une infection par les rotavirus?",
+        "answer": "Le traitement d'une infection par les rotavirus repose sur la réhydratation par les SRO et par voie parentérale en cas de vomissements trop abondants.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Escherichia coli entéropathogène chez les nourrissons?",
+        "answer": "Les symptômes d'une infection par Escherichia coli entéropathogène chez les nourrissons incluent une diarrhée banale avec parfois une fébricule et des vomissements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmettent les Escherichia coli entéropathogènes?",
+        "answer": "Les Escherichia coli entéropathogènes se transmettent à partir d'un réservoir humain, par les mains sales, l'eau et les aliments souillés.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quel est le traitement d'une infection par Escherichia coli entéropathogène chez les nourrissons?",
+        "answer": "Le traitement d'une infection par Escherichia coli entéropathogène chez les nourrissons repose sur la réhydratation avec des solutions de réhydratation orale (SRO).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la diarrhée des voyageurs (turista)?",
+        "answer": "Les symptômes de la diarrhée des voyageurs incluent une diarrhée aiguë, souvent accompagnée de douleurs abdominales, de vomissements et parfois de fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la diarrhée des voyageurs?",
+        "answer": "Les agents pathogènes responsables de la diarrhée des voyageurs incluent des bactéries (ETEC, EPEC, salmonelles, shigelles, vibrionaceae, Campylobacter, Yersinia), des virus (norovirus) et des parasites (Giardia, amibes, anguillules, cryptosporidies).",
+        "qtype": "causes"
+    },
+    {
+        "question": "Quel est le traitement de la diarrhée des voyageurs?",
+        "answer": "Le traitement de la diarrhée des voyageurs repose sur la réhydratation. L'antibiothérapie n'est indiquée que dans les formes sévères, en cas de fièvre, chez les malades fragiles ou en cas de syndrome dysentérique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une intoxination par l'entérotoxine staphylococcique?",
+        "answer": "Les symptômes d'une intoxination par l'entérotoxine staphylococcique incluent une diarrhée et des vomissements qui régressent spontanément en quelques heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet l'entérotoxine staphylococcique?",
+        "answer": "L'entérotoxine staphylococcique se transmet par la consommation d'aliments mal conservés contaminés par des staphylocoques dorés.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quel est le traitement d'une intoxination par l'entérotoxine staphylococcique?",
+        "answer": "Le traitement d'une intoxination par l'entérotoxine staphylococcique repose sur la réhydratation.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Clostridium perfringens?",
+        "answer": "Les symptômes d'une infection par Clostridium perfringens incluent une diarrhée due à une entérotoxine libérée au cours de la lyse des bactéries dans l'intestin.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet Clostridium perfringens?",
+        "answer": "Clostridium perfringens se transmet par la consommation d'aliments mal cuits contaminés par des spores de ce bacille.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quel est le traitement d'une infection par Clostridium perfringens?",
+        "answer": "Le traitement d'une infection par Clostridium perfringens repose sur la réhydratation.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une intoxication par Bacillus cereus?",
+        "answer": "Les symptômes d'une intoxication par Bacillus cereus incluent une diarrhée et des vomissements similaires à ceux causés par Clostridium perfringens.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet Bacillus cereus?",
+        "answer": "Bacillus cereus se transmet par la consommation d'aliments contaminés.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quel est le traitement d'une intoxication par Bacillus cereus?",
+        "answer": "Le traitement d'une intoxication par Bacillus cereus repose sur la réhydratation.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du botulisme?",
+        "answer": "Les symptômes du botulisme incluent principalement des troubles neurologiques, la diarrhée n'étant pas fréquente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet Clostridium botulinum?",
+        "answer": "Clostridium botulinum se transmet principalement par voie alimentaire, plus rarement par une plaie ou par développement dans l'intestin (contamination de nourrissons par le miel).",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quel est le traitement du botulisme?",
+        "answer": "Le traitement du botulisme repose sur la recherche de la toxine dans le sérum, les selles et les aliments, et sur des soins médicaux appropriés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection par Clostridium difficile?",
+        "answer": "Diarrhée hydrique, rarement sanglante, fièvre, douleurs abdominales ou colite pseudo-membraneuse avec présence d’enduits membraneux à la coloscopie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on une infection par Clostridium difficile?",
+        "answer": "En rectoscopie, la muqueuse rectale est congestive et recouverte de fausses membranes jaunâtres. L’anatomopathologie montre un œdème ou une nécrose de la muqueuse colique surmontés de fibrine et de leucocytes. L’identification de C. difficile à la coproculture n’a de valeur que si elle est associée à la présence des toxines A et B (tests immuno-enzymatiques).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par Clostridium difficile?",
+        "answer": "Arrêt des antibiotiques en cours. Traitement par le métronidazole per os (2 g/jour durant 10 jours) dans les formes modérées, la vancomycine per os (2 g/jour durant 10 jours) dans les formes sévères ou la fidaxomicine qui réduit le risque de rechute.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de syndromes diarrhéiques d’allure banale?",
+        "answer": "Les E. coli entéro-invasifs, les shigelles, les salmonelles, les Campylobacter, les Yersinia et vibrions.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels protozoaires sont souvent isolés au cours des diarrhées infantiles et chez les voyageurs?",
+        "answer": "Cryptosporidium parvum, Isospora belli et les microsporidies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome dysentérique?",
+        "answer": "Les selles sont glairo-sanglantes ou réduites à des glaires sanguinolentes (« crachat rectal ») émises fréquemment, accompagnées de ténesme, d’épreintes, de vomissements et parfois de fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de l’amœbose intestinale?",
+        "answer": "Le traitement repose sur le métronidazole (2 g/jour en 2 prises/jour chez l’adulte, 50 mg/kg en 4 prises/jour chez l’enfant durant 7 jours) ou le tinidazole (2 g/jour en prise unique chez l’adulte, 50 mg/kg/jour en prise unique chez l’enfant durant 3 jours).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de dysenteries fébriles?",
+        "answer": "Les shigelles et les Escherichia coli entéro-invasifs (EIEC).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Escherichia coli entérohémorragiques (EHEC)?",
+        "answer": "Après une incubation moyenne de 3 à 8 jours survient une diarrhée aqueuse accompagnée de douleurs abdominales mais sans fièvre, suivie d’hémorragies digestives basses (colite hémorragique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on une infection par Escherichia coli entérohémorragiques (EHEC)?",
+        "answer": "Dépistage présomptif des sérotypes 0157 : H7 en coproculture sur leur propriété de ne pas fermenter le sorbitol en 24 heures, agglutination avec des sérums anti 0157, mise en évidence d’un effet cytopathogène sur les cellules Vero.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par Escherichia coli entérohémorragiques (EHEC)?",
+        "answer": "Il se limite au traitement symptomatique de l’insuffisance rénale, de l’anémie et des perturbations électrolytiques. L’utilisation des antibiotiques (fluoroquinolones, cotrimoxazole) est contre-indiquée car elle semble favoriser les complications. L’azitromycine peut éventuellement être utilisée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de diarrhées hydriques?",
+        "answer": "Les Escherichia coli entérotoxinogènes (ETEC).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Campylobacter jejuni?",
+        "answer": "Syndrome dysentérique avec douleurs abdominales et fièvre. Des stries de sang sur des selles moulées sont évocatrices.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par Campylobacter jejuni?",
+        "answer": "Macrolides ou fluoroquinolones chez l’adulte. Les ß-lactamines sont inefficaces.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Yersinia enterocolitica?",
+        "answer": "Dysenterie fébrile accompagnée de vomissements. Des douleurs abdominales violentes peuvent simuler une appendicite aiguë (adénites mésentériques).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par Yersinia enterocolitica?",
+        "answer": "Chez l’adulte, fluoroquinolones et chez l’enfant C3G.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome cholériforme?",
+        "answer": "Les selles sont afécales, hydriques et très fréquentes. Elles ne contiennent ni pus ni sang car il n’y a pas d’effraction de la muqueuse mais une sécrétion hydro-électrolytique par la muqueuse sous l’action de toxines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de diarrhées cholériformes bénignes?",
+        "answer": "Vibrio parahaemolyticus, Plesiomonas shigelloïdes et plusieurs espèces d’Aeromonas dont A. hydrophilia.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des diarrhées infectieuses chroniques?",
+        "answer": "Les selles sont pâteuses, claires et graisseuses. Elles ne contiennent pas de sang. L’amaigrissement et les signes de carence nutritionnelle sont proportionnels à la durée de l’infection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de diarrhées infectieuses chroniques?",
+        "answer": "Bactéries (tuberculose, pullulation bactérienne), parasites (giardia, anguillule) ou champignons (histoplasme).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement pour la giardiose?",
+        "answer": "Le diagnostic repose sur l’identification de Giardia à l’examen parasitologique des selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la sprue tropicale?",
+        "answer": "Diarrhée chronique graisseuse, amaigrissement, asthénie, anorexie, anémie, aphtes, glossite, hyperpigmentation cutanée, œdèmes, douleurs osseuses, faiblesse et atrophie musculaire, neuropathie périphérique, sclérose combinée de la moelle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour la sprue tropicale?",
+        "answer": "Classiquement tétracyclines (en pratique il serait plus logique d’utiliser des quinolones ou des C3G), acide folique (20 mg/jour) et vitamine B12 (1 000 μg/jour) jusqu’à normalisation du volume globulaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de diarrhées au cours des immunodépressions?",
+        "answer": "Bactéries (Salmonelles non typhiques, Mycobacterium avium), parasites (Cryptosporidium parvum, Isospora belli, Microsporidium sp., Anguillules, Amibes, Giardia), virus (Cytomégalovirus, Herpes simplex, Entérovirus, adénovirus), champignons (Histoplasma sp.).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Cryptosporidium sp. et Isospora belli?",
+        "answer": "Les oocystes de ces protozoaires sont recherchés dans les selles par la coloration spéciale de Ziehl-Neelsen modifiée par Henriksen-Pohlenz ou dans les biopsies de muqueuse intestinale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par Cryptosporidium sp. et Isospora belli?",
+        "answer": "Aucun traitement n’est efficace contre les cryptosporidies, en dehors du nitazoxanide (et uniquement si le déficit immunitaire n’est pas trop profond). Le cotrimoxazole per os (triméthoprime : 10 mg/kg/jour) permet de diminuer la charge parasitaire au cours des isosporoses et parfois d’éradiquer l’infection.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par les microsporidies?",
+        "answer": "Les microsporidies sont identifiées dans les selles par fluorescence (méthode de Van Gool à l’Uvitex 2B) ou par coloration au trichrome de Weber.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par les microsporidies?",
+        "answer": "Enterocytozoon bieneusi relève d'un traitement par fumagiline (modérément efficace) ; Encephalitozoon intestinalis est sensible à l’albendazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le cytomégalovirus au cours des immunodépressions?",
+        "answer": "Le CMV est responsable de colites ulcéreuses avec inclusions nucléaires et cytoplasmiques des cellules muqueuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement pour une infection par le cytomégalovirus au cours des immunodépressions?",
+        "answer": "Le traitement par foscarnet ou ganciclovir est rarement disponible en milieu tropical.",
+        "qtype": "traitement"
+    }
+]

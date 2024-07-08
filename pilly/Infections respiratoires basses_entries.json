@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelle est la principale cause de mortalité infantile dans le monde?",
+        "answer": "Les infections respiratoires aiguës basses (IRAb) sont la principale cause mondiale de mortalité infantile.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage de la mortalité infantile est représenté par les infections respiratoires aiguës?",
+        "answer": "Les infections respiratoires aiguës représentent 20 % de la mortalité infantile.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité infantile attribué à la pneumonie en 2017?",
+        "answer": "En 2017, 808 614 enfants de moins de 5 ans sont décédés d’une pneumonie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des infections respiratoires basses chez les enfants?",
+        "answer": "Chez les enfants, les principaux agents pathogènes sont le pneumocoque, Haemophilus influenzae et le virus respiratoire syncytial (VRS).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infections respiratoires aiguës basses chez l'adulte?",
+        "answer": "Les facteurs de risque chez l'adulte incluent la broncho-pneumopathie chronique, le tabagisme, l'alcoolisme, le diabète, l'insuffisance rénale/hépatique et l'âge > 65 ans.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels en faveur d’une infection respiratoire aiguë basse?",
+        "answer": "Les signes fonctionnels incluent la fièvre, la toux (avec ou sans expectoration), la dyspnée et la douleur thoracique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères de gravité clinique des infections respiratoires aiguës basses chez l'enfant?",
+        "answer": "Les critères de gravité clinique chez l'enfant incluent l'aggravation rapide des signes généraux et respiratoires, la fièvre élevée, la somnolence, l'incapacité de boire, la dyspnée à la prise des biberons, les perturbations hémodynamiques, les signes d'hypoxie et la détresse respiratoire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux micro-organismes responsables des infections respiratoires basses?",
+        "answer": "Les principaux micro-organismes incluent Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Klebsiella pneumoniae, Mycoplasma pneumoniae, Chlamydia pneumoniae, Bordetella pertussis, Coxiella burnetii, les bactéries anaérobies, les entérobactéries, le bacille de Koch, les leptospires, Nocardia sp., les coronavirus (principalement le SARS CoV 2), le virus respiratoire syncytial, les myxovirus para influenzae, les morbillivirus, les adénovirus, les entérovirus, les myxovirus influenzae, les herpesviridae, certains arbovirus et virus des fièvres hémorragiques (Hantavirus), Histoplasma duboisii et H. capsulatum, Aspergillus sp., Pneumocystis jiroveci, Cryptococcus neoformans, Talaromyces marneffei, Paragominus sp., Echinococcus granulosus, les migrations larvaires et le syndrome de Löffler, et les bilharzies.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour les infections respiratoires aiguës basses sans signe de gravité?",
+        "answer": "L'OMS recommande l'amoxicilline 40mg/kg 2 fois par jour per os pendant 5 jours, pouvant être réduit à 3 jours dans les zones de faible endémie VIH.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements associés recommandés pour les enfants de moins de 5 ans avec une infection respiratoire aiguë basse?",
+        "answer": "Les traitements associés incluent un traitement antipaludique en zone d'endémie, l'éducation de l'entourage (hydratation, renutrition), le traitement d'une diarrhée associée en utilisant les sels de réhydratation orale (SRO), et la vitamine A per os.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de gravité clinique des infections respiratoires aiguës basses chez l'adulte?",
+        "answer": "Les signes de gravité clinique chez l'adulte incluent la confusion, la polypnée > 30/min, les signes de détresse respiratoire, l'insuffisance circulatoire (hypotension, fréquence cardiaque > 120/min, marbrure, allongement du temps de recoloration cutanée, oligo- ou anurie).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de risque d'infections respiratoires aiguës basses chez l'enfant?",
+        "answer": "Les facteurs de risque chez l'enfant incluent le petit poids de naissance, la malnutrition protéino-énergétique, la carence en vitamine A, la cardiopathie congénitale et le bas niveau socio-économique.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour les infections respiratoires aiguës basses avec signes de gravité chez les enfants de 2 mois à 5 ans?",
+        "answer": "L'OMS recommande l'amoxicilline 50 mg/kg + gentamicine 7,5 mg/kg IM ou IV pendant au moins 5 jours ; ceftriaxone en deuxième intention.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour les enfants de moins de 1 an infectés par le VIH avec une infection respiratoire aiguë basse?",
+        "answer": "L'OMS recommande l'adjonction de cotrimoxazole si suspicion de pneumocystose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de l'épiglottite de l'enfant?",
+        "answer": "Les signes fonctionnels incluent un début brutal, une fièvre élevée, une dysphagie, une hypersalivation, une bradypnée inspiratoire, une dysphagie, un stridor, une toux rare et claire, une voix claire et une asphyxie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la laryngite sous glottique de l'enfant?",
+        "answer": "Les signes fonctionnels incluent un début progressif, une bradypnée inspiratoire, une dyspnée intense, une toux aboyante et une voix rauque ou éteinte, l'absence de dysphagie, une fièvre en règle peu élevée, une rhinopharyngite fréquente et un état général conservé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la laryngite striduleuse de l'enfant?",
+        "answer": "Les signes fonctionnels incluent une apparition brutale de signes de laryngite aiguë de durée brève, des apnées et cyanoses brèves et récidivantes, une fièvre peu élevée ou absente, un rhume, une voix et une toux rauque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la laryngite diphtérique?",
+        "answer": "Les signes fonctionnels incluent des adénopathies submaxillaires importantes, une angine pseudomembraneuse extensive jusqu’aux voies aériennes basses, une dyspnée jusqu’à l’asphyxie (croup), des signes exotoxiniques comme la myocardite et l’atteinte du SNC.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la trachéite ou bronchite?",
+        "answer": "Les signes fonctionnels incluent une toux sèche, des brûlures thoraciques, une expectoration purulente, une fièvre inconstante et des râles bronchiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la bronchiolite de l'enfant?",
+        "answer": "Les signes fonctionnels incluent une dyspnée expiratoire, un wheezing (sifflement respiratoire), un tirage, des râles sibilants ou sous crépitants.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la pneumonie ou bronchopneumonie?",
+        "answer": "Les signes fonctionnels incluent un début brutal, une toux, une douleur thoracique, une tachypnée, un tirage (forme grave), une fièvre modérée ou élevée, des râles crépitants, un syndrome de condensation parenchymateux (matité, abolition des murmures vésiculaires, augmentation des vibrations vocales, souffle tubaire), et parfois un syndrome pleurétique (matité, abolition des murmures vésiculaires et des vibrations vocales).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de gravité des infections respiratoires aiguës basses chez l'enfant?",
+        "answer": "Les facteurs de risque de gravité chez l'enfant incluent l'âge < 6 mois, une pathologie respiratoire ou cardiaque antérieure, la drépanocytose, l'immunosuppression et la malnutrition sévère.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de gravité des infections respiratoires aiguës basses chez l'adulte?",
+        "answer": "Les facteurs de risque de gravité chez l'adulte incluent l'âge > 65 ans, l'immunodépression, le cancer et la pneumopathie par inhalation/troubles de déglutition.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les signes de gravité clinique des infections respiratoires aiguës basses chez l'enfant?",
+        "answer": "Les signes de gravité clinique chez l'enfant incluent l'aggravation rapide des signes généraux et respiratoires, la fièvre élevée, le contact de l'enfant anormal, la somnolence, l'incapacité de boire, la dyspnée à la prise des biberons, les perturbations hémodynamiques (marbrures, hypotension), les signes d'hypoxie (cyanose, désaturation), la détresse respiratoire (polypnée, signes de lutte, balancement, battement des ailes du nez, tirage, geignement expiratoire), le stridor et les signes d'hypercapnie (sueurs, troubles de conscience).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de gravité clinique des infections respiratoires aiguës basses chez l'adulte?",
+        "answer": "Les signes de gravité clinique chez l'adulte incluent la confusion, la polypnée > 30/min, les signes de détresse respiratoire (balancement, tirage), l'insuffisance circulatoire (hypotension, pression artérielle systolique < 90 mmHg, pression artérielle diastolique < 60 mmHg, fréquence cardiaque > 120/min, marbrure, allongement du temps de recoloration cutanée, oligo- ou anurie).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux diagnostics différentiels des infections respiratoires aiguës basses chez l'enfant?",
+        "answer": "Les principaux diagnostics différentiels incluent les corps étrangers des voies respiratoires, le paludisme, la myocardite aiguë et le syndrome thoracique aigu chez le sujet drépanocytaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux diagnostics différentiels des infections respiratoires aiguës basses chez l'adulte?",
+        "answer": "Les principaux diagnostics différentiels incluent l'insuffisance cardiaque aiguë lors d'une infection extra respiratoire chez un sujet cardiopathe et le syndrome thoracique aigu chez le sujet drépanocytaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour les infections respiratoires aiguës basses avec signes de gravité ou échec de l'amoxicilline?",
+        "answer": "L'OMS recommande le transfert vers un centre de niveau 2 pour traitement de 2e intention approprié après une première dose d'antibiotique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour les infections respiratoires aiguës basses avec signes de gravité chez les enfants de 2 mois à 5 ans?",
+        "answer": "L'OMS recommande l'amoxicilline 50 mg/kg + gentamicine 7,5 mg/kg IM ou IV pendant au moins 5 jours ; ceftriaxone en deuxième intention.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les critères de gravité des infections respiratoires aiguës basses (IRAb) ?",
+        "answer": "Les critères de gravité des IRAb incluent l'atteinte de plusieurs lobes, d'autres organes que le poumon, une leucopénie, une forte hyperleucocytose, des hémocultures positives (surtout au cours du VIH-SIDA) et le retard à la prise en charge.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une pneumonie à pneumocoques au niveau 2 et 3 ?",
+        "answer": "Au niveau 2 et 3, le traitement recommandé pour une pneumonie à pneumocoques est l'amoxicilline 1 g x 3/j chez l'adulte durant 5 à 7 jours. En cas de souche de sensibilité diminuée à la pénicilline, la ceftriaxone IM (50 mg/kg/jour) sans dépasser 2 g/j durant 10 jours est utilisée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumonie à Haemophilus influenzae ?",
+        "answer": "La symptomatologie clinique de la pneumonie à Haemophilus influenzae est voisine de celle des pneumococcies et peut inclure une conjonctivite concomitante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet Haemophilus influenzae ?",
+        "answer": "Haemophilus influenzae se transmet par voie aérienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une pneumonie à Haemophilus influenzae ?",
+        "answer": "Le traitement initial recommandé pour une pneumonie à Haemophilus influenzae est l'amoxicilline + acide clavulanique ou les C3G aux niveaux de référence.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes radiologiques des pneumopathies atypiques ?",
+        "answer": "Les pneumopathies atypiques présentent des images interstitielles, réticulo-nodulaires, ou en « verre dépoli ».",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de pneumopathies atypiques ?",
+        "answer": "Les principaux agents pathogènes responsables de pneumopathies atypiques sont les mycoplasmes, les Chlamydiae, Coxiella, le bacille de la coqueluche et les légionelles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les pneumopathies atypiques ?",
+        "answer": "Le traitement des pneumopathies atypiques repose sur les macrolides ou les cyclines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la légionellose ?",
+        "answer": "Les symptômes de la légionellose incluent des signes respiratoires de pneumonie, des myalgies, des troubles digestifs et neurologiques (confusion, céphalées).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la légionellose ?",
+        "answer": "Le traitement de la légionellose inclut les macrolides, par exemple l'azithromycine (10 jours) dans les formes simples ou associée à la rifampicine en cas de forme grave (21 jours). Alternatives : fluoroquinolone ± rifampicine ou macrolide + fluoroquinolone.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la nocardiose pulmonaire ?",
+        "answer": "La nocardiose pulmonaire se manifeste par une infection pulmonaire simulant la tuberculose, surtout lorsque l’évolution est traînante et que les images radiologiques sont à type d’abcès pulmonaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables des pneumopathies d’inhalation ?",
+        "answer": "Les principaux agents pathogènes responsables des pneumopathies d’inhalation sont les anaérobies (Bacteroïdes sp., Fusobacterium sp., Peptococus sp., Peptostreptococcus sp.), les cocci Gram+ (Streptocoques du groupe milleri, Staphylococcus aureus), et les bacilles Gram - (Klebsiella pneumoniae, Enterobacter sp., Serratia sp.).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les pneumopathies d’inhalation ?",
+        "answer": "Le traitement des pneumopathies d’inhalation inclut l’amoxicilline + acide clavulanique (1 g IV toutes les 8 heures) ou cefotaxime (1 g IV toutes les 8 heures) + métronidazole (500 mg IV ou PO x 3/j IV ou PO) durant au moins 3 à 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la leptospirose pulmonaire ?",
+        "answer": "Les symptômes de la leptospirose pulmonaire incluent des opacités floconneuses, des infiltrats, des hémoptysies et un syndrome de détresse respiratoire aiguë (SDRA).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la leptospirose pulmonaire ?",
+        "answer": "Le traitement de la leptospirose pulmonaire inclut les pénicillines, les C3G et les cyclines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la salmonellose pulmonaire ?",
+        "answer": "Les symptômes de la salmonellose pulmonaire incluent des abcès, une pleurésie, une pneumonie, des fistules et un syndrome de détresse respiratoire aiguë (SDRA).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la salmonellose pulmonaire ?",
+        "answer": "Le traitement de la salmonellose pulmonaire inclut les C3G, les fluoroquinolones (attention, résistances fréquentes) et le cotrimoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon pulmonaire ?",
+        "answer": "Les symptômes du charbon pulmonaire incluent des condensations, un élargissement médiastinal et une pleurésie hémorragique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon pulmonaire ?",
+        "answer": "Le traitement du charbon pulmonaire inclut la pénicilline, la doxycycline et la ciprofloxacine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire ?",
+        "answer": "Les symptômes de la peste pulmonaire incluent des infiltrats et des excavations, des hémoptysies et un syndrome de détresse respiratoire aiguë (SDRA).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la peste pulmonaire ?",
+        "answer": "Le traitement de la peste pulmonaire inclut les fluoroquinolones en première intention, les aminosides et en alternative la doxycycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la mélioïdose pulmonaire ?",
+        "answer": "Les symptômes de la mélioïdose pulmonaire incluent des broncho-pneumonies aiguës, des abcès, des hémoptysies et un syndrome de détresse respiratoire aiguë (SDRA).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la mélioïdose pulmonaire ?",
+        "answer": "Le traitement de la mélioïdose pulmonaire inclut la ceftazidime ou les carbapénèmes, l’amoxicilline-acide clavulanique en phase aiguë, puis le cotrimoxazole + doxycycline ou l’amoxicilline-acide clavulanique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumonie à Klebsiella pneumoniae ?",
+        "answer": "Les symptômes de la pneumonie à Klebsiella pneumoniae incluent des pneumopathies cavitaires et hémorragiques, plus fréquentes chez les patients dénutris ou alcooliques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumonie à Staphylococcus aureus ?",
+        "answer": "Les symptômes de la pneumonie à Staphylococcus aureus incluent des signes de choc septique, des abcès pulmonaires volumineux (bulleux) pouvant se rompre dans la plèvre et être responsable d’un pyopneumothorax.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose pulmonaire ?",
+        "answer": "Les symptômes de la tuberculose pulmonaire incluent des cavités uniques ou multiples à parois fines (cavernes) au sein d’infiltrats, souvent localisées aux sommets.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du kyste hydatique du poumon ?",
+        "answer": "Les symptômes du kyste hydatique du poumon incluent des douleurs thoraciques, une fièvre, une vomique, et des images radiologiques de masse arrondie en « boulet de canon » ou en « nénuphar » après une vomique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose pulmonaire ?",
+        "answer": "Les symptômes de la bilharziose pulmonaire incluent des râles crépitants et sibilants, une éosinophilie sanguine, une hypertension pulmonaire, une granulomatose pulmonaire évoluant vers la fibrose et le cœur pulmonaire chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les infections pulmonaires au cours du VIH-SIDA ?",
+        "answer": "Le traitement des infections pulmonaires au cours du VIH-SIDA inclut la chimioprophylaxie par le cotrimoxazole pour réduire la fréquence de la pneumocystose lorsque les CD4 sont < à 200/mm³.",
+        "qtype": "traitement"
+    }
+]

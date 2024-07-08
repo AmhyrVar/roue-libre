@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quels sont les signes respiratoires d'une pleurésie infectieuse?",
+        "answer": "Les signes respiratoires sont au premier plan : toux sèche, pénible, souvent liée à la position; dyspnée, souvent liée à l’importance de l’épanchement, à l’altération de la fonction respiratoire sous-jacente ou parfois à la douleur occasionnée; douleur thoracique, souvent intense, qui traduit l’inflammation locale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment l'examen clinique permet-il de diagnostiquer une pleurésie?",
+        "answer": "L'examen clinique permet de faire le diagnostic lorsqu’il montre une matité déclive à la percussion thoracique, à l’auscultation, le murmure vésiculaire et les vibrations vocales sont abolis dans la même zone; un souffle pleurétique peut être perçu à la limite supérieure. Lorsque l’épanchement est peu abondant, la perception d’un frottement témoigne de l’inflammation des 2 feuillets de la plèvre.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats typiques d'une radiographie pour une pleurésie en plèvre libre?",
+        "answer": "La pleurésie en plèvre libre est affirmée sur la mise en évidence d’une opacité à concavité supérieure qui comble le cul-de-sac pleural (ligne de Damoiseau); le niveau liquide se déplace en fonction de la position.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de l'échographie dans le diagnostic de la pleurésie?",
+        "answer": "L'échographie confirme l’épanchement. Elle est particulièrement utile pour le localiser (notamment dans les pleurésies cloisonnées ou suspendues), en définir les caractéristiques ultrasonores et guider la ponction.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments recherchés lors de l'interrogatoire pour une pleurésie infectieuse?",
+        "answer": "On recherche la notion d’un épisode fébrile aigu récent, accompagné éventuellement de signes respiratoires aigus; d’une toux persistante, d’une fièvre chronique, de sueurs nocturnes, d’une anorexie et/ou d’un amaigrissement; d’antécédents propices au développement d’une pleurésie; d’une possible contamination.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les mécanismes de survenue d’une pleurésie infectieuse identifiables par l'examen clinique, la biologie et l’imagerie?",
+        "answer": "Les mécanismes incluent plaie ou tumeur pariétale thoracique, nodule onchocercien; pneumonie localisée ou infiltrat diffus; collection, cavité ou tumeur broncho-pulmonaire; adénopathies ou tumeur médiastinale, lésions péricardiques; atteinte diaphragmatique souvent associée à une pathologie sous-diaphragmatique; pathologie bucco-dentaire ou pharyngée; infection ORL ou des voies aériennes supérieures; sepsis; troubles de déglutition; une pathologie générale comme cancer, lymphome ou hémopathie, immunodépression.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de liquides pleuraux identifiables par la ponction et leur signification?",
+        "answer": "Les types de liquides incluent les liquides clairs, transsudatifs (Rivalta -) souvent noninfectieux; les pleurésies sérofibrineuses (Rivalta +) témoignant d’une inflammation; les pleurésies purulentes évoquant une infection à pyogènes; les liquides franchement hémorragiques (hémothorax) évoquant un cancer pleural; les liquides chyleux (chylothorax) évoquant une obstruction lymphatique ou une plaie du canal thoracique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment distingue-t-on les transsudats des exsudats dans l'analyse biochimique du liquide pleural?",
+        "answer": "Les transsudats ont < 25 g/L de protéines, < 1 000 cellules/µL. Les exsudats ont > 35 g/L de protéines, > 1 000 cellules/µL. En zone grise, entre 25 et 35 g/L, l’élévation des LDH pleuraux permet d’orienter vers un exsudat.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types de cellules peuvent être identifiés dans l'analyse cytologique du liquide pleural et que signifient-elles?",
+        "answer": "Les polynucléaires neutrophiles indiquent des infections à bactéries pyogènes, les polynucléaires éosinophiles indiquent des parasitoses thoraciques, les lymphocytes indiquent des tuberculoses, des cancers ou des hémopathies, chylothorax, et des cellules tumorales peuvent également être présentes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de la culture bactérienne dans le diagnostic des pleurésies infectieuses?",
+        "answer": "La culture bactérienne est effectuée idéalement sur des flacons d’hémocultures ensemencés avec du liquide pleural au lit du patient, et à partir du liquide pleural envoyé au laboratoire. Elle utilise des milieux standards et des milieux spécifiques comme le milieu de Loewenstein-Jensen pour le bacille de Koch.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'intérêt de la biopsie pleurale dans le diagnostic des pleurésies?",
+        "answer": "La biopsie pleurale permet un examen histologique utile au diagnostic de l’origine infectieuse (tuberculose) ou tumorale de la pleurésie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de tuberculose évolutive qui peuvent orienter vers une pleurésie tuberculeuse?",
+        "answer": "Les signes incluent infiltrat pulmonaire de tuberculose commune ou de miliaire, et autres localisations de la tuberculose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie révélée par une douleur thoracique?",
+        "answer": "La pleurésie révélée par une douleur thoracique est accompagnée d’une toux et d’une dyspnée d’installation récente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pleurésie détectée lors du bilan d’une toux chronique?",
+        "answer": "La pleurésie détectée lors du bilan d’une toux chronique ou d’une dyspnée progressive peut être asymptomatique ou présenter des symptômes légers.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie cloisonnée?",
+        "answer": "Les signes cliniques d'une pleurésie cloisonnée peuvent être frustes ou même manquer, et peuvent inclure une matité déclive à la percussion thoracique et des anomalies à l’auscultation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes radiographiques d'une pleurésie cloisonnée?",
+        "answer": "Les signes radiographiques d'une pleurésie cloisonnée incluent des épanchements cloisonnés, des pleurésies suspendues, des tumeurs pleurales ou un simple épaississement des feuillets.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes échographiques d'une pleurésie cloisonnée?",
+        "answer": "Les signes échographiques d'une pleurésie cloisonnée incluent la localisation précise de l’épanchement et la définition des caractéristiques ultrasonores.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie purulente?",
+        "answer": "Les signes cliniques d'une pleurésie purulente incluent la présence de liquide purulent dans la cavité pleurale, souvent associé à une infection à pyogènes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie sérofibrineuse?",
+        "answer": "Les signes cliniques d'une pleurésie sérofibrineuse incluent un liquide clair, Rivalta +, riche en cellules, témoignant d’une inflammation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie tuberculeuse?",
+        "answer": "Les signes cliniques d'une pleurésie tuberculeuse incluent un liquide clair, exsudatif (Rivalta +) mais modérément inflammatoire, avec une quantité de protéines peu élevée et des leucocytes < 2 000 en majorité lympho-monocytaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie hémorragique?",
+        "answer": "Les signes cliniques d'une pleurésie hémorragique incluent la présence de liquide franchement hémorragique (hémothorax), qui en l’absence de traumatisme évoque un cancer pleural.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie chyleuse?",
+        "answer": "Les signes cliniques d'une pleurésie chyleuse incluent la présence de liquide chyleux (chylothorax), évoquant une obstruction lymphatique ou une plaie du canal thoracique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à une pathologie sous-diaphragmatique?",
+        "answer": "Les signes cliniques d'une pleurésie associée à une pathologie sous-diaphragmatique incluent une atteinte diaphragmatique (coupole déformée, altérée ou ascensionnée) souvent associée à un abcès hépatique ou un abcès sous-phrénique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à une pathologie bucco-dentaire?",
+        "answer": "Les signes cliniques d'une pleurésie associée à une pathologie bucco-dentaire incluent des infections bucco-dentaires ou pharyngées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à une infection ORL?",
+        "answer": "Les signes cliniques d'une pleurésie associée à une infection ORL incluent des infections des voies aériennes supérieures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à un sepsis?",
+        "answer": "Les signes cliniques d'une pleurésie associée à un sepsis incluent des signes systémiques d'infection sévère.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à des troubles de déglutition?",
+        "answer": "Les signes cliniques d'une pleurésie associée à des troubles de déglutition incluent des difficultés à avaler et des épisodes de fausse route.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à une pathologie générale?",
+        "answer": "Les signes cliniques d'une pleurésie associée à une pathologie générale incluent des signes de cancer, lymphome ou hémopathie, et immunodépression (SIDA).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à une pneumonie localisée?",
+        "answer": "Les signes cliniques d'une pleurésie associée à une pneumonie localisée incluent des infiltrats pulmonaires visibles à l'imagerie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une pleurésie associée à une tumeur broncho-pulmonaire?",
+        "answer": "Les signes cliniques d'une pleurésie associée à une tumeur broncho-pulmonaire incluent la présence de masses ou cavités visibles à l'imagerie.",
+        "qtype": "symptômes"
+    }
+]

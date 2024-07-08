@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce qu'un écoulement vaginal?",
+        "answer": "L’écoulement vaginal est défini comme un écoulement anormal par sa couleur, son odeur et/ou son abondance (leucorrhée).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes qui peuvent accompagner un écoulement vaginal?",
+        "answer": "Il est parfois accompagné de prurit, d’œdème, de dysurie, de douleurs abdominales basses ou lombaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Pourquoi l'écoulement vaginal est-il une cause fréquente de consultation?",
+        "answer": "L’écoulement vaginal est une des causes les plus fréquentes de consultation des femmes pour suspicion d’IST.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux défis pour le clinicien face à un écoulement vaginal?",
+        "answer": "Le challenge pour le clinicien est de déterminer l’étiologie de l’écoulement vaginal alors que de nombreuses causes infectieuses et non infectieuses peuvent en être responsables.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Les écoulements vaginaux sont-ils toujours anormaux?",
+        "answer": "Les écoulements vaginaux ne sont pas toujours anormaux ou indicateurs d’une IST.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales causes d'écoulement vaginal?",
+        "answer": "Les principales causes d’écoulement vaginal sont les vaginites dues à Trichomonas vaginalis, Candida albicans, Gardnerella vaginalis, et les cervicites principalement dues à N. gonorrhoeae et Chlamydia trachomatis.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la trichomonose à Trichomonas vaginalis?",
+        "answer": "Les symptômes incluent prurit et écoulement jaunâtre purulent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose?",
+        "answer": "Les symptômes incluent prurit, érythème, brûlure et écoulement grumeleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la vaginose bactérienne?",
+        "answer": "Les symptômes incluent un écoulement blanchâtre, modéré, malodorant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la chlamydiose à Chlamydia trachomatis?",
+        "answer": "La chlamydiose est souvent asymptomatique mais peut parfois causer dyspareunie, dysurie et douleur abdominale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gonococcie à Neisseria gonorrhoeae?",
+        "answer": "Les symptômes incluent souvent un écoulement vaginal, col érythémateux, col érodé, friable, saignant facilement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour la chlamydiose?",
+        "answer": "Les facteurs de risque incluent être âgé de moins de 21 ans, avoir plusieurs partenaires dans les 3 derniers mois, avoir un nouveau partenaire dans les 3 derniers mois, avoir un partenaire avec une IST, et érosion du col.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la trichomonose à Trichomonas vaginalis?",
+        "answer": "Les signes cliniques incluent un écoulement jaunâtre, verdâtre et un col avec hémorragie punctiforme type framboisé.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la candidose?",
+        "answer": "Les signes cliniques incluent une vulve érythémateuse excoriée, œdématiée, avec rhagades et petites pustules en périphérie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la vaginose bactérienne?",
+        "answer": "Les signes cliniques incluent un écoulement en regard de la fourchette postérieure, col normal mais écoulement adhérent, et une odeur de « poisson avarié ».",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la chlamydiose?",
+        "answer": "Les signes cliniques incluent souvent un col érythémateux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la gonococcie?",
+        "answer": "Les signes cliniques incluent un col érodé, friable, saignant facilement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait l'examen direct pour la trichomonose?",
+        "answer": "L'examen direct se fait par écouvillonnage dans le cul de sac postérieur et visualisation des T. vaginalis mobiles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait l'examen direct pour la candidose?",
+        "answer": "L'examen direct montre des colonies arrondies ou ovalaires et des filaments si Candida albicans.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait l'examen direct pour la vaginose bactérienne?",
+        "answer": "L'examen direct inclut l'addition de KOH qui majore l’odeur et la présence de « clue cells » (cellules épithéliales kératinisées) qui portent des cocobacilles avec cytoplasme granuleux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait l'examen direct pour la gonococcie?",
+        "answer": "L'examen direct a une mauvaise valeur diagnostique pour les diplocoques intracellulaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le test le plus utilisé pour le diagnostic de la chlamydiose?",
+        "answer": "Le test le plus utilisé est la PCR par écouvillon sur le col et l’écoulement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le test le plus utilisé pour le diagnostic de la gonococcie?",
+        "answer": "Le test le plus utilisé est la PCR par écouvillon sur le col et l’écoulement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour la vaginose bactérienne?",
+        "answer": "Les facteurs de risque incluent une dysbiose avec prolifération de cocobacilles et absence de lactobacilles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour la trichomonose?",
+        "answer": "La trichomonose est un facteur de risque d’infection par le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la vaginose bactérienne?",
+        "answer": "Les symptômes incluent un écoulement blanchâtre, modéré, malodorant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la trichomonose?",
+        "answer": "Les symptômes incluent prurit et écoulement jaunâtre purulent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose?",
+        "answer": "Les symptômes incluent prurit, érythème, brûlure et écoulement grumeleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la chlamydiose?",
+        "answer": "La chlamydiose est souvent asymptomatique mais peut parfois causer dyspareunie, dysurie et douleur abdominale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gonococcie?",
+        "answer": "Les symptômes incluent souvent un écoulement vaginal, col érythémateux, col érodé, friable, saignant facilement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les infections à Trichomonas vaginalis?",
+        "answer": "Les traitements recommandés pour les infections à Trichomonas vaginalis sont le métronidazole, 2 g en une dose unique par voie orale, ou le tinidazole, 2 g par voie orale en une dose unique. Ces traitements sont contre-indiqués pendant le premier trimestre de la grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la vaginose bactérienne?",
+        "answer": "Le traitement recommandé pour la vaginose bactérienne est le métronidazole par voie orale, 500 mg deux fois par jour pendant 7 jours. À partir du deuxième trimestre de grossesse, la posologie est de 250 mg trois fois par jour pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la candidose?",
+        "answer": "Les traitements recommandés pour la candidose sont : nystatine, 100 000 - 1 000 000 UI par voie intravaginale, une fois par jour pendant 14 jours ; miconazole ou clotrimazole, 200 mg par voie intravaginale, une fois par jour pendant 7 jours ; clotrimazole, 500 mg par voie intravaginale, en 1 seule prise ; fluconazole, 150 mg par voie orale, en 1 seule prise.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels examens sont recommandés pour diagnostiquer un écoulement vaginal?",
+        "answer": "Les examens recommandés pour diagnostiquer un écoulement vaginal incluent l'examen au speculum, l'examen au microscope, les tests moléculaires et les tests de diagnostic rapide (TDR/POC).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes associés à un écoulement vaginal anormal?",
+        "answer": "Les symptômes associés à un écoulement vaginal anormal peuvent inclure un écoulement de type « lait caillé » et/ou un prurit vaginal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels tests sont recommandés pour les patientes présentant un écoulement vaginal?",
+        "answer": "Les tests recommandés pour les patientes présentant un écoulement vaginal incluent les tests moléculaires pour NG (N. gonorrhoeæ), CT (C. trachomatis) ou TV (Trichomonas vaginalis), ainsi que les tests de diagnostic rapide (TDR) pour NG/CT.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que faire si les tests moléculaires ou TDR ne sont pas disponibles pour diagnostiquer un écoulement vaginal?",
+        "answer": "Si les tests moléculaires ou TDR ne sont pas disponibles, il est recommandé de traiter les BV (bactériose vaginale) et TV (Trichomonas vaginalis) en cas d'écoulement vaginal anormal ou selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV). La candidose doit être traitée en cas d'écoulement « lait caillé » et/ou de prurit vaginal.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la gonococcie et la chlamydiose?",
+        "answer": "Pour le traitement de la gonococcie et de la chlamydiose, il est recommandé de se référer au chapitre « Écoulement urétral chez l’homme ». Les traitements spécifiques ne sont pas détaillés dans ce document.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens cliniques recommandés pour une patiente ayant un écoulement vaginal?",
+        "answer": "Les examens cliniques recommandés pour une patiente ayant un écoulement vaginal incluent l'examen clinique général et le toucher vaginal.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que faire en cas de preuve de cervicite chez une patiente avec un écoulement vaginal?",
+        "answer": "En cas de preuve de cervicite chez une patiente avec un écoulement vaginal, il est recommandé de traiter NG (N. gonorrhoeæ) et/ou CT (C. trachomatis) selon le résultat du test.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les tests recommandés pour les femmes à haut risque d'IST?",
+        "answer": "Pour les femmes à haut risque d'IST, il est recommandé de proposer un dépistage du VIH et de la syphilis ainsi que d'autres mesures de prévention.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que faire si un test de diagnostic rapide (TDR) est positif pour NG/CT?",
+        "answer": "Si un test de diagnostic rapide (TDR) est positif pour NG (N. gonorrhoeæ) et/ou CT (C. trachomatis), il est recommandé de traiter NG et/ou CT selon le résultat du test.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes observés en cas de candidose?",
+        "answer": "Les symptômes observés en cas de candidose incluent un écoulement vaginal de type « lait caillé » et/ou un prurit vaginal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une patiente enceinte atteinte de vaginose bactérienne?",
+        "answer": "Pour une patiente enceinte atteinte de vaginose bactérienne, le traitement recommandé est le métronidazole par voie orale, 250 mg trois fois par jour pendant 7 jours à partir du deuxième trimestre de grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une patiente enceinte atteinte de candidose?",
+        "answer": "Pour une patiente enceinte atteinte de candidose, les traitements recommandés incluent la nystatine, 100 000 - 1 000 000 UI par voie intravaginale, une fois par jour pendant 14 jours ; le miconazole ou clotrimazole, 200 mg par voie intravaginale, une fois par jour pendant 7 jours ; et le clotrimazole, 500 mg par voie intravaginale, en 1 seule prise.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une patiente non enceinte atteinte de candidose?",
+        "answer": "Pour une patiente non enceinte atteinte de candidose, les traitements recommandés incluent la nystatine, 100 000 - 1 000 000 UI par voie intravaginale, une fois par jour pendant 14 jours ; le miconazole ou clotrimazole, 200 mg par voie intravaginale, une fois par jour pendant 7 jours ; le clotrimazole, 500 mg par voie intravaginale, en 1 seule prise ; et le fluconazole, 150 mg par voie orale, en 1 seule prise.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une patiente non enceinte atteinte de vaginose bactérienne?",
+        "answer": "Pour une patiente non enceinte atteinte de vaginose bactérienne, le traitement recommandé est le métronidazole par voie orale, 500 mg deux fois par jour pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une patiente non enceinte atteinte d'infections à Trichomonas vaginalis?",
+        "answer": "Pour une patiente non enceinte atteinte d'infections à Trichomonas vaginalis, les traitements recommandés sont le métronidazole, 2 g en une dose unique par voie orale, ou le tinidazole, 2 g par voie orale en une dose unique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une patiente enceinte atteinte d'infections à Trichomonas vaginalis?",
+        "answer": "Pour une patiente enceinte atteinte d'infections à Trichomonas vaginalis, les traitements recommandés sont le métronidazole, 2 g en une dose unique par voie orale, ou le tinidazole, 2 g par voie orale en une dose unique, mais ces traitements sont contre-indiqués pendant le premier trimestre de la grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum n'est pas disponible ou accepté?",
+        "answer": "Si l'examen par spéculum n'est pas disponible ou accepté, il est recommandé de faire des tests de diagnostic rapide (TDR) pour NG (N. gonorrhoeæ) et CT (C. trachomatis) si disponibles, ou de traiter les BV (bactériose vaginale) et TV (Trichomonas vaginalis) en cas d'écoulement vaginal anormal ou selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si les tests moléculaires ou TDR ne sont disponibles que pour quelques patientes?",
+        "answer": "Si les tests moléculaires ou TDR ne sont disponibles que pour quelques patientes, il est recommandé de faire un examen par spéculum et de traiter les BV (bactériose vaginale) et TV (Trichomonas vaginalis) en cas d'écoulement vaginal anormal ou selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si les tests moléculaires pour NG, CT ou TV sont disponibles pour toutes les patientes?",
+        "answer": "Si les tests moléculaires pour NG (N. gonorrhoeæ), CT (C. trachomatis) ou TV (Trichomonas vaginalis) sont disponibles pour toutes les patientes, il est recommandé de faire ces tests et de traiter les infections selon les résultats.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si les résultats des tests sont disponibles le jour même?",
+        "answer": "Si les résultats des tests sont disponibles le jour même, il est recommandé de traiter les infections selon les résultats des tests.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si les résultats des tests ne sont pas disponibles le jour même?",
+        "answer": "Si les résultats des tests ne sont pas disponibles le jour même, il est recommandé de traiter les BV (bactériose vaginale) et TV (Trichomonas vaginalis) en cas d'écoulement vaginal anormal ou selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum est disponible et accepté?",
+        "answer": "Si l'examen par spéculum est disponible et accepté, il est recommandé de faire cet examen et de traiter les infections selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum n'est pas disponible ou accepté et les tests moléculaires ou TDR ne sont pas disponibles?",
+        "answer": "Si l'examen par spéculum n'est pas disponible ou accepté et les tests moléculaires ou TDR ne sont pas disponibles, il est recommandé de traiter les BV (bactériose vaginale) et TV (Trichomonas vaginalis) en cas d'écoulement vaginal anormal ou selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum est disponible et accepté mais les tests moléculaires ou TDR ne sont disponibles que pour quelques patientes?",
+        "answer": "Si l'examen par spéculum est disponible et accepté mais les tests moléculaires ou TDR ne sont disponibles que pour quelques patientes, il est recommandé de faire cet examen et de traiter les infections selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum est disponible et accepté et les tests moléculaires ou TDR sont disponibles pour toutes les patientes?",
+        "answer": "Si l'examen par spéculum est disponible et accepté et les tests moléculaires ou TDR sont disponibles pour toutes les patientes, il est recommandé de faire ces tests et de traiter les infections selon les résultats.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum est disponible et accepté et les résultats des tests sont disponibles le jour même?",
+        "answer": "Si l'examen par spéculum est disponible et accepté et les résultats des tests sont disponibles le jour même, il est recommandé de traiter les infections selon les résultats des tests.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour une patiente ayant un écoulement vaginal si l'examen par spéculum est disponible et accepté et les résultats des tests ne sont pas disponibles le jour même?",
+        "answer": "Si l'examen par spéculum est disponible et accepté et les résultats des tests ne sont pas disponibles le jour même, il est recommandé de traiter les BV (bactériose vaginale) et TV (Trichomonas vaginalis) en cas d'écoulement vaginal anormal ou selon les résultats de l'examen microscopique ou des tests moléculaires (pour TV).",
+        "qtype": "diagnostic"
+    }
+]

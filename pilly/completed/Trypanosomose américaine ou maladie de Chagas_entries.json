@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que la maladie de Chagas?",
+        "response": "La maladie de Chagas, ou trypanosomose américaine, est une maladie tropicale négligée due à Trypanosoma cruzi, un protozoaire flagellé sanguicole transmis par des triatomes (punaises).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Dans quels pays la maladie de Chagas est-elle endémique?",
+        "response": "La maladie de Chagas est endémique dans 21 pays d'Amérique latine, du sud des États-Unis au nord du Chili et de l'Argentine, avec une forte prévalence en Bolivie, en Argentine, au Paraguay, en Équateur, au Salvador et au Guatemala.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes sont exposées à la maladie de Chagas chaque année?",
+        "response": "Soixante-quinze millions de personnes sont exposées à la maladie de Chagas chaque année.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission de la maladie de Chagas?",
+        "response": "La transmission de la maladie de Chagas est principalement vectorielle par les déjections de triatomes infectées. Elle peut aussi se faire par voie orale, congénitale, par transfusion, transplantation d'organe ou accident de laboratoire.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs animaux de la maladie de Chagas?",
+        "response": "Les principaux réservoirs animaux de la maladie de Chagas sont les animaux sauvages (opossums, tatous, canidés, rongeurs) et domestiques (chats, chiens, rats, cobayes).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase aiguë de la maladie de Chagas?",
+        "response": "Les symptômes de la phase aiguë de la maladie de Chagas incluent fièvre, adénopathies, hépatosplénomégalie, œdèmes de la face et des extrémités, exanthème maculopapuleux, et troubles digestifs comme la diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de la phase aiguë de la maladie de Chagas?",
+        "response": "La phase aiguë de la maladie de Chagas dure de 4 à 8 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase chronique déterminée de la maladie de Chagas?",
+        "response": "Les symptômes de la phase chronique déterminée de la maladie de Chagas incluent des atteintes cardiaques (troubles du rythme, insuffisance cardiaque, douleurs précordiales), digestives (mégaoesophage, mégacolon), et neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la tranche d'âge la plus touchée par la forme chronique de la maladie de Chagas?",
+        "response": "La tranche d'âge la plus touchée par la forme chronique de la maladie de Chagas est de 30 à 50 ans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'atteinte cardiaque dans la maladie de Chagas?",
+        "response": "Les signes cliniques de l'atteinte cardiaque dans la maladie de Chagas incluent palpitations, malaise, syncope, insuffisance cardiaque, manifestations thrombo-emboliques, et douleurs précordiales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'atteinte digestive dans la maladie de Chagas?",
+        "response": "Les signes cliniques de l'atteinte digestive dans la maladie de Chagas incluent des troubles du péristaltisme à l'origine de mégaorganes comme le mégaoesophage et le mégacolon.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de la phase d'incubation de la maladie de Chagas?",
+        "response": "La durée de la phase d'incubation de la maladie de Chagas est de 7 à 15 jours en moyenne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la maladie de Chagas?",
+        "response": "Les principaux vecteurs de la maladie de Chagas sont les triatomes, de grosses punaises hématophages.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les cycles de transmission de la maladie de Chagas?",
+        "response": "Les cycles de transmission de la maladie de Chagas incluent le cycle sauvage selvatique (entre animaux sauvages et triatomes), le cycle péri-domestique (entre triatomes et animaux domestiques), et le cycle domestique (entre triatomes et homme).",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les principaux organes cibles de Trypanosoma cruzi?",
+        "response": "Les principaux organes cibles de Trypanosoma cruzi sont le myocarde, le muscle strié, et le système nerveux.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs immunologiques impliqués dans la maladie de Chagas?",
+        "response": "Les facteurs immunologiques impliqués dans la maladie de Chagas incluent une réponse immune Th1 puissante avec des taux élevés d'interféron gamma (IFN-γ), de tumor necrosis factor alpha (TNF-α), et d'interleukine 12 (IL-12), ainsi que la production d'interleukine 10 (IL-10) et de transforming growth factor beta 1 (TGF-β1).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de pénétration de la maladie de Chagas?",
+        "response": "Les symptômes de la phase de pénétration de la maladie de Chagas incluent un œdème bipalpébral unilatéral (signe de Romana) avec adénopathie satellite ou une lésion érythémateuse furonculoïde (chagome).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase chronique indéterminée de la maladie de Chagas?",
+        "response": "La phase chronique indéterminée de la maladie de Chagas est asymptomatique et peut durer toute la vie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'insuffisance cardiaque chagasique?",
+        "response": "Les symptômes de l'insuffisance cardiaque chagasique incluent œdème des membres inférieurs, turgescence jugulaire, reflux hépato-jugulaire, hépatalgie d'effort, dyspnée d'effort, de repos, et orthopnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte cardiaque dans la maladie de Chagas?",
+        "response": "Les symptômes de l'atteinte cardiaque dans la maladie de Chagas incluent bloc de branche, bloc auriculoventriculaire, extrasystoles ventriculaires ou auriculaires, tachycardie ventriculaire, fibrillation auriculaire, et flutter.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte digestive dans la maladie de Chagas?",
+        "response": "Les symptômes de l'atteinte digestive dans la maladie de Chagas incluent des troubles du péristaltisme à l'origine de mégaorganes comme le mégaoesophage et le mégacolon.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase aiguë de la maladie de Chagas?",
+        "response": "Les symptômes de la phase aiguë de la maladie de Chagas incluent fièvre, adénopathies, hépatosplénomégalie, œdèmes de la face et des extrémités, exanthème maculopapuleux, et troubles digestifs comme la diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase chronique déterminée de la maladie de Chagas?",
+        "response": "Les symptômes de la phase chronique déterminée de la maladie de Chagas incluent des atteintes cardiaques (troubles du rythme, insuffisance cardiaque, douleurs précordiales), digestives (mégaoesophage, mégacolon), et neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de la phase d'incubation de la maladie de Chagas?",
+        "response": "La durée de la phase d'incubation de la maladie de Chagas est de 7 à 15 jours en moyenne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la maladie de Chagas?",
+        "response": "Les principaux vecteurs de la maladie de Chagas sont les triatomes, de grosses punaises hématophages.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les cycles de transmission de la maladie de Chagas?",
+        "response": "Les cycles de transmission de la maladie de Chagas incluent le cycle sauvage selvatique (entre animaux sauvages et triatomes), le cycle péri-domestique (entre triatomes et animaux domestiques), et le cycle domestique (entre triatomes et homme).",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les principaux organes cibles de Trypanosoma cruzi?",
+        "response": "Les principaux organes cibles de Trypanosoma cruzi sont le myocarde, le muscle strié, et le système nerveux.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs immunologiques impliqués dans la maladie de Chagas?",
+        "response": "Les facteurs immunologiques impliqués dans la maladie de Chagas incluent une réponse immune Th1 puissante avec des taux élevés d'interféron gamma (IFN-γ), de tumor necrosis factor alpha (TNF-α), et d'interleukine 12 (IL-12), ainsi que la production d'interleukine 10 (IL-10) et de transforming growth factor beta 1 (TGF-β1).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de pénétration de la maladie de Chagas?",
+        "response": "Les symptômes de la phase de pénétration de la maladie de Chagas incluent un œdème bipalpébral unilatéral (signe de Romana) avec adénopathie satellite ou une lésion érythémateuse furonculoïde (chagome).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte oesophagienne dans la maladie de Chagas?",
+        "answer": "La dysphagie chronique, les symptômes de régurgitation, de toux, l'hypersialorrhée et l'hypertrophie parotidiennes.",
+        "qtype": "symptômes"
+    }
+]

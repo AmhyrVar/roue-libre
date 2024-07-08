@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quels sont les types de virus inclus dans l'espèce HEV-C des entérovirus humains?",
+        "answer": "Les types de virus inclus dans l'espèce HEV-C des entérovirus humains sont les Poliovirus 1, 2, 3 et les Coxsackievirus A1, 11, 13, 15, 17-22, 24.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale méthode de transmission de la poliomyélite?",
+        "answer": "La principale méthode de transmission de la poliomyélite est la transmission fécale-orale, principalement directe, manuportée ou indirecte par ingestion d'eau ou de nourriture contaminée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de la poliomyélite?",
+        "answer": "Les symptômes initiaux de la poliomyélite incluent la fièvre, la fatigue, des céphalées, des vomissements, des douleurs des membres, et une douleur et une raideur de la nuque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les groupes à risque pour la poliomyélite?",
+        "answer": "Le principal groupe à risque pour la poliomyélite est celui des enfants de moins de 5 ans non immunisés, mais la poliomyélite peut s'observer à tout âge en l'absence d'immunisation.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste la poliomyélite paralytique?",
+        "answer": "La poliomyélite paralytique se manifeste par des paralysies d'installation rapide (24/48h), flasques, asymétriques, localisées le plus souvent aux membres inférieurs, parfois aux membres supérieurs, accompagnées d'une abolition des réflexes ostéo-tendineux et parfois de troubles sphinctériens.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vaccins disponibles pour la prévention de la poliomyélite?",
+        "answer": "Deux vaccins efficaces sont disponibles pour la prévention de la poliomyélite: le vaccin vivant oral (VPO) et le vaccin vivant inactivé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic de la poliomyélite?",
+        "answer": "La confirmation du diagnostic de poliomyélite repose généralement sur la mise en évidence des virus dans un prélèvement de selles. Il est recommandé de faire 2 prélèvements de selles successifs à 2 ou 3 jours d'intervalle.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes respiratoires de la poliomyélite?",
+        "answer": "Les formes respiratoires de la poliomyélite se manifestent par une atteinte des muscles respiratoires (diaphragme, muscles abdominaux et intercostaux), responsable d'une mortalité de 2 à 5 % chez l'enfant et de 15 à 30 % chez l'adulte par asphyxie et pneumopathie d'inhalation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour la poliomyélite?",
+        "answer": "Il n'y a aucun traitement antiviral spécifique pour la poliomyélite. Les formes paralytiques modérées sont traitées symptomatiquement par antalgiques et sédatifs, et les patients ayant une atteinte respiratoire nécessitent une assistance respiratoire prolongée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome post-poliomyélitique?",
+        "answer": "Le syndrome post-poliomyélitique est marqué par de nouvelles faiblesses musculaires, une fatigue importante, des douleurs musculaires et articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de portage intestinal du poliovirus chez les personnes infectées?",
+        "answer": "Le portage intestinal du poliovirus chez les personnes infectées peut se prolonger jusqu'à 3-4 mois.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs augmentant le risque de paralysie due à la poliomyélite?",
+        "answer": "Le risque de paralysie due à la poliomyélite augmente avec l'âge, en cas de déficience immunitaire, au cours de la grossesse, en cas d'amygdalectomie, d'exercice physique excessif et de traumatisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes bulbaires de la poliomyélite?",
+        "answer": "Les formes bulbaires de la poliomyélite sont gravissimes, souvent associées aux paralysies des membres (quadriplégie), menaçant à court terme la vie du patient par défaut de ventilation, encombrement et détresse respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la distinction entre les souches sauvages et vaccinales du poliovirus?",
+        "answer": "La distinction entre les souches sauvages et vaccinales du poliovirus se fait par la PCR (Polymerase Chain Reaction) sur les selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des formes encéphalitiques de la poliomyélite?",
+        "answer": "Les formes encéphalitiques de la poliomyélite se manifestent par une paralysie des nerfs crâniens, une détresse respiratoire et circulatoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la stratégie vaccinale mondiale pour la poliomyélite?",
+        "answer": "La stratégie vaccinale mondiale pour la poliomyélite s'oriente vers une disparition du vaccin oral et une généralisation du vaccin vivant inactivé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes des formes bénignes de la poliomyélite?",
+        "answer": "Les formes bénignes de la poliomyélite se manifestent par une virémie accompagnée d'un syndrome infectieux bénin guérissant sans séquelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la mortalité des formes respiratoires de la poliomyélite chez l'adulte?",
+        "answer": "La mortalité des formes respiratoires de la poliomyélite chez l'adulte varie de 15 à 30 % par asphyxie et pneumopathie d'inhalation.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des formes paralysantes de la poliomyélite?",
+        "answer": "Les formes paralysantes de la poliomyélite se manifestent par des paralysies flasques, asymétriques, localisées le plus souvent aux membres inférieurs, parfois aux membres supérieurs, accompagnées d'une abolition des réflexes ostéo-tendineux et parfois de troubles sphinctériens.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes bénignes de la poliomyélite?",
+        "answer": "Les formes bénignes de la poliomyélite se manifestent par une virémie accompagnée d'un syndrome infectieux bénin guérissant sans séquelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de portage intestinal du poliovirus chez les personnes infectées?",
+        "answer": "Le portage intestinal du poliovirus chez les personnes infectées peut se prolonger jusqu'à 3-4 mois.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs augmentant le risque de paralysie due à la poliomyélite?",
+        "answer": "Le risque de paralysie due à la poliomyélite augmente avec l'âge, en cas de déficience immunitaire, au cours de la grossesse, en cas d'amygdalectomie, d'exercice physique excessif et de traumatisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes bulbaires de la poliomyélite?",
+        "answer": "Les formes bulbaires de la poliomyélite sont gravissimes, souvent associées aux paralysies des membres (quadriplégie), menaçant à court terme la vie du patient par défaut de ventilation, encombrement et détresse respiratoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait la distinction entre les souches sauvages et vaccinales du poliovirus?",
+        "answer": "La distinction entre les souches sauvages et vaccinales du poliovirus se fait par la PCR (Polymerase Chain Reaction) sur les selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des formes encéphalitiques de la poliomyélite?",
+        "answer": "Les formes encéphalitiques de la poliomyélite se manifestent par une paralysie des nerfs crâniens, une détresse respiratoire et circulatoire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la stratégie vaccinale mondiale pour la poliomyélite?",
+        "answer": "La stratégie vaccinale mondiale pour la poliomyélite s'oriente vers une disparition du vaccin oral et une généralisation du vaccin vivant inactivé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes des formes bénignes de la poliomyélite?",
+        "answer": "Les formes bénignes de la poliomyélite se manifestent par une virémie accompagnée d'un syndrome infectieux bénin guérissant sans séquelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la mortalité des formes respiratoires de la poliomyélite chez l'adulte?",
+        "answer": "La mortalité des formes respiratoires de la poliomyélite chez l'adulte varie de 15 à 30 % par asphyxie et pneumopathie d'inhalation.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des formes paralysantes de la poliomyélite?",
+        "answer": "Les formes paralysantes de la poliomyélite se manifestent par des paralysies flasques, asymétriques, localisées le plus souvent aux membres inférieurs, parfois aux membres supérieurs, accompagnées d'une abolition des réflexes ostéo-tendineux et parfois de troubles sphinctériens.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le taux de couverture vaccinale visé pour la vaccination généralisée contre la poliomyélite?",
+        "response": "L'objectif est d'obtenir un taux de couverture vaccinale d'au moins 80%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome pied-main-bouche?",
+        "response": "Il associe une stomatite ulcéreuse avec une éruption indolore, papulo-vésiculeuse ou pétéchiale des mains et des pieds. Des complications neurologiques peuvent survenir avec l'EV71. Les symptômes régressent en 4 à 6 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic du syndrome pied-main-bouche?",
+        "response": "Le diagnostic s'obtient par prélèvement de salive ou de vésicule et la recherche de virus par PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les objectifs de l'Initiative mondiale pour l'éradication de la poliomyélite?",
+        "response": "Les objectifs sont la détection du poliovirus et l'interruption de sa transmission, le renforcement de la vaccination et le retrait progressif du VPO, l'organisation du confinement des souches dans les laboratoires et la certification de l'éradication, et la planification de la transmission des acquis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les critères pour certifier qu'une région de l'OMS est exempte de poliomyélite?",
+        "response": "Au moins 3 années consécutives sans le moindre cas dû à un poliovirus sauvage, surveillance de la maladie dans les pays en respectant les normes internationales, et pour chaque pays, preuve de sa capacité à détecter des cas 'importés', de les notifier et d'y réagir.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpangine?",
+        "response": "Les symptômes sont une fièvre et une odynophagie. Le diagnostic repose sur l'observation de petites vésicules groupées avec un halo inflammatoire, situées sur le voile du palais, la langue et l'oropharynx.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des formes digestives pures de diarrhée dues aux Echovirus?",
+        "response": "Le traitement symptomatique repose sur l'utilisation des sels de réhydratation orale (SRO).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des méningites virales à entérovirus?",
+        "response": "Elles se présentent sous la forme d'un syndrome méningé plus ou moins complet avec fièvre, céphalée et raideur méningée. L'état général est en général peu altéré.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic des méningites virales à entérovirus?",
+        "response": "Le diagnostic se fait par culture virale sur les selles et les prélèvements de gorge ou par RT-PCR dans le LCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes des encéphalites à entérovirus?",
+        "response": "Il peut s'agir d'une atteinte focale (signes cliniques de localisation) ou généralisée avec coma et convulsions.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels entérovirus sont impliqués dans des épidémies de paralysies flasques?",
+        "response": "Les entérovirus EV 70 (Afrique de l'Ouest), EV 71 (Chine) et Coxsackie A7 sont impliqués dans des épidémies de paralysies flasques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des myocardites et péricardites à entérovirus?",
+        "response": "Elles se présentent comme une fièvre suivie, après un court intervalle, de palpitations, de douleurs thoraciques voire, dans les formes compliquées, de défaillance cardiaque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des myocardites et péricardites à entérovirus?",
+        "response": "Le traitement est principalement symptomatique : prise en charge de l'insuffisance cardiaque.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la pleurodynie ou maladie de Bornholm?",
+        "response": "Il s'agit de douleurs continues ou paroxystiques, bloquant la respiration profonde, d'allure intercostale, siégeant à la base du thorax de chaque côté du sternum. Elles sont souvent précédées d'une courte période de fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels entérovirus sont impliqués dans les conjonctivites hémorragiques?",
+        "response": "L'entérovirus 70 et la Coxsackie A24 sont impliqués dans les conjonctivites hémorragiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des conjonctivites hémorragiques à entérovirus?",
+        "response": "Le début est brutal avec des douleurs oculaires et une photophobie. On observe une hyperémie conjonctivale avec parfois des hémorragies sub-conjonctivales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement des conjonctivites hémorragiques à entérovirus?",
+        "response": "Le traitement est symptomatique avec utilisation de larmes artificielles. La guérison s'obtient en moyenne au bout de 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des infections néonatales à entérovirus?",
+        "response": "Ces infections peuvent se présenter sous forme d'atteinte méningée, d'atteinte cardiaque voire sous forme d'atteinte systémique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le taux de mortalité des infections néonatales à entérovirus?",
+        "response": "Le taux de mortalité est généralement élevé.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic des infections à entérovirus?",
+        "response": "Le diagnostic se fait par culture virale sur les prélèvements de pharynx et surtout des selles à la phase aiguë de l'infection, ou par amplification génique avec hybridation moléculaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la meilleure technique pour la détection de l'ARN viral des entérovirus?",
+        "response": "L'amplification génique avec hybridation moléculaire est la meilleure technique pour la détection de l'ARN viral.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la principale méthode de prévention des infections à entérovirus?",
+        "response": "La prévention repose essentiellement sur l'hygiène des mains et la mise en place d'installations sanitaires efficaces.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le mode de transmission des entérovirus?",
+        "response": "Le mode de transmission est oral, par voie directe ou indirecte (eau et alimentation).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le réservoir des entérovirus?",
+        "response": "Le réservoir est strictement humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des infections à entérovirus chez les jeunes enfants?",
+        "response": "Les infections touchent essentiellement les jeunes enfants qui acquièrent donc une immunité. Les symptômes peuvent inclure des syndromes pied-main-bouche, herpangine, diarrhée, méningites virales, encéphalites, paralysies, myocardites et péricardites, pleurodynie, conjonctivites hémorragiques, et infections néonatales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections à entérovirus chez les adultes?",
+        "response": "Les adultes sont généralement immunisés contre les infections à entérovirus, mais peuvent présenter des symptômes de myocardites et péricardites, pleurodynie, et conjonctivites hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections à entérovirus chez les adolescents?",
+        "response": "Les adolescents peuvent présenter des symptômes de myocardites et péricardites, pleurodynie, et conjonctivites hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections à entérovirus chez les jeunes adultes?",
+        "response": "Les jeunes adultes peuvent présenter des symptômes de myocardites et péricardites, pleurodynie, et conjonctivites hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections à entérovirus chez les enfants d'âge scolaire?",
+        "response": "Les enfants d'âge scolaire peuvent présenter des symptômes de conjonctivites hémorragiques.",
+        "qtype": "symptômes"
+    }
+]

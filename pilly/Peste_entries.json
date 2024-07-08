@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Qu'est-ce que la peste et quelle est son origine?",
+        "answer": "La peste est une zoonose des rongeurs due à Yersinia pestis, une bactérie coccobacille Gram négatif découverte par Yersin en 1894. Elle est transmise à l’homme le plus souvent par les puces.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux pays touchés par la peste entre 2010 et 2015?",
+        "answer": "Madagascar et la République Démocratique du Congo représentaient 90 % des cas notifiés pour l’Afrique, qui reste le continent le plus atteint avec 90 % des cas mondiaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment la peste est-elle transmise aux humains?",
+        "answer": "La peste est transmise aux humains principalement par les puces infectées qui piquent des rongeurs sauvages ou des rats. D'autres modes de contamination incluent l'inhalation de poussières infectées, la manipulation de cadavres d'animaux infectés, et l'inhalation d'aérosols de gouttelettes émis par un malade atteint de peste pulmonaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste bubonique?",
+        "answer": "Les symptômes de la peste bubonique incluent un malaise, des frissons, une fièvre à 39° - 40°C, des nausées, des vomissements, des douleurs diffuses, et l'apparition d'un bubon douloureux au voisinage du point d'inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la peste bubonique?",
+        "answer": "La période d'incubation de la peste bubonique est de 2 à 6 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire?",
+        "answer": "Les symptômes de la peste pulmonaire incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la peste pulmonaire?",
+        "answer": "La période d'incubation de la peste pulmonaire varie de quelques heures à 3 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les modes de contamination humaine de la peste?",
+        "answer": "Les modes de contamination humaine de la peste incluent la piqûre de puces infectées, l'inhalation de poussières infectées, la manipulation de cadavres d'animaux infectés, et l'inhalation d'aérosols de gouttelettes émis par un malade atteint de peste pulmonaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la létalité de la peste bubonique en l'absence de traitement?",
+        "answer": "En l'absence de traitement, le taux de létalité de la peste bubonique varie de 30 à 60 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes radiographiques de la peste pulmonaire?",
+        "answer": "La radiographie thoracique de la peste pulmonaire montre des images alvéolo-interstitielles bilatérales avec zones de condensation traduisant une broncho-pneumonie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs de la peste en zones rurales?",
+        "answer": "Les principaux réservoirs de la peste en zones rurales sont les rongeurs sauvages.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment les rongeurs sauvages contractent-ils la peste?",
+        "answer": "Les rongeurs sauvages contractent la peste par la piqûre de puces infectées, l'inhalation de poussières des terriers où les bacilles se conservent pendant plusieurs mois, ou l'ingestion de cadavres d'animaux pesteux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de la peste bubonique?",
+        "answer": "Les symptômes initiaux de la peste bubonique incluent un malaise, des frissons, une fièvre à 39° - 40°C, des nausées, des vomissements, et des douleurs diffuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille maximale que peut atteindre un bubon?",
+        "answer": "La taille d'un bubon peut atteindre dix centimètres.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste septicémique?",
+        "answer": "Les symptômes de la peste septicémique incluent un choc septique, une atteinte multiviscérale, et un syndrome de coagulation intravasculaire disséminée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste la peste pulmonaire primitive?",
+        "answer": "La peste pulmonaire primitive se manifeste par une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la peste?",
+        "answer": "Les principaux vecteurs de la peste sont les puces, notamment celles du genre Xenopsylla cheopis et Pulex irritans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire secondaire?",
+        "answer": "Les symptômes de la peste pulmonaire secondaire incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste septicémique?",
+        "answer": "Les symptômes de la peste septicémique incluent un choc septique, une atteinte multiviscérale, et un syndrome de coagulation intravasculaire disséminée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire primitive?",
+        "answer": "Les symptômes de la peste pulmonaire primitive incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la peste?",
+        "answer": "Les principaux vecteurs de la peste sont les puces, notamment celles du genre Xenopsylla cheopis et Pulex irritans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire secondaire?",
+        "answer": "Les symptômes de la peste pulmonaire secondaire incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste septicémique?",
+        "answer": "Les symptômes de la peste septicémique incluent un choc septique, une atteinte multiviscérale, et un syndrome de coagulation intravasculaire disséminée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire primitive?",
+        "answer": "Les symptômes de la peste pulmonaire primitive incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la peste?",
+        "answer": "Les principaux vecteurs de la peste sont les puces, notamment celles du genre Xenopsylla cheopis et Pulex irritans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire secondaire?",
+        "answer": "Les symptômes de la peste pulmonaire secondaire incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste septicémique?",
+        "answer": "Les symptômes de la peste septicémique incluent un choc septique, une atteinte multiviscérale, et un syndrome de coagulation intravasculaire disséminée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste pulmonaire primitive?",
+        "answer": "Les symptômes de la peste pulmonaire primitive incluent une fièvre élevée, une altération profonde de l'état général, dyspnée, cyanose, toux, et expectoration de crachats abondants, spumeux, striés de sang.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la peste?",
+        "answer": "Les principaux vecteurs de la peste sont les puces, notamment celles du genre Xenopsylla cheopis et Pulex irritans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la peste septicémique?",
+        "answer": "La peste septicémique associe un syndrome infectieux sévère, un syndrome hémorragique et des signes de défaillance multiviscérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques exceptionnels de la peste?",
+        "answer": "Les formes cliniques exceptionnelles de la peste incluent une atteinte méningée et une pharyngite en cas de consommation d’un aliment contaminé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la peste?",
+        "answer": "Le diagnostic de la peste doit être précoce et se base sur le contexte géographique ou épidémiologique, l'hémogramme, la coloration des frottis, la culture des prélèvements, des tests sérologiques, des techniques de PCR et un test de diagnostic rapide sur bandelette immuno-hématique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les antibiotiques utilisés pour traiter la peste?",
+        "answer": "Les antibiotiques utilisés pour traiter la peste incluent la streptomycine, la doxycycline, la ciprofloxacine, le cotrimoxazole, les aminosides et la ceftriaxone.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée d'administration des antibiotiques pour traiter la peste?",
+        "answer": "La durée d’administration des antibiotiques pour traiter la peste est de 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques inefficaces contre la peste?",
+        "answer": "Les pénicillines et les macrolides sont inefficaces contre la peste.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures de prévention doivent être prises en cas de peste?",
+        "answer": "Les mesures de prévention en cas de peste incluent la déclaration aux autorités, la désinsectisation et désinfection des objets en contact avec le malade, l'isolement respiratoire strict pour la peste pulmonaire, la protection du personnel sanitaire, la chimioprophylaxie pour les sujets contacts, et la lutte contre les puces et les rats.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la période d'isolement pour les sujets contacts de la peste pulmonaire?",
+        "answer": "La période d’isolement pour les sujets contacts de la peste pulmonaire est de 6 jours.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels équipements de protection doivent être utilisés par le personnel sanitaire en cas de peste?",
+        "answer": "Le personnel sanitaire doit utiliser un masque de type FFP2, un tablier, des gants et des lunettes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle chimioprophylaxie est recommandée pour les sujets contacts de la peste?",
+        "answer": "La chimioprophylaxie recommandée pour les sujets contacts de la peste est la doxycycline (200 mg/j) ou la ciprofloxacine (500 mg 2 fois par jour) pendant une semaine chez l’adulte, et le cotrimoxazole chez l’enfant et la femme enceinte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les conseils aux voyageurs pour éviter la peste?",
+        "answer": "Les voyageurs doivent éviter de camper près de terriers, de manipuler des rongeurs, vivants ou morts, et se protéger des piqûres de puces par des répulsifs cutanés à base de diéthyl-toluamide (DEET).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour obtenir des informations sur la peste?",
+        "answer": "Les sites web recommandés pour obtenir des informations sur la peste sont: https://apps.who.int/mediacentre/factsheets/fs267/fr/index.html, https://www.cdc.gov/plague/index.html, et https://www.pasteur.fr/fr/centre-medical/fiches-maladies/peste.",
+        "qtype": "information"
+    },
+    {
+        "question": "Quels sont les signes observés lors de l'examen du cadavre des malades suspects de peste?",
+        "answer": "L’examen du cadavre des malades suspects de peste montre des lésions hémorragiques diffuses dans les ganglions, le foie, les poumons et surtout la rate, avec de nombreux bacilles de Yersin.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats des tests sérologiques pour la peste?",
+        "answer": "Les tests sérologiques pour la peste sont surtout utiles pour la surveillance épidémiologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité et la spécificité du test de diagnostic rapide sur bandelette immuno-hématique pour la peste?",
+        "answer": "Le test de diagnostic rapide sur bandelette immuno-hématique pour la peste a une sensibilité de 80 % et une spécificité proche de 100 % sur les souches locales.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels prélèvements peuvent être utilisés pour le test de diagnostic rapide sur bandelette immuno-hématique pour la peste?",
+        "answer": "Les prélèvements pouvant être utilisés pour le test de diagnostic rapide sur bandelette immuno-hématique pour la peste incluent le pus, les crachats, le sérum, l'urine et les biopsies tissulaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes observés dans l'hémogramme des patients atteints de peste?",
+        "answer": "L’hémogramme des patients atteints de peste montre une hyperleucocytose avec une hyperleucocytose à polynucléaires neutrophiles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les colorants utilisés pour la coloration des frottis de peste?",
+        "answer": "Les frottis de peste peuvent être colorés par divers colorants pour montrer des coccobacilles de 1 à 3 µm, capsulés, à Gram négatif ou de coloration bipolaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la température et la durée de culture des prélèvements de peste sur gélose au sang?",
+        "answer": "Les prélèvements de peste sont cultivés sur gélose au sang en 48 heures à 28°C.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les antibiotiques utilisés pour la chimioprophylaxie en cas d'exposition accidentelle à la peste?",
+        "answer": "Les antibiotiques utilisés pour la chimioprophylaxie en cas d'exposition accidentelle à la peste sont la doxycycline (200 mg/j) ou la ciprofloxacine (500 mg 2 fois par jour) pendant une semaine chez l’adulte, et le cotrimoxazole chez l’enfant et la femme enceinte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les traitements locaux recommandés pour la peste?",
+        "answer": "L’application locale de glycérine sur le bubon est recommandée pour son effet antalgique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de défaillance multiviscérale observés dans la peste septicémique?",
+        "answer": "La peste septicémique associe un syndrome infectieux sévère, un syndrome hémorragique et des signes de défaillance multiviscérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les antibiotiques auxquels les bacilles de la peste restent sensibles?",
+        "answer": "Les bacilles de la peste restent sensibles au cotrimoxazole, aux aminosides et à la ceftriaxone.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de la peste pulmonaire?",
+        "answer": "La peste pulmonaire est mortelle par détresse respiratoire aiguë en 1 à 3 jours et est contagieuse de personne à personne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la peste septicémique?",
+        "answer": "La peste septicémique associe un syndrome infectieux sévère, un syndrome hémorragique et des signes de défaillance multiviscérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la peste bubonique?",
+        "answer": "La peste bubonique se manifeste par l'apparition de bubons, qui sont des ganglions lymphatiques enflés et douloureux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la peste méningée?",
+        "answer": "La peste méningée est une forme exceptionnelle de la peste qui se manifeste par une atteinte méningée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la peste pharyngée?",
+        "answer": "La peste pharyngée est une forme exceptionnelle de la peste qui se manifeste par une pharyngite en cas de consommation d’un aliment contaminé.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la peste septicémique?",
+        "answer": "La peste septicémique associe un syndrome infectieux sévère, un syndrome hémorragique et des signes de défaillance multiviscérale.",
+        "qtype": "symptômes"
+    }
+]

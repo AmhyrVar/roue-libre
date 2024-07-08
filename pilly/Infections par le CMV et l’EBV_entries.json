@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la prévalence de l'infection par le CMV dans le sous-continent africain?",
+        "answer": "La prévalence de l'infection par le CMV est de l'ordre de 100 % dans le sous-continent africain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet principalement le CMV?",
+        "answer": "La transmission du CMV se fait le plus souvent par voie respiratoire (gouttelettes de salive) mais aussi par voie sexuelle, par l’urine ou le lait maternel.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le risque de transmission du CMV de la femme enceinte au fœtus?",
+        "answer": "Le risque de transmission du CMV de la femme enceinte au fœtus est de l’ordre de 40 %, le plus souvent par voie hématogène transplacentaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la séroprévalence de l'EBV dans le continent africain?",
+        "answer": "La séroprévalence de l'EBV est quasiment de 100 % dans le continent africain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet principalement l'EBV?",
+        "answer": "La transmission de l'EBV s’effectue principalement par voie salivaire, exceptionnellement par voie sanguine ou sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les trois phases du cycle viral des infections par le CMV et l'EBV?",
+        "answer": "Les trois phases du cycle viral des infections par le CMV et l'EBV sont la phase de primo-infection, la phase de latence et la phase de récurrence.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à CMV chez l'immunocompétent?",
+        "answer": "Les symptômes de la primo-infection à CMV chez l'immunocompétent peuvent inclure une fièvre isolée, une hépatite cytolytique peu cholestatique, et moins fréquemment des complications comme une polyradiculonévrite, une arthrite, une myocardite, une péricardite, une pneumopathie interstitielle, une colite ulcéreuse, une anémie hémolytique, ou un syndrome d’activation macrophagique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à EBV?",
+        "answer": "Les symptômes de la primo-infection à EBV incluent une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes moins fréquents de la primo-infection à EBV?",
+        "answer": "Les symptômes moins fréquents de la primo-infection à EBV peuvent inclure une hépatite cytolytique, des anomalies hématologiques, la présence d’une cryoglobulinémie, et une rupture de rate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes rares de la primo-infection à EBV?",
+        "answer": "Les symptômes rares de la primo-infection à EBV peuvent inclure une péricardite, une myocardite, une polyradiculonévrite, une encéphalite, une paralysie faciale, et une méningite lymphocytaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les deux entités cliniques particulières aux pays tropicaux associées à l'EBV?",
+        "answer": "Les deux entités cliniques particulières aux pays tropicaux associées à l'EBV sont le lymphome de Burkitt et le cancer du naso-pharynx.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement principal du lymphome de Burkitt?",
+        "answer": "Le traitement principal du lymphome de Burkitt repose sur la chimiothérapie, avec une sensibilité particulière au cyclophosphamide en monothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du lymphome de Burkitt?",
+        "answer": "Les symptômes du lymphome de Burkitt incluent des tumeurs maxillo-faciales délabres, des atteintes orbitaires, une chute des dents, et des localisations abdominales, neuro-méningées, thyroïdiennes, spléniques ou osseuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de l'EBV dans le lymphome de Burkitt?",
+        "answer": "Le rôle de l'EBV dans le lymphome de Burkitt est affirmé par son pouvoir transformant des lymphocytes B, la présence de son génome dans les cellules cancéreuses, et la corrélation entre le lymphome de Burkitt et la positivité de la sérologie EBV.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs adjuvants du lymphome de Burkitt?",
+        "answer": "Le paludisme est un facteur adjuvant du lymphome de Burkitt par le biais de la stimulation polyclonale B et l’immunosuppression des lymphocytes T.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la mononucléose infectieuse (MNI) causée par l'EBV?",
+        "answer": "Les symptômes de la mononucléose infectieuse (MNI) causée par l'EBV incluent une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de guérison de la mononucléose infectieuse (MNI) causée par l'EBV?",
+        "answer": "La mononucléose infectieuse (MNI) causée par l'EBV guérit en 3 semaines, laissant la place à une asthénie qui peut durer plusieurs mois.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à CMV chez la femme enceinte?",
+        "answer": "Chez la femme enceinte, la primo-infection à CMV entraîne un fort risque d'embryo-fœtopathie chez l’enfant, avec des symptômes tels qu'un syndrome infectieux polyviscéral, une microcéphalie, une surdité et des calcifications intracrâniennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence du CMV chez les personnes immunodéprimées?",
+        "answer": "Les symptômes de la récurrence du CMV chez les personnes immunodéprimées incluent des atteintes tissulaires graves.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence de l'EBV chez les personnes immunodéprimées?",
+        "answer": "Les symptômes de la récurrence de l'EBV chez les personnes immunodéprimées incluent des processus lymphoprolifératifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à CMV chez les personnes immunocompétentes?",
+        "answer": "Les symptômes de la primo-infection à CMV chez les personnes immunocompétentes peuvent inclure une fièvre isolée, un syndrome mononucléosique clinique, une hépatite cytolytique peu cholestatique, et moins fréquemment des complications comme une polyradiculonévrite, une arthrite, une myocardite, une péricardite, une pneumopathie interstitielle, une colite ulcéreuse, une anémie hémolytique, ou un syndrome d’activation macrophagique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à EBV chez les personnes immunocompétentes?",
+        "answer": "Les symptômes de la primo-infection à EBV chez les personnes immunocompétentes incluent une fièvre avec asthénie, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence du CMV chez les personnes non immunodéprimées?",
+        "answer": "Les récurrences du CMV chez les personnes non immunodéprimées sont toujours asymptomatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence de l'EBV chez les personnes non immunodéprimées?",
+        "answer": "Les récurrences de l'EBV chez les personnes non immunodéprimées sont toujours asymptomatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à EBV chez les enfants?",
+        "answer": "La primo-infection à EBV chez les enfants peut se manifester par une fièvre, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à CMV chez les nouveau-nés?",
+        "answer": "Les symptômes de la primo-infection à CMV chez les nouveau-nés incluent un syndrome infectieux polyviscéral, une microcéphalie, une surdité et des calcifications intracrâniennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à EBV chez les adolescents?",
+        "answer": "La primo-infection à EBV chez les adolescents peut se manifester par une fièvre, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à EBV chez les jeunes adultes?",
+        "answer": "La primo-infection à EBV chez les jeunes adultes peut se manifester par une fièvre, une angine pseudo-membraneuse, des pétéchies du palais, un œdème de la luette, une splénomégalie, des adénopathies disséminées, un exanthème maculeux ou maculo-papuleux, et un syndrome mononucléosique biologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à CMV chez les adultes?",
+        "answer": "Les symptômes de la primo-infection à CMV chez les adultes peuvent inclure une fièvre isolée, un syndrome mononucléosique clinique, une hépatite cytolytique peu cholestatique, et moins fréquemment des complications comme une polyradiculonévrite, une arthrite, une myocardite, une péricardite, une pneumopathie interstitielle, une colite ulcéreuse, une anémie hémolytique, ou un syndrome d’activation macrophagique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux du cancer du nasopharynx?",
+        "answer": "Il se manifeste souvent initialement par des adénopathies cervicales ou des signes d’envahissement locorégional (otalgies, obstruction nasale, atteinte des paires crâniennes).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour le cancer du nasopharynx?",
+        "answer": "Les facteurs de risque incluent des facteurs génétiques et environnementaux, ainsi que l'implication de l'EBV. Le risque co-carcinogène des nitrosamines du poisson fumé est également évoqué.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour le cancer du nasopharynx?",
+        "answer": "Le traitement repose avant tout sur la radiothérapie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la rétinite à CMV chez les patients VIH?",
+        "answer": "Les symptômes incluent des anomalies spécifiques au fond d’œil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes digestives à CMV chez les patients VIH?",
+        "answer": "Les symptômes incluent colite, œsophagite, et cholangite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes pulmonaires à CMV chez les patients VIH?",
+        "answer": "Les symptômes incluent pneumopathie interstitielle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes cardiaques à CMV chez les patients VIH?",
+        "answer": "Les symptômes incluent myocardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes neurologiques à CMV chez les patients VIH?",
+        "answer": "Les symptômes incluent encéphalite, myélite, et polyradiculonévrite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lymphomes associés à l'EBV chez les patients VIH?",
+        "answer": "Les lymphomes sont fréquemment de haut grade de malignité et peuvent être de localisation ganglionnaire ou cérébrale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement curatif de l'infection à CMV chez les patients immunodéprimés?",
+        "answer": "Le traitement antiviral est recommandé chez les patients immunodéprimés présentant une maladie à CMV.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les effets secondaires du Ganciclovir?",
+        "answer": "Les effets secondaires incluent leuconeutropénie, thrombopénie, et anémie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les effets secondaires du Valganciclovir?",
+        "answer": "Les effets secondaires sont similaires à ceux du Ganciclovir, incluant leuconeutropénie, thrombopénie, et anémie.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les effets secondaires du Foscarnet?",
+        "answer": "Les effets secondaires incluent insuffisance rénale par tubulopathie, troubles du métabolisme phosphocalcique, syndrome œdémateux, ulcérations génitales, et troubles digestifs.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les effets secondaires du Cidofovir?",
+        "answer": "Les effets secondaires incluent insuffisance rénale par tubulopathie proximale, uvéite antérieure.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement de la mononucléose infectieuse causée par l'EBV?",
+        "answer": "Le traitement est essentiellement symptomatique avec repos au lit et adjonction d’une corticothérapie courte en cas de dysphagie très importante ou de complications hématologiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Existe-t-il un traitement antiviral spécifique pour les pathologies tumorales liées à l'EBV?",
+        "answer": "Il n’existe pas de traitement antiviral spécifique de l’EBV dans les pathologies tumorales liées à l’EBV, le traitement étant celui de la pathologie (souvent chimiothérapie).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements préventifs pour l'infection à CMV chez les patients immunodéprimés?",
+        "answer": "Le traitement préventif inclut la prophylaxie primaire et secondaire, ainsi que le traitement préemptif chez les patients transplantés de moelle ou d’organe présentant une PCR CMV positive.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements préventifs pour l'infection à CMV chez les femmes enceintes?",
+        "answer": "La prévention repose sur l’observance de règles d’hygiène, le contrôle du statut sérologique des femmes débutant un travail en crèche ou en collectivité, et la contre-indication de transfusions non CMV négatives.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Existe-t-il un vaccin contre l'EBV?",
+        "answer": "Il n’existe ni vaccin ni immunoglobulines anti-EBV.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie à CMV chez les patients greffés d'organes?",
+        "answer": "Les symptômes peuvent aller de la symptomatologie d’une primo-infection à l’atteinte tissulaire majeure, en particulier la pneumopathie interstitielle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la leucoplasie chevelue de la langue causée par l'EBV chez les patients VIH?",
+        "answer": "La leucoplasie chevelue de la langue régresse totalement sous antirétroviraux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie à CMV chez les patients ayant un taux de lymphocytes CD4+ < 50 mm3?",
+        "answer": "Les symptômes incluent rétinite à CMV, atteintes digestives, atteintes pulmonaires, atteintes cardiaques, et atteintes neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie à CMV chez les patients greffés de moelle?",
+        "answer": "Les symptômes incluent pneumopathie interstitielle et favorisent le rejet du greffon et les surinfections bactériennes ou fongiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection à CMV?",
+        "answer": "Les symptômes incluent syndrome mononucléosique, neutropénie, thrombopénie, et cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection aiguë à EBV?",
+        "answer": "Les symptômes incluent IgM antiVCA.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection chronique à EBV?",
+        "answer": "Les symptômes incluent IgG antiVCA et IgG antiEBNA.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la réactivation de l'infection à CMV?",
+        "answer": "Les symptômes incluent IgM.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection ancienne à CMV?",
+        "answer": "Les symptômes incluent IgG.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie à CMV chez les patients immunodéprimés?",
+        "answer": "Les symptômes incluent atteintes tissulaires majeures, en particulier la pneumopathie interstitielle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie à CMV chez les patients greffés d'organes?",
+        "answer": "Les symptômes incluent pneumopathie interstitielle et favorisent le rejet du greffon et les surinfections bactériennes ou fongiques.",
+        "qtype": "symptômes"
+    }
+]

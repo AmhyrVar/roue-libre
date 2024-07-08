@@ -1,0 +1,317 @@
+[
+    {
+        "question": "Qu'est-ce que la gale?",
+        "answer": "La gale ou scabiose est une dermatose contagieuse, prurigineuse, cosmopolite, très répandue notamment dans les collectivités humaines, due au parasitisme par un acarien Sarcoptes scabiei var hominis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs favorisants de la gale?",
+        "answer": "Un défaut d’hygiène des vêtements, l’absence d'eau courante, la pauvreté et le surpeuplement à l’intérieur des habitations sont des facteurs favorisants.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de cas de gale y a-t-il par an dans le monde?",
+        "answer": "Il y aurait plus de 450 millions de cas par an dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'agent pathogène de la gale?",
+        "answer": "Sarcoptes scabiei var hominis est un acarien, parasite de l’épiderme, strictement adapté à l’homme.",
+        "qtype": "agent pathogène"
+    },
+    {
+        "question": "Comment se déroule le cycle de vie de Sarcoptes scabiei var hominis?",
+        "answer": "Les sarcoptes adultes s’accouplent à la surface de la peau de leur hôte. Le mâle disparait après l’accouplement tandis que la femelle fécondée s’enfonce aussitôt dans la peau en creusant une galerie. Elle vit environ 1 mois, pond environ 1 à 2 œufs par jour, et le cycle dure environ 15 jours à 3 semaines.",
+        "qtype": "cycle de vie"
+    },
+    {
+        "question": "Comment se transmet la gale?",
+        "answer": "Le passage de la femelle parasite d’un hôte à l’autre s’effectue lors d’un contact cutané direct ou par l’intermédiaire d’objets de toilette, de vêtements ou de la literie. La gale peut aussi être une infection sexuellement transmissible voire nosocomiale.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale commune chez l'adulte et l'enfant?",
+        "answer": "Le patient consulte habituellement pour un prurit féroce, souvent continu, avec une recrudescence nocturne. Les autres manifestations cutanées sont les vésicules, les sillons et les lésions de grattages.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale chez le nourrisson?",
+        "answer": "Le nourrisson est souvent agité, il pleure et dort mal. Il présente des lésions vésiculeuses, souvent surinfectées, siégeant principalement sur la plante des pieds, les aisselles, l’ombilic et les fesses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que la gale profuse ou croûteuse?",
+        "answer": "Chez le sujet âgé et l’immunodéprimé ou après une corticothérapie locale intensive, la gale est moins prurigineuse. Les lésions typiques du début se couvrent de squames puis de croûtes parfois épaisses et d’aspect blanc-jaune soufré.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste le prurit dans la gale?",
+        "answer": "Le prurit est féroce, souvent continu, avec une recrudescence nocturne. Il est retardé par rapport à la date présumée de contamination et n’apparaît que 3 à 4 semaines après l’infestation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la gale au début de l'infestation?",
+        "answer": "Au début, le prurit est localisé aux espaces interdigitaux, puis il s’étend aux poignets, aux coudes, aux aisselles, aux mamelons, aux plis abdominaux, inguinaux, fessiers et au fourreau de la verge.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la gale?",
+        "answer": "L’observation directe à l’aide d’un dermatoscope et/ou un prélèvement par grattage cutané au niveau des lésions est utile pour confirmer le diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de surinfection de la gale?",
+        "answer": "La surinfection de la gale par des streptocoques ou des staphylocoques est responsable d’impétigos avec un risque de syndrome post streptococcique (RAA) pour les streptocoques bêta-hémolytiques A.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale chez les sujets immunodéprimés?",
+        "answer": "Chez les sujets immunodéprimés, la gale est moins prurigineuse et les lésions se couvrent de squames puis de croûtes épaisses et d’aspect blanc-jaune soufré.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale chez les sujets âgés?",
+        "answer": "Chez les sujets âgés, la gale est moins prurigineuse et les lésions se couvrent de squames puis de croûtes épaisses et d’aspect blanc-jaune soufré.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste la gale filarienne?",
+        "answer": "En zone d'endémie d'onchocercose, la gale peut être confondue avec la 'gale filarienne', fréquente chez les enfants, touchant souvent les fesses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des nodules scabieux?",
+        "answer": "Les nodules scabieux sont des infiltrats cellulaires dermiques, réactions allergiques secondaires aux antigènes sarcoptiques. Ils sont prurigineux et peuvent être observés notamment au niveau des aisselles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille de la femelle adulte de Sarcoptes scabiei var hominis?",
+        "answer": "La femelle adulte mesure environ 300 à 450 µm.",
+        "qtype": "agent pathogène"
+    },
+    {
+        "question": "Quelle est la durée de vie de la femelle Sarcoptes scabiei var hominis dans la peau?",
+        "answer": "Elle vit environ 1 mois en progressant de 1 à 2 mm par jour dans l’épiderme.",
+        "qtype": "cycle de vie"
+    },
+    {
+        "question": "Combien d'œufs pond la femelle Sarcoptes scabiei var hominis par jour?",
+        "answer": "Elle pond environ 1 à 2 œufs par jour.",
+        "qtype": "cycle de vie"
+    },
+    {
+        "question": "Quelle est la durée de survie des sarcoptes dans le milieu extérieur?",
+        "answer": "Les sarcoptes ne peuvent survivre plus de 48 heures dans le milieu extérieur dans un climat tempéré et sec.",
+        "qtype": "cycle de vie"
+    },
+    {
+        "question": "Quand un sujet devient-il contagieux après avoir été contaminé par la gale?",
+        "answer": "Un sujet devient contagieux par contact étroit, dès la première génération d’adultes issus de sa peau soit environ à partir de la 3e semaine après avoir été lui-même contaminé.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions de grattage dans la gale?",
+        "answer": "Les lésions de grattage peuvent parfois se surinfecter et des nodules rosés, violacés, enchâssés dans le derme, prurigineux, peuvent aussi être observés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des vésicules perlées dans la gale?",
+        "answer": "Les galeries creusées par les femelles entraînent une réaction œdémateuse locale à l’origine des vésicules perlées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des sillons scabieux?",
+        "answer": "Le sillon scabieux, lésion sinueuse de 5 à 15 mm, légèrement surélevée et se terminant par une vésicule perlée, est pathognomonique mais retrouvé qu’au début de l’infestation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale sur les membres inférieurs des nourrissons?",
+        "answer": "Les lésions papuleuses et nodulaires peuvent être observées sur les membres inférieurs des nourrissons.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale sur les mains?",
+        "answer": "Les lésions de la gale peuvent toucher les espaces interdigitaux, le bord cubital des mains, mais le visage, le dos et la paume des mains sont habituellement épargnés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale sur les pieds?",
+        "answer": "Chez le nourrisson, les lésions vésiculeuses siègent principalement sur la plante des pieds.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale sur les aisselles?",
+        "answer": "Des nodules rosés, violacés, enchâssés dans le derme, prurigineux, peuvent être observés au niveau des aisselles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale profuse croûteuse?",
+        "answer": "Les symptômes de la gale profuse croûteuse incluent des lésions sur toute la surface de la peau, y compris le visage, le dos, la paume des mains et la plante des pieds. Cette forme est très contagieuse et peut provoquer des épidémies dans les centres de gériatrie et les services d’hospitalisation de longue durée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la gale?",
+        "answer": "Le diagnostic de la gale est clinique lorsque les lésions sont typiques et qu'il y a une notion de contage dans les 3 semaines avant l'apparition du prurit. Sinon, il doit être confirmé par un prélèvement parasitologique. Le dermatoscope est un excellent outil d’observation et contribue efficacement au prélèvement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les outils utilisés pour le prélèvement parasitologique dans le diagnostic de la gale?",
+        "answer": "Les outils utilisés pour le prélèvement parasitologique incluent un vaccinostyle pour prélever sur les lésions caractéristiques, un fragment de cellophane adhésive (Scotch®) appliqué sur une lame de verre, et des prélèvements de fragments cutanés sous les ongles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la gale?",
+        "answer": "Les traitements de première ligne pour la gale incluent la perméthrine crème à 5 %, le benzoate de benzyle en lotion à 10 %, et l’ivermectine per os (200 µg/kg en prise unique).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée d'application des traitements topiques pour la gale?",
+        "answer": "Les traitements topiques doivent être appliqués pendant 8 à 12 heures sur toutes les régions du corps, y compris le cuir chevelu, l’aine, les organes génitaux externes, le nombril, sous les ongles et entre les orteils.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de gale croûteuse?",
+        "answer": "En cas de gale croûteuse, le traitement local doit toujours être associé à un traitement par voie orale. Un traitement antibiotique peut être débuté en cas de lésions surinfectées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles précautions doivent être prises pour traiter la literie et les vêtements en cas de gale?",
+        "answer": "La literie (draps de lit, taies d’oreillers), le linge de peau, le linge de toilette et tout ce qui peut être au contact de la peau parasitée doivent être lavés à plus de 60°C ou enfermés hermétiquement dans un sac plastique avec un scabicide de contact pendant 48 heures.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale chez les enfants en bas âge?",
+        "answer": "Chez les enfants en bas âge, il ne faut pas oublier de traiter aussi leurs jouets (peluches, « doudous ») ainsi que le tapis de jeu, la poussette ou le landau.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Pourquoi est-il important de couper les ongles des patients atteints de gale?",
+        "answer": "Il est recommandé de couper les ongles courts des patients pour éviter une réinfection et la surinfection dues aux lésions de grattage.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la méthode de désinfection des locaux en cas de gale?",
+        "answer": "La désinfection des locaux n’a plus lieu d’être car le parasite ne survit pas hors de son hôte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important de rechercher la source de contamination en cas de gale?",
+        "answer": "Il est important de rechercher la source de contamination pour traiter tous les sujets pouvant être à leur tour infestés, comme le conjoint, la famille, l’entourage proche, et les autres enfants scolarisés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle méthode peut être utilisée en milieu tropical pour traiter les vêtements en cas de gale?",
+        "answer": "En milieu tropical, le congélateur peut être utilisé en y plaçant les vêtements à -10°C pendant 5 heures.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les avantages des programmes de distribution étendue d’ivermectine?",
+        "answer": "Les programmes de distribution étendue d’ivermectine pour lutter contre l’onchocercose, la filariose lymphatique ou les nématodoses intestinales participent à la réduction de la gale au niveau communautaire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les effets des programmes d'administration systématique d'ivermectine contre la gale chez les enfants?",
+        "answer": "Les programmes d'administration systématique d'ivermectine contre la gale chez les enfants permettent une réduction des impétigos et des helminthoses intestinales.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la gale?",
+        "answer": "Les traitements de première ligne pour la gale incluent la perméthrine crème à 5 %, le benzoate de benzyle en lotion à 10 %, et l’ivermectine per os (200 µg/kg en prise unique).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée d'application des traitements topiques pour la gale?",
+        "answer": "Les traitements topiques doivent être appliqués pendant 8 à 12 heures sur toutes les régions du corps, y compris le cuir chevelu, l’aine, les organes génitaux externes, le nombril, sous les ongles et entre les orteils.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de gale croûteuse?",
+        "answer": "En cas de gale croûteuse, le traitement local doit toujours être associé à un traitement par voie orale. Un traitement antibiotique peut être débuté en cas de lésions surinfectées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles précautions doivent être prises pour traiter la literie et les vêtements en cas de gale?",
+        "answer": "La literie (draps de lit, taies d’oreillers), le linge de peau, le linge de toilette et tout ce qui peut être au contact de la peau parasitée doivent être lavés à plus de 60°C ou enfermés hermétiquement dans un sac plastique avec un scabicide de contact pendant 48 heures.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale chez les enfants en bas âge?",
+        "answer": "Chez les enfants en bas âge, il ne faut pas oublier de traiter aussi leurs jouets (peluches, « doudous ») ainsi que le tapis de jeu, la poussette ou le landau.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Pourquoi est-il important de couper les ongles des patients atteints de gale?",
+        "answer": "Il est recommandé de couper les ongles courts des patients pour éviter une réinfection et la surinfection dues aux lésions de grattage.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la méthode de désinfection des locaux en cas de gale?",
+        "answer": "La désinfection des locaux n’a plus lieu d’être car le parasite ne survit pas hors de son hôte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important de rechercher la source de contamination en cas de gale?",
+        "answer": "Il est important de rechercher la source de contamination pour traiter tous les sujets pouvant être à leur tour infestés, comme le conjoint, la famille, l’entourage proche, et les autres enfants scolarisés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle méthode peut être utilisée en milieu tropical pour traiter les vêtements en cas de gale?",
+        "answer": "En milieu tropical, le congélateur peut être utilisé en y plaçant les vêtements à -10°C pendant 5 heures.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les avantages des programmes de distribution étendue d’ivermectine?",
+        "answer": "Les programmes de distribution étendue d’ivermectine pour lutter contre l’onchocercose, la filariose lymphatique ou les nématodoses intestinales participent à la réduction de la gale au niveau communautaire.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les effets des programmes d'administration systématique d'ivermectine contre la gale chez les enfants?",
+        "answer": "Les programmes d'administration systématique d'ivermectine contre la gale chez les enfants permettent une réduction des impétigos et des helminthoses intestinales.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la gale?",
+        "answer": "Les traitements de première ligne pour la gale incluent la perméthrine crème à 5 %, le benzoate de benzyle en lotion à 10 %, et l’ivermectine per os (200 µg/kg en prise unique).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée d'application des traitements topiques pour la gale?",
+        "answer": "Les traitements topiques doivent être appliqués pendant 8 à 12 heures sur toutes les régions du corps, y compris le cuir chevelu, l’aine, les organes génitaux externes, le nombril, sous les ongles et entre les orteils.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de gale croûteuse?",
+        "answer": "En cas de gale croûteuse, le traitement local doit toujours être associé à un traitement par voie orale. Un traitement antibiotique peut être débuté en cas de lésions surinfectées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles précautions doivent être prises pour traiter la literie et les vêtements en cas de gale?",
+        "answer": "La literie (draps de lit, taies d’oreillers), le linge de peau, le linge de toilette et tout ce qui peut être au contact de la peau parasitée doivent être lavés à plus de 60°C ou enfermés hermétiquement dans un sac plastique avec un scabicide de contact pendant 48 heures.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la gale chez les enfants en bas âge?",
+        "answer": "Chez les enfants en bas âge, il ne faut pas oublier de traiter aussi leurs jouets (peluches, « doudous ») ainsi que le tapis de jeu, la poussette ou le landau.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Pourquoi est-il important de couper les ongles des patients atteints de gale?",
+        "answer": "Il est recommandé de couper les ongles courts des patients pour éviter une réinfection et la surinfection dues aux lésions de grattage.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la méthode de désinfection des locaux en cas de gale?",
+        "answer": "La désinfection des locaux n’a plus lieu d’être car le parasite ne survit pas hors de son hôte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi est-il important de rechercher la source de contamination en cas de gale?",
+        "answer": "Il est important de rechercher la source de contamination pour traiter tous les sujets pouvant être à leur tour infestés, comme le conjoint, la famille, l’entourage proche, et les autres enfants scolarisés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle méthode peut être utilisée en milieu tropical pour traiter les vêtements en cas de gale?",
+        "answer": "En milieu tropical, le congélateur peut être utilisé en y plaçant les vêtements à -10°C pendant 5 heures.",
+        "qtype": "prévention"
+    }
+]

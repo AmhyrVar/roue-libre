@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que l'ulcère de Buruli?",
+        "answer": "L'ulcère de Buruli est une infection à tropisme cutané causée par Mycobacterium ulcerans, une mycobactérie environnementale qui produit une toxine nécrosante appelée mycolactone.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ulcère de Buruli?",
+        "answer": "Les symptômes de l'ulcère de Buruli incluent des ulcérations cutanées délabrantes, des séquelles ostéo-articulaires, et des lésions cutanées indolentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'incidence de l'ulcère de Buruli en Afrique?",
+        "answer": "L'incidence de l'ulcère de Buruli en Afrique était estimée à environ 5 000 cas par an jusqu'en 2010, puis a régressé jusqu'en 2016 avec 1961 cas signalés. Le nombre de cas a ensuite augmenté chaque année pour atteindre 2271 en 2019.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs et vecteurs de Mycobacterium ulcerans?",
+        "answer": "Les principaux réservoirs et vecteurs de Mycobacterium ulcerans incluent les insectes aquatiques, en particulier les punaises aquatiques (Naucoridae), ainsi que les mollusques et les poissons.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de l'ulcère de Buruli en Afrique?",
+        "answer": "Les facteurs de risque de l'ulcère de Buruli en Afrique incluent la proximité de rivières et de plans d'eau à débit lent, l'utilisation de sources d'eau non protégées pour les activités domestiques, l'absence de vêtements protecteurs, et la désinfection inadaptée des plaies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'impact de l'infection à VIH sur l'ulcère de Buruli?",
+        "answer": "L'infection à VIH complique la prise en charge de l'ulcère de Buruli, rendant l'évolution clinique de la maladie plus agressive et les résultats thérapeutiques médiocres.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les caractéristiques de Mycobacterium ulcerans?",
+        "answer": "Mycobacterium ulcerans est une mycobactérie environnementale à croissance lente qui se cultive à des températures comprises entre 29 et 33 °C. Elle produit une exotoxine lipidique appelée mycolactone, qui possède des propriétés cytotoxiques et immunosuppressives.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les stades cliniques de l'ulcère de Buruli?",
+        "answer": "L'ulcère de Buruli évolue classiquement en trois stades distincts : pré-ulcératif, ulcératif, puis cicatriciel.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les formes pré-ulcératives de l'ulcère de Buruli?",
+        "answer": "Les formes pré-ulcératives de l'ulcère de Buruli incluent la papule, le nodule, la plaque et l'œdème.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se manifeste une papule dans l'ulcère de Buruli?",
+        "answer": "Une papule est une lésion surélevée, indolore, de plus de 1 cm de diamètre.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se manifeste un nodule dans l'ulcère de Buruli?",
+        "answer": "Un nodule est une lésion palpable, ferme, de 1 à 2 cm, indolore, adhérente à la peau, plus ou moins prurigineuse, parfois associée à un halo œdémateux.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se manifeste une plaque dans l'ulcère de Buruli?",
+        "answer": "La plaque est une large lésion cutanée indurée, surélevée, froide, indolore, bien délimitée, à bords irréguliers et à surface dépigmentée.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se manifeste l'œdème dans l'ulcère de Buruli?",
+        "answer": "L'œdème se manifeste par une tuméfaction sous-cutanée froide, ne prenant pas le godet, plus ou moins douloureuse, fixe, aux limites floues pouvant s'étendre à un membre, à une région du tronc, au visage, ou à la région périnéale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de l'ulcère de Buruli en phase de début?",
+        "answer": "Les diagnostics différentiels de l'ulcère de Buruli en phase de début incluent le granulome à corps étranger, le nodule onchocerquien, le kyste sébacé, le fibrome, le lipome, l'abcès, le furoncle, la cellulite, et la leishmaniose débutante.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de l'ulcère de Buruli en phase d'état?",
+        "answer": "Les diagnostics différentiels de l'ulcère de Buruli en phase d'état incluent l'infection à M. marinum, la lèpre, la tuberculose, la basidiobolomycose, l'amœbose cutanée, la leishmaniose cutanéo-muqueuse, l'ulcère phagédénique, et les mycoses (sporotrichose, histoplasmose, blastomycose, torulose, coccidioïdomycose).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la période d'incubation de l'ulcère de Buruli?",
+        "answer": "La période d'incubation de l'ulcère de Buruli varie de quelques semaines à plusieurs années.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la distribution géographique de l'ulcère de Buruli?",
+        "answer": "L'ulcère de Buruli a été signalé dans plus de 33 pays en Afrique, dans les Amériques, en Asie et en Océanie, principalement dans les régions tropicales et sub-tropicales à climats chauds et humides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux foyers endémiques de l'ulcère de Buruli?",
+        "answer": "Les principaux foyers endémiques de l'ulcère de Buruli sont situés en zone rurale, presque toujours autour d'un écosystème aquatique (fleuves, lacs artificiels ou naturels, marécages, périmètres irrigués).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission de Mycobacterium ulcerans?",
+        "answer": "L'homme se contamine à partir d'un réservoir environnemental hydrotellurique, par inoculation directe transcutanée lors de microtraumatismes. Les insectes aquatiques, en particulier les punaises aquatiques, peuvent également transmettre la maladie par piqûre accidentelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les effets de la mycolactone produite par Mycobacterium ulcerans?",
+        "answer": "La mycolactone possède des propriétés cytotoxiques, qui rendent compte de la nécrose et de l'extension des lésions cutanées, et des propriétés immunosuppressives, qui expliquent la faible réaction inflammatoire locale.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux défis dans le diagnostic de l'ulcère de Buruli?",
+        "answer": "En zone d'endémie, l'absence de spécificité des signes cliniques rend mal aisé le diagnostic sur les seuls arguments cliniques. La chronicité et l'indolence des lésions cutanées doivent y faire penser.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la priorité de l'OMS concernant l'ulcère de Buruli?",
+        "answer": "La promotion du dépistage de masse des formes précoces de l'ulcère de Buruli, qui ne représentent que 10 % des cas diagnostiqués, est une priorité pour l'OMS.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes pré-ulcératives de l'ulcère de Buruli?",
+        "answer": "Les principaux symptômes des formes pré-ulcératives de l'ulcère de Buruli incluent la papule, le nodule, la plaque et l'œdème.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes ulcératives de l'ulcère de Buruli?",
+        "answer": "Les formes ulcératives de l'ulcère de Buruli se caractérisent par des ulcérations cutanées délabrantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes cicatricielles de l'ulcère de Buruli?",
+        "answer": "Les formes cicatricielles de l'ulcère de Buruli se caractérisent par des cicatrices et des séquelles ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux défis dans la prise en charge de l'ulcère de Buruli?",
+        "answer": "Les principaux défis dans la prise en charge de l'ulcère de Buruli incluent l'accès limité aux soins pour les populations pauvres et rurales, et la complication de la prise en charge par l'infection à VIH.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux facteurs environnementaux favorisant l'ulcère de Buruli?",
+        "answer": "Les principaux facteurs environnementaux favorisant l'ulcère de Buruli incluent les bouleversements environnementaux tels que la déforestation, la création de lacs artificiels pour l'irrigation et la pêche, et les inondations.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux défis dans la prévention de l'ulcère de Buruli?",
+        "answer": "Les principaux défis dans la prévention de l'ulcère de Buruli incluent la promotion du dépistage de masse des formes précoces et l'amélioration de l'accès aux soins pour les populations pauvres et rurales.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'ulcère de Buruli chez les enfants?",
+        "answer": "Les enfants de moins de 15 ans représentent la moitié des cas d'ulcère de Buruli selon l'OMS, et les symptômes incluent des ulcérations cutanées délabrantes et des séquelles ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de l'ulcère de Buruli?",
+        "response": "Les nodules et les papules évoluent le plus souvent vers une ulcération cutanée profonde d’extension progressive. Cette perte de substance dermo-épidermique présente un fond nécrotique jaunâtre, des bords décollés et un pourtour œdémateux. L'ulcération est caractérisée par sa chronicité et son indolence, sauf en cas de surinfection.",
+        "qtype": "symptômes"
+    }
+]

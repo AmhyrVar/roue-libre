@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce que le paludisme?",
+        "answer": "Le paludisme est une infection des érythrocytes due à un hématozoaire du genre Plasmodium transmis par un moustique femelle du genre Anopheles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale espèce de Plasmodium responsable de décès?",
+        "answer": "Plasmodium falciparum est la principale espèce qui tue et peut résister aux antipaludiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs du paludisme en Afrique subsaharienne?",
+        "answer": "En Afrique subsaharienne, la transmission est due à trois espèces principales d’anophèle : A. gambiae, A. funestus et A. arabiensis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique mondiale du paludisme?",
+        "answer": "La répartition géographique mondiale du paludisme inclut la plupart des régions intertropicales : Amérique du Sud, Amérique Centrale, Asie et surtout Afrique sub-saharienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de décès dus au paludisme ont été estimés en 2020?",
+        "answer": "En 2020, le nombre de décès estimés était de près de 627 000, dont 96 % en Afrique sub-saharienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les trois types de zones de paludisme en Afrique?",
+        "answer": "Les trois types de zones de paludisme en Afrique sont : stable (transmission intense et quasi permanente), intermédiaire (transmission à recrudescence saisonnière) et instable (transmission faible et épisodique).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Qu'est-ce que la prémunition dans le contexte du paludisme?",
+        "answer": "La prémunition est une immunité partielle qui demande plusieurs années pour s’installer et doit être entretenue par des piqûres anophéliennes répétées. Elle protège contre les formes graves du paludisme.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Qu'est-ce que le 'paludisme-infection'?",
+        "answer": "Le 'paludisme-infection' se définit par le portage asymptomatique de parasites : en zone de transmission intense et permanente, 20 à 50 % des individus peuvent être porteurs de Plasmodium sans être malades.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques communs du paludisme non compliqué?",
+        "answer": "Les signes cliniques communs du paludisme non compliqué incluent une fièvre débutant brutalement, souvent élevée avec frissons, sueurs, céphalées et courbatures, associée souvent à des petits troubles digestifs comme des nausées, vomissements et/ou diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce qu'un accès de reviviscence dans le paludisme?",
+        "answer": "Un accès de reviviscence (ou rechute) correspond au réveil des formes quiescentes (hypnozoïtes hépatiques) propres à P. vivax et P. ovale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères majeurs de la splénomégalie tropicale hyperimmune (HMS)?",
+        "answer": "Les critères majeurs de la splénomégalie tropicale hyperimmune (HMS) sont : splénomégalie majeure, très forte élévation des IgM et disparition progressive de tous les signes après traitement antipaludique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que la fièvre bilieuse hémoglobinurique?",
+        "answer": "La fièvre bilieuse hémoglobinurique est un tableau aigu d’hémolyse intravasculaire dans les heures qui suivent la première prise médicamenteuse curative d’un accès palustre et peut s’accompagner d’insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les groupes de personnes à risque de paludisme grave?",
+        "answer": "Les groupes de personnes à risque de paludisme grave incluent les nourrissons, enfants, femmes enceintes, migrants venant d’une zone non endémique, touristes, travailleurs et sujets aspléniques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes de gravité du paludisme à P. falciparum en zone d’endémie palustre?",
+        "answer": "Les signes de gravité incluent la défaillance neurologique, la défaillance respiratoire, la défaillance cardio-circulatoire, l’hémorragie, l’ictère, l’anémie profonde, l’hypoglycémie, l’acidose, l’hyperparasitémie et l’insuffisance rénale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques du paludisme pendant la grossesse?",
+        "answer": "Les risques du paludisme pendant la grossesse incluent le paludisme maternel grave, la fausse couche, l’anémie progressive chez la mère, le retard de croissance intra-utérin, l’hypotrophie néonatale et l’augmentation de la mortalité périnatale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment le VIH affecte-t-il l'incidence des accès palustres?",
+        "answer": "L’infection VIH augmente l’incidence des accès palustres d’autant plus que l’immunodépression est plus profonde, avec une augmentation de la gravité des accès et de la mortalité uniquement en zone de paludisme instable.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'impact du paludisme sur l'infection par le VIH?",
+        "answer": "L’existence d’une parasitémie est associée à une majoration transitoire de la charge virale VIH, surtout lorsque le niveau de parasitémie est élevé et que le patient est fébrile.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le seuil de positivité de la goutte épaisse pour le diagnostic du paludisme?",
+        "answer": "Le seuil de positivité de la goutte épaisse est de 10 parasites par microlitre de sang (p/microL).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les avantages et inconvénients du frottis sanguin pour le diagnostic du paludisme?",
+        "answer": "Le frottis sanguin facilite le diagnostic d’espèce et celui d’autres agents pathogènes, mais son inconvénient est son faible seuil de détection (100 p/microL) et la lecture est longue lorsque les parasites sont rares.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères de gravité du paludisme à P. vivax?",
+        "answer": "Les critères de gravité du paludisme à P. vivax incluent les mêmes critères que pour P. falciparum sans parasitémie > 10 %, anémie, ictère fréquents, quelques cas de syndrome de détresse respiratoire aiguë (SDRA), rareté de l’atteinte neurologique et de l’acidose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères de gravité du paludisme à P. knowlesi?",
+        "answer": "Les critères de gravité du paludisme à P. knowlesi incluent les mêmes critères que pour P. falciparum mais hyperparasitémie dès que > 2 %, atteintes hépatique et rénale fréquentes, atteinte neurologique très rare.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les sous-groupes de gravité croissante pour les enfants prostrés dans le paludisme grave?",
+        "answer": "Les sous-groupes de gravité croissante pour les enfants prostrés sont : prostré mais pleinement conscient, prostré avec trouble de la conscience mais sans coma, et coma.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de détresse respiratoire chez les enfants atteints de paludisme grave?",
+        "answer": "Les signes de détresse respiratoire chez les enfants incluent le battement des ailes du nez, le tirage intercostal, la dépression épigastrique marquée ou la polypnée ample.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères pour classer un enfant dans le groupe 2 de paludisme grave?",
+        "answer": "Les critères pour classer un enfant dans le groupe 2 de paludisme grave incluent l'absence de signe du groupe 1, anémie (hémoglobine < 5 g/dl ou hématocrite < 15 %), et convulsions ≥ 2 sur une période de 24 heures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les critères pour classer un enfant dans le groupe 3 de paludisme grave?",
+        "answer": "Les critères pour classer un enfant dans le groupe 3 de paludisme grave incluent l'absence de signe des groupes 1 et 2 et la nécessité d'un traitement parentéral en raison de vomissements persistants.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les scores de l'échelle de Blantyre pour les troubles de la vigilance chez les enfants?",
+        "answer": "Les scores de l'échelle de Blantyre pour les troubles de la vigilance chez les enfants incluent : réponse motrice (2 : retrait du membre à la douleur, 1 : réponse absente ou inadaptée), réponse verbale (2 : pleure de façon normale, 1 : gémit, 0 : aucune), mouvements oculaires (1 : suivent le visage de la mère, 0 : ne suivent pas).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques du paludisme en zone de paludisme instable pour les femmes enceintes?",
+        "answer": "En zone de paludisme instable, le risque pour les femmes enceintes inclut le paludisme maternel grave et la fausse couche.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques du paludisme en zone de paludisme stable pour les femmes enceintes?",
+        "answer": "En zone de paludisme stable, le risque pour les femmes enceintes inclut une anémie d’aggravation progressive chez la mère, retard de croissance intra-utérin, hypotrophie néonatale et augmentation de la mortalité périnatale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les impacts de l'infection VIH sur le paludisme pendant la grossesse?",
+        "answer": "Pendant la grossesse, l'infection VIH augmente l'incidence des accès palustres, la morbidité maternelle et la morbi-mortalité fœtale et néonatale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les impacts du paludisme sur la charge virale VIH?",
+        "answer": "L’existence d’une parasitémie est associée à une majoration transitoire de la charge virale VIH, surtout lorsque le niveau de parasitémie est élevé et que le patient est fébrile.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les tests de diagnostic rapide (TDR) pour le paludisme?",
+        "response": "Les TDR pour le paludisme détectent des antigènes plasmodiaux comme HRP2, LDH. HRP2 est spécifique à P. falciparum, tandis que pLDH et pAldolases ne différencient pas les espèces.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité des tests de diagnostic rapide (TDR) par rapport au frottis sanguin?",
+        "response": "La sensibilité des TDR est proche de celle du frottis sanguin.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les avantages d'une stratégie de traitement antipaludique basé sur un TDR?",
+        "response": "Les avantages incluent la diminution de la prescription abusive d’antipaludique et l'incitation à rechercher des causes de fièvre autres que le paludisme en cas de TDR négatif.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens biologiques usuels pour le diagnostic du paludisme?",
+        "response": "Les examens incluent l'hémogramme, la protéine C réactive, les transaminases, et d'autres anomalies comme l'hypocalcémie, l'hypocholestérolémie, et l'hypertriglycéridémie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les accès simples à P. falciparum sans troubles digestifs?",
+        "response": "Le traitement recommandé est l'utilisation des ACT (artemisinine-based combination therapy) sur 3 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les femmes enceintes au cours du premier trimestre en cas de paludisme?",
+        "response": "Le traitement recommandé est la quinine associée à la clindamycine pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de deuxième ligne en cas d'indisponibilité des ACT?",
+        "response": "Le traitement de deuxième ligne est la quinine per os.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés par l'OMS pour le paludisme?",
+        "response": "Les traitements recommandés incluent les associations artéméther + luméfantrine, artésunate + amodiaquine, artésunate + méfloquine, artésunate + sulfadoxine-pyriméthamine, dihydro-artémisinine + pipéraquine, et artesunate + pyronaridine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour le paludisme grave à P. falciparum?",
+        "response": "Le traitement recommandé est l'artésunate par voie IV, complété par un traitement de type ACT une fois le relais oral possible.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de gravité du paludisme nécessitant un transfert vers un centre mieux équipé?",
+        "response": "Les signes de gravité incluent le coma, l'ictère et la pâleur intense, l'oligurie, et la détresse respiratoire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour le paludisme grave?",
+        "response": "Les traitements de première ligne incluent l'artésunate IV ou IM, l'artéméther IM, et la quinine IV.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de deuxième ligne pour le paludisme grave en cas d'indisponibilité des thérapeutiques IV?",
+        "response": "Les traitements de deuxième ligne incluent l'artésunate IM, l'artésunate intrarectal pour les enfants de moins de 6 ans, l'artéméther IM, et la quinine IM ou intrarectale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les médicaments utilisables pour la chimioprophylaxie du paludisme chez l'enfant et l'adulte voyageur?",
+        "response": "Les médicaments incluent l'atovaquone-proguanil, la chloroquine, la doxycycline, et la méfloquine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables de l'artésunate?",
+        "response": "L'artésunate peut causer une anémie hémolytique tardive post traitement, survenant une à deux semaines après la fin du traitement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les axes stratégiques des programmes de lutte contre le paludisme?",
+        "response": "Les axes stratégiques incluent la prise en charge précoce et efficace des cas de paludisme, la protection personnelle par chimioprophylaxie, et la protection collective par la lutte antivectorielle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les objectifs principaux des programmes de lutte contre le paludisme?",
+        "response": "Les objectifs incluent la réduction du taux de mortalité liée au paludisme, la réduction de l'incidence des cas, l'élimination du paludisme dans les pays où il y avait une transmission en 2015, et la prévention de la réapparition du paludisme dans les pays exempts.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la prévention des rechutes à P. vivax ou P. ovale?",
+        "response": "Le traitement recommandé est l'utilisation de la primaquine, nécessitant la détermination du statut enzymatique en G6PD du malade.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les accès simples à P. vivax, P. ovale et P. malariae?",
+        "response": "Le traitement recommandé est la chloroquine en zone de sensibilité à la chloroquine ou par ACT.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les infections mixtes de paludisme?",
+        "response": "Le traitement recommandé repose sur les ACT.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les femmes enceintes en cas de paludisme grave?",
+        "response": "Le traitement recommandé est l'artésunate, y compris au cours du premier trimestre de grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les enfants de moins de 6 ans en cas de paludisme grave?",
+        "response": "Le traitement recommandé est l'artésunate intrarectal à 10 mg/kg par dose avant référencement en urgence.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les voyageurs en cas de suspicion d'accès palustre?",
+        "response": "Les traitements recommandés incluent les associations artéméther + luméfantrine, arténimol + pipéraquine, ou atovaquone + proguanil.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les femmes enceintes pour la chimioprophylaxie du paludisme?",
+        "response": "Le traitement recommandé est une cure de sulfadoxine + pyriméthamine à renouveler tous les mois à partir du deuxième trimestre de grossesse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les enfants de moins de 12 mois en zone de transmission modérée à haute en Afrique?",
+        "response": "Le traitement recommandé est un TPI intermittent avec de la sulfadoxine + pyriméthamine au moment du deuxième ou troisième passage vaccinal.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les enfants de moins de 6 ans en zone de haute transmission saisonnière?",
+        "response": "Le traitement recommandé est une chimioprophylaxie saisonnière avec de l'amodiaquine + sulfadoxine-pyriméthamine (SP) mensuellement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les voyageurs se rendant dans un pays impaludé?",
+        "response": "Les traitements recommandés incluent l'atovaquone-proguanil, la chloroquine, la doxycycline, et la méfloquine, selon les posologies du traitement curatif.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les centres de santé communautaire sans laboratoire en cas de paludisme?",
+        "response": "Les traitements recommandés incluent un traitement présomptif par voie orale ou rectale, avec des soins contre la fièvre et la reconnaissance des signes de gravité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les centres de santé communautaire avec laboratoire en cas de paludisme?",
+        "response": "Les traitements recommandés incluent un diagnostic parasitologique par frottis/goutte épaisse ou TDR, et un traitement par voie injectable ou rectale en présence de signes de gravité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les hôpitaux de district et de référence en cas de paludisme?",
+        "response": "Les traitements recommandés incluent l'utilisation de l'artésunate IV en première ligne en présence de signes de gravité, et la prise en charge symptomatique complète.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le contrôle parasitologique après un traitement de paludisme?",
+        "response": "Il est recommandé de contrôler le frottis sanguin/goutte épaisse au 3e jour, puis au 7e et au 28e jour après le début du traitement, et de rechercher des stigmates d'hémolyse à J14 et J21 en cas de traitement par artésunate.",
+        "qtype": "traitement"
+    }
+]

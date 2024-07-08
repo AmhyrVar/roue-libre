@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les types de virus Herpes simplex (HSV) et leurs réservoirs?",
+        "answer": "L’Herpes simplex virus (HSV) est un virus à ADN dont on connait deux types, HSV1 et HSV2. L’homme est le seul réservoir du virus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la distinction classique entre HSV1 et HSV2?",
+        "answer": "Classiquement, HSV1 infecte plutôt la partie supérieure du corps et HSV2 plutôt la région génitale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "À quel âge survient l'infection par HSV1?",
+        "answer": "L’infection par HSV1 survient dans l’enfance ; 80 % des enfants de plus de 5 ans ont des anticorps et 90 % des adultes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment évolue la prévalence des infections à HSV2?",
+        "answer": "La prévalence des infections à HSV2 est en constante augmentation et recoupe celle des IST.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le mode de transmission de l'HSV?",
+        "answer": "L’HSV se transmet par contact direct muqueux ou cutanéo-muqueux avec un sujet excrétant du virus.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Qu'est-ce que la primo-infection par HSV?",
+        "answer": "La primo-infection est le premier contact avec le virus, symptomatique ou asymptomatique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Où le virus HSV se localise-t-il après la primo-infection?",
+        "answer": "Le virus disparaît et va se localiser dans le ganglion nerveux correspondant où il reste quiescent (latence virale).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Qu'est-ce qu'une récurrence dans le contexte de l'HSV?",
+        "answer": "La récurrence est une réactivation virale avec des signes cliniques, survenant dans le même territoire que la primo-infection.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les facteurs déclenchants des récurrences d'HSV?",
+        "answer": "Les causes des récurrences sont multiples : stress, soleil, fatigue, règles, fièvre, infection, grossesse.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Qu'est-ce que l'excrétion virale asymptomatique?",
+        "answer": "L’excrétion virale asymptomatique se définit comme la détection de virus en l’absence de signes fonctionnels ou de lésions visibles.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les risques associés à l'herpès néonatal?",
+        "answer": "L’herpès néonatal est grave avec un risque de mortalité et de séquelles neurosensorielles élevé chez le nouveau-né à terme.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment le nouveau-né peut-il se contaminer par HSV?",
+        "answer": "Le nouveau-né peut se contaminer de trois façons : in utero, à l’accouchement ou pendant la période post-natale par l’entourage.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection par HSV1 chez le petit enfant?",
+        "answer": "La primo-infection par HSV1 chez le petit enfant se manifeste par une gingivo-stomatite aiguë, débutant par dysphagie, algies, hypersialorrhée, malaise général et fièvre à 39°C.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est l'évolution de la primo-infection par HSV1 chez le petit enfant?",
+        "answer": "L’évolution est favorable en 10-15 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès oro-facial récurrent?",
+        "answer": "L’herpès oro-facial récurrent siège avec prédilection sur le bord externe d’une lèvre, constitué d’un bouquet de vésicules unilatéral.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection par HSV2 chez la femme?",
+        "answer": "Chez la femme, la primo-infection par HSV2 se manifeste par des vésicules puis érosions polycycliques vulvaires s’étendant vers l’anus, les parois vaginales, le col, la racine des cuisses, le pubis et les fesses, accompagnée d’adénopathies inguinales sensibles.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est l'évolution de la primo-infection par HSV2 chez la femme?",
+        "answer": "L’évolution est favorable en 2 à 3 semaines.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection par HSV2 chez l'homme?",
+        "answer": "Chez l’homme, la primo-infection par HSV2 se manifeste par une éruption vésiculeuse puis érosive, hyperalgique, localisée sur la verge, le scrotum et la région anale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les prodromes de la récurrence d'HSV2?",
+        "answer": "La phase de prodromes inclut des douleurs, brûlures, prurit, picotement pendant quelques heures.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée de guérison spontanée des récurrences d'HSV2?",
+        "answer": "La guérison spontanée des récurrences d'HSV2 se fait en 1 à 2 semaines.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence d'HSV2 chez la femme?",
+        "answer": "La récurrence d'HSV2 chez la femme peut être asymptomatique, constituant une source de transmission.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence d'HSV1?",
+        "answer": "La récurrence d'HSV1 se manifeste par un bouquet de vésicules unilatéral sur le bord externe d’une lèvre.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence d'HSV2 chez l'homme?",
+        "answer": "Chez l’homme, la récurrence d'HSV2 se manifeste par des vésicules en bouquets s'ulcérant, peu douloureuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection par HSV1?",
+        "answer": "La primo-infection par HSV1 se manifeste par des érosions polycycliques recouvertes par un enduit blanchâtre siégeant sur la muqueuse buccale, pouvant s’étendre sur les lèvres et le menton.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence d'HSV1?",
+        "answer": "La récurrence d'HSV1 se manifeste par un bouquet de vésicules unilatéral sur le bord externe d’une lèvre.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infection par HSV2?",
+        "answer": "La primo-infection par HSV2 se manifeste par des vésicules puis érosions polycycliques vulvaires chez la femme et une éruption vésiculeuse puis érosive chez l’homme.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la récurrence d'HSV2?",
+        "answer": "La récurrence d'HSV2 se manifeste par des vésicules en bouquets s'ulcérant, peu douloureuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès néonatal?",
+        "answer": "L’herpès néonatal se manifeste par des lésions cutanées, des atteintes neurologiques et des atteintes viscérales.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès cutané?",
+        "answer": "L’herpès cutané se manifeste par des lésions sur les fesses, le nez et les doigts (panaris herpétique).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès oculaire?",
+        "answer": "L’herpès oculaire se manifeste par une kératite herpétique, une conjonctivite et une uvéite.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes oculaires de l'herpès?",
+        "answer": "Kératoconjonctivite unilatérale aiguë avec quelques vésicules sur les paupières oedématiées et une adénopathie prétragienne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes ORL de l'herpès?",
+        "answer": "Angine ou rhinite aiguë herpétique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les formes graves de l'herpès chez les immunodéprimés?",
+        "answer": "Lésions cutanéo-muqueuses étendues, nécrotiques, persistantes avec des risques d’atteintes viscérales (méningo-encéphalite, œsophagite, hépatite, atteinte broncho-pulmonaire).",
+        "qtype": "formes graves"
+    },
+    {
+        "question": "Quelles sont les formes de l'herpès néonatal?",
+        "answer": "Cutanéo-muqueuse, neurologique et systémique.",
+        "qtype": "formes"
+    },
+    {
+        "question": "Qu'est-ce que le syndrome de Kaposi-Juliusberg?",
+        "answer": "Syndrome par greffe de virus herpétique sur un eczéma profus, avec des vésicules hémorragiques et des pustules classiquement ombiliquées s’étendant rapidement du visage à l’ensemble du corps.",
+        "qtype": "formes"
+    },
+    {
+        "question": "Quels sont les risques de la primo-infection herpétique chez la femme enceinte?",
+        "answer": "Risque accru d’hépatite fulminante ou d’encéphalite.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les symptômes de la méningo-encéphalite herpétique?",
+        "answer": "Fièvre, troubles des fonctions supérieures, troubles de conscience, hallucinations, convulsions et atteinte des paires crâniennes avec une méningite lymphocytaire, normoglycorachique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment confirmer le diagnostic de méningo-encéphalite herpétique?",
+        "answer": "La PCR herpès dans le liquide céphalo-rachidien (LCR) peut confirmer le diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement d'urgence pour la méningo-encéphalite herpétique?",
+        "answer": "Le traitement par aciclovir intraveineux est une urgence.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les critères nécessitant une confirmation biologique du diagnostic d'herpès cutanéo-muqueux?",
+        "answer": "Forme atypique ou compliquée, au moins une fois au cours de la vie chez la femme en âge de procréer, nouveau-né, méningo-encéphalite, immunodéprimé.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic direct de l'herpès?",
+        "answer": "La détection de l’ADN viral par PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic indirect de l'herpès?",
+        "answer": "La mise en évidence d’une séroconversion entre un sérum précoce et un sérum tardif (10 jours après le premier).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont effectués au cours de la méningo-encéphalite herpétique?",
+        "answer": "L’électrœncéphalogramme, le scanner cérébral et/ou l'imagerie par résonance magnétique (IRM) cérébrale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements locaux pour l'herpès?",
+        "answer": "Les traitements locaux n’ont pas démontré d’efficacité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le mécanisme d'action de l'aciclovir?",
+        "answer": "L’aciclovir inhibe la polymérase virale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la différence entre l'aciclovir et le valaciclovir?",
+        "answer": "Le valaciclovir est une prodrogue de l’aciclovir avec une meilleure biodisponibilité et une augmentation très importante de l’absorption digestive.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel médicament est utilisé dans les herpès résistants à l'aciclovir?",
+        "answer": "Le foscarnet par voie intraveineuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'évolution des formes cutanéo-muqueuses de l'herpès sans traitement?",
+        "answer": "L’évolution sera spontanément favorable en une quinzaine de jours.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quel est le traitement de la primo-infection orofaciale ou génitale de l'herpès chez l'adulte?",
+        "answer": "L’aciclovir IV (5 mg/kg/8 h) ou le valaciclovir per os (500 mg x 2/jour) pendant 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement alternatif pour la primo-infection orofaciale ou génitale de l'herpès?",
+        "answer": "L’aciclovir per os (200 mg x 5/jour).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement des récurrences génitales symptomatiques de l'herpès?",
+        "answer": "Le valaciclovir (500 mg x 2/jour) pendant 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de la méningo-encéphalite herpétique et de l’herpès néonatal?",
+        "answer": "L’aciclovir IV (10 mg/kg/8h) pendant 14 à 21 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement préventif peut être envisagé pour les récurrences fréquentes de l'herpès?",
+        "answer": "Le valaciclovir 500 mg/jour pendant 6 à 12 mois.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès chez les atopiques?",
+        "answer": "Des vésicules hémorragiques et des pustules classiquement ombiliquées s’étendent rapidement du visage à l’ensemble du corps, dans un contexte d’altération de l’état général.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès chez les nouveau-nés?",
+        "answer": "L’herpès néonatal se présente sous 3 formes de gravité croissante : cutanéo-muqueuse, neurologique et systémique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès chez les immunodéprimés?",
+        "answer": "Lésions cutanéo-muqueuses étendues, nécrotiques, persistantes avec des risques d’atteintes viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'herpès chez les femmes enceintes?",
+        "answer": "La primo-infection comporte un risque accru d’hépatite fulminante ou d’encéphalite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la méningo-encéphalite herpétique?",
+        "answer": "Fièvre, troubles des fonctions supérieures, troubles de conscience, hallucinations, convulsions et atteinte des paires crâniennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires pour la méningo-encéphalite herpétique?",
+        "answer": "L’électrœncéphalogramme, le scanner cérébral et/ou l'imagerie par résonance magnétique (IRM) cérébrale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la méningo-encéphalite herpétique?",
+        "answer": "Le traitement par aciclovir intraveineux est une urgence.",
+        "qtype": "traitement"
+    }
+]

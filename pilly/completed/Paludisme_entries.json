@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce que le paludisme?",
+    "answer": "Le paludisme est une infection des érythrocytes due à un hématozoaire du genre Plasmodium transmis par un moustique femelle du genre Anopheles.",
+    "qtype": "définition"
+  },
+  {
+    "question": "Quelle est la principale espèce de Plasmodium responsable de décès?",
+    "answer": "Plasmodium falciparum est la principale espèce qui tue et peut résister aux antipaludiques.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux vecteurs du paludisme en Afrique subsaharienne?",
+    "answer": "En Afrique subsaharienne, la transmission est due à trois espèces principales d’anophèle : A. gambiae, A. funestus et A. arabiensis.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la répartition géographique mondiale du paludisme?",
+    "answer": "La répartition géographique mondiale du paludisme inclut la plupart des régions intertropicales : Amérique du Sud, Amérique Centrale, Asie et surtout Afrique sub-saharienne.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Combien de pays sont considérés comme endémiques pour le paludisme?",
+    "answer": "Au total, 85 pays sont considérés comme endémiques pour le paludisme.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quel est le nombre estimé de décès dus au paludisme en 2020?",
+    "answer": "En 2020, le nombre de décès estimé était de près de 627 000, dont 96 % en Afrique sub-saharienne.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les trois types de zones de paludisme en Afrique?",
+    "answer": "Les trois types de zones de paludisme en Afrique sont : stable (transmission intense et quasi permanente), intermédiaire (transmission à recrudescence saisonnière) et instable (transmission faible et épisodique).",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Qu'est-ce que la prémunition dans le contexte du paludisme?",
+    "answer": "La prémunition est une immunité partielle qui demande plusieurs années pour s’installer et doit être entretenue par des piqûres anophéliennes répétées. Elle protège contre les formes graves.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Qu'est-ce que le 'paludisme-infection'?",
+    "answer": "Le 'paludisme-infection' se définit par le portage asymptomatique de parasites : en zone de transmission intense et permanente, 20 à 50 % des individus peuvent être porteurs de Plasmodium sans être malades.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les signes cliniques communs du paludisme non compliqué?",
+    "answer": "Les signes cliniques communs du paludisme non compliqué incluent une fièvre non spécifique, des frissons, sueurs, céphalées, courbatures, nausées, vomissements et/ou diarrhée.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Qu'est-ce qu'un accès de reviviscence dans le paludisme?",
+    "answer": "Un accès de reviviscence (ou rechute) correspond au réveil des formes quiescentes (hypnozoïtes hépatiques) propres à P. vivax et P. ovale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les critères majeurs de la splénomégalie tropicale hyperimmune (HMS)?",
+    "answer": "Les critères majeurs de la HMS sont : splénomégalie majeure, très forte élévation des IgM et disparition progressive de tous les signes après traitement antipaludique.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Qu'est-ce que la fièvre bilieuse hémoglobinurique?",
+    "answer": "La fièvre bilieuse hémoglobinurique est un tableau aigu d’hémolyse intravasculaire dans les heures qui suivent la première prise médicamenteuse curative d’un accès palustre et peut s’accompagner d’insuffisance rénale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les groupes de personnes à risque de paludisme grave?",
+    "answer": "Les groupes à risque de paludisme grave incluent les nourrissons, enfants, femmes enceintes, migrants venant d’une zone non endémique, touristes, travailleurs et sujets aspléniques.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes de gravité du paludisme à P. falciparum?",
+    "answer": "Les signes de gravité incluent la défaillance neurologique, respiratoire, cardio-circulatoire, hémorragie, ictère, anémie profonde, hypoglycémie, acidose, hyperparasitémie et insuffisance rénale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les risques du paludisme pendant la grossesse?",
+    "answer": "Les risques incluent le paludisme maternel grave, fausse couche, anémie progressive chez la mère, retard de croissance intra-utérin, hypotrophie néonatale et augmentation de la mortalité périnatale.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Comment le VIH impacte-t-il l'infection palustre?",
+    "answer": "L’infection VIH augmente l’incidence des accès palustres, la gravité des accès et la mortalité, surtout en zone de paludisme instable.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quel est l'impact du paludisme sur l'infection par le VIH?",
+    "answer": "L’existence d’une parasitémie est associée à une majoration transitoire de la charge virale VIH, surtout lorsque le niveau de parasitémie est élevé et que le patient est fébrile.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les deux techniques de routine pour le diagnostic du paludisme?",
+    "answer": "Les deux techniques de routine pour le diagnostic du paludisme sont la goutte épaisse et le frottis sanguin.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quel est le seuil de positivité de la goutte épaisse?",
+    "answer": "Le seuil de positivité de la goutte épaisse est de 10 parasites par microlitre de sang (p/microL).",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les avantages et inconvénients du frottis sanguin?",
+    "answer": "Le frottis sanguin facilite le diagnostic d’espèce et celui d’autres agents pathogènes, mais son inconvénient est son faible seuil de détection (100 p/microL) et la lecture est longue lorsque les parasites sont rares.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les principaux récepteurs endothéliaux impliqués dans la cyto-adhérence des hématies parasitées?",
+    "answer": "Les principaux récepteurs endothéliaux sont l’ICAM-1, la protéine CD-36, la thrombospondine, la sélectine-E, le VCAM-1 et la chondroïtine sulfate A.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les principaux facteurs de la physiopathologie du paludisme grave?",
+    "answer": "Les principaux facteurs sont parasitaires (virulence de la souche, capacité de cyto-adhérence), humains (niveau de prémunition, facteurs génétiques) et d’éventuelles co-infections.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les signes cliniques d'un 'embarras gastrique fébrile' chez un patient céphalalgique?",
+    "answer": "Les signes cliniques incluent une fièvre élevée avec frissons, sueurs, céphalées, courbatures, nausées, vomissements et/ou diarrhée.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les critères de gravité du paludisme à P. knowlesi?",
+    "answer": "Les critères de gravité incluent une hyperparasitémie dès que > 2 %, atteintes hépatique et rénale fréquentes, atteinte neurologique très rare.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes de gravité du paludisme chez l'enfant?",
+    "answer": "Les signes de gravité incluent la prostration, détresse respiratoire, anémie, convulsions et vomissements persistants.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les trois sous-groupes de gravité croissante de la prostration chez l'enfant?",
+    "answer": "Les trois sous-groupes sont : prostré mais pleinement conscient, prostré avec trouble de la conscience mais sans coma, et coma.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les risques de la splénomégalie volumineuse?",
+    "answer": "Toute splénomégalie, quand elle est volumineuse, expose au risque de rupture.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les signes de la défaillance cardio-circulatoire dans le paludisme grave?",
+    "answer": "Les signes incluent une PAS < 80 mmHg (adultes), PAS < 70 mmHg (enfants de moins de 1 an) et/ou présence de signes périphériques d’insuffisance circulatoire.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les tests de diagnostic rapide (TDR) pour le paludisme?",
+    "response": "Les TDR pour le paludisme détectent des antigènes plasmodiaux comme HRP2, LDH. HRP2 est spécifique à P. falciparum, tandis que pLDH et pAldolases ne différencient pas les espèces.",
+    "qtype": "diagnostic"
+  }
+]

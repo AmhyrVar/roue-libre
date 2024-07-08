@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les trois diagnostics à envisager en premier lieu en cas d'ictère fébrile nécessitant un traitement urgent?",
+        "answer": "Les trois diagnostics à envisager en premier lieu en cas d'ictère fébrile nécessitant un traitement urgent sont : un paludisme, une septicémie, et une angiocholite ou une cholécystite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont nécessaires pour diagnostiquer un paludisme en cas d'ictère fébrile?",
+        "answer": "Pour diagnostiquer un paludisme en cas d'ictère fébrile, il est nécessaire de réaliser un frottis-goutte épaisse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de gravité à rechercher systématiquement en cas d'ictère fébrile?",
+        "answer": "Les signes de gravité à rechercher systématiquement en cas d'ictère fébrile sont ceux de l'insuffisance hépatocellulaire, de l'insuffisance rénale, de l'anémie, et du choc septique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels micro-organismes peuvent être responsables d'une cholécystite gangréneuse?",
+        "answer": "Clostridium perfringens peut être responsable d'une cholécystite gangréneuse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux examens biologiques à réaliser en cas d'ictère fébrile?",
+        "answer": "Les principaux examens biologiques à réaliser en cas d'ictère fébrile sont : NFS, réticulocytes, bilirubine, ASAT, ALAT, phosphatases alcalines, gamma GT, urée, créatinine, TP, sérologies, frottis-goutte épaisse, hémocultures, et parasitologie des selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux micro-organismes responsables d'infections des voies biliaires chez les patients infectés par le VIH?",
+        "answer": "Chez les patients infectés par le VIH, les principaux micro-organismes responsables d'infections des voies biliaires sont : Mycobacterium avium, cryptosporidies, microsporidies, et cytomégalovirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les obstacles pouvant obstruer les voies biliaires et favoriser leur infection?",
+        "answer": "Les obstacles pouvant obstruer les voies biliaires et favoriser leur infection sont : calculs cholestéroliques ou pigmentaires, ascaris, douves du foie, kyste hydatique, et tumeurs bénignes et malignes des voies biliaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'hépatites virales pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'hépatites virales pouvant causer un ictère fébrile sont les virus des hépatites A, B, C, D, et E, ainsi que EBV et CMV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables de fièvres hémorragiques pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables de fièvres hémorragiques pouvant causer un ictère fébrile sont les arbovirus, notamment le virus de la fièvre jaune.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'hépatites bactériennes pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'hépatites bactériennes pouvant causer un ictère fébrile sont : leptospiroses et pneumococcie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'hépatites granulomateuses tropicales?",
+        "answer": "Les principaux agents infectieux responsables d'hépatites granulomateuses tropicales sont : tuberculose, mycobactéries atypiques, lèpre, syphilis, fièvre Q, brucellose, infections à CMV et EBV, bilharziose, ascaridiose, anguillulose, toxocarose, filariose, leishmaniose viscérale, histoplasmose, coccidioïdomycose, aspergillose, candidose, et actinomycose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux médicaments pouvant causer des hépatites granulomateuses?",
+        "answer": "Les principaux médicaments pouvant causer des hépatites granulomateuses sont les sulfamides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux examens d'imagerie à réaliser en cas d'ictère fébrile?",
+        "answer": "Les principaux examens d'imagerie à réaliser en cas d'ictère fébrile sont l'échographie et éventuellement la biopsie de foie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'infections des voies biliaires?",
+        "answer": "Les principaux agents infectieux responsables d'infections des voies biliaires sont les entérobactéries, dont Salmonella enterica Typhi, et Clostridium perfringens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une cholécystite?",
+        "answer": "Les principaux symptômes d'une cholécystite sont la douleur abdominale, la fièvre, et l'ictère.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une angiocholite?",
+        "answer": "Les principaux symptômes d'une angiocholite sont la douleur abdominale, la fièvre, et l'ictère.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux traitements d'une cholécystite infectieuse?",
+        "answer": "Les principaux traitements d'une cholécystite infectieuse sont l'antibiothérapie et éventuellement une opération chirurgicale.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux traitements d'une angiocholite infectieuse?",
+        "answer": "Les principaux traitements d'une angiocholite infectieuse sont l'antibiothérapie et éventuellement une opération chirurgicale.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une septicémie pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une septicémie pouvant causer un ictère fébrile sont les bactéries Gram négatif (BGN).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une anémie pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une anémie pouvant causer un ictère fébrile sont Plasmodium (paludisme) et Clostridium perfringens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une hémolyse pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une hémolyse pouvant causer un ictère fébrile sont Plasmodium (paludisme), Babesia (babésiose), Bartonella (bartonellose), et Clostridium perfringens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une hépatite virale pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une hépatite virale pouvant causer un ictère fébrile sont les virus des hépatites A, B, C, D, et E, ainsi que EBV et CMV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une hépatite bactérienne pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une hépatite bactérienne pouvant causer un ictère fébrile sont les leptospires (leptospiroses) et les pneumocoques (pneumococcie).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une hépatite granulomateuse tropicale?",
+        "answer": "Les principaux agents infectieux responsables d'une hépatite granulomateuse tropicale sont les mycobactéries (tuberculose, mycobactéries atypiques, lèpre), Treponema pallidum (syphilis), Coxiella burnetii (fièvre Q), Brucella (brucellose), CMV, EBV, Schistosoma (bilharziose), Ascaris (ascaridiose), Strongyloides (anguillulose), Toxocara (toxocarose), filaires (filariose), Leishmania (leishmaniose viscérale), Histoplasma (histoplasmose), Coccidioides (coccidioïdomycose), Aspergillus (aspergillose), Candida (candidose), et Actinomyces (actinomycose).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une cholangite sclérosante chez les patients infectés par le VIH?",
+        "answer": "Les principaux agents infectieux responsables d'une cholangite sclérosante chez les patients infectés par le VIH sont Mycobacterium avium, cryptosporidies, microsporidies, et cytomégalovirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une cholécystite gangréneuse?",
+        "answer": "Le principal agent infectieux responsable d'une cholécystite gangréneuse est Clostridium perfringens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une septicémie pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une septicémie pouvant causer un ictère fébrile sont les bactéries Gram négatif (BGN).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une anémie pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une anémie pouvant causer un ictère fébrile sont Plasmodium (paludisme) et Clostridium perfringens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux responsables d'une hémolyse pouvant causer un ictère fébrile?",
+        "answer": "Les principaux agents infectieux responsables d'une hémolyse pouvant causer un ictère fébrile sont Plasmodium (paludisme), Babesia (babésiose), Bartonella (bartonellose), et Clostridium perfringens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les arguments cliniques en faveur d’une cholécystite?",
+        "answer": "Douleur spontanée de l’hypochondre droit, nausées ou vomissements, signe de Murphy, fièvre d’apparition brutale, hyperleucocytose à polynucléaires, accélération de la VS et augmentation de la C-réactive protéine, parfois cholestase biologique, faible cytolyse mais pas d’ictère, épaississement des parois de la vésicule biliaire en échographie et souvent présence de calculs vésiculaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la cholécystite aiguë?",
+        "answer": "Les risques de la cholécystite aiguë sont la péritonite par perforation et le choc septique (à bacilles Gram négatif).",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les arguments cliniques en faveur d’une angiocholite?",
+        "answer": "Apparition en 24 à 48 heures d’une douleur de l’hypochondre droit puis d’une fièvre élevée (souvent oscillante avec des frissons) puis d’un ictère cholestatique, hyperleucocytose à polynucléaires, accélération de la VS et augmentation de la C-réactive protéine, dilatation de la voie biliaire principale en échographie avec visualisation éventuelle d’un obstacle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de l’angiocholite?",
+        "answer": "Les risques sont l’insuffisance rénale (angiocholite urémigène), la septicémie et le choc septique.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Comment rechercher les micro-organismes responsables de l’infection?",
+        "answer": "Par hémocultures (pyogènes) et examen parasitologique de selles ou en 2e intention si parasitologie des selles négatives et forte présomption par liquide de tubage duodénal (parasites).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment mettre en évidence des corps étrangers dans la vésicule et les voies biliaires?",
+        "answer": "Par échographie abdominale. L’écho-endoscopie et la bili-IRM, quand elles sont disponibles, ont une sensibilité supérieure pour diagnostiquer une dilatation des voies biliaires et son étiologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostiquer des calculs dans la vésicule biliaire?",
+        "answer": "Par échographie abdominale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostiquer des ascaris dans le canal cholédoque?",
+        "answer": "Par échographie abdominale et recherche d’œufs dans les selles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostiquer des douves du foie?",
+        "answer": "Par échographie, recherche d’œufs dans les selles ou par tubage duodénal (en 2e intention si parasitologie des selles négative mais suspicion clinique).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostiquer un kyste hydatique du foie rompu dans les voies biliaires?",
+        "answer": "Par échographie et sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment diagnostiquer une tumeur des voies biliaires?",
+        "answer": "Par échographie, écho-endoscopie ou bili-IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement médical présomptif en urgence pour les cholécystites et les angiocholites?",
+        "answer": "C3G IV (céfotaxime : 1-2 g x 3/j ou ceftriaxone : 2 g/j) + métronidazole PO (IV si impossible) (500 mg x 3/j). Alternative selon les données de l’antibiogramme : amoxicilline/acide clavulanique IV (1-2 g x 4/j) + fluoroquinolone + métronidazole. Durée minimale du traitement : 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement chirurgical pour les cholécystites et les angiocholites?",
+        "answer": "Cholécystectomie ou drainage de la bile (par voie endoscopique, radiologique ou chirurgicale).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les cryptosporidies?",
+        "answer": "Aucun traitement n’est efficace en dehors du nitazoxanide.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les microsporidies?",
+        "answer": "Seul Encephalicytozoon intestinalis est sensible à l’albendazole, pour les autres espèces, le nitazoxanide aurait une certaine efficacité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les infections opportunistes chez les patients atteints par le VIH?",
+        "answer": "Ce n’est souvent que la restauration de l’immunité par les antirétroviraux qui aide à la guérison de ces infections opportunistes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment traiter les calculs dans la vésicule et le cholédoque?",
+        "answer": "Extraction du calcul par sphinctérotomie de la papille sous endoscopie ou par méthode chirurgicale puis cholécystectomie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement médical pour les ascaris dans le canal cholédoque?",
+        "answer": "Traitement médical par flubendazole, mébendazole ou albendazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement chirurgical pour les ascaris dans le canal cholédoque?",
+        "answer": "Ablation endoscopique ou chirurgicale du parasite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les douves du foie?",
+        "answer": "Traitement des fascioloses par le triclabendazole, des clonorchioses et opistorchioses par le praziquantel.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement chirurgical pour les douves du foie?",
+        "answer": "Ablation endoscopique ou chirurgicale du parasite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour l’hydatidose?",
+        "answer": "Traitement chirurgical.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les tumeurs des voies biliaires?",
+        "answer": "Traitement chirurgical (curatif) ou pose d’une prothèse dans le cholédoque par voie endoscopique (palliatif).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d’une cholécystite?",
+        "answer": "Douleur spontanée de l’hypochondre droit, nausées ou vomissements, signe de Murphy, fièvre d’apparition brutale, hyperleucocytose à polynucléaires, accélération de la VS et augmentation de la C-réactive protéine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d’une angiocholite?",
+        "answer": "Apparition en 24 à 48 heures d’une douleur de l’hypochondre droit puis d’une fièvre élevée (souvent oscillante avec des frissons) puis d’un ictère cholestatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires pour diagnostiquer une cholécystite?",
+        "answer": "Échographie abdominale, hyperleucocytose à polynucléaires, accélération de la VS et augmentation de la C-réactive protéine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens complémentaires pour diagnostiquer une angiocholite?",
+        "answer": "Échographie abdominale avec visualisation éventuelle d’un obstacle, hyperleucocytose à polynucléaires, accélération de la VS et augmentation de la C-réactive protéine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements pour les infections opportunistes chez les patients atteints par le VIH?",
+        "answer": "Nitazoxanide pour les cryptosporidies, albendazole pour Encephalicytozoon intestinalis, restauration de l’immunité par les antirétroviraux.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les parasites dans les voies biliaires?",
+        "answer": "Flubendazole, mébendazole ou albendazole pour les ascaris; triclabendazole pour les fascioloses; praziquantel pour les clonorchioses et opistorchioses.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements chirurgicaux pour les parasites dans les voies biliaires?",
+        "answer": "Ablation endoscopique ou chirurgicale du parasite.",
+        "qtype": "traitement"
+    }
+]

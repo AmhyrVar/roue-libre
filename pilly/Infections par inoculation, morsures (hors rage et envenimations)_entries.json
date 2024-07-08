@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quels sont les principaux facteurs contribuant à la gravité potentielle d'une morsure?",
+        "answer": "Le type, le nombre et la localisation de la morsure, le terrain de la personne mordue (diabète, éthylisme, splénectomie, autres causes d’immunodépression), le délai de prise en charge, la présence d’un corps étranger au site d’inoculation et la nature de l’animal mordeur.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une surinfection après morsure ou griffure de chien ou de chat?",
+        "answer": "Les signes inflammatoires locaux sont intenses avec une douleur d’apparition rapide, rougeur, oedème, écoulement de sérosité et parfois de pus. Il existe fréquemment une lymphangite et des adénopathies satellites. La fièvre est inconstamment présente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la pasteurellose après une morsure de chien ou de chat?",
+        "answer": "Le traitement reste basé sur l’amoxicilline ou la doxycycline pendant 7 à 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes transmis par les morsures de rats?",
+        "answer": "Spirillum minus (Sodoku) et Streptobaccillus moniliformis (Streptobacillose).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement de la leptospirose transmise par les rongeurs?",
+        "answer": "Le traitement est basé sur l’amoxicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie des griffes du chat?",
+        "answer": "Adénopathies inflammatoires quelques semaines après l'inoculation, parfois des lésions cutanées au site d’inoculation, fièvre, céphalées, douleurs articulaires ou musculaires, splénomégalie, et fistulisation ganglionnaire dans 10 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la maladie des griffes du chat?",
+        "answer": "Le traitement est basé sur l’azithromycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la tularémie après une morsure de rongeur?",
+        "answer": "Ulcération douloureuse avec suppuration au point de morsure, adénopathie satellite, et fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la tularémie?",
+        "answer": "Le traitement est basé sur la doxycycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux microorganismes pathogènes transmis par les mammifères?",
+        "answer": "Pasteurella multocida, Bartonella henselae, Spirillum minus, Streptobaccillus moniliformis, Leptospira spp., Bacillus anthracis, Erysipelothrix rhusiopathiae, Francisella tularensis, Lyssavirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement de la rage après une morsure?",
+        "answer": "Le traitement inclut le vaccin et éventuellement des immunoglobulines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par Pasteurella multocida?",
+        "answer": "Douleur rapide après l’agression, rougeur, oedème, écoulement de sérosité ou de pus, lymphangite, adénopathies satellites, et parfois fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection systémique après une morsure?",
+        "answer": "Bactériémie, méningite, endocardite, arthrites sub-aiguës, et syndromes algodystrophiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le diagnostic de la pasteurellose?",
+        "answer": "Le diagnostic est clinique, basé sur les circonstances de survenue, l’intensité du tableau local, et l’incubation courte. Il peut être confirmé par la mise en évidence de Pasteurella multocida après écouvillonnage de sérosité ou du pus et par hémoculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome oculo-glandulaire de Parinaud?",
+        "answer": "Atteinte oculaire avec adénopathie prétragienne par inoculation conjonctivale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre après une morsure de chien ou de chat?",
+        "answer": "La fièvre est inconstamment présente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications régionales après une morsure de chien ou de chat?",
+        "answer": "Arthrite aiguë, phlegmon des gaines, ou ténosynovite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des complications systémiques après une morsure de chien ou de chat?",
+        "answer": "Bactériémie, méningite, endocardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des adénopathies inflammatoires dans la maladie des griffes du chat?",
+        "answer": "Adénopathies inguinales, axillaires ou cervicales, accompagnées de fièvre, céphalées, douleurs articulaires ou musculaires, splénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fistulisation ganglionnaire dans la maladie des griffes du chat?",
+        "answer": "La fistulisation ganglionnaire s’observe dans 10 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection tularémique chez l'homme?",
+        "answer": "Ulcération douloureuse avec suppuration au point de morsure, adénopathie satellite, et fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes septicémiques de la tularémie?",
+        "answer": "Complications viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la leptospirose transmise par les rongeurs?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'érysipéloïde (rouget du porc)?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon transmis par les moutons et bovins?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la streptobacillose transmise par les rats?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du sodoku transmis par les rats?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la pasteurellose transmise par les canidés et félidés?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la rage transmise par les canidés, félidés, chauve-souris et autres mammifères?",
+        "answer": "Les symptômes ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la tularémie?",
+        "réponse": "Le traitement consiste à administrer de la doxycycline (200 mg/j) ou de la ciprofloxacine (500 mg x 2/j), pendant 14 jours associées dans les formes sévères à un aminoside.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment se manifeste le sodoku?",
+        "réponse": "Le sodoku se manifeste après 2 à 3 semaines d’incubation par un chancre d’inoculation ulcéro-nécrotique avec adénopathie satellite, exanthème généralisé, céphalées, fièvre. Des endocardites sont décrites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement du sodoku?",
+        "réponse": "Le traitement fait appel à l’amoxicilline (2 g/j pendant 7 jours) ou la doxycycline (200 mg/j pendant 7 jours).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment se transmet la streptobacillose?",
+        "réponse": "La streptobacillose est transmise par la morsure de rat sauvage en Amérique, due au Streptobacillus moniliformis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la streptobacillose?",
+        "réponse": "La streptobacillose se manifeste après une semaine d’incubation par une éruption généralisée avec arthromyalgies. Des endocardites, pneumonies, méningo-encéphalites sont rapportées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de la streptobacillose?",
+        "réponse": "Le traitement repose sur l’amoxicilline ou la doxycycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment se transmet la leptospirose?",
+        "réponse": "Le principal mode de transmission de la leptospirose est la transmission de leptospires par les urines de rongeurs à travers une peau lésée ou une muqueuse lors d’une baignade en rivière. Une morsure de rongeur peut également être contaminante.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prise en charge locale des plaies de morsures animales?",
+        "réponse": "Les morsures animales nécessitent un lavage abondant au sérum physiologique ou à l’eau savonneuse puis l’application d’un antiseptique. Les berges souillées sont parées, les zones de nécrose sont excisées. L’exploration recherche une lésion tendineuse, artérielle ou nerveuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand est-ce que la suture est contre-indiquée pour les plaies de morsures animales?",
+        "réponse": "La suture est contre-indiquée pour les plaies profondes ou vues tardivement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'antibiothérapie préemptive recommandée pour les morsures animales?",
+        "réponse": "L’association amoxicilline - acide clavulanique est prescrite pour une durée de 7 jours. En cas d’infection patente, de morsure vue tardivement, l’antibiothérapie est prolongée de 10 à 15 jours. En cas d’allergie aux bêtalactamines, la doxycycline est prescrite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques évolutifs immédiats des morsures animales?",
+        "réponse": "Les risques évolutifs immédiats sont dominés par les ténosynovites, phlegmons ou arthrites en cas d’absence, de retard ou d’inefficacité du traitement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques évolutifs à distance des morsures animales?",
+        "réponse": "Les risques évolutifs à distance sont dominés par les syndromes algodystrophiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la recommandation pour la prévention du tétanos en cas de morsure animale?",
+        "réponse": "La prévention du tétanos est systématique. La couverture vaccinale de la population française est insuffisante avec plus de 20 % des personnes âgées mal protégées.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la conduite à tenir en cas de morsure ou de griffure en pays tropical?",
+        "réponse": "Il faut immédiatement laver abondamment à l’eau savonneuse, puis désinfecter même si la plaie est de dimensions minimes. L’avis médical est ensuite indispensable pour juger de l’état cutané et décider de la conduite à tenir.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour plus d'informations sur la tularémie?",
+        "réponse": "Les sites web recommandés sont : https://www.cdc.gov/tularemia/resources/whotularemiamanual.pdf, http://emergency.cdc.gov/agent/tularemia/, http://www.cdc.gov/tularemia/",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quels sont les symptômes de la tularémie?",
+        "réponse": "Les symptômes de la tularémie incluent des ulcérations cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée du traitement de la tularémie avec la doxycycline?",
+        "réponse": "La durée du traitement de la tularémie avec la doxycycline est de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement de la tularémie avec la ciprofloxacine?",
+        "réponse": "La durée du traitement de la tularémie avec la ciprofloxacine est de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement du sodoku avec l’amoxicilline?",
+        "réponse": "La durée du traitement du sodoku avec l’amoxicilline est de 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement du sodoku avec la doxycycline?",
+        "réponse": "La durée du traitement du sodoku avec la doxycycline est de 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la leptospirose?",
+        "réponse": "Les symptômes de la leptospirose ne sont pas spécifiquement décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la morsure de rat en Asie?",
+        "réponse": "Les symptômes incluent un chancre d’inoculation ulcéro-nécrotique avec adénopathie satellite, exanthème généralisé, céphalées, fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la morsure de rat sauvage en Amérique?",
+        "réponse": "Les symptômes incluent une éruption généralisée avec arthromyalgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des endocardites causées par le sodoku?",
+        "réponse": "Les symptômes spécifiques des endocardites causées par le sodoku ne sont pas décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des pneumonies causées par la streptobacillose?",
+        "réponse": "Les symptômes spécifiques des pneumonies causées par la streptobacillose ne sont pas décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des méningo-encéphalites causées par la streptobacillose?",
+        "réponse": "Les symptômes spécifiques des méningo-encéphalites causées par la streptobacillose ne sont pas décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des ténosynovites causées par les morsures animales?",
+        "réponse": "Les symptômes spécifiques des ténosynovites causées par les morsures animales ne sont pas décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des phlegmons causés par les morsures animales?",
+        "réponse": "Les symptômes spécifiques des phlegmons causés par les morsures animales ne sont pas décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des arthrites causées par les morsures animales?",
+        "réponse": "Les symptômes spécifiques des arthrites causées par les morsures animales ne sont pas décrits dans le texte fourni.",
+        "qtype": "symptômes"
+    }
+]

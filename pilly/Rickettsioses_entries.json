@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelles sont les bactéries responsables des rickettsioses?",
+        "answer": "Les rickettsioses sont induites par des bactéries à coloration de Gram négative, intracellulaires obligatoires, appartenant à l’ordre des Rickettsiales. Les bactéries du genre Rickettsia et Orientia tsutsugamushi sont des bactéries intracellulaires strictes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment les rickettsioses sont-elles transmises à l'homme?",
+        "answer": "Les agents des rickettsioses sont transmis à l’homme par des arthropodes (poux, puces, tiques et autres acariens), qui jouent le rôle de vecteurs et/ou réservoirs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs principaux des rickettsioses du groupe boutonneux?",
+        "answer": "Les Ixodidae ou « tiques dures » sont les vecteurs les plus anciennement connus des rickettsies du groupe boutonneux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la spécificité d'hôte de la tique Rh. sanguineus?",
+        "answer": "Rh. sanguineus est très spécifique du chien et a très peu d’affinité pour l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale rickettsie du groupe boutonneux transmise par les puces?",
+        "answer": "Rickettsia felis est une rickettsie du groupe boutonneux transmise principalement par les puces de chats et de chiens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la rickettsie responsable de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "La fièvre boutonneuse méditerranéenne (FBM) est causée par la bactérie Rickettsia conorii.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs du typhus murin?",
+        "answer": "Les réservoirs du typhus murin sont les rongeurs Rattus rattus et Rattus norvegicus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment le typhus murin est-il transmis à l'homme?",
+        "answer": "Le typhus murin est transmis à l’homme par les déjections de la puce du rat, Xenopsylla cheopis, qui pénètrent l’organisme par des lésions de grattage, par voie muqueuse ou par inhalation.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la rickettsie responsable du typhus épidémique?",
+        "answer": "Le typhus épidémique est dû à une rickettsie du groupe typhus, Rickettsia prowazekii.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs du typhus épidémique?",
+        "answer": "Le typhus épidémique est transmis à l’homme par le pou du corps Pediculus humanus humanus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la rickettsie responsable du typhus des broussailles?",
+        "answer": "Le typhus des broussailles est dû à Orientia tsutsugamushi.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs du typhus des broussailles?",
+        "answer": "Les vecteurs du typhus des broussailles sont des acariens de la famille des Trombididés et du genre Leptotrombidium.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les symptômes de la fièvre boutonneuse méditerranéenne (FBM) incluent une fièvre élevée, un exanthème maculo-papuleux, et une escarre d’inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "La durée d'incubation de la fièvre boutonneuse méditerranéenne (FBM) est de 6 à 7 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes généraux de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les signes généraux de la fièvre boutonneuse méditerranéenne (FBM) incluent des frissons, des myalgies, et des céphalées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes ophtalmiques de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les symptômes ophtalmiques de la fièvre boutonneuse méditerranéenne (FBM) incluent des conjonctivites et des rétinites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence des cas asymptomatiques de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "50 % des cas de fièvre boutonneuse méditerranéenne (FBM) sont asymptomatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes fréquents de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les symptômes fréquents de la fièvre boutonneuse méditerranéenne (FBM) incluent la fièvre, les céphalées, les myalgies, et une escarre d’inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'évolution typique de la fièvre boutonneuse méditerranéenne (FBM) sans traitement?",
+        "answer": "L’évolution typique de la fièvre boutonneuse méditerranéenne (FBM) sans traitement est favorable en une dizaine de jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Le traitement recommandé pour la fièvre boutonneuse méditerranéenne (FBM) est la doxycycline.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les complications possibles de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les complications possibles de la fièvre boutonneuse méditerranéenne (FBM) incluent des arthrites, des myocardites, et des manifestations neuropsychiatriques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prévalence des adénopathies régionales dans la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les adénopathies régionales sont fréquentes dans la fièvre boutonneuse méditerranéenne (FBM), avec une prévalence de 43-100 %.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence de l'exanthème dans la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "L’exanthème est présent dans la moitié des cas de fièvre boutonneuse méditerranéenne (FBM).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes moins fréquents de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les symptômes moins fréquents de la fièvre boutonneuse méditerranéenne (FBM) incluent des aphtes, des stomatites, et des arthralgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la répartition géographique de la fièvre à tique africaine?",
+        "answer": "La fièvre à tique africaine est endémique en Afrique sub-saharienne et dans les Antilles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs de la fièvre à tique africaine?",
+        "answer": "Les vecteurs de la fièvre à tique africaine sont les tiques Amblyomma variegatum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la fréquence des contacts ou piqûres de tique dans les cas de fièvre à tique africaine?",
+        "answer": "Un contact ou une piqûre de tique est rapporté dans 44 % des cas de fièvre à tique africaine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre à tique africaine?",
+        "answer": "Les symptômes de la fièvre à tique africaine incluent une fièvre, des céphalées, des myalgies, et une escarre d’inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la répartition géographique des vecteurs du typhus des broussailles?",
+        "answer": "La répartition des vecteurs du typhus des broussailles comprend les zones de végétation broussailleuse, les zones à proximité des rivières, ainsi que des zones écologiques diverses comme les semi-déserts, déserts, forêts ou massifs montagneux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus murin?",
+        "answer": "Le typhus murin se caractérise par une fièvre élevée, des céphalées, une asthénie extrême et des myalgies. Un exanthème maculeux ou maculo-papuleux peut apparaître en trois à six jours. D'autres manifestations cliniques possibles incluent des symptômes gastro-intestinaux, respiratoires et neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période d'incubation du typhus épidémique?",
+        "answer": "La période d'incubation du typhus épidémique est de 10 à 14 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les formes sévères de la fièvre boutonneuse méditerranéenne?",
+        "answer": "Les facteurs de risque pour les formes sévères de la fièvre boutonneuse méditerranéenne incluent l'alcoolisme chronique, le diabète, le déficit en G6PD, l'âge avancé, le retard au traitement et l'utilisation d'antibiotiques inefficaces comme les bêtalactamines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les rickettsioses?",
+        "answer": "Les tétracyclines, notamment la doxycycline (200 mg/j chez l'adulte), sont le traitement de référence pour toutes les rickettsioses. En cas de forme sévère, elles peuvent être utilisées chez l'enfant. Le chloramphénicol ou le thiamphénicol sont également utilisés dans certaines régions. La durée du traitement varie de 1 à 7 jours selon l'évolution.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes biologiques non spécifiques des rickettsioses?",
+        "answer": "Les signes biologiques non spécifiques des rickettsioses incluent une thrombopénie, une leucopénie suivie parfois d'une hyperleucocytose, une anémie et une cytolyse hépatique. Les rickettsioses du groupe typhus peuvent également provoquer une hyponatrémie, un syndrome inflammatoire biologique, une insuffisance rénale et une hypoalbuminémie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic de référence pour les rickettsioses?",
+        "answer": "La sérologie, notamment l'immunofluorescence (IF), est la technique de référence pour le diagnostic des rickettsioses. La détection moléculaire par PCR et séquençage est également sensible et spécifique si le plateau technique est disponible.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus des broussailles?",
+        "answer": "Le typhus des broussailles débute brutalement avec une fièvre, des céphalées et des myalgies. Une petite plaie ou vésicule au lieu d'inoculation peut devenir une escarre. Les symptômes incluent également une polyadénopathie généralisée, une injection conjonctivale, et parfois un exanthème maculeux ou maculo-papuleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la létalité du typhus épidémique sans traitement?",
+        "answer": "La létalité du typhus épidémique sans traitement est de 60 %, réduite à 4 % par l'antibiothérapie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs du typhus murin?",
+        "answer": "Les vecteurs du typhus murin sont les puces de rats, notamment Xenopsylla cheopis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus épidémique?",
+        "answer": "Les symptômes du typhus épidémique incluent une fièvre, des céphalées, des myalgies, des nausées, des vomissements, une anorexie, des arthralgies, des douleurs abdominales, une atteinte pulmonaire, une splénomégalie, une conjonctivite, des complications neurologiques et cardiaques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prévention recommandée pour les rickettsioses?",
+        "answer": "La prévention des rickettsioses repose sur l'utilisation de répulsifs à base de DEET sur la peau exposée et le traitement des vêtements par des acaricides de contact à base de perméthrine. Pour les poux de corps, l'éradication est la seule stratégie de lutte.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre pourprée des montagnes rocheuses?",
+        "answer": "Les symptômes de la fièvre pourprée des montagnes rocheuses incluent une fièvre élevée, des céphalées, des myalgies, et un purpura sévère avec défaillance multiviscérale. L'escarre est rarement présente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs de la fièvre boutonneuse méditerranéenne?",
+        "answer": "Les vecteurs de la fièvre boutonneuse méditerranéenne sont principalement les tiques Rhipicephalus sanguineus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre à tique africaine?",
+        "answer": "Les symptômes de la fièvre à tique africaine incluent des escarres multiples, un rash et une fièvre plus discrets que dans la fièvre boutonneuse méditerranéenne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus du Queensland?",
+        "answer": "Les symptômes du typhus du Queensland incluent un exanthème vésiculeux, un rash et des adénopathies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la lymphangitis associated rickettsia (LAR)?",
+        "answer": "Les symptômes de la lymphangitis associated rickettsia (LAR) incluent une escarre, une lymphangite avec adénopathie de drainage et une éruption maculo-papuleuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre boutonneuse d'Israël?",
+        "answer": "Les symptômes de la fièvre boutonneuse d'Israël sont similaires à ceux de la fièvre boutonneuse méditerranéenne, mais l'escarre est moins fréquente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie de Brill-Zinsser?",
+        "answer": "Les symptômes de la maladie de Brill-Zinsser sont moins bruyants que ceux du typhus épidémique et incluent une fièvre, des céphalées et des myalgies. La létalité est plus faible (1,5 %).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre boutonneuse méditerranéenne?",
+        "answer": "Les symptômes de la fièvre boutonneuse méditerranéenne incluent une éruption maculo-papuleuse touchant les paumes et les plantes, et une escarre unique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la rickettsiose vésiculeuse?",
+        "answer": "Les symptômes de la rickettsiose vésiculeuse incluent une lésion élémentaire d'abord maculo-papuleuse, puis vésiculeuse et enfin croûteuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus des broussailles?",
+        "answer": "Les symptômes du typhus des broussailles incluent une fièvre, des céphalées, des myalgies, une polyadénopathie généralisée, une injection conjonctivale, et parfois un exanthème maculeux ou maculo-papuleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les vecteurs du typhus des broussailles?",
+        "answer": "Les vecteurs du typhus des broussailles sont les acariens thrombiculidés (aoûtats).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus épidémique?",
+        "answer": "Les symptômes du typhus épidémique incluent une fièvre, des céphalées, des myalgies, des nausées, des vomissements, une anorexie, des arthralgies, des douleurs abdominales, une atteinte pulmonaire, une splénomégalie, une conjonctivite, des complications neurologiques et cardiaques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre pourprée des montagnes rocheuses?",
+        "answer": "Les symptômes de la fièvre pourprée des montagnes rocheuses incluent une fièvre élevée, des céphalées, des myalgies, et un purpura sévère avec défaillance multiviscérale. L'escarre est rarement présente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre à tique africaine?",
+        "answer": "Les symptômes de la fièvre à tique africaine incluent des escarres multiples, un rash et une fièvre plus discrets que dans la fièvre boutonneuse méditerranéenne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus du Queensland?",
+        "answer": "Les symptômes du typhus du Queensland incluent un exanthème vésiculeux, un rash et des adénopathies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la lymphangitis associated rickettsia (LAR)?",
+        "answer": "Les symptômes de la lymphangitis associated rickettsia (LAR) incluent une escarre, une lymphangite avec adénopathie de drainage et une éruption maculo-papuleuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre boutonneuse d'Israël?",
+        "answer": "Les symptômes de la fièvre boutonneuse d'Israël sont similaires à ceux de la fièvre boutonneuse méditerranéenne, mais l'escarre est moins fréquente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la maladie de Brill-Zinsser?",
+        "answer": "Les symptômes de la maladie de Brill-Zinsser sont moins bruyants que ceux du typhus épidémique et incluent une fièvre, des céphalées et des myalgies. La létalité est plus faible (1,5 %).",
+        "qtype": "symptômes"
+    }
+]

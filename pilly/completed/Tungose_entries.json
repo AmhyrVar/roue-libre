@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que la tungose?",
+        "answer": "La tungose, communément appelée « puce chique », est une ectoparasitose causée par le développement dans l’épiderme d’une puce fécondée du genre Tunga.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle espèce de puce est principalement responsable de la tungose chez l'homme?",
+        "answer": "L'espèce Tunga penetrans (Sarcopsylla penetrans) est principalement responsable de la tungose chez l'homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où trouve-t-on principalement la tungose?",
+        "answer": "La tungose est répandue dans toute l’Afrique intertropicale et à Madagascar, sur le continent latino-américain, du nord de l’Argentine et du Chili jusqu’au Mexique, à l’exception des zones d’altitude.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment l'homme se contamine-t-il par la tungose?",
+        "answer": "L’homme se contamine en marchant pieds nus au contact des femelles adultes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la taille des adultes de Tunga penetrans?",
+        "answer": "Les adultes de Tunga penetrans mesurent de 0,8 à 1 mm.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de vie moyenne d'une femelle fécondée de Tunga penetrans?",
+        "answer": "La durée de vie moyenne d'une femelle fécondée de Tunga penetrans est de 3 à 4 semaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels animaux sont principalement associés à la tungose?",
+        "answer": "La tungose est principalement associée aux porcs, moutons, chèvres et chiens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la tungose?",
+        "answer": "Les symptômes typiques de la tungose incluent des lésions douloureuses et gênantes pour la marche, qui peuvent se transformer en placards inflammatoires compliqués de lymphangites et d’adénites si les chiques ne sont pas extraites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la taille des œufs de Tunga penetrans?",
+        "answer": "Les œufs de Tunga penetrans mesurent de 200 à 250 microns.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de temps faut-il pour qu'une larve de Tunga penetrans évolue à l'état adulte?",
+        "answer": "Il faut environ 8 jours pour qu'une larve de Tunga penetrans évolue à l'état adulte.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de transformation de la larve en nymphe pour Tunga penetrans?",
+        "answer": "La transformation de la larve en nymphe pour Tunga penetrans prend environ 8 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques de la tungose dans les communautés endémiques?",
+        "answer": "Dans les communautés endémiques, la tungose peut entraîner des surinfections et des atteintes chroniques handicapantes au niveau des pieds.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la localisation géographique des cas sporadiques autochtones de tungose?",
+        "answer": "Des cas sporadiques autochtones de tungose ont été décrits en Asie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la différence entre le mâle et la femelle de Tunga penetrans?",
+        "answer": "Le mâle de Tunga penetrans a une vie libre, tandis que seule la femelle est parasite.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Où se situe la puce Tunga penetrans dans la peau de son hôte?",
+        "answer": "La puce Tunga penetrans se situe à la jonction dermo-épidermique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Combien de temps faut-il pour que l'abdomen de la puce Tunga penetrans se distende?",
+        "answer": "Il faut de 7 à 10 jours pour que l'abdomen de la puce Tunga penetrans se distende.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les orifices laissés ouverts par la puce Tunga penetrans lorsqu'elle est prisonnière des tissus de l'hôte?",
+        "answer": "Les orifices laissés ouverts par la puce Tunga penetrans sont les stigmates respiratoires et l’orifice de ponte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la taille de la boule blanchâtre formée par la femelle Tunga penetrans?",
+        "answer": "La boule blanchâtre formée par la femelle Tunga penetrans mesure de 5 à 7 mm de diamètre.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la surinfection causée par la tungose?",
+        "answer": "Les symptômes de la surinfection causée par la tungose incluent des placards inflammatoires compliqués de lymphangites et d’adénites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de vie d'une femelle Tunga penetrans après la pénétration dans la peau?",
+        "answer": "La femelle Tunga penetrans pond toute sa vie qui dure en moyenne 3 à 4 semaines après la pénétration dans la peau.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les habitats principaux de la puce Tunga penetrans?",
+        "answer": "Les habitats principaux de la puce Tunga penetrans sont les sols sableux des régions tropicales chaudes et humides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la taille des adultes de Tunga trimamillata?",
+        "answer": "Les adultes de Tunga trimamillata sont de petite taille, similaires à ceux de Tunga penetrans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de la tungose?",
+        "answer": "Les symptômes initiaux de la tungose incluent des lésions typiques qui peuvent évoluer en placards inflammatoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de transformation de la larve en nymphe pour Tunga trimamillata?",
+        "answer": "La transformation de la larve en nymphe pour Tunga trimamillata prend environ 8 jours, similaire à Tunga penetrans.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la tungose chez les voyageurs?",
+        "answer": "Chez les voyageurs, la tungose est généralement bénigne et facile à traiter.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tungose dans les communautés endémiques?",
+        "answer": "Dans les communautés endémiques, la tungose peut entraîner des surinfections et des atteintes chroniques handicapantes au niveau des pieds.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de vie d'une femelle Tunga trimamillata après la pénétration dans la peau?",
+        "answer": "La durée de vie d'une femelle Tunga trimamillata après la pénétration dans la peau est similaire à celle de Tunga penetrans, soit en moyenne 3 à 4 semaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la tungose chez les animaux?",
+        "answer": "Les symptômes de la tungose chez les animaux incluent des lésions douloureuses et gênantes pour la marche, similaires à celles observées chez l'homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tungose en cas de non-extraction des chiques?",
+        "answer": "En cas de non-extraction des chiques, les symptômes de la tungose peuvent inclure des placards inflammatoires compliqués de lymphangites et d’adénites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tungose?",
+        "answer": "La tungose se manifeste par un nodule blanchâtre centré par un point noir, souvent accompagné de prurit parfois douloureux. Les pieds, notamment les zones sous-unguéales des orteils, la voûte plantaire et les régions péri-malléolaires sont les localisations les plus fréquentes.",
+        "qtype": "symptômes"
+    }
+]

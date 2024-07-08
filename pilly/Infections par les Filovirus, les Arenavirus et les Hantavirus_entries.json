@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les deux genres viraux responsables des infections humaines à filovirus?",
+        "answer": "Les virus Ebola et Marburg.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de létalité des infections par le virus Marburg?",
+        "answer": "Le taux de létalité varie de 25 à 88 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux des infections à filovirus?",
+        "answer": "Fièvre, céphalées, nausées, myalgies, conjonctivite et asthénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée moyenne d'incubation des infections à filovirus?",
+        "answer": "La durée moyenne d'incubation est de 4 à 9 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes digestifs des infections à filovirus?",
+        "answer": "Vomissements, diarrhées, douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs des filovirus?",
+        "answer": "Les chauves-souris frugivores.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission des filovirus?",
+        "answer": "Contact avec des produits biologiques d'animaux infectés et transmission interhumaine par contact direct avec des liquides biologiques infectés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes hémorragiques des infections à filovirus?",
+        "answer": "Méléna, rectorragie, hématémèse, épistaxis, hémorragie conjonctivale, saignements aux points de ponction.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux diagnostics différentiels des infections à filovirus?",
+        "answer": "Le paludisme en particulier.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques des infections à filovirus?",
+        "answer": "Réhydratation, équilibre électrolytique, traitement des défaillances d'organes et prise en charge des infections associées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements spécifiques évalués pour la maladie à virus Ebola-Zaire?",
+        "answer": "L'antiviral remdesivir, l'anticorps monoclonal Mab114 (ansuvimab-zykl), et le cocktail de trois anticorps monoclonaux REGN-EB3 (atoltivimab, maftivimab et odesivimab-ebgn).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le seul vaccin contre le virus Ebola ayant une AMM en France?",
+        "answer": "Le vaccin Ervebo.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs des Arenavirus?",
+        "answer": "Les rongeurs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les deux groupes d'Arenavirus selon leur distribution géographique?",
+        "answer": "Les Arenavirus du Nouveau Monde et les Arenavirus de l'Ancien Monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission des Arenavirus?",
+        "answer": "Contact direct ou indirect avec des excréments d'animaux infectés ou lors du dépeçage de rongeurs infectés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale zone géographique de la fièvre de Lassa?",
+        "answer": "L'Afrique de l'Ouest.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Arenavirus?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs des virus Ebola et Marburg?",
+        "answer": "Les chauves-souris frugivores.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Marburg?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées, manifestations hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Ebola?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées, manifestations hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Lassa?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Junin?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Machupo?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Guanarito?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Sabia?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Chapare?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Lujo?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Ippy?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Mopeia?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à virus Mobala?",
+        "answer": "Fièvre, céphalées, myalgies, douleurs abdominales, vomissements, diarrhées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant les épidémies de fièvre hémorragique de Lassa?",
+        "answer": "Les facteurs favorisant les épidémies de fièvre hémorragique de Lassa sont multiples : climatiques (pluviométrie et saisonnalité), écologiques (modification de l’habitat du réservoir animal), et humains (urbanisation des zones rurales, insalubrité, mouvements de population).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment le virus de Lassa pénètre-t-il dans l'organisme?",
+        "answer": "Le virus pénètre par le tractus digestif, une abrasion de la peau ou les voies respiratoires et se retrouve rapidement dans les ganglions lymphatiques pour se multiplier et ensuite envahir le système cellulaire réticulo-endothélial.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la première phase de la fièvre hémorragique de Lassa?",
+        "answer": "La première phase, non spécifique, se présente comme une fièvre associée à des céphalées, une pharyngite, des myalgies et une asthénie. Des troubles digestifs aspécifiques sont fréquemment observés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de la seconde phase de la fièvre hémorragique de Lassa?",
+        "answer": "La seconde phase est marquée par l’apparition de signes hémorragiques muqueux (épistaxis, hémorragies sous-conjonctivales, gingivorragies, hématurie microscopique) et d’un œdème du cou et de la face, inconstants mais évocateurs. Des signes neurologiques peuvent être observés : confusion, troubles de la vigilance, convulsions, surdité (5 à 30 % des cas).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de gravité de la fièvre hémorragique de Lassa?",
+        "answer": "Les facteurs de gravité suivants sont communément admis : l’âge élevé, l’existence d’une défaillance rénale, d’une cytolyse (hépatique sévère), d’une virémie élevée, la présence de manifestations hémorragiques ou neurologiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic de certitude de la fièvre hémorragique de Lassa?",
+        "answer": "Le diagnostic de certitude est virologique. Il peut être fait par mise en évidence du génome par RT-PCR, sur les liquides biologiques (sang, urines, salive) et les tissus, détection d’antigène viral par technique ELISA ou immunochromatographique, ou par isolement du virus en culture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la fièvre de Lassa?",
+        "answer": "L’administration de ribavirine par voie parentérale est recommandée dans la fièvre de Lassa. Cependant, aucun traitement spécifique n’a démontré son efficacité de manière indiscutable.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre les fièvres hémorragiques virales à Arenavirus?",
+        "answer": "La prévention repose sur le contrôle du réservoir animal (éviction et lutte contre les rongeurs), le respect des précautions standard et l’isolement des cas suspects dans les structures de santé adaptées.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour la prophylaxie post-exposition au virus Lassa?",
+        "answer": "Certains auteurs ont proposé l’administration de ribavirine en cas de contact à haut risque avec un patient infecté par le virus Lassa. Le Nigeria Centre for Disease Control recommande l’administration de la ribavirine orale dans cette situation.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quels sont les principaux Hantavirus pathogènes pour l'homme en Amérique du Nord?",
+        "answer": "Les principaux Hantavirus pathogènes pour l'homme en Amérique du Nord sont les virus Sin nombre, Black Creek Canal, Bayou, Monogahela et New York.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes communs à toutes les formes cliniques d'infection à Hantavirus?",
+        "answer": "Toutes les formes cliniques ont en commun un début brutal associant une fièvre élevée, des frissons, des myalgies, des céphalées, une altération de l’état général et une asthénie mimant un syndrome grippal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes visuels évocateurs de fièvre hémorragique avec syndrome rénal (FHSR)?",
+        "answer": "Les signes visuels fugaces à type de myopie aiguë (« fièvre floue ») sont évocateurs de FHSR.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste l'atteinte rénale dans les formes européennes à virus Puumala?",
+        "answer": "L’atteinte rénale se manifeste par des lombalgies, une oligurie, une protéinurie et/ou une hématurie microscopique. L’insuffisance rénale aiguë est rare.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes hémorragiques dans les infections à Hantavirus?",
+        "answer": "Les signes hémorragiques sont le plus souvent modérés : épistaxis, pétéchies, hémorragie conjonctivale. Des syndromes hémorragiques majeurs avec hématurie macroscopique, hémoptysie, méléna, hémorragies cérébrales sont rencontrés en Asie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la létalité des infections à Hantavirus selon le type de virus?",
+        "answer": "La létalité varie de moins de 0,5 % pour les infections à virus Puumala, à 5 à 10 % pour les formes asiatiques et près de 40 % pour les syndromes HCPS liés aux virus de type Sin nombre.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes biologiques évocateurs d'une infection à Hantavirus?",
+        "answer": "Certains signes biologiques évocateurs sont la thrombopénie précoce, la protéinurie, l’hyperleucocytose variable, le syndrome inflammatoire constant, et une cytolyse modérée dans la moitié des cas.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic de certitude des infections à Hantavirus?",
+        "answer": "Le diagnostic de certitude est sérologique. Il repose sur l’immunofluorescence indirecte et sur la recherche d’IgM et d’IgG par ELISA. Des tests rapides immunochromatographiques permettent également la mise en évidence d’IgM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement symptomatique des formes sévères d'infection à Hantavirus?",
+        "answer": "Le traitement symptomatique repose sur le maintien d’une hémodynamique stable et d’une diurèse efficace. Le recours à l’épuration extra-rénale est réservé aux insuffisances rénales aiguës anuriques exceptionnelles.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'efficacité de la ribavirine dans le traitement des infections à Hantavirus?",
+        "answer": "La ribavirine est efficace sur les FHSR asiatiques, inutile dans les formes bénignes dues au sérotype Puumala et inefficace dans le HCPS.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre les infections à Hantavirus?",
+        "answer": "La prévention repose sur la lutte domiciliaire et péridomiciliaire contre les rongeurs et l’éviction des situations à risque d’inhalation de poussières contaminées lors d’activités professionnelles ou de loisirs.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux Hantavirus pathogènes pour l'homme en Asie?",
+        "answer": "Les principaux Hantavirus pathogènes pour l'homme en Asie sont les virus Hantaan, Amur et Séoul.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux Hantavirus pathogènes pour l'homme en Europe?",
+        "answer": "Les principaux Hantavirus pathogènes pour l'homme en Europe sont les virus Puumala, Saaremaa et Dobrava.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les Hantavirus à l'homme?",
+        "answer": "L’homme se contamine essentiellement par voie respiratoire à partir d’aérosols de poussières contenant les excrétas du rongeur. Plus rarement, par contact direct avec les cadavres d’animaux ou par morsures.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme typique d'infection à Hantavirus?",
+        "answer": "Dans la forme typique, les douleurs succèdent au syndrome grippal mais peuvent être au premier plan : lombalgies, dorsalgies, douleurs abdominales thoraciques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation moyenne des infections à Hantavirus?",
+        "answer": "La durée d’incubation moyenne de la maladie est de 15 jours, avec des extrêmes de une à six semaines.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des formes américaines d'infection à Hantavirus?",
+        "answer": "Dans les formes américaines dues au virus de type Sin nombre, les manifestations cardio-respiratoires sont au premier plan. Elles peuvent conduire à une détresse respiratoire aiguë (SDRA) et/ou un choc.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes asiatiques d'infection à Hantavirus?",
+        "answer": "Dans les formes asiatiques, les signes hémorragiques peuvent inclure épistaxis, pétéchies, hémorragie conjonctivale, hématurie macroscopique, hémoptysie, méléna, hémorragies cérébrales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes européennes d'infection à Hantavirus?",
+        "answer": "Dans les formes européennes, les manifestations respiratoires sont présentes dans un tiers des cas, mais discrètes. L’atteinte rénale se manifeste par des lombalgies, une oligurie, une protéinurie et/ou une hématurie microscopique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes bénignes d'infection à Hantavirus dues au sérotype Puumala?",
+        "answer": "Les formes bénignes dues au sérotype Puumala se manifestent par des symptômes grippaux, des douleurs lombaires, une protéinurie et/ou une hématurie microscopique.",
+        "qtype": "symptômes"
+    }
+]

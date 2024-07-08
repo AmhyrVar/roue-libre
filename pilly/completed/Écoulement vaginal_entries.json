@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce qu'un écoulement vaginal?",
+        "answer": "L’écoulement vaginal est défini comme un écoulement anormal par sa couleur, son odeur et/ou son abondance (leucorrhée).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes qui peuvent accompagner un écoulement vaginal?",
+        "answer": "Il est parfois accompagné de prurit, d’œdème, de dysurie, de douleurs abdominales basses ou lombaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est une des causes les plus fréquentes de consultation des femmes pour suspicion d'IST?",
+        "answer": "L’écoulement vaginal.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux types d'infections pouvant causer un écoulement vaginal?",
+        "answer": "Les vaginites dues à Trichomonas vaginalis, Candida albicans, Gardnerella vaginalis et les cervicites causées par N. gonorrhoeae et Chlamydia trachomatis.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des vaginites?",
+        "answer": "Trichomonas vaginalis, Candida albicans, Gardnerella vaginalis.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables des cervicites?",
+        "answer": "N. gonorrhoeae et Chlamydia trachomatis.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la trichomonose à Trichomonas vaginalis?",
+        "answer": "Prurit, écoulement jaunâtre purulent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose?",
+        "answer": "Prurit, érythème, brûlure, écoulement grumeleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la vaginose bactérienne?",
+        "answer": "Écoulement blanchâtre, modéré, malodorant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la chlamydiose à Chlamydia trachomatis?",
+        "answer": "Souvent asymptomatique, parfois dyspareunie, dysurie, douleur abdominale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gonococcie à Neisseiria gonorrhoeæ?",
+        "answer": "Écoulement vaginal, col érythémateux, col érodé, friable, saignant facilement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de la chlamydiose?",
+        "answer": "Moins de 21 ans, plusieurs partenaires dans les 3 derniers mois, nouveau partenaire dans les 3 derniers mois, partenaire avec une IST, érosion du col.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'examen clinique pour la trichomonose?",
+        "answer": "Écoulement jaunâtre, verdâtre, érythème des organes génitaux externes, col avec hémorragie punctiforme type framboisé.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen clinique pour la candidose?",
+        "answer": "Vulve érythémateuse excoriée, œdématiée, rhagades, petites pustules en périphérie, aspect rouge suintant.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen clinique pour la vaginose bactérienne?",
+        "answer": "Col sain, écoulement en regard de la fourchette postérieure, col normal mais écoulement adhérent, odeur de « poisson avarié ». ",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen clinique pour la chlamydiose?",
+        "answer": "Col érythémateux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen clinique pour la gonococcie?",
+        "answer": "Col érodé, friable, saignant facilement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen direct pour la trichomonose?",
+        "answer": "Écouvillonnage dans le cul de sac postérieur, visualisation des T. vaginalis mobiles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen direct pour la candidose?",
+        "answer": "Colonies arrondies ou ovale. Filaments si Candida albicans.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen direct pour la vaginose bactérienne?",
+        "answer": "Addition de KOH qui majore l’odeur. « Clue cells » (cellules épithéliales kératinisées) qui portent des cocobacilles avec cytoplasme granuleux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen direct pour la gonococcie?",
+        "answer": "Mauvaise valeur diagnostique pour les diplocoques intracellulaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen par PCR pour la trichomonose?",
+        "answer": "Par écouvillon sur le col et l’écoulement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen par PCR pour la chlamydiose?",
+        "answer": "Le plus utilisé pour col et écoulement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen par culture pour la candidose?",
+        "answer": "Sur milieu de Sabouraud.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de la vaginose bactérienne?",
+        "answer": "Dysbiose avec prolifération de cocobacilles et absence de lactobacilles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la vaginose bactérienne?",
+        "answer": "Écoulement blanchâtre, modéré, malodorant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la trichomonose?",
+        "answer": "Prurit, écoulement jaunâtre purulent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la candidose?",
+        "answer": "Prurit, érythème, brûlure, écoulement grumeleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la chlamydiose?",
+        "answer": "Souvent asymptomatique, parfois dyspareunie, dysurie, douleur abdominale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gonococcie?",
+        "answer": "Écoulement vaginal, col érythémateux, col érodé, friable, saignant facilement.",
+        "qtype": "symptômes"
+    }
+]

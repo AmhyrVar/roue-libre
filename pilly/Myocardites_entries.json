@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce qu'une myocardite aiguë ou subaiguë?",
+        "response": "Les myocardites aiguës et subaiguës sont des maladies inflammatoires du myocarde parfois associées à une dysfonction systolique ventriculaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'origine la plus fréquente des myocardites?",
+        "response": "Les myocardites sont le plus souvent d’origine infectieuse, en particulier virale.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques des myocardites?",
+        "response": "L’expression clinique des myocardites peut aller des formes asymptomatiques ou peu symptomatiques (douleurs thoraciques ou palpitations) à des formes sévères (choc cardiogénique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "À quel âge les myocardites sont-elles les plus fréquentes?",
+        "response": "Les myocardites sont plus fréquentes chez le sujet jeune, nourrisson et enfant, ainsi que chez les adultes jeunes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'incidence des myocardites fulminantes dans les pays occidentaux?",
+        "response": "L’incidence des formes fulminantes, le plus souvent virales, est de 5 à 10 cas/million d’habitants/an dans les pays occidentaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables des myocardites virales?",
+        "response": "Les principaux agents responsables des myocardites virales sont les entérovirus, en particulier les coxsackies A et B, ainsi que d'autres virus comme adénovirus, rougeole, influenza A, CMV, EBV, HHV6, Parvovirus B19, VIH, VHC, COVID-19, dengue, et chikungunya.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents responsables des myocardites bactériennes?",
+        "response": "Les agents responsables des myocardites bactériennes incluent salmonelloses, gangrène gazeuse, méningococcies, tuberculose, borrélioses (maladie de Lyme), brucelloses, rickettsioses, ornithopsittacose, actinomycose, et mycoplasmose.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quel est le principal agent de myocardites graves en Amérique du Sud?",
+        "response": "Le principal agent de myocardites graves en Amérique du Sud est Trypanosoma cruzi, agent de la Maladie de Chagas.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents responsables des myocardites parasitaires?",
+        "response": "Les agents responsables des myocardites parasitaires incluent Trypanosoma cruzi, Toxoplasma gondii, P. falciparum, échinococcose alvéolaire, trichinellose, bilharziose, et syndromes de larva migrans viscéraux.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents responsables des myocardites fongiques?",
+        "response": "Les agents responsables des myocardites fongiques incluent candidoses profondes, cryptococcoses, et aspergilloses.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les médicaments pouvant causer des myocardites toxiques?",
+        "response": "Les médicaments pouvant causer des myocardites toxiques incluent lithium, arsenic, métaux lourds, 5-fluoro-uracile, cisplatine, catécholamines, cytokines (IL 2, interféron α), et antirétroviraux.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les médicaments pouvant causer des myocardites immunoallergiques?",
+        "response": "Les médicaments pouvant causer des myocardites immunoallergiques incluent pénicillines, céfaclor, streptomycine, tétracyclines, isoniazide, furosémide, thiazidiques, et anticonvulsivants.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les mécanismes indirects d'origine toxinique pouvant causer des myocardites?",
+        "response": "Les mécanismes indirects d'origine toxinique pouvant causer des myocardites incluent la fièvre typhoïde (endotoxine) et la diphtérie (exotoxine).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les agents responsables des myocardites inflammatoires et dysimmunitaires?",
+        "response": "Les agents responsables des myocardites inflammatoires et dysimmunitaires incluent lupus érythémateux disséminé, sclérodermie, dermato-polymyosites, polyarthrites rhumatoïdes, périartérite noueuse, granulomatose de Wegener, sarcoïdose, maladie de Kawazaki, myocardite idiopathique à cellules géantes, et myocardite du post partum.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite diphtérique?",
+        "response": "La myocardite diphtérique peut être précoce (8-10e jour) ou tardive (30-40e jour), suivie de l’installation des paralysies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite post-streptococcique?",
+        "response": "La myocardite post-streptococcique peut être isolée ou survenir 20 jours après une angine streptococcique méconnue ou insuffisamment traitée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite à éosinophiles?",
+        "response": "La myocardite à éosinophiles est causée par un mécanisme immunoallergique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours de la fièvre typhoïde?",
+        "response": "La myocardite au cours de la fièvre typhoïde est causée par une endotoxine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours de la diphtérie?",
+        "response": "La myocardite au cours de la diphtérie est causée par une exotoxine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des connectivites?",
+        "response": "Les symptômes de la myocardite au cours des connectivites incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des vascularites?",
+        "response": "Les symptômes de la myocardite au cours des vascularites incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours de la sarcoïdose?",
+        "response": "Les symptômes de la myocardite au cours de la sarcoïdose incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours de la maladie de Kawazaki?",
+        "response": "Les symptômes de la myocardite au cours de la maladie de Kawazaki incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite idiopathique à cellules géantes?",
+        "response": "Les symptômes de la myocardite idiopathique à cellules géantes incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite du post partum?",
+        "response": "Les symptômes de la myocardite du post partum incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des accidents d’envenimation?",
+        "response": "Les symptômes de la myocardite au cours des accidents d’envenimation incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des infections bactériennes?",
+        "response": "Les symptômes de la myocardite au cours des infections bactériennes incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des infections parasitaires?",
+        "response": "Les symptômes de la myocardite au cours des infections parasitaires incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des infections fongiques?",
+        "response": "Les symptômes de la myocardite au cours des infections fongiques incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la myocardite au cours des infections virales?",
+        "response": "Les symptômes de la myocardite au cours des infections virales incluent des lésions myocardiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les tissus affectés par les myocardites virales?",
+        "answer": "Les myocardites virales affectent le tissu contractile (myonécrose, apoptose), le tissu vasculaire, le tissu de conduction et le tissu interstitiel.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les trois phases évolutives des myocardites virales?",
+        "answer": "Les trois phases évolutives des myocardites virales sont : la phase aiguë d’invasion virale (incubation), la phase subaiguë de réponse auto-immunitaire, et une possible phase chronique d’évolution vers une cardiomyopathie dilatée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la myocardite virale?",
+        "answer": "Les symptômes typiques de la myocardite virale incluent fièvre, malaise général, douleurs précordiales et dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés aux myocardites?",
+        "answer": "Les signes cliniques associés aux myocardites peuvent inclure insuffisance cardiaque aiguë fébrile congestive, état de choc cardiogénique, myopéricardite avec douleurs pseudo-ischémiques, et troubles du rythme comme la tachycardie supraventriculaire et l’arythmie ventriculaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'évolution habituelle des myocardites?",
+        "answer": "L'évolution habituelle des myocardites se fait vers la guérison spontanée ou sous traitement, mais peut parfois évoluer vers une cardiomyopathie dilatée avec persistance d’une dysfonction systolique.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les examens paracliniques fondamentaux pour le diagnostic des myocardites?",
+        "answer": "Les examens paracliniques fondamentaux pour le diagnostic des myocardites incluent l’électrocardiographie, le dosage de la troponine ultra sensible, l’échocardiographie trans-thoracique, et l’IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen de référence pour un diagnostic de certitude des myocardites?",
+        "answer": "L’examen de référence pour un diagnostic de certitude des myocardites est la biopsie endomyocardique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement initial pour les patients instables atteints de myocardite?",
+        "answer": "Le traitement initial pour les patients instables atteints de myocardite est symptomatique et repose sur la correction des troubles hémodynamiques, des signes d’insuffisance cardiaque et des troubles du rythme à l’aide d’agents inotropes ou vasopresseurs et de diurétiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels médicaments sont habituellement utilisés chez les malades stables atteints de myocardite?",
+        "answer": "Chez les malades stables atteints de myocardite, les IEC et les beta-bloquants sont habituellement utilisés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic habituel après les premiers jours de traitement pour les myocardites?",
+        "answer": "Le pronostic habituel après les premiers jours de traitement pour les myocardites est généralement bon, avec une guérison complète sans séquelle généralement obtenue en 3 à 18 mois.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les myocardites à éosinophile ou les atteintes myocardiques en rapport avec la sarcoïdose?",
+        "answer": "La corticothérapie est recommandée pour les myocardites à éosinophile ou les atteintes myocardiques en rapport avec la sarcoïdose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Les antiviraux sont-ils efficaces dans le traitement des myocardites virales?",
+        "answer": "L’utilisation des antiviraux (acyclovir, gancyclovir, valacyclovir) n’a pas prouvé son efficacité dans le traitement des myocardites virales.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets des anti-inflammatoires non stéroïdiens dans les myocardites virales?",
+        "answer": "L’utilisation d’agents anti-inflammatoires, en particulier les anti-inflammatoires non stéroïdiens, est considérée comme délétère dans les myocardites virales.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes électrocardiographiques observés dans les myocardites?",
+        "answer": "Les signes électrocardiographiques observés dans les myocardites incluent des anomalies non spécifiques de l’onde T ou du segment ST, des troubles du rythme (tachycardie supraventriculaire, extrasystoles ventriculaires) ou de conduction.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de la biopsie endomyocardique dans le diagnostic des myocardites?",
+        "answer": "La biopsie endomyocardique permet non seulement un diagnostic histologique, mais aussi un pronostic, et parfois un diagnostic virologique par PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la myopéricardite?",
+        "answer": "Les symptômes de la myopéricardite incluent des douleurs pseudo-ischémiques (constrictives dans la région précordiale).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques associés aux troubles du rythme dans les myocardites?",
+        "answer": "Les troubles du rythme dans les myocardites comportent des risques élevés de mort subite (8 à 12 % des morts subites de l’adulte jeune, notamment chez le sportif).",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les signes physiques des myocardites chez le nourrisson et l’enfant?",
+        "answer": "Chez le nourrisson et l’enfant, les signes physiques des myocardites sont souvent tardifs et peu évocateurs, expliquant des retards de diagnostic et de prise en charge.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les aspects cliniques de la cardiopathie dans les myocardites?",
+        "answer": "Les aspects cliniques de la cardiopathie dans les myocardites peuvent inclure un tableau d’insuffisance cardiaque de gravité variable, une insuffisance cardiaque aiguë fébrile congestive, ou un état de choc cardiogénique brutal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de l’échocardiographie trans-thoracique dans le diagnostic des myocardites?",
+        "answer": "L’échocardiographie trans-thoracique permet de différencier une myocardite d’une atteinte myocardique d’une autre nature et d’objectiver et quantifier les altérations de la fonction myocardique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les agents utilisés pour corriger les troubles hémodynamiques dans les myocardites graves?",
+        "answer": "Les agents inotropes ou vasopresseurs et les diurétiques sont utilisés pour corriger les troubles hémodynamiques dans les myocardites graves.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le rôle de l’IRM dans le diagnostic des myocardites?",
+        "answer": "L’IRM permet de différencier une myocardite d’une atteinte myocardique d’une autre nature et d’objectiver et quantifier les altérations de la fonction myocardique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes généraux associés à la myocardite virale?",
+        "answer": "Les signes généraux associés à la myocardite virale incluent fièvre et malaise général.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de mort subite chez les jeunes adultes atteints de myocardite?",
+        "answer": "Les troubles du rythme, notamment la tachycardie supraventriculaire et l’arythmie ventriculaire, comportent des risques élevés de mort subite chez les jeunes adultes atteints de myocardite.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les myocardites du RAA?",
+        "answer": "La corticothérapie est très efficace et recommandée pour les myocardites du RAA.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les résultats des traitements immunosuppresseurs ou immunomodulateurs dans les myocardites non virales?",
+        "answer": "Aucun traitement immunosuppresseur ou immunomodulateur n’a fait ses preuves dans les myocardites non virales, et leur utilisation n’est recommandée qu’après élimination formelle d’une cause virale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes d’insuffisance cardiaque associés aux myocardites?",
+        "answer": "Les signes d’insuffisance cardiaque associés aux myocardites incluent la tachycardie supraventriculaire, l’arythmie ventriculaire, et les troubles de conduction auriculoventriculaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de la troponine ultra sensible dans le diagnostic des myocardites?",
+        "answer": "Le dosage de la troponine ultra sensible, bien que peu spécifique, signe l’atteinte myocardique dans le diagnostic des myocardites.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les aspects cliniques des formes fulminantes de myocardite?",
+        "answer": "Les formes fulminantes de myocardite peuvent se manifester par un état de choc cardiogénique brutal dont le pronostic dépend de la précocité de la prise en charge.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de l’assistance circulatoire dans le traitement des myocardites graves?",
+        "answer": "L’assistance circulatoire est parfois indispensable dans le traitement des formes graves de myocardite.",
+        "qtype": "traitement"
+    }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce qu'une myocardite?",
+    "response": "Les myocardites aiguës et subaiguës sont des maladies inflammatoires du myocarde parfois associées à une dysfonction systolique ventriculaire.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelle est l'origine la plus fréquente des myocardites?",
+    "response": "Les myocardites sont le plus souvent d’origine infectieuse, en particulier virale.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les symptômes cliniques des myocardites?",
+    "response": "L’expression clinique variable selon l’étiologie allant des formes asymptomatiques ou peu symptomatiques (tableau de douleurs thoraciques ou de palpitations) à des formes dont la présentation est d’emblée sévère (choc cardiogénique).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "À quel âge les myocardites sont-elles les plus fréquentes?",
+    "response": "Les myocardites sont plus fréquentes chez le sujet jeune, nourrisson et enfant d’une part, adultes jeunes d’autre part.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est l'incidence des myocardites fulminantes dans les pays occidentaux?",
+    "response": "L’incidence des formes fulminantes, le plus souvent virales, est de 5 à 10 cas/million d’habitants/an.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux agents responsables des myocardites virales?",
+    "response": "Les principaux agents responsables sont les entérovirus, en particulier les coxsackies A et B, les ECHO et poliovirus. D’autres virus peuvent être impliqués : adénovirus, rougeole, influenza A, CMV, EBV, HHV6, Parvovirus B19, VIH, VHC, COVID-19, dengue, chikungunya.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les agents responsables des myocardites bactériennes?",
+    "response": "Les agents responsables peuvent inclure salmonelloses, gangrène gazeuse, méningococcies, tuberculose, borrélioses, brucelloses, rickettsioses, ornithopsittacose, actinomycose, mycoplasmose.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quel est le principal agent de myocardites graves en Amérique du Sud?",
+    "response": "Le principal agent de myocardites graves en Amérique du Sud est Trypanosoma cruzi, agent de la Maladie de Chagas.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les agents responsables des myocardites parasitaires?",
+    "response": "Les agents responsables peuvent inclure Trypanosoma cruzi, Toxoplasma gondii, P. falciparum, échinococcose alvéolaire, trichinellose, bilharziose, syndromes de larva migrans viscéraux.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les agents responsables des myocardites fongiques?",
+    "response": "Les agents responsables peuvent inclure candidoses profondes, cryptococcoses et aspergilloses.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les types de myocardites inflammatoires et dysimmunitaires?",
+    "response": "Les types incluent la myocardite post-streptococcique, les connectivites (lupus érythémateux disséminé, sclérodermie, dermato-polymyosites, formes systémiques des polyarthrites rhumatoïdes), les vascularites (périartérite noueuse, granulomatose de Wegener), la sarcoïdose, la maladie de Kawazaki, la myocardite idiopathique à cellules géantes, la myocardite du post partum.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les médicaments pouvant causer des myocardites toxiques?",
+    "response": "Les médicaments incluent lithium, arsenic et métaux lourds, 5-fluoro-uracile, cisplatine, catécholamines, cytokines, antirétroviraux.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les médicaments pouvant causer des myocardites immunoallergiques?",
+    "response": "Les médicaments incluent pénicillines, céfaclor, streptomycine, tétracyclines, isoniazide, furosémide et thiazidiques, anticonvulsivants.",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les mécanismes indirects d'origine toxinique pouvant causer des myocardites?",
+    "response": "Les mécanismes incluent la myocardite au cours de la fièvre typhoïde (endotoxine) ou de la diphtérie (exotoxine).",
+    "qtype": "étiologie"
+  },
+  {
+    "question": "Quels sont les outils permettant de mieux comprendre les étiologies des myocardites?",
+    "response": "Les outils incluent les études histologiques, les techniques de PCR sur biopsie endomyocardique et l’imagerie par résonance magnétique.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite diphtérique?",
+    "response": "La myocardite diphtérique peut être soit précoce (8-10e jour), soit tardive, vers le 30-40e jour, suivie de l’installation des paralysies.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite post-streptococcique?",
+    "response": "La myocardite post-streptococcique peut être isolée ou survenir 20 jours après une angine streptococcique méconnue ou insuffisamment traitée.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des connectivites?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques au cours du lupus érythémateux disséminé, sclérodermie, dermato-polymyosites, formes systémiques des polyarthrites rhumatoïdes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des vascularites?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques au cours de la périartérite noueuse et de la granulomatose de Wegener.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours de la sarcoïdose?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours de la maladie de Kawazaki?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite idiopathique à cellules géantes?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite du post partum?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite à éosinophiles?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des accidents d’envenimation?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des infections bactériennes?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des infections virales?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des infections parasitaires?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des infections fongiques?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes de la myocardite au cours des infections toxiques?",
+    "response": "Les symptômes peuvent inclure des lésions myocardiques.",
+    "qtype": "symptômes"
+  }
+]

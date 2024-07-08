@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce que le charbon (anthrax) ?",
+        "answer": "Le charbon, ou anthrax pour les Anglo-Saxons, est une zoonose due à une bactérie sporulée, Bacillus anthracis, qui atteint essentiellement les animaux herbivores et, de façon accidentelle, l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels animaux sont principalement touchés par le charbon ?",
+        "answer": "Le charbon touche principalement les ruminants tels que les bovins, ovins, caprins et chevaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Dans quelles régions le charbon animal est-il endémique ?",
+        "answer": "Le charbon animal est endémique dans de nombreux pays, particulièrement en Amérique Centrale et du Sud, Afrique et Asie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de cas de charbon d'origine naturelle surviennent annuellement chez les humains ?",
+        "answer": "Entre 2 000 et 20 000 cas de charbon d'origine naturelle surviennent annuellement chez les humains.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels facteurs influencent l'incidence des cas de charbon chez les humains ?",
+        "answer": "L'incidence des cas de charbon chez les humains dépend du niveau d'exposition aux animaux contaminés, des conditions socio-économiques, de la qualité de la surveillance vétérinaire, des traditions et des comportements alimentaires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le véritable réservoir de Bacillus anthracis ?",
+        "answer": "Le véritable réservoir de Bacillus anthracis est le sol où la spore peut survivre de nombreuses années.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment les herbivores se contaminent-ils par le charbon ?",
+        "answer": "Les herbivores se contaminent par l'ingestion de spores lors du pâturage.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment l'homme est-il contaminé par le charbon ?",
+        "answer": "L'homme est contaminé par le charbon lors d'exposition aux animaux malades ou aux produits d'animaux contaminés, principalement par voie cutanée, digestive ou pulmonaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les trois formes de charbon chez l'homme ?",
+        "answer": "Les trois formes de charbon chez l'homme sont cutanée, digestive et pulmonaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la forme la plus fréquente de charbon chez l'homme ?",
+        "answer": "La forme cutanée est la plus fréquente de charbon chez l'homme, représentant 95 % des cas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la forme sporulée de Bacillus anthracis ?",
+        "answer": "La forme sporulée de Bacillus anthracis est la forme de résistance de la bactérie, formée rapidement en conditions favorables et pouvant persister jusqu'à plus de 100 ans dans l'environnement.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme végétative de Bacillus anthracis ?",
+        "answer": "La forme végétative de Bacillus anthracis se produit suite à la pénétration des spores dans l'organisme, avec germination des spores et production d'une capsule permettant au bacille de résister à la phagocytose et de se disséminer.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les trois composants des toxines sécrétées par Bacillus anthracis ?",
+        "answer": "Les trois composants des toxines sécrétées par Bacillus anthracis sont le facteur létal (LF), l'antigène protecteur (PA) et le facteur œdématogène (EF).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les deux plasmides contenant les gènes de virulence de Bacillus anthracis ?",
+        "answer": "Les deux plasmides contenant les gènes de virulence de Bacillus anthracis sont pX01 (gènes pour EF, LF et PA) et pX02 (gènes pour la capsule).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du charbon cutané ?",
+        "answer": "La durée d'incubation du charbon cutané est en moyenne de 3 à 5 jours, avec des extrêmes de 1 à 17 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux du charbon cutané ?",
+        "answer": "Les symptômes initiaux du charbon cutané incluent une petite papule érythémateuse, indolore et souvent prurigineuse.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment évolue la lésion cutanée du charbon cutané ?",
+        "answer": "La lésion cutanée du charbon cutané évolue en vésicule nécrosée en son centre, formant une escarre indolore, sèche et noirâtre en son centre, reposant sur un bourrelet œdémateux inflammatoire.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée de guérison du charbon cutané sans traitement ?",
+        "answer": "La lésion du charbon cutané guérit dans 90 % des cas en 1 à 2 semaines sans traitement.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la complication rare du charbon cutané ?",
+        "answer": "La complication rare du charbon cutané est l'œdème malin, caractérisé par un œdème extensif, des lésions cutanées bulleuses multiples et des signes de choc.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du charbon d'inhalation ?",
+        "answer": "La durée d'incubation du charbon d'inhalation varie de 1 à 6 jours, avec un maximum de 6 semaines.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux du charbon d'inhalation ?",
+        "answer": "Les symptômes initiaux du charbon d'inhalation incluent une fièvre modérée, malaise, fatigue, myalgies, toux non productive et sensation d'oppression précordiale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la deuxième phase du charbon d'inhalation ?",
+        "answer": "Les symptômes de la deuxième phase du charbon d'inhalation incluent une fièvre élevée, détresse respiratoire avec dyspnée, cyanose, stridor et choc septique.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la létalité du charbon d'inhalation en l'absence de traitement ?",
+        "answer": "En l'absence de traitement, la létalité du charbon d'inhalation varie entre 85 et 90 %.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée moyenne entre le début des symptômes et le décès pour le charbon d'inhalation ?",
+        "answer": "La durée moyenne entre le début des symptômes et le décès pour le charbon d'inhalation est de 3 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Le charbon pulmonaire est-il contagieux ?",
+        "answer": "Le charbon pulmonaire n'est pas contagieux et il n'y a pas de transmission interhumaine par voie aérienne.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se transmet le charbon gastro-intestinal ?",
+        "answer": "Le charbon gastro-intestinal se transmet par la consommation de viande contaminée absorbée crue ou peu cuite, ou de lait d'animaux malades.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du charbon gastro-intestinal ?",
+        "answer": "La durée d'incubation du charbon gastro-intestinal varie entre 1 et 7 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon gastro-intestinal ?",
+        "answer": "Les symptômes du charbon gastro-intestinal incluent de la fièvre, des douleurs abdominales diffuses, des nausées, des vomissements avec hématémèse et mélaena.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel est le rôle des tabanidés dans la transmission du charbon ?",
+        "answer": "Les tabanidés, insectes de la famille des taons, peuvent servir de vecteurs mécaniques pour la transmission du charbon.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la réponse de Bacillus anthracis aux signaux spécifiques de l'hôte mammifère ?",
+        "answer": "En réponse à des signaux spécifiques de l'hôte mammifère, tels que la température de 37°C et la teneur en CO2 de 5%, Bacillus anthracis exprime des facteurs de virulence provoquant toxémie et septicémie.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon oro-pharyngé?",
+        "answer": "Il est caractérisé par un œdème sous-maxillaire et cervical et des adénopathies locales dans un contexte fébrile avec dysphagie et dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la létalité de la méningite méningo-encéphalite charbonneuse en l'absence de traitement?",
+        "answer": "La létalité est proche de 100% en l’absence de traitement antibiotique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour le traitement du charbon cutané d'origine naturelle?",
+        "answer": "Une monothérapie par voie orale est recommandée (fluoroquinolones ou clindamycine selon les CDC, pénicilline ou amoxicilline selon l’OMS) pour une durée de 7 à 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les prélèvements nécessaires pour le diagnostic microbiologique du charbon?",
+        "answer": "Le diagnostic microbiologique repose sur la mise en évidence de B. anthracis à l’examen direct après coloration de Gram et après culture sur les hémocultures, sur les prélèvements d’une lésion cutanée, sur le liquide pleural, l’ascite, le liquide céphalo-rachidien.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme de l’héroïnomane du charbon?",
+        "answer": "Le tableau clinique est aspécifique (infection de la peau et des tissus mous en contexte fébrile). L’absence ou la faible intensité des douleurs doit faire évoquer le diagnostic.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les antibiotiques utilisables pour le traitement du charbon?",
+        "answer": "Les antibiotiques utilisables sont la pénicilline G, l’amoxicilline, les carbapénèmes, les fluoroquinolones, les cyclines, les macrolides et lincosamides, la rifampicine, les aminoglycosides, la vancomicine et le chloramphénicol.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée recommandée du traitement antibiotique pour les expositions cutanées ou digestives au charbon?",
+        "answer": "La durée du traitement recommandée est de 10 jours pour les expositions cutanées ou digestives.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon gastro-intestinal?",
+        "answer": "Les symptômes incluent des douleurs abdominales, des vomissements, une diarrhée parfois sanglante, et le développement d'une ascite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas d’atteinte méningée par le charbon?",
+        "answer": "Une trithérapie par fluoroquinolone, béta-lactamine (carbapénème ou pénicilline G ou A en fonction de la sensibilité de B. anthracis) et inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline, rifampicine ou chloramphénicol) est recommandée pour une durée de 14 jours et jusqu’à résolution des symptômes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la méningite méningo-encéphalite charbonneuse?",
+        "answer": "Elle se traduit souvent par un tableau encéphalitique. Le liquide céphalorachidien est hémorragique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les antibiotiques utilisables pour la prophylaxie post-exposition au charbon?",
+        "answer": "Les antibiotiques utilisables sont la doxycycline, la ciprofloxacine et l’amoxicilline pour les souches sensibles.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement antibiotique pour les expositions par voie respiratoire au charbon?",
+        "answer": "La durée est de 60 jours pour les expositions par voie respiratoire ou en cas de doute vis-à-vis du type d’exposition.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon pulmonaire?",
+        "answer": "Les symptômes du charbon pulmonaire n’ont aucune spécificité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques recommandés pour les atteintes systémiques du charbon?",
+        "answer": "Le traitement symptomatique du choc, de l’atteinte respiratoire et des troubles hydro-électrolytiques est nécessaire. La corticothérapie peut être proposée en cas d’œdème de la face et du cou, d’œdème extensif et de méningite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la létalité du charbon gastro-intestinal?",
+        "answer": "La létalité est supérieure à 50 %, dans un contexte de choc toxique et hypovolémique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon systémique sans signes méningés?",
+        "answer": "Les symptômes ne sont pas spécifiés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes du charbon cutané?",
+        "answer": "Le diagnostic clinique du charbon cutané est en général facile.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour le charbon systémique sans signes méningés?",
+        "answer": "Une monothérapie par fluoroquinolones IV ou une bithérapie par pénicilline G ou amoxicilline IV associé à un inhibiteur de la synthèse protéique (clindamycine, linézolide, doxycyline ou rifampicine) pour une durée de 14 jours.",
+        "qtype": "traitement"
+    }
+]

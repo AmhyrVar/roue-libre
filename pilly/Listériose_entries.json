@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quelle est l'incidence annuelle de la listériose en France en 2019?",
+        "response": "L'incidence annuelle en France en 2019 était de 5,6 par million d'habitants (300 à 400 cas/an).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs de Listeria?",
+        "response": "Listeria réside dans l’environnement, et peut séjourner dans le tube digestif des animaux et des hommes (1 à 10 % de portage fécal).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels aliments sont souvent associés à la transmission de la listériose?",
+        "response": "Les crudités, le lait et les produits dérivés non pasteurisés tels que les fromages à pâte molle, les produits carnés tels que la charcuterie, et les produits de la mer.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les deux principaux types de manifestations cliniques de la listériose chez les patients immunodéprimés?",
+        "response": "Les formes septicémiques et les formes méningo-encéphalitiques.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les formes septicémiques de la listériose?",
+        "response": "Le traitement par amoxicilline associé à la gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des formes septicémiques de la listériose?",
+        "response": "Fièvre élevée, frissons, algies multiples, d’apparition brutale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour la listériose?",
+        "response": "Les personnes âgées, les patients immunodéprimés, les alcooliques chroniques, les patients atteints de cirrhose, de cancer, ou d'hémopathie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste la listériose chez le patient immunocompétent?",
+        "response": "Par une gastro-entérite fébrile rapidement résolutive spontanément.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des formes méningées pures de la listériose?",
+        "response": "Syndrome méningé d’apparition aiguë ou subaiguë chez l’immunodéprimé, liquide opalescent ou trouble à la ponction lombaire, hypoglycorachie et hyperprotéinorachie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques des méningo-encéphalites causées par la listériose?",
+        "response": "Syndromes infectieux et méningé avec des signes neurologiques variés.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la mortalité des formes graves de listériose en Afrique du Sud?",
+        "response": "La mortalité atteint 30 % (27 % en Afrique du Sud).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la listériose chez les nouveau-nés?",
+        "response": "Infection généralisée grave, méningite purulente, septicémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet la listériose chez la femme enceinte?",
+        "response": "Par voie trans-placentaire et au nouveau-né lors du passage dans la filière génitale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs favorisants de la listériose?",
+        "response": "Facteurs d’immunodépression lymphocytaire, anomalies digestives telles que cirrhose, gastrectomie, hypochlorhydrie gastrique par prise d’inhibiteur de la pompe à proton.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes neuroméningées de la listériose?",
+        "response": "Syndrome méningé, signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste la listériose chez les personnes âgées?",
+        "response": "Par des formes septicémiques ou méningo-encéphalitiques.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes septicémiques de la listériose?",
+        "response": "Fièvre élevée, frissons, algies multiples, d’apparition brutale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes neuroméningées de la listériose?",
+        "response": "Syndrome méningé, signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes méningées pures de la listériose?",
+        "response": "Syndrome méningé d’apparition aiguë ou subaiguë chez l’immunodéprimé, liquide opalescent ou trouble à la ponction lombaire, hypoglycorachie et hyperprotéinorachie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des méningo-encéphalites causées par la listériose?",
+        "response": "Syndromes infectieux et méningé avec des signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale méthode de diagnostic des formes septicémiques de la listériose?",
+        "response": "L’hémoculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes septicémiques de la listériose?",
+        "response": "Fièvre élevée, frissons, algies multiples, d’apparition brutale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes neuroméningées de la listériose?",
+        "response": "Syndrome méningé, signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes méningées pures de la listériose?",
+        "response": "Syndrome méningé d’apparition aiguë ou subaiguë chez l’immunodéprimé, liquide opalescent ou trouble à la ponction lombaire, hypoglycorachie et hyperprotéinorachie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des méningo-encéphalites causées par la listériose?",
+        "response": "Syndromes infectieux et méningé avec des signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale méthode de diagnostic des formes septicémiques de la listériose?",
+        "response": "L’hémoculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes septicémiques de la listériose?",
+        "response": "Fièvre élevée, frissons, algies multiples, d’apparition brutale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes neuroméningées de la listériose?",
+        "response": "Syndrome méningé, signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des formes méningées pures de la listériose?",
+        "response": "Syndrome méningé d’apparition aiguë ou subaiguë chez l’immunodéprimé, liquide opalescent ou trouble à la ponction lombaire, hypoglycorachie et hyperprotéinorachie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des méningo-encéphalites causées par la listériose?",
+        "response": "Syndromes infectieux et méningé avec des signes neurologiques variés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la rhombencéphalite dans le cadre de la neurolistériose?",
+        "answer": "Les symptômes de la rhombencéphalite incluent des troubles de la vigilance, des convulsions et des déficits par atteinte des fibres longues, surtout des derniers nerfs crâniens.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le pronostic de la rhombencéphalite chez les patients atteints de neurolistériose?",
+        "answer": "Le pronostic de la rhombencéphalite est sévère avec une mortalité de 25 à 35 % des cas chez les malades de moins d'1 mois, de plus de 50 ans et les immunodéprimés, et des séquelles importantes (30 %).",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose chez la femme enceinte?",
+        "answer": "La listériose chez la femme enceinte se présente le plus souvent sous l'aspect de troubles digestifs non spécifiques, une fièvre isolée et passagère d’allure « virale », plus rarement sous la forme d’un syndrome infectieux plus marqué (fièvre, frissons persistant plusieurs jours).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment diagnostique-t-on la listériose chez la femme enceinte?",
+        "answer": "Le diagnostic de la listériose chez la femme enceinte repose sur la positivité d’hémocultures ou parfois sur la défervescence rapide sous amoxicilline après avoir éliminé un paludisme en zone d’endémie et une pyélonéphrite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels prélèvements sont utilisés pour le diagnostic bactériologique de la listériose?",
+        "answer": "Les prélèvements utilisés pour le diagnostic bactériologique de la listériose incluent les hémocultures, le liquide cérébrospinal, et d’autres prélèvements locaux en cas de localisation secondaire (liquide d’abcès, ponction articulaire ou de disque intervertébral).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les atteintes neuroméningées de la listériose?",
+        "answer": "Le traitement recommandé pour les atteintes neuroméningées de la listériose est l'amoxicilline ou l'ampicilline (200 mg/kg/j) en 4 à 6 injections pendant 21 jours, associé à la gentamicine 3 à 5 mg/kg au cours des 3-5 premiers jours surtout chez l’immunodéprimé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est prescrit en cas d'allergie à la pénicilline pour les atteintes neuroméningées de la listériose?",
+        "answer": "En cas d’allergie à la pénicilline, le cotrimoxazole IV (TMP : 6 à 8 mg/kg ; SMZ : 30 à 40 mg/kg) pendant 21 jours est habituellement prescrit.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les bactériémies et les listérioses néonatales?",
+        "answer": "Le traitement recommandé pour les bactériémies et les listérioses néonatales est l'amoxicilline ou l'ampicilline + aminoside pendant 15 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la listériose de la femme enceinte (méningite exclue)?",
+        "answer": "Le traitement recommandé pour la listériose de la femme enceinte (méningite exclue) est l'amoxicilline (100 mg/kg/j) ou l'ampicilline pendant 2 à 3 semaines. Un aminoside est généralement déconseillé, mais dans les formes sévères la gentamicine peut être donnée pendant 3 à 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'évolution de l'infection listérienne chez les personnes sévèrement immunodéprimées?",
+        "answer": "L’évolution de l’infection listérienne chez les personnes sévèrement immunodéprimées est marquée par une mortalité de 37 %.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quelle est la mortalité des atteintes neuroméningées de la listériose?",
+        "answer": "La mortalité des atteintes neuroméningées de la listériose varie de 10 à 50 % selon les études, d’autant plus importante que l’atteinte est rhomboencéphalique.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les risques pour l'enfant en cas d'infection materno-fœtale par la listériose?",
+        "answer": "En l’absence de traitement, les conséquences pour l’enfant en cas d’infection materno-fœtale par la listériose incluent des avortements précoces du 1er trimestre (4 %) et surtout du 2e trimestre (23 %), des accouchements prématurés (54 %) et seulement 19 % de naissances à terme.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quelles sont les recommandations générales pour la prévention de la listériose en France?",
+        "answer": "Les recommandations générales pour la prévention de la listériose en France comprennent les règles d’hygiène générale et les produits à éviter chez les personnes à risque, disponibles sur le site : https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/article/listeriose.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les cinq clés de l'OMS pour la prévention des maladies liées à l'alimentation?",
+        "answer": "Les cinq clés de l'OMS pour la prévention des maladies liées à l'alimentation sont : 1. Garder les mains propres. 2. Séparer les aliments crus et les aliments cuits. 3. Bien cuire immédiatement avant de manger. 4. Conserver les aliments à des températures adaptées. 5. Utiliser de l’eau salubre et des matières premières.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels produits alimentaires doivent être évités par les personnes à haut risque de forme grave de listériose?",
+        "answer": "Les personnes à haut risque de forme grave de listériose doivent éviter la consommation des produits laitiers à base de lait non pasteurisé, les charcuteries et les produits carnés prêts à manger comme les saucisses, jambons, pâtés, pâtes à tartiner ainsi que les fruits de mer fumés à froid (saumon fumé).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est l'intérêt de la biologie moléculaire dans le diagnostic de la listériose?",
+        "answer": "La biologie moléculaire, notamment la technique de PCR, permet la recherche de Listeria, surtout dans le LCS et en cas d’antibiothérapie préalable (pénicillines).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas d’accouchement fébrile pour diagnostiquer la listériose?",
+        "answer": "En cas d’accouchement fébrile, il est recommandé de faire un examen macroscopique et bactériologique systématique du placenta, ainsi que des prélèvements multiples chez le nouveau-né (méconium, liquide gastrique, conduit auditif…).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les schémas thérapeutiques conseillés pour les formes sévères de listériose chez l’immunodéprimé?",
+        "answer": "Pour les formes sévères de listériose chez l’immunodéprimé, il est conseillé d'utiliser de fortes doses d’amoxicilline ou d’ampicilline associées à un aminoside (gentamicine) pour obtenir un effet bactéricide.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Pourquoi les corticoïdes sont-ils déconseillés dans le traitement des atteintes neuroméningées de la listériose?",
+        "answer": "Les corticoïdes sont fortement déconseillés dans le traitement des atteintes neuroméningées de la listériose car ils augmentent la mortalité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est proposé en cas de fièvre non documentée chez la femme enceinte après exclusion d’un paludisme et d’une infection urinaire?",
+        "answer": "En cas de fièvre non documentée chez la femme enceinte après exclusion d’un paludisme en zone d’endémie et d’une infection urinaire, il est proposé de l’amoxicilline (4 g PO/j) pendant 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la résistance naturelle de Listeria monocytogenes aux antibiotiques?",
+        "answer": "Listeria monocytogenes présente une résistance naturelle à toutes les céphalosporines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé en cas d’allergie à la pénicilline pour la listériose de la femme enceinte?",
+        "answer": "En cas d’allergie à la pénicilline, le sulfaméthoxazole-triméthoprime seul ou en association avec la rifampicine est proposé pour la listériose de la femme enceinte.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes évocateurs de la listériose chez la femme enceinte?",
+        "answer": "Un épisode fébrile contemporain de l’avortement ou de l’accouchement, avec l’apyrexie apparaissant dès la délivrance, serait évocateur de la listériose chez la femme enceinte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de l’IRM dans le diagnostic de la rhombencéphalite?",
+        "answer": "L’IRM du tronc cérébral objective des petits abcès multiples du tronc cérébral en cas d’atteinte du rhombencéphale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose de la femme enceinte lors des épidémies d’origine alimentaire?",
+        "answer": "Lors des épidémies d’origine alimentaire, la listériose de la femme enceinte se présente le plus souvent sous l'aspect de troubles digestifs non spécifiques, une fièvre isolée et passagère d’allure « virale », plus rarement sous la forme d’un syndrome infectieux plus marqué (fièvre, frissons persistant plusieurs jours).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose chez les personnes immunodéprimées?",
+        "answer": "Chez les personnes immunodéprimées, la listériose peut se manifester par des formes sévères, septicémiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les formes sévères de listériose chez les personnes immunodéprimées?",
+        "answer": "Pour les formes sévères de listériose chez les personnes immunodéprimées, il est recommandé d'utiliser de fortes doses d’amoxicilline ou d’ampicilline associées à un aminoside (gentamicine) pour obtenir un effet bactéricide.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose chez les nouveau-nés?",
+        "answer": "Les symptômes de la listériose chez les nouveau-nés peuvent inclure des signes d'infection néonatale tels que la fièvre, les troubles respiratoires, et les signes de septicémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la listériose chez les nouveau-nés?",
+        "answer": "Le traitement recommandé pour la listériose chez les nouveau-nés est l'amoxicilline ou l'ampicilline + aminoside pendant 15 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la listériose chez les adultes immunocompétents?",
+        "answer": "Chez les adultes immunocompétents, la listériose peut se manifester par des syndromes infectieux et méningés souvent discrets.",
+        "qtype": "symptômes"
+    }
+]

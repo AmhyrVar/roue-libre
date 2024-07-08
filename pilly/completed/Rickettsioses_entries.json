@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que les rickettsioses?",
+        "answer": "Les rickettsioses sont des maladies induites par des bactéries à coloration de Gram négative, intracellulaires obligatoires, parasitant les cellules eucaryotes et appartenant à l’ordre des Rickettsiales.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs des rickettsioses?",
+        "answer": "Les agents des rickettsioses sont transmis à l’homme par des arthropodes tels que les poux, puces, tiques et autres acariens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs des rickettsies du groupe boutonneux?",
+        "answer": "Les Ixodidae ou 'tiques dures' sont les vecteurs les plus anciennement connus des rickettsies du groupe boutonneux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la spécificité d'hôte de la tique Rh. sanguineus?",
+        "answer": "Rh. sanguineus est très spécifique du chien et a très peu d’affinité pour l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale rickettsie du groupe boutonneux transmise par les puces?",
+        "answer": "Rickettsia felis est une rickettsie du groupe boutonneux transmise principalement par les puces de chats et de chiens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale rickettsie responsable de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "La fièvre boutonneuse méditerranéenne (FBM) est causée par la bactérie Rickettsia conorii.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs du typhus murin?",
+        "answer": "Les réservoirs du typhus murin sont les rongeurs Rattus rattus et Rattus norvegicus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment le typhus épidémique est-il transmis à l'homme?",
+        "answer": "Le typhus épidémique est transmis à l’homme par le pou du corps Pediculus humanus humanus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale rickettsie responsable du typhus des broussailles?",
+        "answer": "Le typhus des broussailles est causé par Orientia tsutsugamushi.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les vecteurs de la fièvre à tique africaine?",
+        "answer": "Les vecteurs de la fièvre à tique africaine sont les tiques Amblyomma variegatum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les symptômes de la fièvre boutonneuse méditerranéenne (FBM) incluent une fièvre élevée, un exanthème maculo-papuleux, et une escarre d’inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'incubation de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "La durée d'incubation de la fièvre boutonneuse méditerranéenne (FBM) est de 6 à 7 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes généraux de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les signes généraux de la fièvre boutonneuse méditerranéenne (FBM) incluent des frissons, myalgies, et céphalées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes ophtalmiques de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "Les symptômes ophtalmiques de la fièvre boutonneuse méditerranéenne (FBM) incluent des conjonctivites et des rétinites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence des cas asymptomatiques de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "50 % des cas de fièvre boutonneuse méditerranéenne (FBM) sont asymptomatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes fréquents de la fièvre à tique africaine?",
+        "answer": "Les symptômes fréquents de la fièvre à tique africaine incluent la fièvre, les céphalées, les myalgies, et les escarres d’inoculation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale méthode de diagnostic des rickettsioses?",
+        "answer": "La principale méthode de diagnostic des rickettsioses est la biologie moléculaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de choix pour les rickettsioses?",
+        "answer": "Le traitement de choix pour les rickettsioses est la doxycycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'évolution typique de la fièvre boutonneuse méditerranéenne (FBM) sans traitement?",
+        "answer": "L'évolution typique de la fièvre boutonneuse méditerranéenne (FBM) sans traitement est favorable en une dizaine de jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant le parasitisme humain par Rh. sanguineus?",
+        "answer": "Les facteurs climatiques et environnementaux, notamment les températures élevées, augmentent l’agressivité de Rh. sanguineus pour piquer l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique de la fièvre boutonneuse méditerranéenne (FBM)?",
+        "answer": "La fièvre boutonneuse méditerranéenne (FBM) est endémique dans le sud de l’Europe et sur le pourtour méditerranéen.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus murin?",
+        "answer": "Les symptômes du typhus murin incluent la fièvre, les céphalées, et les myalgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus épidémique?",
+        "answer": "Les symptômes du typhus épidémique incluent la fièvre, les céphalées, et les éruptions cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du typhus des broussailles?",
+        "answer": "Les symptômes du typhus des broussailles incluent la fièvre, les céphalées, et les éruptions cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre à tique africaine?",
+        "answer": "Les symptômes de la fièvre à tique africaine incluent la fièvre, les céphalées, et les éruptions cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale méthode de transmission de Rickettsia prowazekii?",
+        "answer": "Rickettsia prowazekii est principalement transmis par contact avec les déjections de poux infectés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale méthode de transmission de Rickettsia typhi?",
+        "answer": "Rickettsia typhi est principalement transmis par les déjections de la puce du rat, Xenopsylla cheopis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale méthode de transmission de Orientia tsutsugamushi?",
+        "answer": "Orientia tsutsugamushi est principalement transmis par les acariens de la famille des Trombididés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale méthode de transmission de Rickettsia conorii?",
+        "answer": "Rickettsia conorii est principalement transmis par la tique brune du chien, Rhipicephalus sanguineus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la rickettsiose vésiculeuse?",
+        "answer": "Les symptômes de la rickettsiose vésiculeuse incluent la fièvre, les céphalées, et les éruptions vésiculeuses.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les principaux modes de transmission des papillomavirus humains (HPV) ?",
+        "answer": "La transmission des HPV se fait de façon verticale (mère-enfant), par contact direct non sexuel entre humains, par le sol ou des objets contaminés et surtout par voie hétéro- ou homosexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque du cancer du col de l'utérus (CCU) ?",
+        "answer": "Les facteurs de risque du CCU sont les premiers rapports sexuels précoces, des partenaires sexuels multiples, le tabac, et l’immunodépression.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence générale de l'infection par les HPV dans les pays à ressources limitées ?",
+        "answer": "La prévalence générale de l'infection par les HPV est de 15 % dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types d'HPV les plus fréquemment associés au cancer du col de l'utérus ?",
+        "answer": "Soixante-dix pour cent des CCU sont attribués aux HPV 16 et 18, et 20 % aux autres types d’HPV.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues vulgaires causées par les HPV ?",
+        "answer": "Les verrues vulgaires sont des papules kératosiques, bourgeonnantes, rugueuses, uniques ou multiples, parfois confluentes. Elles siègent surtout aux mains, autour des ongles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifestent les verrues plantaires causées par les HPV ?",
+        "answer": "Les verrues plantaires sont uniques ou en petit nombre, hyperkératosiques, ponctuées de points noirs et douloureuses (myrmécie) ou forment des placards hyperkératosiques aux points de pression.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes acuminés ?",
+        "answer": "Les condylomes acuminés sont des végétations vénériennes ou « crêtes de coq » qui touchent les organes génitaux, surtout le gland, le prépuce, la vulve et l’anus. Elles peuvent envahir l’urètre et le vagin.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs des papillomavirus humains (HPV) ?",
+        "answer": "Le réservoir des HPV est uniquement humain. Les hommes et les femmes ayant des lésions ou étant des porteurs latents sont contaminants au moment des réactivations du virus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de prévalence de l'HPV en Guyane ?",
+        "answer": "En Guyane, la prévalence de l’HPV atteint 33% dans certaines régions, dont 23% de HPV à haut risque oncogène (HR).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le risque de transmission d'HPV 16 par rapport sexuel ?",
+        "answer": "La probabilité de transmission d’HPV 16 est de 0,6 par rapport sexuel.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les effets de l'immunodépression sur les lésions dues aux HPV ?",
+        "answer": "L’immunodépression (VIH) favorise les lésions multiples, volumineuses et extensives. Les lésions dues aux HPV favorisent l’acquisition du VIH et elles sont plus fréquentes chez les patients infectés par le VIH et se développent plus rapidement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la proportion des décès par cancer du col de l'utérus (CCU) dans les pays à ressources limitées ?",
+        "answer": "Quatre-vingt-six pour cent des 560 000 CCU répertoriés dans le monde chaque année surviennent dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues planes causées par les HPV ?",
+        "answer": "Les verrues planes, moins fréquentes, siègent surtout au niveau du dos des mains et du visage ; elles sont de couleur brune ou identique à celle de la peau voisine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes acuminés au niveau du col utérin ?",
+        "answer": "Au niveau du col utérin, les condylomes acuminés sont le plus souvent infracliniques, planes, révélées par la colposcopie et l’application d’une solution d’acide acétique qui blanchit la zone atteinte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux types de lésions causées par les HPV ?",
+        "answer": "Les HPV causent des lésions cutanéo-muqueuses très fréquentes, telles que les verrues vulgaires, les verrues plantaires, et les condylomes acuminés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le pourcentage de femmes qui conservent les HPV sous forme latente après 35 ans ?",
+        "answer": "Après 35 ans, environ 10 % des femmes conservent les HPV sous forme latente.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de cancers du col de l'utérus (CCU) attribués aux HPV 16 et 18 ?",
+        "answer": "Soixante-dix pour cent des CCU sont attribués aux HPV 16 et 18.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de prévalence des HPV à haut risque oncogène (HR) en Guyane ?",
+        "answer": "En Guyane, 23% des HPV sont à haut risque oncogène (HR).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues vulgaires chez les enfants et les jeunes adultes en milieu rural ?",
+        "answer": "Les verrues vulgaires siègent surtout aux mains, autour des ongles. Les verrues multiples de jambes sont fréquentes en milieu rural chez les enfants et les jeunes adultes, favorisées par les plaies traumatiques fréquentes à ce niveau.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes acuminés au niveau de l'anus ?",
+        "answer": "Les condylomes acuminés au niveau de l'anus sont des végétations vénériennes ou « crêtes de coq » qui peuvent envahir l’anus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes acuminés au niveau du vagin ?",
+        "answer": "Les condylomes acuminés au niveau du vagin peuvent envahir l’urètre et le vagin.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes acuminés au niveau du gland et du prépuce ?",
+        "answer": "Les condylomes acuminés au niveau du gland et du prépuce sont des végétations vénériennes ou « crêtes de coq » qui touchent ces organes génitaux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes acuminés au niveau de la vulve ?",
+        "answer": "Les condylomes acuminés au niveau de la vulve sont des végétations vénériennes ou « crêtes de coq » qui touchent cet organe génital.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues vulgaires au niveau des mains ?",
+        "answer": "Les verrues vulgaires au niveau des mains sont des papules kératosiques, bourgeonnantes, rugueuses, uniques ou multiples, parfois confluentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues vulgaires autour des ongles ?",
+        "answer": "Les verrues vulgaires autour des ongles sont des papules kératosiques, bourgeonnantes, rugueuses, uniques ou multiples, parfois confluentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues vulgaires au niveau des jambes ?",
+        "answer": "Les verrues vulgaires au niveau des jambes sont fréquentes en milieu rural chez les enfants et les jeunes adultes, favorisées par les plaies traumatiques fréquentes à ce niveau.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues planes au niveau du dos des mains ?",
+        "answer": "Les verrues planes au niveau du dos des mains sont de couleur brune ou identique à celle de la peau voisine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues planes au niveau du visage ?",
+        "answer": "Les verrues planes au niveau du visage sont de couleur brune ou identique à celle de la peau voisine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues plantaires aux points de pression ?",
+        "answer": "Les verrues plantaires aux points de pression forment des placards hyperkératosiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues plantaires ponctuées de points noirs ?",
+        "answer": "Les verrues plantaires ponctuées de points noirs sont douloureuses (myrmécie).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la papillomatose laryngée?",
+        "answer": "Elle touche surtout le nouveau-né contaminé au moment de l’accouchement par une mère porteuse de condylomes et parfois l’adulte. L’extension laryngo-trachéale peut entraîner une dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'hyperplasie épithélioïde focale?",
+        "answer": "Elle se manifeste par de multiples lésions papulo-nodulaires orales persistant des années, sans diffusion ni cancérisation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du cancer du col utérin?",
+        "answer": "Le CCU peut être suspecté devant des saignements irréguliers, post coïtaux et une pesanteur pelvienne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels types de cancers peuvent être induits par des HPV?",
+        "answer": "Environ 20 % des cancers de la vulve, du vagin, du pénis, de l’anus, de la cavité orale et de l’oropharynx sont dus à des HPV surtout aux types 16 et 18 ; 80 % des cancers de l’anus sont attribués aux HPV et 90 % des cancers du cou sont liés à une infection par HPV 16.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait le diagnostic des verrues et des condylomes?",
+        "answer": "Le diagnostic des verrues et des condylomes est clinique. Une confusion est possible avec la tuberculose verruqueuse, la maladie de Bowen, des condylomes de syphilis secondaire, les molluscum contagiosum, la bilharziose cutanée et le granulome inguinal.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic des dysplasies et du CCU?",
+        "answer": "Le diagnostic des dysplasies et du CCU se fait par le repérage des lésions suspectes (acide acétique, iode), le frottis cervical évaluant en cytologie (coloration de Papanicolaou) le degré de dysplasie et la biopsie en cas de suspicion de cancer.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions cutanées causées par les HPV?",
+        "answer": "Application de préparations d’acide salicylique quotidiennes avec occlusion par un pansement ou cryothérapie à l’azote liquide en plusieurs séances espacées de 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions muqueuses causées par les HPV?",
+        "answer": "Électrocoagulation, cryothérapie, ablation chirurgicale, applications hebdomadaires de podophylline de 10 à 25 % avec un temps d’application croissant de 2 à 6 heures ou de podophyllotoxine 2 fois/jour en cures de 3 jours/semaine durant 5 semaines ou d’imiquimod à 5 %. Lorsque les lésions sont diagnostiquées à un stade invasif, le traitement repose sur l’hystérectomie et les traitements complémentaires comme la radiothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Existe-t-il des antiviraux efficaces contre les HPV?",
+        "answer": "Aucun antiviral n’est efficace.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les stratégies de prévention contre les infections par les HPV?",
+        "answer": "Des stratégies de prévention de l’infection par la circoncision, le port de préservatif, la mise en garde contre le tabagisme et l’encouragement à un début plus tardif de la vie sexuelle sont encouragées.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le rôle du dépistage dans la prévention des cancers causés par les HPV?",
+        "answer": "Le dépistage est essentiel pour permettre un traitement le plus précoce possible des lésions cancéreuses. Il repose sur l’inspection visuelle à l’aide d’acide acétique et sur le frottis. Les femmes en activité sexuelle devraient bénéficier d’un dépistage du CCU à partir de l’âge de 30 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels vaccins sont disponibles contre les HPV 16 et 18?",
+        "answer": "Deux vaccins en 3 doses sur 6 mois, bien tolérés, sont commercialisés et protègent contre les HPV 16 et 18 au moins 5 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation de l'OMS pour la vaccination contre les HPV?",
+        "answer": "L’OMS recommande la vaccination des filles de 9 à 13 ans, intégrée aux programmes nationaux d’immunisation ; l’objectif est de vacciner 30 millions de filles pour 2020.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes des cancers induits par les HPV?",
+        "answer": "Les symptômes peuvent inclure des saignements irréguliers, des lésions papulo-nodulaires orales, et des signes de dyspnée en cas d'extension laryngo-trachéale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le taux de létalité du cancer du col utérin (CCU) en Afrique?",
+        "answer": "Le taux de létalité du CCU est de 80 % en Afrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de létalité du cancer du col utérin (CCU) en Suisse?",
+        "answer": "Le taux de létalité du CCU est de 20 % en Suisse.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de cancers les plus souvent attribués aux HPV?",
+        "answer": "80 % des cancers de l’anus et 90 % des cancers du cou sont liés à une infection par HPV 16.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les tests de dépistage recommandés pour les femmes de 30 à 65 ans?",
+        "answer": "Pour les femmes de 30 à 65 ans, le test HPV-HR remplace l’examen cytologique. Le test HPV-HR est réalisé 3 ans après le dernier examen cytologique dont le résultat est normal. Un nouveau test est refait tous les 5 ans jusqu’à l’âge de 65 ans, dès lors que le résultat du test est négatif.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements complémentaires pour les lésions invasives causées par les HPV?",
+        "answer": "Le traitement repose sur l’hystérectomie et les traitements complémentaires comme la radiothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes des condylomes vénériens?",
+        "answer": "Les condylomes vénériens peuvent être confondus avec la tuberculose verruqueuse, la maladie de Bowen, des condylomes de syphilis secondaire, les molluscum contagiosum, la bilharziose cutanée et le granulome inguinal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des verrues causées par les HPV?",
+        "answer": "Les verrues peuvent être confondues avec la tuberculose verruqueuse, la maladie de Bowen, des condylomes de syphilis secondaire, les molluscum contagiosum, la bilharziose cutanée et le granulome inguinal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des dysplasies causées par les HPV?",
+        "answer": "Les dysplasies peuvent être repérées par des lésions suspectes (acide acétique, iode) et évaluées en cytologie (coloration de Papanicolaou).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions cancéreuses causées par les HPV?",
+        "answer": "Les lésions cancéreuses peuvent être repérées par des lésions suspectes (acide acétique, iode) et évaluées en cytologie (coloration de Papanicolaou).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions diagnostiquées à un stade invasif?",
+        "answer": "Le traitement repose sur l’hystérectomie et les traitements complémentaires comme la radiothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions muqueuses diagnostiquées à un stade invasif?",
+        "answer": "Le traitement repose sur l’hystérectomie et les traitements complémentaires comme la radiothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions cutanées diagnostiquées à un stade invasif?",
+        "answer": "Le traitement repose sur l’hystérectomie et les traitements complémentaires comme la radiothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions diagnostiquées à un stade non invasif?",
+        "answer": "Application de préparations d’acide salicylique quotidiennes avec occlusion par un pansement ou cryothérapie à l’azote liquide en plusieurs séances espacées de 3 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions muqueuses diagnostiquées à un stade non invasif?",
+        "answer": "Électrocoagulation, cryothérapie, ablation chirurgicale, applications hebdomadaires de podophylline de 10 à 25 % avec un temps d’application croissant de 2 à 6 heures ou de podophyllotoxine 2 fois/jour en cures de 3 jours/semaine durant 5 semaines ou d’imiquimod à 5 %.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour les lésions cutanées diagnostiquées à un stade non invasif?",
+        "answer": "Application de préparations d’acide salicylique quotidiennes avec occlusion par un pansement ou cryothérapie à l’azote liquide en plusieurs séances espacées de 3 semaines.",
+        "qtype": "traitement"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les principaux signes cliniques de la tamponnade ?",
+        "answer": "Les principaux signes cliniques de tamponnade sont : douleur précordiale violente, dyspnée de repos, polypnée superficielle, respiration exclusive en position assise et antéflexion, position couchée impossible, signes d’insuffisance cardiaque droite (tachycardie, reflux hépato-jugulaire, turgescence jugulaire, hépatomégalie douloureuse, œdèmes des membres inférieurs), cyanose, chute tensionnelle ou collapsus.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la cause principale des péricardites aiguës dans les pays occidentaux ?",
+        "answer": "Dans les pays occidentaux, la cause des péricardites aiguës est principalement virale ou idiopathique (> 90 %).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la cause prédominante des péricardites aiguës en Afrique ?",
+        "answer": "En Afrique, l’étiologie tuberculeuse prédomine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quand est-ce que la ponction péricardique est justifiée ?",
+        "answer": "La ponction péricardique est rare mais se justifie en cas de mauvaise tolérance de l’épanchement ou lorsque l’enquête étiologique l'impose pour adapter le traitement.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les critères diagnostiques de la péricardite aiguë ?",
+        "answer": "Le diagnostic de péricardite aiguë associe: une douleur thoracique évocatrice, un frottement péricardique, des modifications de l’ECG, et un épanchement péricardique. La présence de 2 de ces critères confirme le diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme typique de la péricardite aiguë ?",
+        "answer": "Elle se manifeste par une sensation d’oppression ou de pesanteur, de siège rétro-sternal ou latéro-thoracique gauche, de durée prolongée ou permanente (plusieurs heures ou jours), aggravée par l’inspiration profonde, la toux et le décubitus dorsal, diminuée par la position assise, penchée en avant, voire genu-pectorale, le plus souvent sans irradiation, accompagnée d’une orthopnée qui limite l’ampleur des mouvements respiratoires (blocage en inspiration forcée).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle du frottement péricardique dans le diagnostic de la péricardite ?",
+        "answer": "Le frottement péricardique est l’apanage non exclusif des péricardites sèches. C’est un argument diagnostique capital. C’est un bruit superficiel de « va-et-vient » (systolodiastolique) comme un crissement, inconstant, fugace, variable dans le temps, qui persiste en apnée, respectant les bruits du cœur, fréquemment retrouvé au quatrième-cinquième espace intercostal gauche.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme trompeuse de la péricardite aiguë ?",
+        "answer": "La douleur est moins évocatrice, à type de gêne précordiale, de scapulalgie gauche, parfois de douleur pseudo-angineuse résistante à la trinitrine et de durée prolongée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments paracliniques clés pour le diagnostic de la péricardite aiguë ?",
+        "answer": "L’ECG est un élément clé du diagnostic, bien que parfois normal. Les lésions sont évolutives : sous-décalage du segment PQ, sus-décalage plutôt concave du segment ST, concordant dans toutes les dérivations et sans image en miroir, microvoltage dans les épanchements abondants. La radiographie thoracique peut montrer, en cas d’épanchement abondant, une cardiomégalie, un élargissement de la silhouette cardiaque en « théière » ou en « carafe ». Un émoussement des culs de sacs pleuraux est possible.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les marqueurs biologiques à rechercher en cas de péricardite aiguë ?",
+        "answer": "Le bilan biologique doit comporter la recherche de marqueurs inflammatoires (CRP) et de marqueurs de nécrose myocardique associée (troponine ultrasensible). L’élévation de la troponine oriente vers une myocardite associée.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle de l’échocardiographie dans le diagnostic de la péricardite aiguë ?",
+        "answer": "L’échocardiographie confirme l’épanchement péricardique (sauf en cas de péricardite sèche), le quantifie et précise les signes de mauvaise tolérance.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la cause la plus fréquente des péricardites aiguës bénignes ?",
+        "answer": "Dans neuf cas sur 10, la cause est virale ou inconnue (idiopathique).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels virus sont habituellement responsables des péricardites aiguës bénignes ?",
+        "answer": "Les virus en causes sont nombreux et habituellement responsables de viroses digestives ou ORL : entérovirus, échovirus, adénovirus, cytomégalovirus, parvovirus B19, EBV, herpès, VIH, hépatite C.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les mécanismes des péricardites au cours de l’infection VIH ?",
+        "answer": "Au cours de l’infection VIH, les mécanismes sont multiples: au stade précoce de l’infection, le VIH et la tuberculose sont respectivement responsables de 65 % et 25 % des cas. Au stade SIDA, la tuberculose est presque l’unique cause (70 à 90 %). Le sarcome de Kaposi est retrouvé dans 9 % des cas après ponction péricardique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes de gravité de la tamponnade ?",
+        "answer": "Les signes de gravité de la tamponnade sont liés à l’élévation importante de la pression intrapéricardique qui, comprimant le cœur, gêne l’expansion diastolique des ventricules (adiastolie aiguë).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prise en charge initiale des péricardites aiguës simples ?",
+        "answer": "La prise en charge se conçoit en secteur de santé périphérique pour les formes simples.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quand est-ce que le recours hospitalier s’impose pour les péricardites aiguës ?",
+        "answer": "Le recours hospitalier s’impose d’emblée en cas de tamponnade, en contexte septique et en cas d’échec thérapeutique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de la péricardite aiguë typique ?",
+        "answer": "Les symptômes de la péricardite aiguë typique incluent une sensation d’oppression ou de pesanteur, de siège rétro-sternal ou latéro-thoracique gauche, de durée prolongée ou permanente, aggravée par l’inspiration profonde, la toux et le décubitus dorsal, diminuée par la position assise, penchée en avant, voire genu-pectorale, le plus souvent sans irradiation, accompagnée d’une orthopnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l’insuffisance cardiaque droite associés à la tamponnade ?",
+        "answer": "Les signes d’insuffisance cardiaque droite associés à la tamponnade incluent tachycardie, reflux hépato-jugulaire, turgescence jugulaire, hépatomégalie douloureuse, œdèmes des membres inférieurs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes ECG caractéristiques de la péricardite aiguë ?",
+        "answer": "Les signes ECG caractéristiques de la péricardite aiguë incluent sous-décalage du segment PQ, sus-décalage plutôt concave du segment ST, concordant dans toutes les dérivations et sans image en miroir, microvoltage dans les épanchements abondants.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes radiographiques d’un épanchement péricardique abondant ?",
+        "answer": "Les signes radiographiques d’un épanchement péricardique abondant incluent une cardiomégalie, un élargissement de la silhouette cardiaque en « théière » ou en « carafe », et un émoussement des culs de sacs pleuraux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les virus responsables de viroses digestives ou ORL pouvant causer des péricardites aiguës ?",
+        "answer": "Les virus responsables de viroses digestives ou ORL pouvant causer des péricardites aiguës incluent entérovirus, échovirus, adénovirus, cytomégalovirus, parvovirus B19, EBV, herpès, VIH, hépatite C.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes de mauvaise tolérance à rechercher à l’échocardiographie en cas de péricardite aiguë ?",
+        "answer": "L’échocardiographie doit rechercher des signes de mauvaise tolérance tels que l’épanchement péricardique abondant.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite aiguë ?",
+        "answer": "Les signes cliniques de la péricardite aiguë incluent douleur thoracique évocatrice, frottement péricardique, modifications de l’ECG, et épanchement péricardique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de gravité à rechercher en cas de péricardite aiguë ?",
+        "answer": "Les signes de gravité à rechercher en cas de péricardite aiguë incluent altération de l’état général et élévation de la troponine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite tuberculeuse ?",
+        "answer": "Les signes cliniques de la péricardite tuberculeuse incluent souvent une altération de l’état général, une fièvre prolongée, une toux, une dyspnée, et des sueurs nocturnes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite virale ?",
+        "answer": "Les signes cliniques de la péricardite virale incluent douleur thoracique, fièvre, et parfois des symptômes respiratoires ou digestifs associés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite idiopathique ?",
+        "answer": "Les signes cliniques de la péricardite idiopathique incluent douleur thoracique, fièvre, et absence de cause identifiable après les examens de routine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite associée à l’infection VIH ?",
+        "answer": "Les signes cliniques de la péricardite associée à l’infection VIH incluent douleur thoracique, fièvre, et parfois des symptômes respiratoires ou digestifs associés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la péricardite associée à la tuberculose ?",
+        "answer": "Les signes cliniques de la péricardite associée à la tuberculose incluent douleur thoracique, fièvre prolongée, toux, dyspnée, et sueurs nocturnes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une péricardite aiguë bénigne?",
+        "answer": "Adolescent ou adulte jeune de sexe masculin ; début brutal et fébrile ; myalgies et arthralgies ; tableau précédé 1 à 3 semaines auparavant d’un épisode infectieux des voies aériennes supérieures, d’un état grippal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une péricardite tuberculeuse?",
+        "answer": "Contexte évident : foyer tuberculeux viscéral confirmé, notion de contage manifeste. Pas de contexte franc : début subaigu, altération de l’état général, fébricule, forte suspicion d’immunodépression (VIH), contage possible, absence de vaccination par le BCG, virage tuberculinique récent, primo-infection récente (dans les 2 ans) non ou mal traitée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une péricardite purulente?",
+        "answer": "Adulte jeune, tableau septique au premier plan, foyer septique à distance (ORL, articulaire, digestif) ou de voisinage (pleuro-pulmonaire, hépatique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une péricardite rhumatismale?",
+        "answer": "Enfant et adulte jeune, antécédent d’angine ou scarlatine, arthrites, fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les niveaux de prise en charge initiale pour une péricardite?",
+        "answer": "Secteur de santé périphérique : transfert aux niveaux 2 ou 3. Hôpital de district (niveau 2) : toute péricardite aiguë sans signe de gravité, en première intention ou après échec de la thérapeutique anti-inflammatoire d’une durée de 3 jours. Hôpital de référence (niveau 3) : tamponnade par adiastolie aiguë, échec des diverses thérapeutiques médicales, altération de l’état général, nécessité d’investigation complémentaire.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement de la péricardite aiguë bénigne?",
+        "answer": "Le repos de toute activité physique professionnelle ou sportive est impératif pour un mois. Le traitement de fond dépend de l’étiologie. La péricardite aiguë bénigne fait appel aux salicylés (jusque 3 g/jour) ou à d’autres anti-inflammatoires disponibles (ibuprofène, indométacine) pour des durées variables de 1 à 4 semaines. L’évolution est habituellement favorable. La prescription de colchicine (0.5 mg x 2/j) pendant 3 mois s’est montrée efficace pour diminuer le risque de récidive.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement en contexte septique d’origine bactérienne?",
+        "answer": "Les antibiotiques sont délivrés d’emblée à forte dose et par voie parentérale. Le traitement est adapté à la porte d’entrée présumée jusqu’à documentation bactériologique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement antituberculeux d’épreuve?",
+        "answer": "Le traitement antituberculeux d’épreuve est rapidement instauré en l’absence de réponse aux anti-inflammatoires ou d’emblée en contexte évocateur.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement antiparasitaire en contexte d’amœbose hépatique?",
+        "answer": "Le traitement antiparasitaire se justifie surtout en contexte d’amœbose hépatique (métronidazole) ou après identification.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quel est le traitement de la péricardite rhumatismale?",
+        "answer": "La péricardite rhumatismale relève d’un traitement anti-inflammatoire et antibiotique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les voies d’abord pour une ponction péricardique?",
+        "answer": "De Marfan : épigastrique, sous- et rétro-xiphoïdienne, sur la ligne médiane, aiguille rasant la face postérieure du sternum. De Dieulafoy : antérieure gauche dans le cinquième espace intercostal gauche, à 6 cm du bord sternal, aiguille dirigée en haut et en dedans.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les incidents possibles lors d'une ponction péricardique?",
+        "answer": "Ponction blanche. Blessure d’un ventricule (bien tolérée), de l’oreillette droite dilatée (dangereux), d’une artère coronaire (risque d’hémopéricarde mortel).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles sont les indications strictes pour une ponction péricardique?",
+        "answer": "Thérapeutique d’urgence : adiastolie aiguë. Diagnostic : doute sur la péricardite, échec du traitement, contexte septique.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les résultats possibles d'une ponction péricardique et leur orientation diagnostique?",
+        "answer": "Liquide purulent : péricardite septique. Liquide séro-fibrineux : péricardite aiguë bénigne, tuberculeuse, rhumatismale. Liquide hémorragique : origine tuberculeuse ou néoplasique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les virus fréquents responsables de péricardites aiguës tropicales?",
+        "answer": "Virus respiratoires (coxsackie, adénovirus, EBV, grippe…), arbovirus, VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les bactéries fréquentes responsables de péricardites aiguës tropicales?",
+        "answer": "Bactéries pyogènes (staphylocoque, pneumocoque, streptocoque), BGN et tuberculose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les parasitoses moins fréquentes responsables de péricardites aiguës tropicales?",
+        "answer": "Amœbose, toxoplasmose, hydatidose, anguillulose, ascaridiose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les mycoses plus rares responsables de péricardites aiguës tropicales?",
+        "answer": "Candida, Aspergillus, Cryptococcus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les divers autres causes plus rares de péricardites aiguës tropicales?",
+        "answer": "Néoplasie, insuffisance rénale terminale, infarctus du myocarde, lupus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les critères de diagnostic du rhumatisme post-streptococcique?",
+        "answer": "Le diagnostic de rhumatisme post-streptococcique repose sur les critères de Jones.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques évolutifs d'une péricardite tuberculeuse?",
+        "answer": "Risque de dissémination tuberculeuse et, surtout, l’évolution vers une tamponnade ou une constriction avec ou sans calcification par symphyse du péricarde.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les risques évolutifs d'une péricardite à pyogènes?",
+        "answer": "L’évolution est grave en raison de la sévérité de l’affection causale, du risque de tamponnade et de la mortalité élevée.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte subaiguë avec altération de l’état général?",
+        "answer": "Début subaigu, altération de l’état général, fébricule, forte suspicion d’immunodépression (VIH), contage possible, absence de vaccination par le BCG, virage tuberculinique récent, primo-infection récente (dans les 2 ans) non ou mal traitée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite amœbienne?",
+        "answer": "L’amœbose hépatique se complique parfois de péricardite, donnant un tableau clinique sévère.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite fongique?",
+        "answer": "Les symptômes ne se discutent qu’au cas par cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite néoplasique?",
+        "answer": "Les symptômes ne se discutent qu’au cas par cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite post-infarctus?",
+        "answer": "Les symptômes ne se discutent qu’au cas par cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite due à une insuffisance rénale terminale?",
+        "answer": "Les symptômes ne se discutent qu’au cas par cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite due à un lupus?",
+        "answer": "Les symptômes ne se discutent qu’au cas par cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite due à une infection virale?",
+        "answer": "Adolescent ou adulte jeune de sexe masculin ; début brutal et fébrile ; myalgies et arthralgies ; tableau précédé 1 à 3 semaines auparavant d’un épisode infectieux des voies aériennes supérieures, d’un état grippal.",
+        "qtype": "symptômes"
+    }
+]

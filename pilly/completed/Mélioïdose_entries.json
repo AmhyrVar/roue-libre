@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce que la mélioïdose?",
+    "answer": "La mélioïdose est une infection bactérienne systémique due à Burkholderia pseudomallei.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Où se situe le foyer d'endémie de la mélioïdose?",
+    "answer": "Le foyer d'endémie est situé en Asie du Sud-Est, de la Birmanie au Vietnam et de la Chine à l'Indonésie, étendu jusqu'au Nord-Est tropical de l'Australie.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se transmet la mélioïdose?",
+    "answer": "La mélioïdose se transmet par trois voies : transcutanée, aérienne et digestive.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les facteurs environnementaux favorisant la survie de Burkholderia pseudomallei?",
+    "answer": "Le germe survit en conditions favorables : acidité, chaleur (24 à 32°C), humidité (mousson), matières organiques (fumure animale).",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les animaux les plus touchés par la mélioïdose?",
+    "answer": "Les porcs, ovins, caprins et équidés sont les plus touchés par la mélioïdose.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est l'incidence de la mélioïdose humaine dans les pays endémiques?",
+    "answer": "L'incidence est de 4/100 000 au Nord-Est de la Thaïlande et de 20/100 000 dans le Nord de l'Australie.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les facteurs de risque pour la mélioïdose?",
+    "answer": "Les facteurs de risque incluent l'âge (plus de 45 ans), le sexe masculin, les aborigènes, les riziculteurs, les terrassiers, les éleveurs, les diabétiques, les insuffisants rénaux, respiratoires ou hépatiques, les thalassémiques, les sujets sous corticothérapie, les patients atteints d'hémopathie ou d'alcoolisme chronique.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quelle est la bactérie responsable de la mélioïdose?",
+    "answer": "La bactérie responsable de la mélioïdose est Burkholderia pseudomallei.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes de la mélioïdose?",
+    "answer": "Les symptômes de la mélioïdose peuvent varier de l'absence de symptômes à un sepsis mortel en quelques heures. Ils incluent des broncho-pneumonies aiguës, détresse respiratoire, abcès, empyèmes, et peuvent toucher pratiquement tous les tissus et organes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les taux de létalité de la mélioïdose?",
+    "answer": "Les taux de létalité varient de 10 % dans les pays développés à 50 % en Asie du Sud-Est pour les formes bactériémiques, et peuvent atteindre 90 % en cas de choc septique.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels organes sont les plus souvent touchés par la mélioïdose?",
+    "answer": "Les poumons, le foie, la rate, la prostate, la peau et les tissus mous sont les organes les plus souvent touchés par la mélioïdose.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les signes cliniques de la mélioïdose chez l'enfant?",
+    "answer": "Chez l'enfant, la mélioïdose présente le même polymorphisme clinique et la même gravité que chez l'adulte.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les facteurs influençant la sévérité de la mélioïdose?",
+    "answer": "Les facteurs influençant la sévérité de la mélioïdose incluent l'âge, les co-morbidités (diabète, néphropathie, hémopathie), le choc septique, l'atteinte pulmonaire, le délai de mise en route et la qualité du traitement antibiotique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les traitements efficaces contre Burkholderia pseudomallei?",
+    "answer": "Les traitements efficaces contre Burkholderia pseudomallei incluent le cotrimozaxole, le chloramphénicol, les tétracyclines, l'acide clavulanique, les céphalosporines de 3e génération, la ceftazidime, la pipéracilline et les carbapénèmes.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quels sont les antibiotiques auxquels Burkholderia pseudomallei est naturellement résistant?",
+    "answer": "Burkholderia pseudomallei est naturellement résistant aux pénicillines G et A, aux céphalosporines de 1re et 2e générations, aux aminoglycosides, aux macrolides, à la rifampicine et aux polymyxines.",
+    "qtype": "traitements"
+  },
+  {
+    "question": "Quelle est la durée d'incubation de la mélioïdose?",
+    "answer": "La durée d'incubation de la mélioïdose peut être extrêmement variable, allant de moins de 24 heures à plus de 20 ans.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les signes d'une infection subaiguë ou chronique de la mélioïdose?",
+    "answer": "Une infection subaiguë ou chronique de la mélioïdose est non bactériémique, avec une évolution lentement progressive et localisée à un seul organe, préférentiellement les poumons, les ganglions ou la peau, mimant de ce fait la tuberculose.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les facteurs de pronostic défavorable dans la mélioïdose?",
+    "answer": "Les niveaux élevés de cytokines pro-inflammatoires (TNF-α, IFN-γ, IL-6, 10, 12 et 18) sont des facteurs indépendants de pronostic défavorable dans la mélioïdose.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quels sont les taux de létalité en cas de choc septique dû à la mélioïdose?",
+    "answer": "Le taux de létalité peut atteindre 90 % en cas de choc septique dû à la mélioïdose.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes pulmonaires de la mélioïdose?",
+    "answer": "Les symptômes pulmonaires de la mélioïdose incluent des broncho-pneumonies aiguës, détresse respiratoire, abcès unique ou multiples, et empyèmes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes cutanés de la mélioïdose?",
+    "answer": "Les symptômes cutanés de la mélioïdose incluent des abcès de la peau et des tissus mous.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes hépatiques de la mélioïdose?",
+    "answer": "Les symptômes hépatiques de la mélioïdose incluent des abcès du foie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes spléniques de la mélioïdose?",
+    "answer": "Les symptômes spléniques de la mélioïdose incluent des abcès de la rate.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes prostatiques de la mélioïdose?",
+    "answer": "Les symptômes prostatiques de la mélioïdose incluent des abcès de la prostate.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes digestifs de la mélioïdose?",
+    "answer": "Les symptômes digestifs de la mélioïdose peuvent inclure des abcès et des infections localisées.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes neurologiques de la mélioïdose?",
+    "answer": "Les symptômes neurologiques de la mélioïdose peuvent inclure des abcès cérébraux et des infections du système nerveux central.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes musculo-squelettiques de la mélioïdose?",
+    "answer": "Les symptômes musculo-squelettiques de la mélioïdose peuvent inclure des abcès des muscles et des os.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes cardiaques de la mélioïdose?",
+    "answer": "Les symptômes cardiaques de la mélioïdose peuvent inclure des endocardites et des abcès cardiaques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes rénaux de la mélioïdose?",
+    "answer": "Les symptômes rénaux de la mélioïdose peuvent inclure des abcès rénaux et des infections des voies urinaires.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes oculaires de la mélioïdose?",
+    "answer": "Les symptômes oculaires de la mélioïdose peuvent inclure des abcès oculaires et des infections de l'œil.",
+    "qtype": "symptômes"
+  }
+]

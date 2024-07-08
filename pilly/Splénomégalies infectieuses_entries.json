@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Qu'est-ce que la splénomégalie?",
+        "answer": "La splénomégalie est une augmentation anormale de la taille de la rate. Elle est souvent indolore mais peut entraîner des signes de troubles fonctionnels tels qu'une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale ou une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale cause de splénomégalie dans les pays tropicaux?",
+        "answer": "La principale cause de splénomégalie dans les pays tropicaux est le paludisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment mesure-t-on la taille de la rate?",
+        "answer": "La taille de la rate peut être mesurée en mesurant la hauteur splénique en centimètres entre la palpation abdominale en inspiration profonde et la percussion costale, en mesurant son débordement costal en travers de doigt ou en centimètres, ou selon la classification de Hackett.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Qu'est-ce que la classification de Hackett?",
+        "answer": "La classification de Hackett est une méthode clinique pour évaluer la taille de la rate. Elle va de 0 (rate non palpable) à 5 (rate descendant en dessous de la ligne horizontale passant à égale distance entre l'ombilic et la symphyse pubienne).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens permettent d'identifier les principales étiologies des splénomégalies?",
+        "answer": "Des examens biologiques et morphologiques simples, tels que la radiographie, l'échographie, la tomodensitométrie ou l'IRM, permettent d'identifier les principales étiologies des splénomégalies. En dernier recours, le myélogramme, la biopsie du foie ou la ponction splénique peuvent être utilisés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à la splénomégalie?",
+        "answer": "Les signes cliniques associés à la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche augmentée à l'inspiration profonde et irradiant vers l'épaule gauche, une gêne post-prandiale et une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la différence de poids moyen de la rate entre les pays du Nord et les pays tropicaux?",
+        "answer": "Le poids moyen de la rate chez l'adulte dans les pays du Nord est de 150 à 200 g, tandis qu'il dépasse 300 g dans les pays tropicaux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Pourquoi la rate est-elle plus lourde dans les pays tropicaux?",
+        "answer": "La rate est plus lourde dans les pays tropicaux principalement en raison du paludisme, qui est la principale cause de splénomégalie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les examens morphologiques systématiques pour la splénomégalie?",
+        "answer": "L'échographie est l'examen morphologique systématique pour la splénomégalie. Elle peut être complétée par la tomodensitométrie ou l'IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques associés à la ponction splénique?",
+        "answer": "La ponction splénique comporte un risque de rupture par déchirure de la capsule splénique, qui est fragile.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes principales de splénomégalie dans les pays tropicaux?",
+        "answer": "Les causes principales de splénomégalie dans les pays tropicaux incluent le paludisme et d'autres infections tropicales.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes fonctionnels de la splénomégalie?",
+        "answer": "Les signes fonctionnels de la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale et une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la position de la rate dans le corps?",
+        "answer": "La rate est située dans l'hypochondre gauche, en position thoracoabdominale, en regard de la dixième côte.",
+        "qtype": "anatomie"
+    },
+    {
+        "question": "Qu'est-ce que l'hépatosplénomégalie?",
+        "answer": "L'hépatosplénomégalie est une condition où la rate et le foie sont tous deux augmentés de taille.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens de dernier recours pour diagnostiquer la splénomégalie?",
+        "answer": "Les examens de dernier recours pour diagnostiquer la splénomégalie incluent le myélogramme, la biopsie du foie et la ponction splénique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'hypertension portale observables à l'échographie?",
+        "answer": "Les signes d'hypertension portale observables à l'échographie incluent des modifications de la taille de la rate, la consistance du parenchyme et l'aspect du foie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de mesure de la rate selon la classification de Hackett?",
+        "answer": "La classification de Hackett mesure la rate en fonction de sa palpabilité et de sa position par rapport à des lignes horizontales passant par le rebord costal, l'ombilic et la symphyse pubienne.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens complémentaires à l'échographie pour la splénomégalie?",
+        "answer": "Les examens complémentaires à l'échographie pour la splénomégalie incluent la tomodensitométrie et l'IRM.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la définition clinique de la splénomégalie selon la classification de Hackett?",
+        "answer": "Selon la classification de Hackett, la splénomégalie est définie par une rate palpable, avec des degrés allant de 1 (rate palpable en inspiration profonde) à 5 (rate descendant en dessous de la ligne horizontale passant à égale distance entre l'ombilic et la symphyse pubienne).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes morphologiques de la splénomégalie observables à l'échographie?",
+        "answer": "Les signes morphologiques de la splénomégalie observables à l'échographie incluent la taille de la rate, la consistance du parenchyme, et les signes d'hypertension portale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes fonctionnels de la splénomégalie?",
+        "answer": "Les symptômes fonctionnels de la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale et une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la position anatomique de la rate?",
+        "answer": "La rate est située dans l'hypochondre gauche, en position thoracoabdominale, en regard de la dixième côte.",
+        "qtype": "anatomie"
+    },
+    {
+        "question": "Quels sont les examens biologiques utilisés pour diagnostiquer la splénomégalie?",
+        "answer": "Les examens biologiques utilisés pour diagnostiquer la splénomégalie incluent des analyses de sang pour identifier les syndromes et étiologies sous-jacents.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la splénomégalie?",
+        "answer": "Les signes cliniques de la splénomégalie incluent une pesanteur ou douleur de l'hypochondre gauche, une gêne post-prandiale et une constipation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la principale cause de splénomégalie dans les pays du Nord?",
+        "answer": "La principale cause de splénomégalie dans les pays du Nord n'est pas spécifiée dans le texte, mais elle est moins fréquente que dans les pays tropicaux où le paludisme est la principale cause.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les examens morphologiques pour visualiser les calcifications de la rate?",
+        "answer": "La radiographie permet de visualiser d'éventuelles calcifications de la rate.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens de dernier recours pour un diagnostic étiologique de la splénomégalie?",
+        "answer": "Les examens de dernier recours pour un diagnostic étiologique de la splénomégalie incluent le myélogramme, la biopsie du foie et la ponction splénique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'hypertension portale observables à l'échographie?",
+        "answer": "Les signes d'hypertension portale observables à l'échographie incluent des modifications de la taille de la rate, la consistance du parenchyme et l'aspect du foie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de mesure de la rate selon la classification de Hackett?",
+        "answer": "La classification de Hackett mesure la rate en fonction de sa palpabilité et de sa position par rapport à des lignes horizontales passant par le rebord costal, l'ombilic et la symphyse pubienne.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales causes de splénomégalie infectieuse?",
+        "answer": "Les principales causes de splénomégalie infectieuse incluent les bactérioses (fièvre typhoïde, brucellose, borrelioses, bartonelloses, rickettsioses, leptospiroses, septicémies/endocardites, abcès à pyogènes, granulomatoses), les viroses (mononucléose infectieuse, cytomégalovirose, hépatites virales, rubéole, VIH, arboviroses), les parasitoses (paludisme, leishmaniose viscérale, bilharzioses, trypanosomoses, hydatidose, abcès amibien, toxoplasmose, babésioses, toxocarose), et les mycoses (histoplasmoses, blastomycoses, coccidioidomycoses).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les examens à réaliser devant une splénomégalie ou une hépato-splénomégalie tropicale?",
+        "answer": "Les examens à réaliser incluent un examen clinique complet, NFS VS, frottis sanguin, bilan hépatique, radiographie du thorax, parasitologie sang/selles/urines, hémocultures, sérologies/IDR, électrophorèse de l’hémoglobine, échographie, myélogramme/myéloculture, et biopsies.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les complications des splénomégalies?",
+        "answer": "Les complications des splénomégalies incluent l’hypersplénisme (pancytopénie périphérique, anémie régénérative), l’infarctus et la rupture.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les risques associés à l’asplénie vraie ou fonctionnelle?",
+        "answer": "L’asplénie vraie ou fonctionnelle expose par immunodépression aux infections par les bactéries capsulées (pneumocoques, méningocoques, Haemophilus influenzae), les salmonelles et les Babesia.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Comment prévenir les infections à bactéries capsulées chez les patients aspléniques?",
+        "answer": "La vaccination et l’antibioprophylaxie à base de pénicilline orale permettent de prévenir les infections à bactéries capsulées chez les patients aspléniques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies non infectieuses ni parasitaires?",
+        "answer": "Les types de splénomégalies non infectieuses ni parasitaires incluent les hémoglobinopathies, l’hypertension portale, et les hématomes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour prévenir les infections chez les patients aspléniques?",
+        "answer": "Les traitements recommandés incluent la vaccination et l’antibioprophylaxie à base de pénicilline orale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques à rechercher lors de l’examen d’un patient avec splénomégalie?",
+        "answer": "Les signes cliniques à rechercher incluent les symptômes d’hémolyse, d’hémopathie, d’hypertension portale, d’infection, et de pathologies inflammatoires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens de laboratoire à réaliser pour diagnostiquer une splénomégalie?",
+        "answer": "Les examens de laboratoire incluent NFS VS, frottis sanguin, bilan hépatique, hémocultures, sérologies/IDR, et électrophorèse de l’hémoglobine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens d’imagerie recommandés pour évaluer une splénomégalie?",
+        "answer": "Les examens d’imagerie recommandés incluent la radiographie du thorax et l’échographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types d’hémopathies pouvant causer une splénomégalie?",
+        "answer": "Les types d’hémopathies incluent les leucémies aiguës, les syndromes myéloprolifératifs (leucémie myéloïde chronique, myélofibrose primitive, maladie de Vaquez, thrombocytémie essentielle), les syndromes lymphoprolifératifs (lymphomes, leucémie lymphoïde chronique, leucémie à tricholeucocytes), et la leucémie myélomonocytaire chronique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de pathologies inflammatoires pouvant causer une splénomégalie?",
+        "answer": "Les pathologies inflammatoires incluent les connectivites (lupus, sarcoïdose, syndrome de Gougerot-Sjögren), la maladie périodique (maladie de Still, fièvre périodique familiale), et le syndrome de Felty.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de compressions et obstructions de la veine porte pouvant causer une splénomégalie?",
+        "answer": "Les types de compressions et obstructions incluent la cirrhose, les fibroses parasitaires (bilharzioses), le syndrome de Budd-Chiari, et les métastases de tumeur solide.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de maladies de surcharge pouvant causer une splénomégalie?",
+        "answer": "Les maladies de surcharge incluent l’amylose, l’hémochromatose, la maladie de Gaucher, et la maladie de Niemann-Pick.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de traumatismes pouvant causer une splénomégalie?",
+        "answer": "Les types de traumatismes incluent les kystes et les hémangiomes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies hyperréactives?",
+        "answer": "Les types de splénomégalies hyperréactives incluent la splénomégalie palustre et le paludisme viscéral évolutif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des hémolyses?",
+        "answer": "Les types de splénomégalies associées à des hémolyses incluent le paludisme, les hémoglobinopathies, le déficit en G6PD, et les hémolyses acquises et auto-immunes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des infections?",
+        "answer": "Les types de splénomégalies associées à des infections incluent les splénomégalies infectieuses et les splénomégalies hyperréactives.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des pathologies inflammatoires?",
+        "answer": "Les types de splénomégalies associées à des pathologies inflammatoires incluent les connectivites, la maladie périodique, et le syndrome de Felty.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des hémopathies?",
+        "answer": "Les types de splénomégalies associées à des hémopathies incluent les leucémies aiguës, les syndromes myéloprolifératifs, les syndromes lymphoprolifératifs, et la leucémie myélomonocytaire chronique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des hypertensions portales?",
+        "answer": "Les types de splénomégalies associées à des hypertensions portales incluent la cirrhose, les fibroses parasitaires, le syndrome de Budd-Chiari, et les compressions et obstructions de la veine porte.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des maladies de surcharge?",
+        "answer": "Les types de splénomégalies associées à des maladies de surcharge incluent l’amylose, l’hémochromatose, la maladie de Gaucher, et la maladie de Niemann-Pick.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des traumatismes?",
+        "answer": "Les types de splénomégalies associées à des traumatismes incluent les kystes et les hémangiomes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des métastases de tumeur solide?",
+        "answer": "Les types de splénomégalies associées à des métastases de tumeur solide incluent les compressions et obstructions de la veine porte.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des fibroses parasitaires?",
+        "answer": "Les types de splénomégalies associées à des fibroses parasitaires incluent les bilharzioses.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des connectivites?",
+        "answer": "Les types de splénomégalies associées à des connectivites incluent le lupus, la sarcoïdose, et le syndrome de Gougerot-Sjögren.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à la maladie périodique?",
+        "answer": "Les types de splénomégalies associées à la maladie périodique incluent la maladie de Still et la fièvre périodique familiale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées au syndrome de Felty?",
+        "answer": "Les types de splénomégalies associées au syndrome de Felty incluent les pathologies inflammatoires.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les types de splénomégalies associées à des leucémies aiguës?",
+        "answer": "Les types de splénomégalies associées à des leucémies aiguës incluent les hémopathies.",
+        "qtype": "épidémiologie"
+    }
+]

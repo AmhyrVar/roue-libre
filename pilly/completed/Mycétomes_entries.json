@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce qu'un mycétome?",
+    "answer": "Les mycétomes se définissent comme tout processus au cours desquels des agents fongiques ou actinomycotiques d’origine exogène produisent des grains.",
+    "qtype": "définition"
+  },
+  {
+    "question": "Quels sont les types de mycétomes?",
+    "answer": "On distingue les mycétomes fongiques des actinomycétomes.",
+    "qtype": "classification"
+  },
+  {
+    "question": "Quelle est la principale différence entre les mycétomes fongiques et les actinomycétomes?",
+    "answer": "Les traitements des mycétomes fongiques et des actinomycétomes sont radicalement différents.",
+    "qtype": "différence"
+  },
+  {
+    "question": "Qui est principalement touché par les mycétomes?",
+    "answer": "Cette infection chronique frappe les ruraux vivant dans les régions tropicales arides.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quand les mycétomes ont-ils été ajoutés à la liste des maladies négligées de l'OMS?",
+    "answer": "Les mycétomes ont été rajoutés à la liste des maladies négligées de l’OMS en 2013.",
+    "qtype": "historique"
+  },
+  {
+    "question": "Les traitements médicaux des mycétomes sont-ils toujours efficaces?",
+    "answer": "Les traitements médicaux, longs et coûteux, ne sont pas toujours efficaces, surtout en ce qui concerne les étiologies fongiques où la chirurgie reste indiquée.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les agents impliqués dans les mycétomes?",
+    "answer": "Les agents impliqués sont nombreux. Ils sont soit fongiques, donnant des grains noirs ou blancs, soit actinomycotiques, donnant des grains blancs, jaunes ou rouges.",
+    "qtype": "agents"
+  },
+  {
+    "question": "Quelles sont les principales espèces responsables de mycétomes fongiques noirs?",
+    "answer": "Les principales espèces responsables de mycétomes fongiques noirs sont Madurella mycetomatis, Trematosphaeria grisea, et Falcifomispora senegalensis.",
+    "qtype": "agents"
+  },
+  {
+    "question": "Quelles sont les principales espèces responsables de mycétomes actinomycétiques blancs à blanc jaunâtre ou rosé?",
+    "answer": "Les principales espèces responsables de mycétomes actinomycétiques blancs à blanc jaunâtre ou rosé sont Nocardia brasiliensis, Actinomadura madurae, et Streptomyces somaliensis.",
+    "qtype": "agents"
+  },
+  {
+    "question": "Quelles sont les principales espèces responsables de mycétomes fongiques blancs?",
+    "answer": "Les principales espèces responsables de mycétomes fongiques blancs sont Scedosporium apiospermum, Acremonium sp, et Fusarium sp.",
+    "qtype": "agents"
+  },
+  {
+    "question": "Quelle est la principale espèce responsable de mycétomes actinomycétiques rouges?",
+    "answer": "La principale espèce responsable de mycétomes actinomycétiques rouges est Actinomadura pelletieri.",
+    "qtype": "agents"
+  },
+  {
+    "question": "Où se situent les zones endémiques des mycétomes?",
+    "answer": "Les zones endémiques se situent dans des régions tropicales et arides de part et d’autre du 15e parallèle Nord : foyer indien, foyer africain et foyer mexicain.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment les agents étiologiques des mycétomes sont-ils transmis?",
+    "answer": "Les agents étiologiques vivent en saprophytes dans le milieu extérieur et sont transmis à l’occasion de traumatismes souvent minimes, passant inaperçus.",
+    "qtype": "transmission"
+  },
+  {
+    "question": "Quelle est la circonstance la plus classique de contamination par les mycétomes?",
+    "answer": "La circonstance la plus classique de contamination est la piqûre par des épines.",
+    "qtype": "transmission"
+  },
+  {
+    "question": "Quel est le profil typique des patients atteints de mycétomes?",
+    "answer": "Les patients sont des ruraux, essentiellement des adultes jeunes. La prédominance masculine est nette.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se présentent les agents étiologiques des mycétomes in vivo?",
+    "answer": "Les agents étiologiques se présentent in vivo sous la forme de grains, constitués de filaments enchevêtrés dont la plupart sont morts.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les critères importants pour orienter le diagnostic d'espèce des mycétomes?",
+    "answer": "La taille et la couleur des grains sont des critères importants pour orienter le diagnostic d’espèce.",
+    "qtype": "diagnostic"
+  },
+  {
+    "question": "Quelles structures se forment autour des grains des mycétomes?",
+    "answer": "Autour des grains se forment des granulomes.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quel est le risque principal d'envahissement des tissus avoisinants par les mycétomes?",
+    "answer": "Il y a un risque d’atteinte osseuse au niveau du pied.",
+    "qtype": "complications"
+  },
+  {
+    "question": "Quelle est la période entre le traumatisme initial et les premiers signes cliniques des mycétomes?",
+    "answer": "Entre le traumatisme initial et les premiers signes cliniques existe une période cliniquement muette de plusieurs mois à plusieurs années.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quels sont les premiers signes cliniques des mycétomes?",
+    "answer": "Des lésions nodulaires apparaissent, qui vont se fistuliser avec émissions intermittentes contenant des grains parfois visibles à l’œil nu.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la localisation la plus fréquente des mycétomes?",
+    "answer": "L’atteinte siège au pied dans environ 70 % des cas (pied de Madura).",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est la deuxième localisation la plus fréquente des mycétomes?",
+    "answer": "La main représente la deuxième localisation la plus fréquente des mycétomes.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Les mycétomes peuvent-ils se localiser ailleurs que sur le pied et la main?",
+    "answer": "Le mycétome peut siéger en n’importe quelle partie du corps : membres, abdomen, tronc, tête et cou.",
+    "qtype": "clinique"
+  },
+  {
+    "question": "Quelle est l'évolution typique des mycétomes?",
+    "answer": "L’évolution est chronique, des complications peuvent apparaître, la plus fréquente étant l’atteinte osseuse se traduisant par des douleurs à prédominance nocturne.",
+    "qtype": "évolution"
+  },
+  {
+    "question": "Quelles sont les complications les plus fréquentes des mycétomes?",
+    "answer": "La complication la plus fréquente est l’atteinte osseuse se traduisant par des douleurs à prédominance nocturne.",
+    "qtype": "complications"
+  },
+  {
+    "question": "Quelles métastases sont observées avec les actinomycètes?",
+    "answer": "Les métastases ganglionnaires sont essentiellement observées avec les actinomycètes.",
+    "qtype": "complications"
+  },
+  {
+    "question": "Qu'est-ce qui favorise les métastases ganglionnaires dans les mycétomes?",
+    "answer": "Les métastases ganglionnaires sont favorisées par une chirurgie non précédée de traitement médical.",
+    "qtype": "complications"
+  },
+  {
+    "question": "Quelles autres complications peuvent survenir avec les mycétomes?",
+    "answer": "Parmi les autres complications, il faut citer la surinfection et les compressions locales.",
+    "qtype": "complications"
+  },
+  {
+    "question": "Quels sont les symptômes des formes très évoluées de mycétome?",
+    "answer": "Le patient peut devenir grabataire.",
+    "qtype": "symptômes"
+  }
+]

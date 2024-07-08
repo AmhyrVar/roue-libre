@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les signes cliniques d'une ascite volumineuse?",
+        "answer": "Augmentation du périmètre abdominal, matité déclive des flancs, signe du flot, prise de poids.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment sont reconnues les petites ascites?",
+        "answer": "Les petites ascites sont reconnues par l’échographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'examen de certitude pour diagnostiquer une ascite?",
+        "answer": "L’examen de certitude est la ponction exploratrice.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales causes d'ascite dans un contexte fébrile?",
+        "answer": "Tuberculose péritonéale, infection à pyogènes du liquide au cours d’un syndrome d’hypertension portale (HTP), carcinose péritonéale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Sur quoi repose le diagnostic étiologique d'une ascite?",
+        "answer": "Le diagnostic étiologique repose sur l’aspect du liquide ainsi que sur son analyse chimique et cyto-bactériologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les arguments en faveur de la tuberculose péritonéale?",
+        "answer": "Notion de contage, autre localisation tuberculeuse en particulier pulmonaire; fébricule, amaigrissement, peu ou pas de douleurs abdominales; intradermoréaction à la tuberculine positive ou phlycténulaire, absence d’hyperleucocytose à l’hémogramme; ascite claire, exsudative et riche en lymphocytes; adénopathies abdominales visualisées par l’échographie; bacilles acido-alcoolo-résistants (BAAR) à l’examen direct ou surtout à la culture du culot de centrifugation de la plus grande quantité possible de liquide d’ascite; granulations, nodules, plaques ou adhérences blanchâtres sur le péritoine pariétal et viscéral en laparoscopie; granulomes à la biopsie du foie ou du péritoine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de liquide d'ascite selon leur aspect?",
+        "answer": "Liquide clair, liquide trouble/purulent, liquide hémorragique, liquide chyleux (blanc).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères chimiques pour un exsudat dans le liquide d'ascite?",
+        "answer": "Prot > 25 g/l.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères chimiques pour un transsudat dans le liquide d'ascite?",
+        "answer": "Prot < 25 g/l.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères cellulaires pour un liquide d'ascite exsudatif?",
+        "answer": "> 1 000/mm3 lymphocytes > 70%.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères cellulaires pour un liquide d'ascite transsudatif?",
+        "answer": "< 250 PN neutrophiles/mm3.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères cellulaires pour un liquide d'ascite infectieux?",
+        "answer": "> 250 PN neutrophiles/mm3.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères cellulaires pour un liquide d'ascite hémorragique?",
+        "answer": "Globules rouges.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères cellulaires pour un liquide d'ascite chyleux?",
+        "answer": "Nombreux lymphocytes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les autres examens pour un liquide d'ascite clair?",
+        "answer": "BAAR direct ± Culture +.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les autres examens pour un liquide d'ascite trouble/purulent?",
+        "answer": "Culture d’ascite +, Hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les autres examens pour un liquide d'ascite hémorragique?",
+        "answer": "Cytologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les autres examens pour un liquide d'ascite chyleux?",
+        "answer": "Recherche de microfilaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les étiologies possibles pour un liquide d'ascite clair?",
+        "answer": "Tuberculose péritonéale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les étiologies possibles pour un liquide d'ascite trouble/purulent?",
+        "answer": "Infection par des pyogènes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les étiologies possibles pour un liquide d'ascite hémorragique?",
+        "answer": "Cancer.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les étiologies possibles pour un liquide d'ascite chyleux?",
+        "answer": "Cancer, filariose lymphatique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une tuberculose péritonéale?",
+        "answer": "Fébricule, amaigrissement, peu ou pas de douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les résultats de l'intradermoréaction à la tuberculine en cas de tuberculose péritonéale?",
+        "answer": "Positive ou phlycténulaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'aspect du liquide d'ascite en cas de tuberculose péritonéale?",
+        "answer": "Ascite claire, exsudative et riche en lymphocytes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de l'échographie en cas de tuberculose péritonéale?",
+        "answer": "Adénopathies abdominales visualisées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de l'examen direct ou de la culture du liquide d'ascite en cas de tuberculose péritonéale?",
+        "answer": "Bacilles acido-alcoolo-résistants (BAAR) à l’examen direct ou surtout à la culture du culot de centrifugation.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de la laparoscopie en cas de tuberculose péritonéale?",
+        "answer": "Granulations, nodules, plaques ou adhérences blanchâtres sur le péritoine pariétal et viscéral.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les résultats de la biopsie du foie ou du péritoine en cas de tuberculose péritonéale?",
+        "answer": "Granulomes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques et biologiques d'une infection à pyogène du liquide d'ascite?",
+        "answer": "Signes cliniques et biologiques d’HTP (cirrhose hépatique, bilharziose), douleurs abdominales, syndrome infectieux net avec parfois choc infectieux, hyperleucocytose à polynucléaires neutrophiles à l’hémogramme, liquide d’ascite trouble ou purulent non systématique, riche en polynucléaires neutrophiles, bactéries à l’examen direct et à la culture du liquide d’ascite et hémocultures positives dans 70 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection à pyogène du liquide d'ascite?",
+        "answer": "En urgence, initialement par voie parentérale : cefotaxime IV (1 g x 4/j) x 5 j ou amoxicilline + acide clavulanique IV puis PO (1 g x 3/j) x 7 j. Alternative : fluoroquinolone x 7 j adapté secondairement aux antibiogrammes. En cas de cirrhose, une perfusion systématique d’albumine à J1 et J3 du traitement doit être prescrit.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour une infection à pyogène du liquide d'ascite?",
+        "answer": "Risque de choc septique, d’encéphalopathie hépatique sur cirrhose, de récidive. La mortalité est supérieure à 50 %.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour une infection à pyogène du liquide d'ascite?",
+        "answer": "Cancer du foie sur cirrhose, ascite néoplasique souvent hémorragique, tuberculose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la tuberculose péritonéale?",
+        "answer": "Voir le chapitre « Tuberculose ». Se discute parfois une courte corticothérapie dans les formes florides.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour la tuberculose péritonéale?",
+        "answer": "Guérison sans séquelle. Il est habituellement bon sous traitement adapté.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour la tuberculose péritonéale?",
+        "answer": "Syndrome de Fitz-Hugh-Curtis chez les jeunes femmes, infection à pyogène du liquide d’ascite, ascites chyleuses.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une ascite chyleuse?",
+        "answer": "Une ascite chyleuse évoque un cancer abdominal, une filariose lymphatique (due à la rupture intra-abdominale de dilatations lymphatiques provoquée par Wuchereria bancrofti) ou plus rarement une tuberculose péritonéale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une ascite chyleuse?",
+        "answer": "Le traitement dépend de la cause sous-jacente, comme le cancer abdominal, la filariose lymphatique ou la tuberculose péritonéale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour une ascite chyleuse?",
+        "answer": "Le pronostic dépend de la cause sous-jacente et de la rapidité du traitement.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour une ascite chyleuse?",
+        "answer": "Cancer abdominal, filariose lymphatique, tuberculose péritonéale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une ascite infectieuse?",
+        "answer": "Signes cliniques et biologiques d’HTP (cirrhose hépatique, bilharziose), douleurs abdominales, syndrome infectieux net avec parfois choc infectieux, hyperleucocytose à polynucléaires neutrophiles à l’hémogramme, liquide d’ascite trouble ou purulent non systématique, riche en polynucléaires neutrophiles, bactéries à l’examen direct et à la culture du liquide d’ascite et hémocultures positives dans 70 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une ascite infectieuse?",
+        "answer": "En urgence, initialement par voie parentérale : cefotaxime IV (1 g x 4/j) x 5 j ou amoxicilline + acide clavulanique IV puis PO (1 g x 3/j) x 7 j. Alternative : fluoroquinolone x 7 j adapté secondairement aux antibiogrammes. En cas de cirrhose, une perfusion systématique d’albumine à J1 et J3 du traitement doit être prescrit.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour une ascite infectieuse?",
+        "answer": "Risque de choc septique, d’encéphalopathie hépatique sur cirrhose, de récidive. La mortalité est supérieure à 50 %.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour une ascite infectieuse?",
+        "answer": "Cancer du foie sur cirrhose, ascite néoplasique souvent hémorragique, tuberculose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une infection à pyogène du liquide d'ascite?",
+        "answer": "Signes cliniques et biologiques d’HTP (cirrhose hépatique, bilharziose), douleurs abdominales, syndrome infectieux net avec parfois choc infectieux, hyperleucocytose à polynucléaires neutrophiles à l’hémogramme, liquide d’ascite trouble ou purulent non systématique, riche en polynucléaires neutrophiles, bactéries à l’examen direct et à la culture du liquide d’ascite et hémocultures positives dans 70 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection à pyogène du liquide d'ascite?",
+        "answer": "En urgence, initialement par voie parentérale : cefotaxime IV (1 g x 4/j) x 5 j ou amoxicilline + acide clavulanique IV puis PO (1 g x 3/j) x 7 j. Alternative : fluoroquinolone x 7 j adapté secondairement aux antibiogrammes. En cas de cirrhose, une perfusion systématique d’albumine à J1 et J3 du traitement doit être prescrit.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour une infection à pyogène du liquide d'ascite?",
+        "answer": "Risque de choc septique, d’encéphalopathie hépatique sur cirrhose, de récidive. La mortalité est supérieure à 50 %.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour une infection à pyogène du liquide d'ascite?",
+        "answer": "Cancer du foie sur cirrhose, ascite néoplasique souvent hémorragique, tuberculose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la tuberculose péritonéale?",
+        "answer": "Voir le chapitre « Tuberculose ». Se discute parfois une courte corticothérapie dans les formes florides.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour la tuberculose péritonéale?",
+        "answer": "Guérison sans séquelle. Il est habituellement bon sous traitement adapté.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour la tuberculose péritonéale?",
+        "answer": "Syndrome de Fitz-Hugh-Curtis chez les jeunes femmes, infection à pyogène du liquide d’ascite, ascites chyleuses.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une ascite chyleuse?",
+        "answer": "Une ascite chyleuse évoque un cancer abdominal, une filariose lymphatique (due à la rupture intra-abdominale de dilatations lymphatiques provoquée par Wuchereria bancrofti) ou plus rarement une tuberculose péritonéale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une ascite chyleuse?",
+        "answer": "Le traitement dépend de la cause sous-jacente, comme le cancer abdominal, la filariose lymphatique ou la tuberculose péritonéale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour une ascite chyleuse?",
+        "answer": "Le pronostic dépend de la cause sous-jacente et de la rapidité du traitement.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour une ascite chyleuse?",
+        "answer": "Cancer abdominal, filariose lymphatique, tuberculose péritonéale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une ascite infectieuse?",
+        "answer": "Signes cliniques et biologiques d’HTP (cirrhose hépatique, bilharziose), douleurs abdominales, syndrome infectieux net avec parfois choc infectieux, hyperleucocytose à polynucléaires neutrophiles à l’hémogramme, liquide d’ascite trouble ou purulent non systématique, riche en polynucléaires neutrophiles, bactéries à l’examen direct et à la culture du liquide d’ascite et hémocultures positives dans 70 % des cas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une ascite infectieuse?",
+        "answer": "En urgence, initialement par voie parentérale : cefotaxime IV (1 g x 4/j) x 5 j ou amoxicilline + acide clavulanique IV puis PO (1 g x 3/j) x 7 j. Alternative : fluoroquinolone x 7 j adapté secondairement aux antibiogrammes. En cas de cirrhose, une perfusion systématique d’albumine à J1 et J3 du traitement doit être prescrit.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le pronostic pour une ascite infectieuse?",
+        "answer": "Risque de choc septique, d’encéphalopathie hépatique sur cirrhose, de récidive. La mortalité est supérieure à 50 %.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels pour une ascite infectieuse?",
+        "answer": "Cancer du foie sur cirrhose, ascite néoplasique souvent hémorragique, tuberculose.",
+        "qtype": "diagnostic"
+    }
+]

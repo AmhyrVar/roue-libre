@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce que la neutropénie?",
+        "answer": "La neutropénie est définie par un nombre de polynucléaires neutrophiles à la numération formule sanguine < 1 500/mm3 chez l’adulte et 1 300/mm3 chez l’enfant. Elle est sévère en dessous de 500/mm3 et profonde en dessous de 100/mm3.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quelles sont les causes principales de la neutropénie?",
+        "answer": "Les causes de la neutropénie peuvent être congénitales, acquises (principalement envahissement médullaire néoplasique, myélodysplasie) ou iatrogènes (médicament, chimiothérapie anticancéreuse).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels médicaments peuvent causer une neutropénie?",
+        "answer": "Les médicaments les plus fréquemment en cause sont les antithyroïdiens, la phénylbutazone, l’indométacine, les sulfamides, le chloramphénicol, les phénothiazines (antihistaminiques), les beta lactamines, la rifampicine, le triméthoprime, l’amidopyrine, la L Dopa, les diurétiques thiazidiques, la phénytoine, la quinine et les anti-agrégants plaquettaires.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les germes les plus fréquents responsables d'infections chez les neutropéniques?",
+        "answer": "Les cocci Gram positifs (staphylocoques à coagulase négative, Staphylococcus aureus, Streptococcus viridans, Enterococcus) sont les plus fréquents, mais les bacilles Gram négatifs (Escherichia coli, Enterobacter, Klebsiella, Pseudomonas aeruginosa) sont associés à une plus grande létalité.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les risques associés à une neutropénie profonde et prolongée?",
+        "answer": "La neutropénie profonde et prolongée (> 7 jours) est un facteur de risque majeur d’infection fongique comme l’aspergillose et la candidose, avec risque de localisation profonde notamment hépatique ou splénique chez les patients traités pour leucémies aiguës. Elle augmente également le risque de bactéries multirésistantes.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels examens sont recommandés pour identifier la cause d'une neutropénie fébrile?",
+        "answer": "Le bilan étiologique comprend des hémocultures, un examen cyto-bactériologique des urines (ECBU), des prélèvements orientés par la clinique, une radio du thorax, un frottis sanguin/goutte épaisse en milieu d’endémie palustre, une NFS, un dosage des vitamines B9 et B12 et un myélogramme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques à surveiller chez un patient neutropénique fébrile?",
+        "answer": "Les signes inflammatoires étant réduits chez ces patients, il faut être très vigilant sur les symptômes et l’examen clinique : un érythème peut traduire une infection cutanée sévère, une simple toux une pneumonie. Les muqueuses (orales, périnéales) doivent être systématiquement examinées de même que les cathéters.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque évalués par le score MASCC?",
+        "answer": "Le score MASCC évalue les facteurs de risque lors de l’évaluation de la gravité de la neutropénie fébrile. Un score > à 21 place le patient en faible risque de complications médicales.",
+        "qtype": "évaluation"
+    },
+    {
+        "question": "Quels sont les types de neutropénies acquises en zone tropicale?",
+        "answer": "Les neutropénies acquises en zone tropicale peuvent être d’origine infectieuse : envahissement médullaire par une tuberculose ou une leishmaniose, neutropénie d’origine virale (hépatites virales, entérovirus, VIH, parvovirus, fièvres hémorragiques) ou bactériennes (brucellose, fièvre typhoïde).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quelle est l'importance de la durée de la neutropénie?",
+        "answer": "La durée de la neutropénie (< ou > 7 jours) participe à la gravité de la condition.",
+        "qtype": "gravité"
+    },
+    {
+        "question": "Quels sont les risques d'infection fongique chez les patients neutropéniques?",
+        "answer": "Les patients neutropéniques, surtout ceux avec une neutropénie profonde et prolongée, sont à risque d'infections fongiques comme l’aspergillose et la candidose, avec des risques de localisations profondes notamment hépatique ou splénique.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les germes Gram négatifs les plus fréquents chez les neutropéniques?",
+        "answer": "Les bacilles Gram négatifs les plus fréquents chez les neutropéniques sont Escherichia coli, Enterobacter, Klebsiella, et Pseudomonas aeruginosa.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les signes inflammatoires à surveiller chez les patients neutropéniques?",
+        "answer": "Les signes inflammatoires étant réduits chez les patients neutropéniques, il faut surveiller des symptômes comme un érythème qui peut traduire une infection cutanée sévère, ou une simple toux qui peut indiquer une pneumonie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens systématiques à réaliser en milieu d’endémie palustre pour un patient neutropénique fébrile?",
+        "answer": "En milieu d’endémie palustre, la réalisation d’un frottis sanguin/goutte épaisse doit être systématique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de neutropénies d'origine virale en zone tropicale?",
+        "answer": "Les neutropénies d’origine virale en zone tropicale peuvent être causées par les hépatites virales, les entérovirus, le VIH, le parvovirus et les fièvres hémorragiques.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les types de neutropénies d'origine bactérienne en zone tropicale?",
+        "answer": "Les neutropénies d’origine bactérienne en zone tropicale peuvent être causées par la brucellose et la fièvre typhoïde.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels déficits vitaminiques peuvent causer une neutropénie?",
+        "answer": "Un déficit en vitamine B9 et B12 peut causer une neutropénie.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les germes Gram positifs les plus fréquents chez les neutropéniques?",
+        "answer": "Les cocci Gram positifs les plus fréquents chez les neutropéniques sont les staphylocoques à coagulase négative, Staphylococcus aureus, Streptococcus viridans et Enterococcus.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les risques associés aux bacilles Gram négatifs chez les neutropéniques?",
+        "answer": "Les bacilles Gram négatifs comme Escherichia coli, Enterobacter, Klebsiella, et Pseudomonas aeruginosa sont associés à une plus grande létalité chez les neutropéniques.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les examens cliniques recommandés pour un patient neutropénique fébrile?",
+        "answer": "Les examens cliniques recommandés comprennent des hémocultures, un examen cyto-bactériologique des urines (ECBU), des prélèvements orientés par la clinique, une radio du thorax, un frottis sanguin/goutte épaisse en milieu d’endémie palustre, une NFS, un dosage des vitamines B9 et B12 et un myélogramme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques à examiner systématiquement chez un patient neutropénique?",
+        "answer": "Les muqueuses (orales, périnéales) doivent être systématiquement examinées de même que les cathéters.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de neutropénies d'origine infectieuse en zone tropicale?",
+        "answer": "Les neutropénies d’origine infectieuse en zone tropicale peuvent être causées par l’envahissement médullaire par une tuberculose ou une leishmaniose, des infections virales (hépatites virales, entérovirus, VIH, parvovirus, fièvres hémorragiques) ou bactériennes (brucellose, fièvre typhoïde).",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les risques d'infection chez les patients traités pour leucémies aiguës?",
+        "answer": "Les patients traités pour leucémies aiguës sont à risque d’infections fongiques comme l’aspergillose et la candidose, avec des risques de localisations profondes notamment hépatique ou splénique.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les germes les plus fréquents chez les neutropéniques?",
+        "answer": "Les cocci Gram positifs (staphylocoques à coagulase négative, Staphylococcus aureus, Streptococcus viridans, Enterococcus) sont les plus fréquents, mais les bacilles Gram négatifs (Escherichia coli, Enterobacter, Klebsiella, Pseudomonas aeruginosa) sont associés à une plus grande létalité.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les examens recommandés pour un patient neutropénique en milieu d’endémie palustre?",
+        "answer": "En milieu d’endémie palustre, la réalisation d’un frottis sanguin/goutte épaisse doit être systématique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes inflammatoires réduits chez les patients neutropéniques?",
+        "answer": "Les signes inflammatoires étant réduits chez les patients neutropéniques, il faut surveiller des symptômes comme un érythème qui peut traduire une infection cutanée sévère, ou une simple toux qui peut indiquer une pneumonie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de neutropénies d'origine virale?",
+        "answer": "Les neutropénies d’origine virale peuvent être causées par les hépatites virales, les entérovirus, le VIH, le parvovirus et les fièvres hémorragiques.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les types de neutropénies d'origine bactérienne?",
+        "answer": "Les neutropénies d’origine bactérienne peuvent être causées par la brucellose et la fièvre typhoïde.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels déficits vitaminiques peuvent causer une neutropénie?",
+        "answer": "Un déficit en vitamine B9 et B12 peut causer une neutropénie.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels sont les germes Gram positifs les plus fréquents chez les neutropéniques?",
+        "answer": "Les cocci Gram positifs les plus fréquents chez les neutropéniques sont les staphylocoques à coagulase négative, Staphylococcus aureus, Streptococcus viridans et Enterococcus.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les critères pour évaluer le risque chez un patient neutropénique fébrile?",
+        "answer": "Âge < 60 ans, patient ambulatoire avant l’épisode fébrile, pas/peu de symptômes de neutropénie fébrile, symptômes modérés de neutropénie fébrile, pas d’hypotension artérielle systolique (> 90 mmHg), pas de déshydratation (nécessitant une réhydratation intraveineuse), pas de broncho-pneumopathie obstructive (BPCO), tumeur solide ou hémopathie sans infection fongique antérieure.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les patients neutropéniques à faible risque?",
+        "answer": "Le traitement peut être ambulatoire après une hospitalisation courte en associant une biantibiothérapie par voie orale (amoxicilline-acide clavulanique et ciprofloxacine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement empirique est recommandé pour les patients neutropéniques à risque?",
+        "answer": "Le traitement empirique comporte une bêtalactamine en monothérapie avec une action anti-pyocyanique, comme la pipéracilline-tazobactam ou le cefepime.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand l'ajout d'un aminoglycoside est-il justifié dans le traitement des patients neutropéniques?",
+        "answer": "L’ajout d’un aminoglycoside (amikacine le plus souvent) ne se justifie qu'en cas d’infection sévère, de choc septique ou de suspicion de bactérie multirésistante (BMR) à la phase initiale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Dans quels cas l'ajout d'un glycopeptide est-il nécessaire pour les patients neutropéniques?",
+        "answer": "L’ajout d’un glycopeptide est nécessaire en cas d’infection sévère, de choc septique ou si des éléments orientent vers un cocci Gram+ (infection de cathéter, cutanée, colonisation connue à Staphylococcus aureus doré résistant à la méthicilline (SARM)).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand l'antibiothérapie doit-elle être réévaluée chez les patients neutropéniques?",
+        "answer": "L’antibiothérapie doit être réévaluée à 48-72 heures.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas de persistance de la fièvre et de la neutropénie au-delà de 7 jours malgré une antibiothérapie à large spectre?",
+        "answer": "Un traitement anti-fongique (amphotéricine B, ou caspofungine si disponible) doit être envisagé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention pour les patients neutropéniques?",
+        "answer": "Les mesures de prévention incluent les précautions standards (notamment le lavage des mains), l’utilisation systématique des bains de bouche et l’ablation des dispositifs médicaux invasifs dès lors qu’ils ne sont plus nécessaires.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels patients doivent être isolés de façon maximale?",
+        "answer": "Les patients en induction de leucémie aiguë et les allogreffés de cellules souches hématopoïétiques doivent être isolés de façon maximale.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle prophylaxie est recommandée pour les patients neutropéniques en induction de leucémie aiguë ou allogreffés de cellules souches hématopoïétiques?",
+        "answer": "Ils doivent recevoir une prophylaxie antifongique et anti Herpes simplex.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation concernant l'antibiothérapie préventive pour les patients neutropéniques?",
+        "answer": "L’antibiothérapie préventive n’est pas indiquée en dehors de la prophylaxie anti pneumocystose dans certains cas.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'utilité de la décontamination digestive chez les patients neutropéniques?",
+        "answer": "La décontamination digestive est sans intérêt.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de documentation microbiologique ou clinique?",
+        "answer": "Le traitement doit être recentré sur l’infection en cause.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas d'absence d'apyrexie chez les patients neutropéniques après 48-72 heures?",
+        "answer": "Le traitement n’a pas à être modifié en l’absence de signes de gravité ; le traitement anti-staphylococcique doit être stoppé en l’absence de documentation.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas de persistance d’un sepsis sévère chez les patients neutropéniques?",
+        "answer": "Le spectre de l’antibiothérapie doit être élargi.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand arrêter les antibiotiques chez les patients neutropéniques?",
+        "answer": "Les antibiotiques doivent être arrêtés dès 48 heures d'apyrexie ou après 5-7 jours d’apyrexie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de choc septique ou sepsis sévère?",
+        "answer": "Une triple antibiothérapie : Bétalactamine antipyocyanique + Aminoglycoside + Vancomycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas d'apyrexie à J3-5?",
+        "answer": "La réévaluation du traitement est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de documentation microbiologique ou clinique?",
+        "answer": "Le traitement doit être recentré sur l’infection en cause.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de persistance de la fièvre et de la neutropénie au-delà de 7 jours?",
+        "answer": "Un traitement anti-fongique (amphotéricine B, ou caspofungine si disponible) doit être envisagé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de sortie d’aplasie?",
+        "answer": "Les antibiotiques doivent être arrêtés à J7.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de haut risque initial?",
+        "answer": "La poursuite de l’antibiothérapie est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de mucite ou d’instabilité clinique?",
+        "answer": "La poursuite de l’antibiothérapie est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de documentation microbiologique ou clinique?",
+        "answer": "Le traitement doit être recentré sur l’infection en cause.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de persistance de la fièvre et de la neutropénie au-delà de 7 jours?",
+        "answer": "Un traitement anti-fongique (amphotéricine B, ou caspofungine si disponible) doit être envisagé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de sortie d’aplasie?",
+        "answer": "Les antibiotiques doivent être arrêtés à J7.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de haut risque initial?",
+        "answer": "La poursuite de l’antibiothérapie est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de mucite ou d’instabilité clinique?",
+        "answer": "La poursuite de l’antibiothérapie est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de documentation microbiologique ou clinique?",
+        "answer": "Le traitement doit être recentré sur l’infection en cause.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les patients neutropéniques en cas de persistance de la fièvre et de la neutropénie au-delà de 7 jours?",
+        "answer": "Un traitement anti-fongique (amphotéricine B, ou caspofungine si disponible) doit être envisagé.",
+        "qtype": "traitement"
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce qui définit une fièvre prolongée?",
+        "answer": "L’augmentation de la température à plus de 38,3 °C pendant plus de 3 semaines définit la fièvre prolongée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de référence pour la prise de température?",
+        "answer": "La méthode de référence est la prise de température avec un thermomètre électronique par voie rectale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de courbes de fièvre qui peuvent orienter vers une étiologie?",
+        "answer": "Les fièvres en plateau (typhoïde), ondulantes (brucellose), tierce ou quarte (paludisme), récurrentes (borrélioses), désarticulées (endocardites, hémopathies, leishmaniose viscérale) et les fébricules (tuberculose, brucellose chronique).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels antécédents doivent être pris en compte lors de l'anamnèse pour une fièvre prolongée?",
+        "answer": "Les antécédents personnels infectieux et vaccinaux, les antécédents chirurgicaux et de pose de matériel prothétique, le milieu de vie, les potentiels contages infectieux, l’exposition aux animaux, la réalisation de voyages récents et la prise de médicaments.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels signes généraux doivent être recherchés lors de l'examen clinique d'une fièvre prolongée?",
+        "answer": "Anorexie, perte de poids, asthénie, sueurs, frissons, douleur.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens complémentaires sont systématiquement pratiqués en cas de fièvre isolée?",
+        "answer": "NFS-plaquettes, ionogramme sanguin, créatininémie, bilan hépatique, CRP, hémocultures, bandelette urinaire, sérologie VIH, radiographie de thorax.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens peuvent être réalisés selon les points d'appel clinique?",
+        "answer": "Ponction lombaire, échographies abdominale ou cardiaque, tomo-densitométrie, endoscopies digestive ou bronchique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes infectieuses majoritaires de fièvre prolongée?",
+        "answer": "Les endocardites infectieuses, les infections sur matériel prothétique, les abcès, les infections canalaires digestives et urinaires, et la tuberculose.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quelle pathologie doit être recherchée en cas d'hépato-splénomégalie fébrile dans les aires de transmission?",
+        "answer": "La leishmaniose viscérale.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quel est le traitement d'épreuve recommandé en cas de difficulté de documentation microbiologique?",
+        "answer": "Un traitement dit « d’épreuve » peut être institué pour argumenter un diagnostic en cas de difficulté de documentation microbiologique (tuberculose, paludisme viscéral évolutif, endocardite à hémocultures négatives).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Qu'est-ce que la cachexie?",
+        "answer": "État de malnutrition chronique avec inflammation, associant une anorexie et une destruction tissulaire causé par la pathologie sous-jacente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la cachexie?",
+        "answer": "Disparition du pannicule adipeux sous-cutané et fonte musculaire, perte de poids supérieure à quatre kilos en moins d’un mois.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les causes de persistance de la faim dans la cachexie?",
+        "answer": "Défaut d’apport alimentaire, obstacle à une alimentation normale, déperdition excessive, hypercatabolisme.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quelles sont les causes d'anorexie dans la cachexie?",
+        "answer": "Infection chronique, pathologie neurologique chronique, cirrhose, cancer, pathologie psychiatrique, anorexie mentale.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la tuberculose?",
+        "answer": "Radiographies, IDR, biopsie de foie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la typhoïde et autres salmonelloses?",
+        "answer": "Hémocultures, échographie vésiculaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la brucellose?",
+        "answer": "Hémocultures, sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer les borrélioses?",
+        "answer": "Frottis sanguin.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la coxiellose?",
+        "answer": "Sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la syphilis secondaire et tertiaire?",
+        "answer": "Sérologie, ponction lombaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer une endocardite ou bactériémie?",
+        "answer": "Hémocultures, échographie cardiaque.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer une infection biliaire?",
+        "answer": "Hémocultures, échographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer une infection urinaire ou prostatite?",
+        "answer": "Hémocultures, ECBU, échographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer des abcès profonds ou infections pelviennes?",
+        "answer": "Échographie, scanner, ponctions.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer des ostéo-arthrites?",
+        "answer": "Hémocultures, radiographies, scanner, scintigraphie, ponction/biopsie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer une infection sur prothèse?",
+        "answer": "Hémocultures, radiographies, scanner, scintigraphie, ponction/biopsie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer le paludisme chronique?",
+        "answer": "Frottis-goutte épaisse, sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la leishmaniose viscérale?",
+        "answer": "Ponction sternale, sérologie, cultures du sang et de moelle.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer l'amœbose hépatique?",
+        "answer": "NFS, échographie, sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour diagnostiquer la toxoplasmose?",
+        "answer": "NFS, sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens biologiques typiques pour diagnostiquer une granulomatose hépatique?",
+        "answer": "Le tableau typique est celui d’une cholestase anictérique associant une élévation des gamma GT et des phosphatases alcalines avec souvent des transaminases normales ou faiblement augmentées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes infectieuses les plus fréquentes de granulomatose hépatique?",
+        "answer": "Les causes infectieuses les plus fréquentes de granulomatose hépatique sont dominées par la tuberculose, suivie de la brucellose, les mycobactérioses non tuberculeuses, la coxiellose, les rickettsioses, les bartonelloses, la syphilis secondaire, les yersinioses et la maladie de Whipple.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques associés aux granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques associés aux granulomatoses hépatiques incluent la fièvre avec ou sans altération de l’état général, une hépatomégalie, un tableau d’ictère grave fébrile, une hépato-splénomégalie ou une fièvre prolongée isolée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une fièvre prolongée due à une infection virale?",
+        "answer": "Les examens nécessaires pour diagnostiquer une fièvre prolongée due à une infection virale incluent la sérologie, la virémie (PCR), et les antigènes spécifiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour les mycoses profondes?",
+        "answer": "Les traitements recommandés pour les mycoses profondes incluent des antifongiques spécifiques, souvent administrés après confirmation par radiographie, ponctions/biopsies, ponction lombaire, et sérologies.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes responsables de la fièvre prolongée chez les voyageurs revenant de pays tropicaux?",
+        "answer": "Les principaux agents pathogènes responsables de la fièvre prolongée chez les voyageurs revenant de pays tropicaux incluent le paludisme, la typhoïde, la fièvre récurrente, l’hépatite virale et la primo-infection par le VIH.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les critères de contre-indication pour une biopsie hépatique?",
+        "answer": "Les critères de contre-indication pour une biopsie hépatique incluent un taux de prothrombine < à 50 %, un taux de plaquettes < à 60 Giga/L, un allongement du temps de céphaline + activateur > à 1,5 fois la normale, la présence d’un kyste hydatique ou d’une angiocholite.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la lèpre dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les signes cliniques de la lèpre dans le cadre des granulomatoses hépatiques incluent des atteintes spécifiques cutanées, muqueuses et nerveuses cliniques et/ou histologiques, ainsi que l’identification de bacilles de Hansen dans les histiocytes ou les cellules de Küppfer de la biopsie de foie, de peau ou d’autres prélèvements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une brucellose?",
+        "answer": "Les examens nécessaires pour diagnostiquer une brucellose incluent la culture des prélèvements et la sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes de la bilharziose dans le cadre des granulomatoses hépatiques incluent la présence d’œufs de schistosomes au sein des granulomes, une fibrose, et la détection d’œufs dans les selles, les urines ou la biopsie de muqueuse rectale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une toxocarose?",
+        "answer": "Les examens nécessaires pour diagnostiquer une toxocarose incluent la sérologie et la détection d’éosinophilie sanguine.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes associés à une infection par le VIH dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes associés à une infection par le VIH dans le cadre des granulomatoses hépatiques peuvent inclure une fièvre prolongée avec une hépatite granulomateuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une histoplasmose?",
+        "answer": "Les examens nécessaires pour diagnostiquer une histoplasmose incluent la détection de filaments mycéliens ou de grandes levures dans les cellules de Küppfer et les granulomes après colorations au PAS et de Grocott, ainsi que la sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de la sarcoïdose dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de la sarcoïdose dans le cadre des granulomatoses hépatiques incluent une granulomatose diffuse touchant les ganglions, les médiastino-poumons, les glandes salivaires accessoires et les reins, ainsi que l’absence de nécrose caséeuse dans les granulomes hépatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une cirrhose biliaire primitive?",
+        "answer": "Les examens nécessaires pour diagnostiquer une cirrhose biliaire primitive incluent la détection de granulomes dans les espaces portes, une atteinte inflammatoire des canaux biliaires, et la présence d’anticorps antimitochondries, anti-gp210, et anti-Sp140.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de la maladie de Crohn dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de la maladie de Crohn dans le cadre des granulomatoses hépatiques peuvent être confirmés par une biopsie du grêle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une rectocolite hémorragique (RCH)?",
+        "answer": "Les examens nécessaires pour diagnostiquer une rectocolite hémorragique (RCH) incluent une biopsie rectale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de l’hépatite virale chronique (HVC) dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de l’hépatite virale chronique (HVC) dans le cadre des granulomatoses hépatiques peuvent être confirmés par la sérologie et la virémie (PCR).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques du psoriasis dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques du psoriasis dans le cadre des granulomatoses hépatiques peuvent être confirmés par un diagnostic clinique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de la maladie de Hodgkin dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de la maladie de Hodgkin dans le cadre des granulomatoses hépatiques incluent un aspect lymphomateux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les médicaments pouvant causer des granulomatoses hépatiques?",
+        "answer": "Les médicaments pouvant causer des granulomatoses hépatiques incluent les sulfamides, les pénicillines, la quinidine, l’allopurinol, la carbamazépine et l’hydralazine.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques associés à une réaction médicamenteuse causant une granulomatose hépatique?",
+        "answer": "Les symptômes cliniques associés à une réaction médicamenteuse causant une granulomatose hépatique incluent des granulomes sans nécrose caséeuse, des infiltrats d’éosinophiles fréquents, des signes d’allergie, de la fièvre, une éruption cutanée et du prurit.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une tuberculose dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les examens nécessaires pour diagnostiquer une tuberculose dans le cadre des granulomatoses hépatiques incluent la détection de nécrose caséeuse dans les granulomes, l’identification de BK dans la biopsie de foie (coloration de Ziehl), et d’autres localisations comme le poumon.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de la brucellose dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de la brucellose dans le cadre des granulomatoses hépatiques incluent une possible nécrose au sein des granulomes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une syphilis secondaire ou tertiaire?",
+        "answer": "Les examens nécessaires pour diagnostiquer une syphilis secondaire ou tertiaire incluent la sérologie tréponémique et la ponction lombaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de la tularémie dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de la tularémie dans le cadre des granulomatoses hépatiques peuvent inclure une nécrose caséeuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une infection par le CMV dans le cadre des fièvres prolongées?",
+        "answer": "Les examens nécessaires pour diagnostiquer une infection par le CMV dans le cadre des fièvres prolongées incluent la NFS, la sérologie, la virémie (PCR) et la détection de l’antigène pp65.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cliniques de la fièvre Q dans le cadre des granulomatoses hépatiques?",
+        "answer": "Les symptômes cliniques de la fièvre Q dans le cadre des granulomatoses hépatiques peuvent inclure une fièvre prolongée isolée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens nécessaires pour diagnostiquer une infection par le VIH dans le cadre des fièvres prolongées?",
+        "answer": "Les examens nécessaires pour diagnostiquer une infection par le VIH dans le cadre des fièvres prolongées incluent la sérologie, la radiographie thoracique, le lavage broncho-alvéolaire (LBA), les hémocultures et la myéloculture.",
+        "qtype": "diagnostic"
+    }
+]

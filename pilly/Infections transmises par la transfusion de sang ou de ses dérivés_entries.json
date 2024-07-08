@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les agents infectieux transmissibles par transfusion sanguine?",
+        "answer": "Les agents infectieux transmissibles par transfusion sanguine incluent des bactéries (Staphylocoques dorés, Streptocoques, Entérobactéries, etc.), des protozoaires (Paludisme, toxoplasmose, leishmanioses, trypanosomose américaine), des champignons (Levures comme Candida), des virus (VHB, VHC, VIH, etc.), et des prions.",
+        "qtype": "agents infectieux"
+    },
+    {
+        "question": "Quels sont les signes cliniques des infections bactériennes transmises par transfusion (IBTT)?",
+        "answer": "Les signes cliniques des IBTT incluent une fièvre ou hypothermie d’installation rapide, des frissons, un malaise, des troubles digestifs, une polypnée, et des signes de choc comme des marbrures et une hypotension.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la conduite pratique recommandée en cas de suspicion d'infection bactérienne transmise par transfusion?",
+        "answer": "La conduite pratique recommandée inclut l'interruption de la transfusion sanguine, une surveillance médicale, la réalisation de 2 hémocultures à 1 heure d’intervalle, l'envoi de la poche présumée infectée au laboratoire, et un contrôle immunologique pour rechercher des agglutinines irrégulières et des anticorps anti-leuco-plaquettaires.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels virus peuvent être transmis par transfusion sanguine et provoquer une éruption?",
+        "answer": "Les virus pouvant provoquer une éruption après une transfusion sanguine incluent le parvovirus B19, le HHV-6, et le VIH.",
+        "qtype": "agents infectieux"
+    },
+    {
+        "question": "Quels sont les principaux risques de transmission transfusionnelle en Afrique?",
+        "answer": "Les principaux risques de transmission transfusionnelle en Afrique incluent le VIH, le VHB, le VHC, et la syphilis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des complications infectieuses post-transfusionnelles virales?",
+        "answer": "Les symptômes des complications infectieuses post-transfusionnelles virales peuvent inclure une fièvre, une éruption, un syndrome méningé, des adénopathies périphériques, et des anomalies biologiques comme un syndrome mononucléosique et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment prévenir les infections post-transfusionnelles?",
+        "answer": "La prévention des infections post-transfusionnelles repose sur la sélection des donneurs, la qualité des prélèvements, de la conservation et du traitement du sang.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une bactériémie liée à une transfusion sanguine?",
+        "answer": "Les signes cliniques d'une bactériémie liée à une transfusion sanguine incluent une fièvre ou hypothermie d’installation rapide, des frissons, un malaise, des troubles digestifs, une polypnée, et des signes de choc comme des marbrures et une hypotension.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents infectieux non conventionnels transmissibles par transfusion sanguine?",
+        "answer": "Les agents infectieux non conventionnels transmissibles par transfusion sanguine incluent les prions.",
+        "qtype": "agents infectieux"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle du VIH?",
+        "answer": "Le risque de transmission transfusionnelle du VIH est lié à la présence du virus dans le sang du donneur et peut être réduit par des mesures de sécurité transfusionnelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le paludisme post-transfusionnel?",
+        "answer": "Les symptômes d'une infection par le paludisme post-transfusionnel incluent une fièvre survenant dans les jours suivant la transfusion érythrocytaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels protozoaires peuvent être transmis par transfusion sanguine?",
+        "answer": "Les protozoaires pouvant être transmis par transfusion sanguine incluent le paludisme, la toxoplasmose, les leishmanioses, et la trypanosomose américaine.",
+        "qtype": "agents infectieux"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le VIH post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le VIH post-transfusionnelle peuvent inclure une éruption, un syndrome méningé, des adénopathies périphériques, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le CMV post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le CMV post-transfusionnelle peuvent inclure une fièvre, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le VHB post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le VHB post-transfusionnelle peuvent inclure une fièvre, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le VHC post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le VHC post-transfusionnelle peuvent inclure une fièvre, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le VHE post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le VHE post-transfusionnelle peuvent inclure une fièvre, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le VHG post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le VHG post-transfusionnelle peuvent inclure une fièvre, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le EBV post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le EBV post-transfusionnelle peuvent inclure une fièvre, un syndrome mononucléosique, et une cytolyse hépatique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le HHV-6 post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le HHV-6 post-transfusionnelle peuvent inclure une éruption et une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le HTLV post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le HTLV post-transfusionnelle peuvent inclure un syndrome méningé et une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le parvovirus B19 post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le parvovirus B19 post-transfusionnelle peuvent inclure une éruption et une fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le HSV post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le HSV post-transfusionnelle peuvent inclure une fièvre et des lésions cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le VZV post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le VZV post-transfusionnelle peuvent inclure une fièvre et des lésions cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le HHV-8 post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le HHV-8 post-transfusionnelle peuvent inclure une fièvre et des lésions cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le SEN-V post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le SEN-V post-transfusionnelle peuvent inclure une fièvre et des anomalies hépatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le TTV post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le TTV post-transfusionnelle peuvent inclure une fièvre et des anomalies hépatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le virus G post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le virus G post-transfusionnelle peuvent inclure une fièvre et des anomalies hépatiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le adénovirus post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le adénovirus post-transfusionnelle peuvent inclure une fièvre et des symptômes respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection par le virus de la rage post-transfusionnelle?",
+        "answer": "Les symptômes d'une infection par le virus de la rage post-transfusionnelle peuvent inclure une fièvre et des symptômes neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens biologiques réglementaires effectués en France pour la sélection des donneurs de sang?",
+        "answer": "Les examens biologiques réglementaires en France incluent le dépistage de la syphilis, les dosages des transaminases (ALAT), le dépistage de l'Ag HBs et le dosage des anticorps anti-HBc, la sérologie VIH, la sérologie VHC, le dépistage génomique viral (DGV) pour le VIH-1 et le VHC, et la détection d'anticorps anti-HTLV-1/2.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests de dépistage recommandés par l'OMS pour la sécurité transfusionnelle en Afrique?",
+        "answer": "L'OMS recommande le dépistage de quatre marqueurs de maladies transmissibles : un bactérien (la syphilis) et trois viraux (virus des hépatites B et C, virus de l'immunodéficience humaine).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les médicaments dérivés du sang soumis à des techniques d'inactivation virale?",
+        "answer": "Les médicaments dérivés du sang soumis à des techniques d'inactivation virale incluent l'albumine, les immunoglobulines, les facteurs anti-hémophiliques, le PPSB (facteurs II, VII, X, IX) et les colles biologiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de conservation des concentrés de globules rouges préparés à partir du sang total par centrifugation?",
+        "answer": "Les concentrés de globules rouges peuvent être conservés pendant 42 jours à une température fixée légalement entre +2 et +6 °C.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles précautions doivent être prises lors des prélèvements de sang pour éviter les infections?",
+        "answer": "Les précautions incluent l'asepsie et l'utilisation de matériel à usage unique, l'antisepsie de la peau du donneur par deux badigeons successifs, et le respect des procédures d'antisepsie et d'asepsie recommandées.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les risques associés à la réutilisation du matériel de prélèvement?",
+        "answer": "La réutilisation du matériel de prélèvement peut entraîner une contamination massive des donneurs par des virus tels que le VIH, comme cela a été observé en Chine.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les produits sanguins labiles mentionnés dans le document?",
+        "answer": "Les produits sanguins labiles mentionnés incluent les concentrés de globules rouges, le plasma frais, et les produits cellulaires.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la procédure de sécurisation des produits sanguins issus d'un même donneur?",
+        "answer": "La procédure de sécurisation inclut la 'solidarisation' des produits avec mise en quarantaine permettant un deuxième contrôle sérologique.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les tests de dépistage de la maladie de Chagas pratiqués en France?",
+        "answer": "Les tests de dépistage de la maladie de Chagas sont pratiqués chez les donneurs des Antilles-Guyane et chez les donneurs revenus de la zone d'endémie (Amérique centrale et du Sud) après une période d'exclusion de quatre mois.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères de sélection des donneurs pour prévenir le paludisme transfusionnel?",
+        "answer": "Les critères incluent l'interrogatoire des donneurs pour identifier ceux à risque, tels que les ressortissants de pays d'endémie ou les personnes ayant voyagé dans une zone impaludée, et l'éviction du don dans les quatre mois suivant le retour du pays endémique.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les examens pratiqués en France sur indications particulières pour les donneurs de sang?",
+        "answer": "En France, des examens comme la sérologie CMV sont pratiqués sur indications particulières, notamment pour disposer de sang CMV négatif pour les transfusions aux sujets immunodéprimés ou pour les greffes à des receveurs séronégatifs pour le CMV.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle en Afrique?",
+        "answer": "Les risques de transmission transfusionnelle en Afrique sont accrus par l'absence de dépistages génomiques viraux dans la majorité des pays, ce qui permet la transmission pendant la fenêtre sérologique.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les produits sanguins disponibles dans la majorité des pays africains?",
+        "answer": "Les concentrés de globules rouges sont disponibles dans la majorité des pays africains, contrairement aux concentrés plaquettaires qui ne sont disponibles que dans quelques-uns.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la politique d'hémovigilance en place dans certains pays?",
+        "answer": "Une politique d'hémovigilance est en place dans 70 pays sur 180, incluant la mise en place d'un suivi avec traçabilité des produits délivrés (fiche transfusionnelle, hémovigilance).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour des informations sur la sécurité de la transfusion?",
+        "answer": "Les sites web recommandés incluent le site de l'OMS sur la sécurité de la transfusion : https://apps.who.int/iris/bitstream/handle/10665/254987/9789241565431-eng.pdf et https://www.who.int/fr/news-room/fact-sheets/detail/blood-safety-and-availability.",
+        "qtype": "information"
+    },
+    {
+        "question": "Quels sont les risques potentiels de transmission transfusionnelle pendant la fenêtre sérologique?",
+        "answer": "Les risques potentiels de transmission transfusionnelle pendant la fenêtre sérologique sont accrus en raison de l'absence de dépistages génomiques viraux dans la majorité des pays africains.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les produits sanguins traités par solvant-détergent pour inactiver les virus enveloppés?",
+        "answer": "Certains plasmas, appelés 'viro-atténués', sont traités par solvant-détergent pour inactiver les virus enveloppés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les critères fixés dans l'arrêté du 12 janvier 2009 pour l'interrogatoire des donneurs de sang?",
+        "answer": "Les critères fixés dans l'arrêté du 12 janvier 2009 pour l'interrogatoire des donneurs de sang incluent l'identification des donneurs à risque, tels que les ressortissants de pays d'endémie ou les personnes ayant voyagé dans une zone impaludée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les produits sanguins soumis à des techniques d'inactivation virale efficaces?",
+        "answer": "Les produits sanguins soumis à des techniques d'inactivation virale efficaces incluent l'albumine, les immunoglobulines, les facteurs anti-hémophiliques, le PPSB (facteurs II, VII, X, IX), et les colles biologiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques associés à la transfusion de sang total dans certains pays africains?",
+        "answer": "La transfusion de sang total dans certains pays africains présente des risques accrus d'infections, bien que des progrès aient été faits dans la constitution de culots globulaires.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les délais d'utilisation des produits sanguins?",
+        "answer": "Les délais d'utilisation des produits sanguins doivent être respectés pour garantir leur sécurité et leur efficacité.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle en l'absence de dépistages génomiques viraux?",
+        "answer": "En l'absence de dépistages génomiques viraux, le risque de transmission transfusionnelle est accru pendant la fenêtre sérologique.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les produits sanguins disponibles dans les pays à ressources limitées?",
+        "answer": "Dans les pays à ressources limitées, certains produits sanguins comme les anti-hémophiliques, l'albumine, et les immunoglobulines ne sont pas toujours disponibles et sont souvent commandés en cas de nécessité dans les pays développés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle associés aux donneurs familiaux ou rémunérés?",
+        "answer": "Les donneurs familiaux ou rémunérés présentent un risque accru de transmission transfusionnelle en raison de la possibilité qu'ils soient porteurs d'infections chroniques.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les examens pratiqués pour disposer de sang CMV négatif?",
+        "answer": "Pour disposer de sang CMV négatif, des examens comme la sérologie CMV sont pratiqués, notamment pour les transfusions aux sujets immunodéprimés ou pour les greffes à des receveurs séronégatifs pour le CMV.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle en l'absence de techniques d'inactivation virale?",
+        "answer": "En l'absence de techniques d'inactivation virale, les produits sanguins comme le plasma frais et les produits cellulaires présentent un risque accru de transmission de virus enveloppés.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle associés à la non-disponibilité de certains médicaments dérivés du sang?",
+        "answer": "La non-disponibilité de certains médicaments dérivés du sang, comme les anti-hémophiliques, l'albumine, et les immunoglobulines, dans les pays à ressources limitées, fait qu'ils ne constituent pas de réels problèmes de transmission transfusionnelle.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle associés à la réutilisation du matériel de prélèvement?",
+        "answer": "La réutilisation du matériel de prélèvement peut entraîner une contamination massive des donneurs par des virus tels que le VIH, comme cela a été observé en Chine.",
+        "qtype": "risque"
+    },
+    {
+        "question": "Quels sont les risques de transmission transfusionnelle associés à l'absence de dépistages génomiques viraux en Afrique?",
+        "answer": "L'absence de dépistages génomiques viraux en Afrique contribue à accroître le risque de transmission transfusionnelle pendant la fenêtre sérologique.",
+        "qtype": "risque"
+    }
+]

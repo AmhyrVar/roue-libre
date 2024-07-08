@@ -1,0 +1,287 @@
+[
+    {
+        "question": "Quelles sont les deux principales espèces responsables de la leishmaniose viscérale?",
+        "answer": "Les deux principales espèces responsables de la leishmaniose viscérale sont Leishmania infantum (syn chagasi) et L. donovani.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où circule Leishmania infantum?",
+        "answer": "Leishmania infantum circule en zone climatique méditerranéenne, au Moyen-Orient, en Asie du Sud, en Amérique latine et sporadiquement jusqu’en Chine et en Afrique Centrale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs principaux de L. tropica et L. donovani?",
+        "answer": "L. tropica et L. donovani ont l’être humain pour réservoir quasi exclusif.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence mondiale de la leishmaniose?",
+        "answer": "La prévalence mondiale de la leishmaniose dépasse 10 millions de cas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques typiques de la leishmaniose viscérale?",
+        "answer": "Les signes cliniques typiques de la leishmaniose viscérale incluent fièvre, splénomégalie parfois majeure, hépatomégalie, et pancytopénie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les trois tropismes cliniques dominants des leishmanies?",
+        "answer": "Les trois tropismes cliniques dominants des leishmanies sont viscéral, cutané et muqueux.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la mortalité mondiale annuelle de la leishmaniose?",
+        "answer": "La mortalité mondiale annuelle de la leishmaniose est de 70 000.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose cutanée localisée?",
+        "answer": "Les principaux signes cliniques de la leishmaniose cutanée localisée incluent des lésions nodulaires pures, ulcérées bourgeonnantes, papuleuses ou en plaque croûteuse sèche, voire érythémato-squameuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs de L. infantum?",
+        "answer": "Le chien est le réservoir majeur de L. infantum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose muqueuse?",
+        "answer": "Les principaux signes cliniques de la leishmaniose muqueuse incluent des lésions nasales infiltrées, souvent ulcérées, d’aspect granuleux, et peuvent s’étendre au pharynx, palais, larynx et lèvre supérieure.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain?",
+        "answer": "La méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain repose sur une étape sérologique initiale avec des tests simples (DAT ou bandelette rK39).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose viscérale chez les patients immunocompétents?",
+        "answer": "Chez les patients immunocompétents, les principaux signes cliniques de la leishmaniose viscérale incluent fièvre, splénomégalie, hépatomégalie, et pancytopénie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose cutanée localisée?",
+        "answer": "Les principaux signes cliniques de la leishmaniose cutanée localisée incluent des lésions nodulaires pures, ulcérées bourgeonnantes, papuleuses ou en plaque croûteuse sèche, voire érythémato-squameuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose muqueuse?",
+        "answer": "Les principaux signes cliniques de la leishmaniose muqueuse incluent des lésions nasales infiltrées, souvent ulcérées, d’aspect granuleux, et peuvent s’étendre au pharynx, palais, larynx et lèvre supérieure.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain?",
+        "answer": "La méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain repose sur une étape sérologique initiale avec des tests simples (DAT ou bandelette rK39).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose viscérale chez les patients immunocompétents?",
+        "answer": "Chez les patients immunocompétents, les principaux signes cliniques de la leishmaniose viscérale incluent fièvre, splénomégalie, hépatomégalie, et pancytopénie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose cutanée localisée?",
+        "answer": "Les principaux signes cliniques de la leishmaniose cutanée localisée incluent des lésions nodulaires pures, ulcérées bourgeonnantes, papuleuses ou en plaque croûteuse sèche, voire érythémato-squameuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose muqueuse?",
+        "answer": "Les principaux signes cliniques de la leishmaniose muqueuse incluent des lésions nasales infiltrées, souvent ulcérées, d’aspect granuleux, et peuvent s’étendre au pharynx, palais, larynx et lèvre supérieure.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain?",
+        "answer": "La méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain repose sur une étape sérologique initiale avec des tests simples (DAT ou bandelette rK39).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose viscérale chez les patients immunocompétents?",
+        "answer": "Chez les patients immunocompétents, les principaux signes cliniques de la leishmaniose viscérale incluent fièvre, splénomégalie, hépatomégalie, et pancytopénie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose cutanée localisée?",
+        "answer": "Les principaux signes cliniques de la leishmaniose cutanée localisée incluent des lésions nodulaires pures, ulcérées bourgeonnantes, papuleuses ou en plaque croûteuse sèche, voire érythémato-squameuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose muqueuse?",
+        "answer": "Les principaux signes cliniques de la leishmaniose muqueuse incluent des lésions nasales infiltrées, souvent ulcérées, d’aspect granuleux, et peuvent s’étendre au pharynx, palais, larynx et lèvre supérieure.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain?",
+        "answer": "La méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain repose sur une étape sérologique initiale avec des tests simples (DAT ou bandelette rK39).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose viscérale chez les patients immunocompétents?",
+        "answer": "Chez les patients immunocompétents, les principaux signes cliniques de la leishmaniose viscérale incluent fièvre, splénomégalie, hépatomégalie, et pancytopénie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose cutanée localisée?",
+        "answer": "Les principaux signes cliniques de la leishmaniose cutanée localisée incluent des lésions nodulaires pures, ulcérées bourgeonnantes, papuleuses ou en plaque croûteuse sèche, voire érythémato-squameuses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose muqueuse?",
+        "answer": "Les principaux signes cliniques de la leishmaniose muqueuse incluent des lésions nasales infiltrées, souvent ulcérées, d’aspect granuleux, et peuvent s’étendre au pharynx, palais, larynx et lèvre supérieure.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain?",
+        "answer": "La méthode de diagnostic initiale pour la leishmaniose viscérale sur le terrain repose sur une étape sérologique initiale avec des tests simples (DAT ou bandelette rK39).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux signes cliniques de la leishmaniose viscérale chez les patients immunocompétents?",
+        "answer": "Chez les patients immunocompétents, les principaux signes cliniques de la leishmaniose viscérale incluent fièvre, splénomégalie, hépatomégalie, et pancytopénie.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la leishmaniose viscérale chez un patient immunocompétent en Afrique de l'Est?",
+        "answer": "Antimoine pentavalent 20 mg SbV/kg/j x 17 jours + paromomycine 11 mg base (soit 15 mg)/kg/j x 17 jours, Amphotéricine B liposomale 30 mg/kg en 6-10 perfusions, Antimoine pentavalent 20 mg SbV/kg/j x 30 jours, Amphotéricine B déoxycholate 0,75-1 mg/kg/j x 15-20 jours, Miltéfosine orale 150 mg/j x 28 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la leishmaniose viscérale chez un patient immunocompétent en Asie?",
+        "answer": "Amphotéricine B liposomale 10 mg/kg en 1-3 perfusions, Amphotéricine B liposomale 5 mg/kg dose unique + miltéfosine orale 150 mg/j x 7 j, Amphotéricine B liposomale 5 mg/kg dose unique + paromomycine 11 mg/kg/j x 10 j, Paromomycine 11 mg/kg/j x 10 j + miltéfosine orale 150 mg/j x 10 j, Amphotéricine B déoxycholate 0,75-1 mg/kg/j x 15-20 jours, Miltéfosine orale 150 mg/j x 28 jours, Paromomycine 11 mg/kg/j x 21 j, Antimoine pentavalent 20 mg SbV/kg/j x 30 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la leishmaniose viscérale chez un patient immunocompétent en Europe du Sud, Afrique, Asie et Amériques?",
+        "answer": "Antimoine pentavalent 20 mg SbV/kg/j x 28 jours, Amphotéricine B liposomale 18-21 mg/kg en 2-6 perfusions, Amphotéricine B déoxycholate 0,75-1 mg/kg/j x 30 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de première ligne pour la leishmaniose viscérale chez un patient immunodéprimé?",
+        "answer": "Amphotéricine B liposomale 30-40 mg/kg en 4-10 perfusions, Amphotéricine B déoxycholate 1 mg/kg/j x 30 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements locaux pour la leishmaniose cutanée causée par L. major?",
+        "answer": "Abstention : soins locaux sans traitement antileishmanien, Paromomycine crème 1 fois/jour x 20 jours, Cryothérapie (azote liquide -195°C) + antimoine intralésionnel 1-5 mL pur par séance tous les 3-7 jours (1-5 séances), Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Cryothérapie seule OU antimoine intralésionnel seul",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements systémiques pour la leishmaniose cutanée causée par L. major?",
+        "answer": "Fluconazole oral, 200 mg par jour x 42 jours, Antimoine pentavalent IM IV plus pentoxyfilline orale 20 mg SbV+/kg/jour 400 mg 3 fois/jour x 10-20 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour IM ou IV x 10-20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements locaux pour la leishmaniose cutanée causée par L. tropica, L. infantum, et L. aethiopica?",
+        "answer": "Cryothérapie (azote liquide -195°C) + antimoine intralésionnel, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Cryothérapie seule, Paromomycine crème 1 fois/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements systémiques pour la leishmaniose cutanée causée par L. tropica, L. infantum, et L. aethiopica?",
+        "answer": "Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 10-20 jours, Antimoine pentavalent IM IV plus allopurinol oral 20 mg/kg/jour x 30 jours, en cas de leishmaniose cutanée récidivant à L. tropica, Antimoine pentavalent IM IV plus paromomycine IV, 15 mg (11 mg base)/kg/jour IM ou IV x 60 jours en cas de leishmaniose cutanée diffuse",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements locaux pour la leishmaniose cutanée causée par L. mexicana?",
+        "answer": "Abstention : soins locaux, Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements systémiques pour la leishmaniose cutanée causée par L. mexicana?",
+        "answer": "Kétoconazole oral 600 mg/jour x 28 jours, Miltéfosine orale 2,5 mg/kg/jour x 28 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements locaux pour la leishmaniose cutanée causée par L. guyanensis et L. panamensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements systémiques pour la leishmaniose cutanée causée par L. guyanensis et L. panamensis?",
+        "answer": "Iséthionate de pentamidine 4 mg/kg x 3 en 5 jours IVL, Miltéfosine orale (ATU) 2,5 mg/kg/jour x 28 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements locaux pour la leishmaniose cutanée causée par L. braziliensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements systémiques pour la leishmaniose cutanée causée par L. braziliensis?",
+        "answer": "Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours, Amphotéricine B déoxycholate 0,7 mg/kg/jour x, IV, 25-30 doses jour, Amphotéricine B liposomale 20-40 mg/kg, dose cumulée en 4-10 perfusions",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose muqueuse?",
+        "answer": "Antimoine pentavalent, Amphotéricine B liposomale ou conventionnelle, Miltéfosine orale",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée du Nouveau Monde?",
+        "answer": "Le traitement par voie générale a été recommandé mais des données récentes suggèrent qu’une stratégie différente pourrait être envisagée. La démarche générale consiste à privilégier autant que possible un traitement local peu toxique et à n’administrer un traitement systémique que lorsque le tableau clinique est incompatible avec un traitement local ou lorsque le traitement local a échoué.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose viscérale à L. donovani?",
+        "answer": "Le choix thérapeutique tient compte de la région. Les dérivés de l’antimoine sont inefficaces dans la région du Bihar (Inde) mais restent efficaces ailleurs. L’amphotéricine B (liposomale ou non) et la paromomycine doivent être utilisées à des doses plus élevées en Afrique de l’Est qu’en Inde. L’amphotéricine B liposomale a le meilleur rapport bénéfice-risque.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. infantum?",
+        "answer": "Cryothérapie (azote liquide -195°C) + antimoine intralésionnel, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Cryothérapie seule, Paromomycine crème 1 fois/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. aethiopica?",
+        "answer": "Cryothérapie (azote liquide -195°C) + antimoine intralésionnel, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Cryothérapie seule, Paromomycine crème 1 fois/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. guyanensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Iséthionate de pentamidine 4 mg/kg x 3 en 5 jours IVL, Miltéfosine orale (ATU) 2,5 mg/kg/jour x 28 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. panamensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Iséthionate de pentamidine 4 mg/kg x 3 en 5 jours IVL, Miltéfosine orale (ATU) 2,5 mg/kg/jour x 28 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. braziliensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours, Amphotéricine B déoxycholate 0,7 mg/kg/jour x, IV, 25-30 doses jour, Amphotéricine B liposomale 20-40 mg/kg, dose cumulée en 4-10 perfusions",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. mexicana?",
+        "answer": "Abstention : soins locaux, Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Kétoconazole oral 600 mg/jour x 28 jours, Miltéfosine orale 2,5 mg/kg/jour x 28 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. tropica?",
+        "answer": "Cryothérapie (azote liquide -195°C) + antimoine intralésionnel, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Cryothérapie seule, Paromomycine crème 1 fois/jour x 20 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 10-20 jours, Antimoine pentavalent IM IV plus allopurinol oral 20 mg/kg/jour x 30 jours, en cas de leishmaniose cutanée récidivant à L. tropica, Antimoine pentavalent IM IV plus paromomycine IV, 15 mg (11 mg base)/kg/jour IM ou IV x 60 jours en cas de leishmaniose cutanée diffuse",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. infantum?",
+        "answer": "Cryothérapie (azote liquide -195°C) + antimoine intralésionnel, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Cryothérapie seule, Paromomycine crème 1 fois/jour x 20 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 10-20 jours, Antimoine pentavalent IM IV plus allopurinol oral 20 mg/kg/jour x 30 jours, en cas de leishmaniose cutanée récidivant à L. tropica, Antimoine pentavalent IM IV plus paromomycine IV, 15 mg (11 mg base)/kg/jour IM ou IV x 60 jours en cas de leishmaniose cutanée diffuse",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. aethiopica?",
+        "answer": "Cryothérapie (azote liquide -195°C) + antimoine intralésionnel, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Cryothérapie seule, Paromomycine crème 1 fois/jour x 20 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 10-20 jours, Antimoine pentavalent IM IV plus allopurinol oral 20 mg/kg/jour x 30 jours, en cas de leishmaniose cutanée récidivant à L. tropica, Antimoine pentavalent IM IV plus paromomycine IV, 15 mg (11 mg base)/kg/jour IM ou IV x 60 jours en cas de leishmaniose cutanée diffuse",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. guyanensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Iséthionate de pentamidine 4 mg/kg x 3 en 5 jours IVL, Miltéfosine orale (ATU) 2,5 mg/kg/jour x 28 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. panamensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Iséthionate de pentamidine 4 mg/kg x 3 en 5 jours IVL, Miltéfosine orale (ATU) 2,5 mg/kg/jour x 28 jours, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour la leishmaniose cutanée causée par L. braziliensis?",
+        "answer": "Paromomycine crème, Thermothérapie, 1-2 séances (50°C pendant 30 secondes), Antimoine intralésionnel seul, Antimoine pentavalent IM IV 20 mg SbV+/kg/jour x 20 jours, Amphotéricine B déoxycholate 0,7 mg/kg/jour x, IV, 25-30 doses jour, Amphotéricine B liposomale 20-40 mg/kg, dose cumulée en 4-10 perfusions",
+        "qtype": "traitement"
+    }
+]

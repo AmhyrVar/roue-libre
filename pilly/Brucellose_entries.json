@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce que la brucellose?",
+        "answer": "La brucellose est une zoonose due à un petit coccobacille à Gram négatif aérobie strict, intracellulaire facultatif, du genre Brucella.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quelles sont les espèces de Brucella les plus fréquentes?",
+        "answer": "Les espèces de Brucella les plus fréquentes sont B. melitensis, B. abortus, B. suis et B. canis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où la brucellose est-elle principalement présente?",
+        "answer": "La brucellose est endémique dans de très nombreux pays, mais les régions les plus touchées sont le pourtour sud de la Méditerranée, le Moyen-Orient et la péninsule arabique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels animaux sont les principaux réservoirs de la brucellose?",
+        "answer": "Les principaux réservoirs de la brucellose sont les ruminants domestiques (bovins, ovins, caprins) et les porcins.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait la contamination humaine par la brucellose?",
+        "answer": "La contamination humaine se fait par contact direct ou indirect avec des produits d’avortement, placentas, sécrétions génitales, litières et cultures bactériennes, ou par ingestion de produits alimentaires contaminés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée de la phase d'incubation de la brucellose?",
+        "answer": "La phase d'incubation de la brucellose dure de 1 à 4 semaines.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la brucellose aiguë septicémique?",
+        "answer": "Les symptômes de la brucellose aiguë septicémique incluent une fièvre ondulante, des douleurs musculaires et articulaires, des courbatures, des sueurs abondantes, nocturnes et une asthénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les formes cliniques possibles de la brucellose aiguë septicémique?",
+        "answer": "Les formes cliniques possibles de la brucellose aiguë septicémique sont paucisymptomatiques, pseudo-typhoïdiques, ou graves comme les endocardites, les formes rénales, hépatiques, voire de rares formes polyviscérales malignes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les formes cliniques de la brucellose secondaire focalisée?",
+        "answer": "Les formes cliniques de la brucellose secondaire focalisée incluent des formes ostéo-articulaires, les plus fréquentes (20 à 40 % des cas).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la brucellose?",
+        "answer": "Les symptômes de la phase d'invasion de la brucellose incluent un état septicémique avec des lésions granulomateuses lympho-histiomonocytaires, responsables de lésions tissulaires focalisées notamment ostéo-articulaires, neuroméningées, hépatiques ou glandulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de la fièvre dans la brucellose aiguë septicémique?",
+        "answer": "La fièvre dans la brucellose aiguë septicémique disparaît après 10 à 15 jours pour réapparaître après quelques jours, avec trois à quatre ondulations possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques retrouvés à l'examen de la brucellose aiguë septicémique?",
+        "answer": "Les signes cliniques retrouvés à l'examen de la brucellose aiguë septicémique incluent une hépatomégalie, une splénomégalie (dans 25 à 40 % des cas), quelques adénopathies périphériques ainsi que des râles bronchiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les modes de contamination non professionnelle de la brucellose?",
+        "answer": "Les modes de contamination non professionnelle de la brucellose sont essentiellement alimentaires, par ingestion de laits et produits laitiers non pasteurisés ou de crudités contaminées par les engrais d’origine animale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les professionnels les plus exposés à la brucellose?",
+        "answer": "Les professionnels les plus exposés à la brucellose sont les éleveurs, vétérinaires, employés d’abattoirs, bouchers, bactériologistes et techniciens de laboratoire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la classification de la brucellose en termes de bioterrorisme?",
+        "answer": "La brucellose est classée comme agent potentiel de bioterrorisme de catégorie B.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme chronique de la brucellose?",
+        "answer": "Les symptômes de la forme chronique de la brucellose incluent un état d’hypersensibilité aux antigènes brucelliens à l’origine de manifestations fonctionnelles parfois intenses qui peuvent être associées à une symptomatologie focale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les réservoirs animaux atypiques de Brucella?",
+        "answer": "Les réservoirs animaux atypiques de Brucella incluent les camélidés, cervidés, mammifères marins (dauphins et baleines) et amphibiens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la phase d'incubation de la brucellose?",
+        "answer": "La phase d'incubation de la brucellose est silencieuse et dure 1 à 4 semaines.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase secondaire de la brucellose?",
+        "answer": "Les symptômes de la phase secondaire de la brucellose incluent des lésions tissulaires focalisées notamment ostéo-articulaires, neuroméningées, hépatiques ou glandulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la brucellose?",
+        "answer": "Les symptômes de la phase d'invasion de la brucellose incluent un état septicémique avec des lésions granulomateuses lympho-histiomonocytaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la brucellose aiguë septicémique?",
+        "answer": "Les symptômes de la brucellose aiguë septicémique incluent une fièvre ondulante, des douleurs musculaires et articulaires, des courbatures, des sueurs abondantes, nocturnes et une asthénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la brucellose secondaire focalisée?",
+        "answer": "Les symptômes de la brucellose secondaire focalisée incluent des formes ostéo-articulaires, les plus fréquentes (20 à 40 % des cas).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la brucellose?",
+        "answer": "Les symptômes de la phase d'invasion de la brucellose incluent un état septicémique avec des lésions granulomateuses lympho-histiomonocytaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase secondaire de la brucellose?",
+        "answer": "Les symptômes de la phase secondaire de la brucellose incluent des lésions tissulaires focalisées notamment ostéo-articulaires, neuroméningées, hépatiques ou glandulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la brucellose aiguë septicémique?",
+        "answer": "Les symptômes de la brucellose aiguë septicémique incluent une fièvre ondulante, des douleurs musculaires et articulaires, des courbatures, des sueurs abondantes, nocturnes et une asthénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la brucellose secondaire focalisée?",
+        "answer": "Les symptômes de la brucellose secondaire focalisée incluent des formes ostéo-articulaires, les plus fréquentes (20 à 40 % des cas).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase d'invasion de la brucellose?",
+        "answer": "Les symptômes de la phase d'invasion de la brucellose incluent un état septicémique avec des lésions granulomateuses lympho-histiomonocytaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase secondaire de la brucellose?",
+        "answer": "Les symptômes de la phase secondaire de la brucellose incluent des lésions tissulaires focalisées notamment ostéo-articulaires, neuroméningées, hépatiques ou glandulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la brucellose aiguë septicémique?",
+        "answer": "Les symptômes de la brucellose aiguë septicémique incluent une fièvre ondulante, des douleurs musculaires et articulaires, des courbatures, des sueurs abondantes, nocturnes et une asthénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de manifestations de la brucellose chronique?",
+        "answer": "Deux types de manifestations sont possibles : des manifestations générales qualifiées d’état de « patraquerie » associant des troubles subjectifs dans lesquels domine l’asthénie physique, psychique et sexuelle associée à des algies diffuses et des sueurs au moindre effort, et des manifestations focales traduisant des foyers focalisés quiescents ou peu évolutifs neuroméningés, articulaires ou viscéraux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments d’orientation pour le diagnostic de la brucellose?",
+        "answer": "Les éléments d’orientation incluent le contexte épidémiologique et la leuconeutropénie habituelle associée à un syndrome inflammatoire modéré.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens spécifiques pour diagnostiquer la brucellose?",
+        "answer": "Les examens spécifiques incluent les hémocultures et la recherche du germe dans des liquides biologiques ou des prélèvements tissulaires, la sérologie avec différents tests (séroagglutination de Wright, fixation du complément, réaction à l’antigène tamponné, IFI, ELISA), et la technique d’amplification génique (PCR).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements antibiotiques recommandés pour la brucellose?",
+        "answer": "Le traitement antibiotique repose sur les cyclines (doxycycline, minocycline) à la posologie de 200 à 300 mg/j (adulte) associées à la rifampicine à la posologie de 15 mg/kg/j ou un aminoside (streptomycine en particulier) pendant les 3 premières semaines du traitement. Possibilité de fluoroquinolones + rifampicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour les formes aiguës de brucellose?",
+        "answer": "Dans les formes aiguës, la durée de traitement est de 6 semaines. Le taux de rechute est inférieur à 5 %.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour les formes secondaires de brucellose?",
+        "answer": "Dans les formes secondaires, notamment osseuses, la durée ne doit pas être inférieure à 3 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention collective contre la brucellose?",
+        "answer": "Les mesures de prévention collective incluent le dépistage sérologique régulier des cheptels, l'abattage des animaux infectés, la surveillance des produits laitiers, et la vaccination des animaux par les vaccins vivants atténués S19 et RB51 pour les bovins, et Rev 1 pour les ovins et caprins.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les précautions individuelles pour prévenir la brucellose?",
+        "answer": "Les précautions individuelles incluent les mesures classiques de protection « contact » pour les professions exposées, la cuisson des aliments, l’ébullition du lait, et la pasteurisation des produits laitiers.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les recommandations pour les voyageurs séjournant en zone d’endémie de brucellose?",
+        "answer": "Les recommandations incluent d'éviter la consommation de lait cru, de laitages non pasteurisés et de crudités, de maintenir une bonne hygiène des mains, et d'éviter le contact avec le bétail. Aucun vaccin n’est disponible.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les types de formes neuro-méningées de la brucellose?",
+        "answer": "Les formes neuro-méningées incluent la méningite à liquide clair, la méningo-encéphalite, et la méningomyéloradiculite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de localisations rares de la brucellose?",
+        "answer": "Les localisations rares incluent les localisations hépatiques, génitales (orchite), cardiaques, pulmonaires, et oculaires (kératites, uvéites).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes focales de la brucellose chronique?",
+        "answer": "Les symptômes des formes focales incluent des foyers focalisés quiescents ou peu évolutifs neuroméningés, articulaires ou viscéraux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes générales de la brucellose chronique?",
+        "answer": "Les symptômes des formes générales incluent un état de « patraquerie » associant des troubles subjectifs dans lesquels domine l’asthénie physique, psychique et sexuelle associée à des algies diffuses et des sueurs au moindre effort.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations osseuses de la brucellose?",
+        "answer": "Les symptômes des localisations osseuses incluent une douleur localisée de l’articulation atteinte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations pulmonaires de la brucellose?",
+        "answer": "Les symptômes des localisations pulmonaires peuvent prêter à confusion avec la tuberculose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations génitales de la brucellose?",
+        "answer": "Les symptômes des localisations génitales incluent l'orchite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations cardiaques de la brucellose?",
+        "answer": "Les symptômes des localisations cardiaques sont rares mais possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations oculaires de la brucellose?",
+        "answer": "Les symptômes des localisations oculaires incluent les kératites et les uvéites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations hépatiques de la brucellose?",
+        "answer": "Les symptômes des localisations hépatiques incluent une cholestase biologique et un aspect histologique d’une hépatite granulomateuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations articulaires de la brucellose?",
+        "answer": "Les symptômes des localisations articulaires incluent des douleurs localisées de l’articulation atteinte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations neuroméningées de la brucellose?",
+        "answer": "Les symptômes des localisations neuroméningées incluent la méningite à liquide clair, la méningo-encéphalite, et la méningomyéloradiculite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations viscérales de la brucellose?",
+        "answer": "Les symptômes des localisations viscérales incluent des foyers focalisés quiescents ou peu évolutifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations osseuses de la brucellose?",
+        "answer": "Les symptômes des localisations osseuses incluent une douleur localisée de l’articulation atteinte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations pulmonaires de la brucellose?",
+        "answer": "Les symptômes des localisations pulmonaires peuvent prêter à confusion avec la tuberculose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations génitales de la brucellose?",
+        "answer": "Les symptômes des localisations génitales incluent l'orchite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations cardiaques de la brucellose?",
+        "answer": "Les symptômes des localisations cardiaques sont rares mais possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations oculaires de la brucellose?",
+        "answer": "Les symptômes des localisations oculaires incluent les kératites et les uvéites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations hépatiques de la brucellose?",
+        "answer": "Les symptômes des localisations hépatiques incluent une cholestase biologique et un aspect histologique d’une hépatite granulomateuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations articulaires de la brucellose?",
+        "answer": "Les symptômes des localisations articulaires incluent des douleurs localisées de l’articulation atteinte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations neuroméningées de la brucellose?",
+        "answer": "Les symptômes des localisations neuroméningées incluent la méningite à liquide clair, la méningo-encéphalite, et la méningomyéloradiculite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des localisations viscérales de la brucellose?",
+        "answer": "Les symptômes des localisations viscérales incluent des foyers focalisés quiescents ou peu évolutifs.",
+        "qtype": "symptômes"
+    }
+]

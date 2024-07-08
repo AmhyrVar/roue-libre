@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la répartition géographique des salmonelloses non typhiques?",
+        "answer": "Elle est mondiale. Les salmonelloses non typhiques (NTS) sont cosmopolites car de nombreuses espèces d’animaux domestiques, d’élevage ou de compagnie, sont porteurs de salmonelles transmissibles à l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs des salmonelles?",
+        "answer": "Le réservoir est animal : les salmonelles sont des hôtes du tube digestif de divers animaux, notamment oiseaux et reptiles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les salmonelloses non typhiques?",
+        "answer": "La transmission peut être directe interhumaine (rôle des porteurs sains), plus souvent indirecte à partir d’aliments contaminés (rupture de la chaîne du froid) : œufs++ (S. Enteritidis), viandes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents infectieux des salmonelloses non typhiques?",
+        "answer": "Dans 99,5 % des cas, les NTS appartiennent à l’espèce Salmonella enterica : parmi les 2 000 sérotypes existants, deux totalisent la moitié des cas : S. Enteritidis et S. Typhimurium.",
+        "qtype": "agents infectieux"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour les salmonelloses non typhiques?",
+        "answer": "Déficit de l’immunité cellulaire (sujets dénutris, SIDA, sujets âgés), hémoglobinopathie (drépanocytose homozygote, thalassémie majeure, drépano-thalassémies), maladie du tube digestif (néoplasie, entérite inflammatoire, bilharziose), hypochlorhydrie.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quelle est la physiopathologie des salmonelloses non typhiques?",
+        "answer": "Après franchissement de la muqueuse digestive, les salmonelles vont se multiplier dans les ganglions mésentériques. Leur potentiel invasif et la production d’entérotoxine entraînent une entérocolite. La diffusion hématogène est rare, sauf facteur de risque : elle est alors responsable d’atteintes viscérales profondes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la diarrhée aiguë fébrile causée par les salmonelloses non typhiques?",
+        "answer": "Après une incubation de 6 à 72 heures, le tableau associe une fièvre élevée avec céphalées, polyalgies, vomissements pouvant évoquer une méningite avant que n’apparaisse une diarrhée profuse (> 5 selles/24 heures). La diarrhée est fécale, hydrique de type syndrome gastro-entéritique. Plus rarement, la diarrhée s’accompagne d’un syndrome dysentérique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se diagnostiquent les bactériémies causées par les salmonelloses non typhiques?",
+        "answer": "C’est la pratique d’hémocultures devant une fièvre d’allure isolée qui assure le diagnostic.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types d'atteintes extradigestives causées par les salmonelloses non typhiques?",
+        "answer": "Ostéo-articulaires (surtout chez les sujets porteurs d’hémoglobinopathie), abcès de la rate, atteintes pleuropulmonaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la déshydratation causée par les salmonelloses non typhiques?",
+        "answer": "La déshydratation peut se voir surtout aux âges extrêmes de la vie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes associés à une entérocolite causée par les salmonelloses non typhiques?",
+        "answer": "Une fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes rares de la diarrhée causée par les salmonelloses non typhiques?",
+        "answer": "Plus rarement, la diarrhée s’accompagne d’un syndrome dysentérique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une bactériémie causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre d’allure isolée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte ostéo-articulaire causée par les salmonelloses non typhiques?",
+        "answer": "Atteintes ostéo-articulaires, surtout chez les sujets porteurs d’hémoglobinopathie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'un abcès de la rate causé par les salmonelloses non typhiques?",
+        "answer": "Abcès de la rate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte pleuropulmonaire causée par les salmonelloses non typhiques?",
+        "answer": "Atteintes pleuropulmonaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une méningite causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements pouvant évoquer une méningite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une entérocolite causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection invasive causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une gastro-entérite causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une diarrhée causée par les salmonelloses non typhiques?",
+        "answer": "Diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une entérite causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection digestive causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection intestinale causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection gastro-intestinale causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection gastro-intestinale causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection gastro-intestinale causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection gastro-intestinale causée par les salmonelloses non typhiques?",
+        "answer": "Fièvre élevée avec céphalées, polyalgies, vomissements, et une diarrhée profuse (> 5 selles/24 heures) de type syndrome gastro-entéritique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les organes qui peuvent être touchés dans le contexte de bactériémie?",
+        "answer": "Tous les organes peuvent être touchés dans le contexte de bactériémie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment peut-on isoler la bactérie dans les formes extradigestives?",
+        "answer": "La bactérie peut être isolée soit dans le sang, soit à partir du foyer infecté.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Sur quoi repose le diagnostic des entérocolites?",
+        "answer": "Le diagnostic repose sur l’isolement du pathogène par coproculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types de prélèvements peuvent être utilisés pour le diagnostic des autres formes?",
+        "answer": "Hémoculture, culture d’un prélèvement (LCR, liquide articulaire, biopsie…).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Existe-t-il un examen sérologique pour le diagnostic?",
+        "answer": "Il n’y a pas d’examen sérologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de base pour une entérocolite?",
+        "answer": "Réhydratation comme dans toute diarrhée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "L’antibiothérapie est-elle indispensable dans les entérocolites non graves?",
+        "answer": "L’antibiothérapie n’est pas indispensable dans les enterocolites non graves sans terrain particulier.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée typique de la fièvre et de la diarrhée dans les entérocolites non graves?",
+        "answer": "La fièvre disparaît en 72 heures et la diarrhée en moins d’une semaine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le risque associé à l’antibiothérapie dans les entérocolites non graves?",
+        "answer": "L’antibiothérapie multiplie par 2 le risque relatif de portage asymptomatique à 1 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Dans quels cas l’antibiothérapie est-elle proposée pour les formes digestives graves?",
+        "answer": "Dans les formes digestives graves ou survenant sur un terrain à risque (immunodéprimé, drépanocytaire, enfant < 1 an).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de l’antibiothérapie pour un enfant de moins de 1 an?",
+        "answer": "7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel antibiotique est recommandé pour les enfants en cas de diarrhée au retour d’une région avec un niveau élevé de résistance des salmonelles aux quinolones?",
+        "answer": "Azithromycine 500 mg x 1/24h (chez l’enfant 20 mg/kg/24h).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques recommandés pour les formes digestives graves?",
+        "answer": "Azithromycine, fluoroquinolone (ciprofloxacine, lévofloxacine), céphalosporine de 3e génération (ceftriaxone).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ciprofloxacine pour un enfant?",
+        "answer": "10 mg/kg x 2/24h.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la lévofloxacine pour un adulte?",
+        "answer": "500 mg x 1/24h.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ceftriaxone pour un enfant?",
+        "answer": "50 mg/kg/24h.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la fréquence des souches résistantes aux antibiotiques?",
+        "answer": "Il est fréquent de trouver des souches résistantes aux antibiotiques, notamment S. Typhimurium.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des souches isolées en Asie sont résistantes à la ciprofloxacine?",
+        "answer": "30 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Où sont isolées les souches BLSE?",
+        "answer": "En Afrique et en Asie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "L’antibiothérapie réduit-elle la durée du portage digestif?",
+        "answer": "Non, l’antibiothérapie ne réduit pas la durée du portage digestif.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel type de traitement est indispensable pour les formes bactériémiques et viscérales?",
+        "answer": "Un traitement antibiotique bactéricide est indispensable.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement antibiotique pour une bactériémie isolée?",
+        "answer": "2 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement antibiotique pour une spondylodiscite?",
+        "answer": "Au moins 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels gestes chirurgicaux peuvent être nécessaires dans les formes bactériémiques et viscérales?",
+        "answer": "Drainage d’abcès, résection d’un anévrisme infecté, d’un corps étranger.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour le portage chronique?",
+        "answer": "Pas d’antibiothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel pourcentage des cas de portage chronique éliminent les salmonelles spontanément?",
+        "answer": "> 99 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le délai typique pour l’élimination spontanée des salmonelles dans le portage chronique?",
+        "answer": "< 6 mois.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention pour les salmonelloses non typhiques?",
+        "answer": "Hygiène alimentaire, lavage des mains, cuisson des aliments.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Existe-t-il une vaccination contre les salmonelles non typhoïdiques?",
+        "answer": "Il n’existe aucune vaccination contre les salmonelles non typhoïdiques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Que faut-il faire au retour de voyage pour les patients souffrant de diarrhée?",
+        "answer": "Dépister par culture et antibiogramme les souches de salmonelles multi résistantes et respecter les précautions complémentaires de type 'contact' en milieu de soin.",
+        "qtype": "prévention"
+    }
+]

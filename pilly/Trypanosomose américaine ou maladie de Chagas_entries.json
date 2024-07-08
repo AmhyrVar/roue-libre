@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Qu'est-ce que la maladie de Chagas?",
+        "response": "La maladie de Chagas, ou trypanosomose américaine, est une maladie tropicale négligée due à Trypanosoma cruzi, un protozoaire flagellé sanguicole transmis par des triatomes (punaises).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Dans quels pays la maladie de Chagas est-elle endémique?",
+        "response": "La maladie de Chagas est endémique dans 21 pays d'Amérique latine, du sud des États-Unis au nord du Chili et de l'Argentine, avec une forte prévalence en Bolivie, en Argentine, au Paraguay, en Équateur, au Salvador et au Guatemala.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes sont exposées à la maladie de Chagas chaque année?",
+        "response": "Soixante-quinze millions de personnes sont exposées à la maladie de Chagas chaque année.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la maladie de Chagas?",
+        "response": "La transmission de la maladie de Chagas est vectorielle par les déjections de triatomes infectées émises au moment de la piqûre. Elle peut aussi se faire par voie orale, congénitale, par transfusion, transplantation d'organe ou accident de laboratoire.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les réservoirs animaux de la maladie de Chagas?",
+        "response": "Les réservoirs animaux de la maladie de Chagas incluent des animaux sauvages (opossums, tatous, canidés, rongeurs) et domestiques (chats, chiens, rats, cobayes).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux organes cibles du Trypanosoma cruzi?",
+        "response": "Les principaux organes cibles du Trypanosoma cruzi sont le myocarde, le muscle strié et le système nerveux.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation de la maladie de Chagas?",
+        "response": "L'incubation de la maladie de Chagas est de 7 à 15 jours en moyenne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase aiguë de la maladie de Chagas?",
+        "response": "Les symptômes de la phase aiguë de la maladie de Chagas incluent fièvre, adénopathies, hépatosplénomégalie, œdèmes de la face et des extrémités, exanthème maculopapuleux, et troubles digestifs comme la diarrhée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que le signe de Romana?",
+        "response": "Le signe de Romana est un œdème bipalpébral unilatéral avec adénopathie satellite, qui peut se manifester à la porte d'entrée conjonctivale de la maladie de Chagas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce qu'un chagome?",
+        "response": "Un chagome est une lésion érythémateuse furonculoïde qui peut apparaître au niveau de la peau lors de la phase de pénétration de la maladie de Chagas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de la phase aiguë de la maladie de Chagas?",
+        "response": "La phase aiguë de la maladie de Chagas dure de 4 à 8 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la phase aiguë de la maladie de Chagas?",
+        "response": "Les risques de la phase aiguë de la maladie de Chagas incluent myocardite, péricardite, méningo-encéphalite aiguë, avec une mortalité de 0,2 à 0,5 %.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que la phase chronique indéterminée de la maladie de Chagas?",
+        "response": "La phase chronique indéterminée de la maladie de Chagas est asymptomatique et peut durer toute la vie, passant inaperçue en l'absence de dépistage ou d'informations anamnestiques évocatrices.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase chronique déterminée de la maladie de Chagas?",
+        "response": "Les symptômes de la phase chronique déterminée de la maladie de Chagas incluent des atteintes cardiaques, digestives (mégaorganes) ou neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte cardiaque dans la maladie de Chagas?",
+        "response": "Les symptômes de l'atteinte cardiaque dans la maladie de Chagas incluent troubles du rythme, palpitations, malaise, syncope, insuffisance cardiaque, manifestations thrombo-emboliques, douleurs précordiales, et anévrysme apical du ventricule gauche.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte digestive dans la maladie de Chagas?",
+        "response": "Les symptômes de l'atteinte digestive dans la maladie de Chagas incluent des troubles du péristaltisme à l'origine de mégaorganes (mégaoesophage, mégaduodenum, mégacolon).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la maladie de Chagas?",
+        "response": "Les principaux vecteurs de la maladie de Chagas sont les triatomes, de grosses punaises hématophages.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les cycles de transmission de la maladie de Chagas?",
+        "response": "Les cycles de transmission de la maladie de Chagas incluent le cycle sauvage selvatique (entre animaux sauvages et triatomes), le cycle péri-domestique (entre triatomes et animaux domestiques), et le cycle domestique (entre triatomes et homme).",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les facteurs immunologiques impliqués dans la maladie de Chagas?",
+        "response": "Les facteurs immunologiques impliqués dans la maladie de Chagas incluent une réponse immune Th1 avec des taux élevés d'IFN-γ, TNF-α, IL-12, et une lymphocytose CD4+ et CD8+, ainsi que la production d'IL-10 et TGF-β1.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les traitements antiparasitaires recommandés pour la maladie de Chagas?",
+        "response": "Le traitement antiparasitaire est recommandé dans les formes chroniques de la maladie de Chagas, bien que le texte ne spécifie pas les médicaments exacts.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de l'insuffisance cardiaque chagasique?",
+        "response": "Les symptômes de l'insuffisance cardiaque chagasique incluent œdème des membres inférieurs, turgescence jugulaire, reflux hépato-jugulaire, hépatalgie d'effort, dyspnée d'effort, de repos, et orthopnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la dysautonomie cardiaque dans la maladie de Chagas?",
+        "response": "Les symptômes de la dysautonomie cardiaque dans la maladie de Chagas incluent des douleurs thoraciques mal étiquetées avec un ECG anormal mais des coronaires saines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase aiguë sévère de la maladie de Chagas?",
+        "response": "Les symptômes de la phase aiguë sévère de la maladie de Chagas incluent myocardite, péricardite, méningo-encéphalite aiguë, avec une mortalité de 0,2 à 0,5 %.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase chronique indéterminée de la maladie de Chagas?",
+        "response": "La phase chronique indéterminée de la maladie de Chagas est asymptomatique et peut durer toute la vie, passant inaperçue en l'absence de dépistage ou d'informations anamnestiques évocatrices.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase chronique déterminée de la maladie de Chagas?",
+        "response": "Les symptômes de la phase chronique déterminée de la maladie de Chagas incluent des atteintes cardiaques, digestives (mégaorganes) ou neurologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte cardiaque dans la maladie de Chagas?",
+        "response": "Les symptômes de l'atteinte cardiaque dans la maladie de Chagas incluent troubles du rythme, palpitations, malaise, syncope, insuffisance cardiaque, manifestations thrombo-emboliques, douleurs précordiales, et anévrysme apical du ventricule gauche.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte digestive dans la maladie de Chagas?",
+        "response": "Les symptômes de l'atteinte digestive dans la maladie de Chagas incluent des troubles du péristaltisme à l'origine de mégaorganes (mégaoesophage, mégaduodenum, mégacolon).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux vecteurs de la maladie de Chagas?",
+        "response": "Les principaux vecteurs de la maladie de Chagas sont les triatomes, de grosses punaises hématophages.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les cycles de transmission de la maladie de Chagas?",
+        "response": "Les cycles de transmission de la maladie de Chagas incluent le cycle sauvage selvatique (entre animaux sauvages et triatomes), le cycle péri-domestique (entre triatomes et animaux domestiques), et le cycle domestique (entre triatomes et homme).",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les facteurs immunologiques impliqués dans la maladie de Chagas?",
+        "response": "Les facteurs immunologiques impliqués dans la maladie de Chagas incluent une réponse immune Th1 avec des taux élevés d'IFN-γ, TNF-α, IL-12, et une lymphocytose CD4+ et CD8+, ainsi que la production d'IL-10 et TGF-β1.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les traitements antiparasitaires recommandés pour la maladie de Chagas?",
+        "response": "Le traitement antiparasitaire est recommandé dans les formes chroniques de la maladie de Chagas, bien que le texte ne spécifie pas les médicaments exacts.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte oesophagienne dans la maladie de Chagas?",
+        "answer": "La dysphagie chronique, les symptômes de régurgitation, de toux, l'hypersialorrhée et l'hypertrophie parotidiennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte colique dans la maladie de Chagas?",
+        "answer": "La dilatation du sigmoïde et du rectum, la constipation, les douleurs abdominales chroniques, les fécalomes, l'occlusion sur volvulus et exceptionnellement la perforation digestive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'atteinte neurologique dans la maladie de Chagas?",
+        "answer": "Les complications thrombo-emboliques de la cardiopathie chagasique et la polyneuropathie sensitive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques pour les patients immuno-déprimés atteints de la maladie de Chagas?",
+        "answer": "Réactivation de la maladie, méningo-encéphalite chez les patients infectés par le VIH, myocardite chez les transplantés d'organe ou de moelle osseuse, et localisations cutanées facilement biopsiables.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les risques pour les femmes enceintes atteintes de la maladie de Chagas?",
+        "answer": "Transmission materno-foetale, risque d'avortement, d'accouchement prématuré, de petit poids de naissance, de mort in utero, d'infections néonatales, et risque de transmission à chaque grossesse.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les principaux examens pour le diagnostic spécifique de la maladie de Chagas?",
+        "answer": "Les frottis-goutte épaisse, les méthodes de concentration, la PCR, la culture sur milieu spécifique, l'anatomopathologie sur biopsies, les techniques sérologiques (IFI, HA, ELISA) et les méthodes rapides immunochromatographiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés à la phase aiguë de la maladie de Chagas?",
+        "answer": "Le frottis mince et la PCR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les examens recommandés à la phase chronique de la maladie de Chagas?",
+        "answer": "La positivité de deux tests différents (ELISA, HA, IFI) et éventuellement un troisième test si les premiers sont discordants.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont utilisés pour le dépistage des donneurs de sang et des femmes enceintes dans la maladie de Chagas?",
+        "answer": "Les tests rapides par immunochromatographiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont inclus dans le bilan cardiaque pour la maladie de Chagas?",
+        "answer": "L'électrocardiogramme (ECG), le holter ECG des 24 heures, l'échographie cardiaque, la radiographie de thorax et un test d'effort.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont inclus dans le bilan digestif pour la maladie de Chagas?",
+        "answer": "La manométrie œsophagienne et rectale, le transit baryté, la fibroscopie œsogastroduodénale et la coloscopie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements antiparasitaires disponibles pour la maladie de Chagas?",
+        "answer": "Le benznidazole et le nifurtimox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du benznidazole pour le traitement de la maladie de Chagas?",
+        "answer": "5 à 7 mg/kg/j en 2 prises pour les adultes et 5 à 10 mg/kg/j en 3 prises pour les enfants.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du nifurtimox pour le traitement de la maladie de Chagas?",
+        "answer": "8 à 10 mg/kg/j en 2 prises pour les adultes et 15 mg/kg/j en 3 prises pour les enfants.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires du benznidazole?",
+        "answer": "Exanthème, DRESS, cytopénie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires du nifurtimox?",
+        "answer": "Anorexie, nausées, vomissements, diarrhée, insomnie, irritabilité, neuropathie périphérique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques cardiaques pour la maladie de Chagas?",
+        "answer": "L'amiodarone pour les troubles du rythme, un défibrillateur implantable en cas d'atteinte sévère, et éventuellement une transplantation cardiaque.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements symptomatiques digestifs pour la maladie de Chagas?",
+        "answer": "Les dérivés nitrés et les inhibiteurs calciques pour l'atteinte œsophagienne, les conseils hygiénodiététiques, un régime riche en fibres, et les résections digestives si besoin.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux éléments du bilan lésionnel pour la maladie de Chagas?",
+        "answer": "Le bilan cardiaque et le bilan digestif.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque de décès dans la maladie de Chagas?",
+        "answer": "Insuffisance cardiaque de grade III ou IV NYHA, cardiomégalie, anomalie de contractilité segmentaire ou globale du ventricule gauche, QRS aplati, tachycardie ventriculaire non soutenue, sexe masculin.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les principaux traitements antiparasitaires pour la maladie de Chagas?",
+        "answer": "Le benznidazole et le nifurtimox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux effets secondaires du benznidazole?",
+        "answer": "Exanthème, DRESS, cytopénie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux effets secondaires du nifurtimox?",
+        "answer": "Anorexie, nausées, vomissements, diarrhée, insomnie, irritabilité, neuropathie périphérique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux traitements symptomatiques cardiaques pour la maladie de Chagas?",
+        "answer": "L'amiodarone pour les troubles du rythme, un défibrillateur implantable en cas d'atteinte sévère, et éventuellement une transplantation cardiaque.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux traitements symptomatiques digestifs pour la maladie de Chagas?",
+        "answer": "Les dérivés nitrés et les inhibiteurs calciques pour l'atteinte œsophagienne, les conseils hygiénodiététiques, un régime riche en fibres, et les résections digestives si besoin.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux éléments du bilan lésionnel pour la maladie de Chagas?",
+        "answer": "Le bilan cardiaque et le bilan digestif.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque de décès dans la maladie de Chagas?",
+        "answer": "Insuffisance cardiaque de grade III ou IV NYHA, cardiomégalie, anomalie de contractilité segmentaire ou globale du ventricule gauche, QRS aplati, tachycardie ventriculaire non soutenue, sexe masculin.",
+        "qtype": "risques"
+    },
+    {
+        "question": "Quels sont les principaux traitements antiparasitaires pour la maladie de Chagas?",
+        "answer": "Le benznidazole et le nifurtimox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux effets secondaires du benznidazole?",
+        "answer": "Exanthème, DRESS, cytopénie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les principaux effets secondaires du nifurtimox?",
+        "answer": "Anorexie, nausées, vomissements, diarrhée, insomnie, irritabilité, neuropathie périphérique.",
+        "qtype": "traitement"
+    }
+]

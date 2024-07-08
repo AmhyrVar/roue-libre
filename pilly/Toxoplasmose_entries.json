@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelles sont les trois formes sous lesquelles Toxoplasma gondii peut se présenter?",
+        "answer": "Toxoplasma gondii peut se présenter sous trois formes : le trophozoïte ou tachyzoïte, les kystes et l’oocyste.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme invasive de Toxoplasma gondii?",
+        "answer": "La forme invasive de Toxoplasma gondii est le trophozoïte ou tachyzoïte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment se multiplie le trophozoïte de Toxoplasma gondii?",
+        "answer": "Le trophozoïte de Toxoplasma gondii se multiplie dans n’importe quelle cellule nucléée, en particulier au sein des cellules à fonction macrophagique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme quiescente de l’infestation par Toxoplasma gondii?",
+        "answer": "La forme quiescente de l’infestation par Toxoplasma gondii est représentée par les kystes contenant des bradyzoïtes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Comment les oocystes de Toxoplasma gondii deviennent-ils infestants?",
+        "answer": "Les oocystes de Toxoplasma gondii deviennent infestants en 2 à 5 jours si la température, l’hygrométrie et l’oxygénation dans le milieu extérieur sont favorables.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission de la toxoplasmose?",
+        "answer": "La toxoplasmose se transmet principalement par absorption d’oocystes sporulés contenus dans les déjections de félidés et par absorption de bradyzoïtes contenus dans la viande d’animaux contaminés.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels animaux sont les hôtes définitifs de Toxoplasma gondii?",
+        "answer": "Les félidés sont les hôtes définitifs de Toxoplasma gondii.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose en Afrique?",
+        "answer": "En Afrique, la prévalence de la toxoplasmose est élevée, souvent supérieure à 50 %, dans les pays recouverts par les deux grands blocs forestiers (congolais et éburnéo-libérien), et faible dans les états soudano-sahéliens.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose en Amérique latine?",
+        "answer": "En Amérique latine, la prévalence de la toxoplasmose est très élevée dans la région amazonienne et faible sur la côte Pacifique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la toxoplasmose en Asie?",
+        "answer": "La prévalence de la toxoplasmose est globalement faible en Asie sauf en Indonésie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la primo-infestation toxoplasmique?",
+        "answer": "La primo-infestation toxoplasmique est le plus souvent asymptomatique. Les formes apparentes bénignes associent fébricule, asthénie, polyadénopathie, surtout cervicale et syndrome mononucléosique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les formes sévères de la toxoplasmose observées en Amazonie?",
+        "answer": "En Amazonie, les formes sévères de la toxoplasmose, parfois létales, associent un syndrome infectieux grave à au moins une localisation viscérale, dont la plus fréquente est pulmonaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii impliquée dans la transmission materno-fœtale?",
+        "answer": "La forme de Toxoplasma gondii impliquée dans la transmission materno-fœtale est le trophozoïte ou tachyzoïte.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Comment les kystes de Toxoplasma gondii peuvent-ils se réactiver?",
+        "answer": "Les kystes de Toxoplasma gondii peuvent se réactiver à tout moment et libérer des tachyzoïtes, surtout en cas d’immunodépression.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée pendant laquelle un jeune chat peut rejeter des oocystes dans son environnement?",
+        "answer": "Un jeune chat peut rejeter des oocystes dans son environnement pendant une période d’une quinzaine de jours après sa primo-infestation.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels facteurs environnementaux favorisent la sporulation des oocystes de Toxoplasma gondii?",
+        "answer": "La température, l’hygrométrie et l’oxygénation favorables dans le milieu extérieur favorisent la sporulation des oocystes de Toxoplasma gondii.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui circule dans le flux sanguin lors de la primo-infestation?",
+        "answer": "La forme de Toxoplasma gondii qui circule dans le flux sanguin lors de la primo-infestation est le trophozoïte ou tachyzoïte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui persiste durant toute la vie de l’homme infesté?",
+        "answer": "La forme de Toxoplasma gondii qui persiste durant toute la vie de l’homme infesté est le kyste contenant des bradyzoïtes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes bénins de la toxoplasmose apparente?",
+        "answer": "Les symptômes bénins de la toxoplasmose apparente incluent fébricule, asthénie, polyadénopathie surtout cervicale et syndrome mononucléosique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes graves de la toxoplasmose observés chez le patient infecté par le VIH?",
+        "answer": "Chez le patient infecté par le VIH, la réactivation de la toxoplasmose peut entraîner des symptômes graves, mais le texte ne fournit pas de détails spécifiques sur ces symptômes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut être rejetée par les jeunes chats?",
+        "answer": "La forme de Toxoplasma gondii qui peut être rejetée par les jeunes chats est l’oocyste.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la durée pendant laquelle les oocystes de Toxoplasma gondii peuvent rester infestants?",
+        "answer": "Les oocystes de Toxoplasma gondii peuvent rester infestants pendant un an.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs de Toxoplasma gondii?",
+        "answer": "Les principaux réservoirs de Toxoplasma gondii sont les mammifères et les oiseaux.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui se développe lors de la réponse immunitaire spécifique?",
+        "answer": "La forme de Toxoplasma gondii qui se développe lors de la réponse immunitaire spécifique est le kyste contenant des bradyzoïtes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxoplasmose congénitale?",
+        "answer": "Les symptômes de la toxoplasmose congénitale incluent des lésions observées au cours de la maladie, mais le texte ne fournit pas de détails spécifiques sur ces symptômes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut être ingérée à partir de viande contaminée?",
+        "answer": "La forme de Toxoplasma gondii qui peut être ingérée à partir de viande contaminée est le bradyzoïte contenu dans les kystes.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les facteurs qui influencent la séroprévalence de la toxoplasmose?",
+        "answer": "La séroprévalence de la toxoplasmose est influencée par des facteurs géographiques et climatiques, étant plus faible dans les climats chauds et secs que dans les climats humides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la forme de Toxoplasma gondii qui peut être réactivée en cas d’immunodépression?",
+        "answer": "La forme de Toxoplasma gondii qui peut être réactivée en cas d’immunodépression est le kyste contenant des bradyzoïtes.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxoplasmose chez les patients immunodéprimés?",
+        "answer": "Les symptômes de la toxoplasmose chez les patients immunodéprimés peuvent inclure des manifestations graves dues à la réactivation des kystes, mais le texte ne fournit pas de détails spécifiques sur ces symptômes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques typiques de la toxoplasmose chez les patients immunodéprimés?",
+        "answer": "Les signes cliniques typiques de la toxoplasmose chez les patients immunodéprimés incluent des abcès cérébraux responsables de signes de focalisation neurologique, souvent dans un contexte fébrile. Les autres localisations peuvent être oculaires (choriorétinites) et pulmonaires (pneumopathies interstitielles).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques associés à la toxoplasmose congénitale?",
+        "answer": "La toxoplasmose congénitale peut entraîner des risques graves tels que l'avortement, des troubles majeurs du développement, l'hydrocéphalie, des calcifications cérébrales, et des syndromes infectieux ou hémorragiques néonatals. Les conséquences sont plus graves si l'infestation du fœtus a lieu précocement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment diagnostique-t-on une primo-infection toxoplasmique chez une femme enceinte?",
+        "answer": "Le diagnostic de la primo-infection toxoplasmique chez une femme enceinte repose sur la sérologie. La présence d'IgG en l'absence d'IgM indique une infestation ancienne. La présence d'IgM lors du premier prélèvement ne signe pas forcément une primo-infestation très récente. Un index d'avidité des IgG élevé écartera l'hypothèse d'une primo-infection dans les 3 à 4 mois précédents.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour la toxoplasmose chez les patients immunodéprimés?",
+        "answer": "Le traitement des formes évolutives de la toxoplasmose chez les patients immunodéprimés repose sur une bithérapie per os associant la pyriméthamine (50 à 75 mg/j chez l'adulte) et la sulfadiazine (4 à 6 g/j chez l'adulte). Le cotrimoxazole à 10/50 mg/kg/j peut aussi être utilisé. Il faut toujours associer de l'acide folinique pour prévenir les effets secondaires hématologiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures préventives doivent être prises par une femme enceinte non immunisée contre la toxoplasmose?",
+        "answer": "Une femme enceinte non immunisée doit éviter les contacts avec les jeunes chats, ne manger que de la viande très cuite ou la congeler au moins 3 jours en dessous de -18 °C, laver et rincer soigneusement les crudités et les fruits. Un suivi sérologique mensuel durant la grossesse est recommandé pour dépister une éventuelle séroconversion.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxoplasmose congénitale chez le nouveau-né?",
+        "answer": "Les symptômes de la toxoplasmose congénitale chez le nouveau-né peuvent inclure un syndrome infectieux ou hémorragique néonatal, des calcifications cérébrales, et des troubles majeurs du développement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment la toxoplasmose peut-elle affecter les yeux?",
+        "answer": "La toxoplasmose peut affecter les yeux en provoquant des choriorétinites, qui peuvent conduire à la cécité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé en cas de primo-infestation toxoplasmique au premier trimestre de la grossesse?",
+        "answer": "En cas de primo-infestation toxoplasmique au premier trimestre de la grossesse, il est recommandé de prescrire de la spiramycine (6 à 9 MUI/j) à poursuivre jusqu'à l'accouchement si le diagnostic anténatal est négatif.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes radiologiques caractéristiques de la toxoplasmose cérébrale?",
+        "answer": "Les signes radiologiques caractéristiques de la toxoplasmose cérébrale incluent des abcès cérébraux avec une image en cocarde au scanner.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment la toxoplasmose est-elle diagnostiquée chez un patient immunodéprimé?",
+        "answer": "Chez un patient immunodéprimé, une sérologie positive permet d'envisager le diagnostic de toxoplasmose comme possible. Le diagnostic est affirmé par les données cliniques, l'imagerie et la recherche directe du parasite (colorations optiques ou PCR).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de transmission materno-fœtale de la toxoplasmose au cours du premier trimestre de grossesse?",
+        "answer": "La transmission materno-fœtale de la toxoplasmose est rare lors du premier trimestre de grossesse et exceptionnelle avant la sixième semaine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les traitements alternatifs à la bithérapie pyriméthamine-sulfadiazine pour la toxoplasmose?",
+        "answer": "Le cotrimoxazole à 10/50 mg/kg/j peut être utilisé comme traitement alternatif à la bithérapie pyriméthamine-sulfadiazine pour la toxoplasmose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires à prévenir lors du traitement de la toxoplasmose avec la pyriméthamine et la sulfadiazine?",
+        "answer": "Il est nécessaire d'associer de l'acide folinique au traitement par pyriméthamine et sulfadiazine pour prévenir les effets secondaires hématologiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes possibles chez un enfant né d'une mère ayant contracté la toxoplasmose au troisième trimestre de grossesse?",
+        "answer": "Un enfant né d'une mère ayant contracté la toxoplasmose au troisième trimestre de grossesse peut naître indemne mais présenter secondairement un retard psychomoteur, des convulsions, ou développer une choriorétinite pouvant conduire à la cécité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prophylaxie recommandée pour un patient immunodéprimé par une infection VIH contre la toxoplasmose?",
+        "answer": "La prophylaxie recommandée pour un patient immunodéprimé par une infection VIH contre la toxoplasmose est la prise quotidienne de triméthoprime-sulfaméthoxazole (1 cp/j à 80/400 mg chez l'adulte).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les organes pouvant être atteints par des formes disséminées de la toxoplasmose?",
+        "answer": "Les formes disséminées de la toxoplasmose peuvent atteindre n'importe quel organe.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment la sérologie aide-t-elle au diagnostic de la toxoplasmose chez la femme en âge de procréer?",
+        "answer": "Chez la femme en âge de procréer, une sérologie positive permet d'envisager une grossesse sans crainte de primo-infestation.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la toxoplasmose pulmonaire?",
+        "answer": "Les signes cliniques de la toxoplasmose pulmonaire incluent des pneumopathies interstitielles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques pour le fœtus si la mère contracte la toxoplasmose au troisième trimestre de grossesse?",
+        "answer": "Si la mère contracte la toxoplasmose au troisième trimestre de grossesse, le risque d'infestation fœtale est plus important mais les conséquences sont généralement moins graves. L'enfant peut naître indemne mais présenter secondairement un retard psychomoteur, des convulsions, ou développer une choriorétinite pouvant conduire à la cécité.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment la toxoplasmose peut-elle être prévenue chez les patients immunodéprimés?",
+        "answer": "Chez les patients immunodéprimés, la toxoplasmose peut être prévenue par une prophylaxie avec la prise quotidienne de triméthoprime-sulfaméthoxazole.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes neurologiques de la toxoplasmose chez les patients immunodéprimés?",
+        "answer": "Les symptômes neurologiques de la toxoplasmose chez les patients immunodéprimés incluent des abcès cérébraux responsables de signes de focalisation neurologique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de l'index d'avidité des IgG dans le diagnostic de la toxoplasmose?",
+        "answer": "Un index d'avidité des IgG élevé écarte l'hypothèse d'une primo-infection toxoplasmique dans les 3 à 4 mois précédents.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxoplasmose chez les patients immunocompétents?",
+        "answer": "Chez les patients immunocompétents, les formes graves de la toxoplasmose peuvent nécessiter un traitement, mais les symptômes spécifiques ne sont pas détaillés dans le texte fourni.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment la toxoplasmose est-elle diagnostiquée en l'absence de sérologie avant la grossesse?",
+        "answer": "En l'absence de sérologie avant la grossesse, un examen sérologique est réalisé dès que possible chez la femme enceinte. La présence d'IgG en l'absence d'IgM indique une infestation ancienne. La présence d'IgM lors du premier prélèvement ne signe pas forcément une primo-infestation très récente.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la toxoplasmose congénitale?",
+        "answer": "Le traitement de la toxoplasmose congénitale repose sur une bithérapie per os associant la pyriméthamine et la sulfadiazine. Le cotrimoxazole peut aussi être utilisé. Il faut toujours associer de l'acide folinique pour prévenir les effets secondaires hématologiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxoplasmose oculaire?",
+        "answer": "Les symptômes de la toxoplasmose oculaire incluent des choriorétinites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment la toxoplasmose peut-elle être prévenue chez une femme enceinte non immunisée?",
+        "answer": "Chez une femme enceinte non immunisée, la toxoplasmose peut être prévenue en évitant les contacts avec les jeunes chats, en ne mangeant que de la viande très cuite ou congelée au moins 3 jours en dessous de -18 °C, et en lavant soigneusement les crudités et les fruits. Un suivi sérologique mensuel durant la grossesse est également recommandé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxoplasmose chez les patients immunodéprimés?",
+        "answer": "Chez les patients immunodéprimés, la toxoplasmose se caractérise par des abcès cérébraux responsables de signes de focalisation neurologique, souvent dans un contexte fébrile. Les autres localisations peuvent être oculaires (choriorétinites) et pulmonaires (pneumopathies interstitielles).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques pour le fœtus si la mère contracte la toxoplasmose au premier trimestre de grossesse?",
+        "answer": "Si la mère contracte la toxoplasmose au premier trimestre de grossesse, les risques pour le fœtus incluent l'avortement, des troubles majeurs du développement, l'hydrocéphalie, des calcifications cérébrales, et des syndromes infectieux ou hémorragiques néonatals.",
+        "qtype": "épidémiologie"
+    }
+]

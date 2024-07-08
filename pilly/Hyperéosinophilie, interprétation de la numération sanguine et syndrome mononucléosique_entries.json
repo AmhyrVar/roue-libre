@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Qu'est-ce qu'une numération sanguine (NFS) et comment est-elle réalisée?",
+        "answer": "La numération sanguine (NFS ou hémogramme) est un examen automatisé de pratique courante dans les hôpitaux de district. Le sang intraveineux est recueilli sur tube EDTA, qui peut également servir à la demande de VS, groupe rhésus, électrophorèse de l'hémoglobine, frottis pour recherche de paludisme ou étude cytologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les valeurs normales de l'hémoglobine chez un adulte?",
+        "answer": "Les valeurs normales de l'hémoglobine chez un adulte sont de 12-16 g/dL pour une femme, 10,5-16 g/dL pour une femme enceinte, et 13-17 g/dL pour un homme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment est définie une anémie?",
+        "answer": "Une anémie est définie par un taux d’hémoglobine inférieur à la normale attendue selon l’âge et le sexe. Elle impose d’évaluer rapidement sa tolérance et d’éliminer les diagnostics rapidement évolutifs afin de débuter rapidement le traitement symptomatique et étiologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types d'anémies selon le volume globulaire moyen (VGM)?",
+        "answer": "Selon le volume globulaire moyen (VGM), on définit les anémies microcytaires (VGM < 80 femtolitres), normocytaires (VGM entre 80 et 95 fL) et macrocytaires (VGM > 95 fL).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales pathologies infectieuses anémiantes en zone tropicale?",
+        "answer": "Les principales pathologies infectieuses anémiantes en zone tropicale sont le paludisme, les infections virales (dont le VIH et le Parvovirus B19), les ankylostomes, les bothriocéphales, la leishmaniose viscérale et la tuberculose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de polynucléose neutrophile?",
+        "answer": "Une polynucléose neutrophile peut être physiologique au cours de la grossesse, induite par un stress, un effort physique, une intervention chirurgicale, ou une corticothérapie. Elle est classiquement associée à une infection bactérienne ou une amibiase hépatique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les principales étiologies des neutropénies aigues?",
+        "answer": "Les principales étiologies des neutropénies aigues sont virales et iatrogènes. Une neutropénie au cours d’un accès palustre est classique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles infections peuvent causer une thrombopénie?",
+        "answer": "Les infections les plus thrombopéniantes sont le paludisme et les infections virales (arboviroses, VIH). Plus rarement, on évoquera une leptospirose, une borréliose, une rickettsiose, une babésiose, une histoplasmose disséminée.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de thrombocytose modérée?",
+        "answer": "Une thrombocytose modérée est observée au cours de la grossesse, d’une carence martiale, d’une hémolyse chronique, et dans les suites d’une splénectomie ou d’un asplénisme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les étiologies des thrombopénies centrales?",
+        "answer": "Les étiologies des thrombopénies centrales incluent les hémopathies (leucémie lymphoide chronique, lymphome), l'envahissement médullaire, la myélodysplasie, la tuberculose, la leishmaniose, et le parvovirus B19.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les étiologies des thrombopénies périphériques?",
+        "answer": "Les étiologies des thrombopénies périphériques incluent les infections (paludisme, VIH, arboviroses, VZV, EBV, parvovirus B19, rubéole, CMV, sepsis, leptospirose), l'auto-immunité (lupus, polyarthrite rhumatoïde), l'immuno-allergie (héparine, anti-convulsivant, digitaliques), et l'allo-immunité (néonatale, post transfusionnelle).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de pancytopénie d'origine centrale?",
+        "answer": "Les causes fréquentes de pancytopénie d'origine centrale incluent les hémopathies, les carences en vitamine B12 ou folates, et les causes iatrogènes. Les infections les plus fréquemment en cause sont la tuberculose médullaire, la brucellose et la leishmaniose viscérale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de pancytopénie d'origine périphérique?",
+        "answer": "Les causes fréquentes de pancytopénie d'origine périphérique incluent les viroses (VIH, CMV, EBV) à l'origine de manifestations auto-immunes et l'hypersplénisme (paludisme viscéral, cirrhose compliquant une hépatite virale).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment est définie l'hyperéosinophilie (HE)?",
+        "answer": "L'hyperéosinophilie (HE) est définie par une éosinophilie sanguine supérieure ou égale à 1.5 G/L stable dans le temps. Chez un patient sous corticothérapie, un taux de PE supérieur à 0,3 G/L définit une HE.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les étiologies fréquentes de l'hyperéosinophilie en zone tropicale?",
+        "answer": "En zone tropicale, l'hyperéosinophilie est souvent la conséquence d’une infection helminthique. Les étiologies virales (VIH, VHC), allergiques et médicamenteuses ne doivent pas être oubliées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une hyperéosinophilie systémique nécessitant une prise en charge urgente?",
+        "answer": "Les signes cliniques d'une hyperéosinophilie systémique nécessitant une prise en charge urgente incluent des formes graves de primo-invasion helminthique, d’allergie médicamenteuse (DRESS), de vascularites ou des proliférations hématologiques malignes. Les signes sont alors généraux sévères, un purpura vasculaire, des hémorragies sous-unguéales en flammèches, des atteintes d’organes multiples, un syndrome tumoral et un aspect atypique des cellules sanguines sur le frottis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels agents sont fréquemment impliqués dans le syndrome d’invasion helminthique?",
+        "answer": "Les agents fréquemment impliqués dans le syndrome d’invasion helminthique sont les douves hépatiques (F. hepatica, F. gigantica), les schistosomes, Toxocara sp. et Trichinella sp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes d'hyperlymphocytose?",
+        "answer": "L'hyperlymphocytose est fréquente au cours des viroses, de la trypanosomose, et parfois en rapport avec une hémopathie lymphoïde.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de lymphopénie?",
+        "answer": "La lymphopénie est habituellement observée au cours de viroses (l’infection par le VIH surtout) et des hémopathies.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de monocytose?",
+        "answer": "Une monocytose oriente vers une virose, un paludisme, une trypanosomose, une syphilis, une rickettsiose, une brucellose, ou une tuberculose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de myélémie?",
+        "answer": "Une myélémie peut exister au cours d’un sepsis grave, des hémopathies ou de la tuberculose hématopoïétique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les causes fréquentes de plasmocytose?",
+        "answer": "Une rubéole ou une trypanosomose doivent être évoquées devant une plasmocytose.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères de gravité à rechercher en cas de thrombopénie?",
+        "answer": "Des critères de gravité doivent être recherchés à l’interrogatoire et à l’examen clinique en cas de thrombopénie, tels que des hémorragies extériorisées et des lésions endobuccales.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une thrombopénie sans signe hémorragique?",
+        "answer": "Toute thrombopénie sans signe hémorragique doit faire rechercher sur tube EDTA une fausse thrombopénie par aggrégation, habituellement signalée par le laboratoire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une thrombocytose > 1000 G/L?",
+        "answer": "Une thrombocytose > 1000 G/L expose à des accidents thrombotiques imposant un traitement approprié et une prévention au long cours par salicylés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une polynucléose inflammatoire?",
+        "answer": "La polynucléose inflammatoire est liée à une hémopathie, une néoplasie, ou une iatrogénie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une neutropénie au cours d’un accès palustre?",
+        "answer": "Une neutropénie au cours d’un accès palustre est classique et favorise les infections bactériennes et fongiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une hyperéosinophilie chronique?",
+        "answer": "La découverte d'une hyperéosinophilie doit être rattachée à une étiologie pour le traitement adapté et la prévention de la toxicité du syndrome hyperéosinophile chronique, qui peut inclure un poumon éosinophile et une fibrose myocardique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une hyperéosinophilie des helminthoses?",
+        "answer": "En zone tropicale, l’hyperéosinophilie est le plus souvent la conséquence d’une ou plusieurs helminthoses. Toute helminthose peut entraîner une hyperéosinophilie variant selon le ver, la charge parasitaire et le sujet infesté.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes respiratoires associés aux helminthoses?",
+        "answer": "Syndrome de Löffler lors de l’invasion larvaire (ascaridiose, ankylostomose, anguillulose, trichinellose, bilharzioses), larva migrans viscérale (toxocarose), poumon éosinophile tropical (filarioses).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cutanés associés aux helminthoses?",
+        "answer": "Urticaire et angio-oedème lors de l’invasion parasitaire, larva migrans viscérale, larva currens (anguillulose), larva migrans cutanée (ankylostomose), dermite des nageurs (bilharzioses), œdème migrateur (loaose, gnathostomose, dirofilariose), lymphangite (filarioses lymphatiques); nodules sous-cutanés, peau léopard : onchocercose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes digestifs associés aux helminthoses?",
+        "answer": "Helminthoses digestives.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes hépato-biliaires associés aux helminthoses?",
+        "answer": "Distomatoses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes myalgiques associés aux helminthoses?",
+        "answer": "Trichinellose, phase de primo-invasion des helminthoses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes ORL associés aux helminthoses?",
+        "answer": "Rhinite allergique, vascularites (maladie de Wegener).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes génito-urinaires associés aux helminthoses?",
+        "answer": "Bilharziose génito-urinaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cardiologiques associés aux helminthoses?",
+        "answer": "Hydatidose, trichinellose.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes neurologiques associés aux helminthoses?",
+        "answer": "Neurocysticercose, phase de primo-invasion des helminthoses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d'un syndrome pseudo-grippal associés aux helminthoses?",
+        "answer": "Primo-invasions helminthiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en situation d'urgence?",
+        "answer": "Adresser au centre de santé de niveau 2/3.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas d'allergie?",
+        "answer": "Eviction de l’allergène + traitement anti-helminthique d’épreuve.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas de prise médicamenteuse récente?",
+        "answer": "Arrêt du médicament incriminé ± traitement anti-helminthique d’épreuve.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas d'invasion larvaire?",
+        "answer": "Corticothérapie si mauvaise tolérance, traitement anti-helminthique différé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en l'absence d'élément ou parasitose à la phase d'état suspectée?",
+        "answer": "Traitement anti-helminthique d’épreuve, contrôle de la NFS à 1 mois si persistance : adresser au centre de santé de niveau 2 ou 3.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas de primo-invasion larvaire suspectée?",
+        "answer": "Sérologies parasitaires si disponibles, 3 EPS, 3 EPU si endémie bilharzienne, frottis sanguin, corticothérapie si mauvaise tolérance, différer le traitement anti-helminthique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas de parasitose en phase d'état suspectée?",
+        "answer": "3 EPS, 3 EPU si endémie bilharzienne, frottis sanguin, renouveler le traitement anti-helminthique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas de vascularite suspectée?",
+        "answer": "ANCA.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie en cas d'hémopathie suspectée?",
+        "answer": "Myélogramme, Biopsie ostéo-médullaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge d'une hyperéosinophilie dans tous les cas?",
+        "answer": "Sérologies VIH, hépatite C, Radiographie pulmonaire, contrôle NFS 1 mois minimum après traitement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements anti-helminthiques recommandés?",
+        "answer": "Albendazole 400 mg/j pendant 3 jours (ou autres dérivés azolés) + Ivermectine 200 microg/kg (prise unique) + Praziquantel 40 à 60 mg/kg en prise unique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les étiologies à documenter en zone tropicale pour un syndrome mononucléosique?",
+        "answer": "Primo-infection à VIH et paludisme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation étiologique d'un syndrome mononucléosique avec angine?",
+        "answer": "VIH, EBV.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation étiologique d'un syndrome mononucléosique avec éruption cutanée?",
+        "answer": "CMV, EBV, VIH, Toxicité médicamenteuse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation étiologique d'un syndrome mononucléosique avec fièvre isolée?",
+        "answer": "CMV, EBV, VIH, Paludisme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation étiologique d'un syndrome mononucléosique avec adénopathies?",
+        "answer": "EBV, CMV, VIH, Toxoplasmose, Rubéole.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation étiologique d'un syndrome mononucléosique avec ictère?",
+        "answer": "Hépatite virale A, B, C, D, E, CMV, EBV, VIH.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les anomalies biologiques associées au syndrome mononucléosique?",
+        "answer": "Hémoglobine abaissée, plaquettes abaissées, éosinophilie, anomalies du bilan hépatique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests diagnostiques pour le paludisme?",
+        "answer": "Goutte épaisse, test rapide.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests diagnostiques pour la mononucléose infectieuse (MNI)?",
+        "answer": "MNI test, IgM anti-EBV.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests diagnostiques pour le CMV?",
+        "answer": "IgM et IgG anti-CMV.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests diagnostiques pour le VIH?",
+        "answer": "Dépistage précoce du VIH, Sérologie VIH, charge virale VIH.",
+        "qtype": "diagnostic"
+    }
+]

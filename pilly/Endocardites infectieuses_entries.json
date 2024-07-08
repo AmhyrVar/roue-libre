@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est l'incidence de l'endocardite infectieuse (EI) dans les pays développés?",
+        "answer": "L'incidence de l'endocardite infectieuse (EI) dans les pays développés est de 35 cas par million d'habitants par an.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables de l'endocardite infectieuse en France?",
+        "answer": "Les principaux agents responsables de l'endocardite infectieuse en France sont les streptocoques et Staphylococcus aureus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les streptocoques les plus fréquents responsables de l'endocardite infectieuse?",
+        "answer": "Les streptocoques les plus fréquents responsables de l'endocardite infectieuse sont les streptocoques peu virulents de la cavité buccodentaire (streptocoques oraux ou non groupables) et les streptocoques du groupe D, d'origine digestive (Streptococcus gallolyticus, ex-S. bovis).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité intra-hospitalière de l'endocardite infectieuse dans les centres hospitaliers équipés?",
+        "answer": "Le taux de mortalité intra-hospitalière de l'endocardite infectieuse dans les centres hospitaliers équipés est en moyenne de 20%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux micro-organismes responsables d'endocardite infectieuse en France selon l'enquête EI 2008?",
+        "answer": "Selon l'enquête EI 2008, les principaux micro-organismes responsables d'endocardite infectieuse en France sont les streptocoques (50% sur valve native, 25% sur prothèse valvulaire), les entérocoques (10% sur valve native, 20% sur prothèse valvulaire), Staphylococcus aureus (20% sur valve native, 25% sur prothèse valvulaire), et les staphylocoques à coagulase négative (5% sur valve native, 10% sur prothèse valvulaire).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les manifestations cliniques des végétations dans l'endocardite infectieuse?",
+        "answer": "Les végétations dans l'endocardite infectieuse entraînent des manifestations infectieuses et immunologiques à distance par essaimage dans la circulation de micro-organismes avec foyers septiques secondaires, emboles responsables de tableaux d'ischémie aiguë, et libération d'antigènes et de complexes immuns responsables de vascularite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les conséquences des destructions valvulaires dans l'endocardite infectieuse?",
+        "answer": "Les destructions valvulaires dans l'endocardite infectieuse peuvent entraîner l'apparition ou l'aggravation d'une insuffisance valvulaire, la majoration d'un souffle, une défaillance cardiaque, des ruptures de cordage, des abcès myocardiques, et des fistulisations intercavitaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une endocardite infectieuse en médecine interne?",
+        "answer": "En médecine interne, les signes cliniques évocateurs d'une endocardite infectieuse sont une fièvre persistante inexpliquée et une altération de l'état général en contexte fébrile.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une endocardite infectieuse en cardiologie?",
+        "answer": "En cardiologie, les signes cliniques évocateurs d'une endocardite infectieuse sont une insuffisance cardiaque fébrile et l'apparition ou la modification d'un souffle valvulaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une endocardite infectieuse en neurologie?",
+        "answer": "En neurologie, les signes cliniques évocateurs d'une endocardite infectieuse sont un accident vasculaire cérébral fébrile.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une endocardite infectieuse en rhumatologie?",
+        "answer": "En rhumatologie, les signes cliniques évocateurs d'une endocardite infectieuse sont des lombalgies fébriles avec ou sans arthralgies.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques évocateurs d'une endocardite infectieuse en dermatologie?",
+        "answer": "En dermatologie, les signes cliniques évocateurs d'une endocardite infectieuse sont un purpura pétéchial, diffus et fébrile.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens bactériologiques sont fondamentaux pour isoler le micro-organisme responsable de l'endocardite infectieuse?",
+        "answer": "Les hémocultures sont fondamentales pour isoler le micro-organisme responsable de l'endocardite infectieuse dans 90% des cas en l'absence d'antibiothérapie préalable.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Combien de prélèvements sanguins veineux doivent être réalisés pour les hémocultures dans le diagnostic de l'endocardite infectieuse?",
+        "answer": "Trois prélèvements sanguins veineux au minimum doivent être réalisés pour les hémocultures dans le diagnostic de l'endocardite infectieuse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que faire si les hémocultures initiales sont négatives dans le diagnostic de l'endocardite infectieuse?",
+        "answer": "Si les hémocultures initiales sont négatives, des hémocultures complémentaires doivent être pratiquées, notamment chez les sujets ayant reçu préalablement des antibiotiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels micro-organismes peuvent nécessiter un temps plus long pour être isolés dans les hémocultures?",
+        "answer": "Les micro-organismes du groupe HACCEK, les streptocoques déficients et les levures peuvent nécessiter un temps plus long pour être isolés dans les hémocultures.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens peuvent apporter le diagnostic définitif chez les patients opérés pour endocardite infectieuse?",
+        "answer": "Chez les patients opérés, le diagnostic définitif peut être apporté par l'examen microbiologique des valves (examen direct, cultures) et par biologie moléculaire (PCR) dans les centres les mieux équipés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité de l'échographie trans-thoracique (ETT) pour détecter les végétations valvulaires dans les endocardites infectieuses sur valves natives?",
+        "answer": "La sensibilité de l'échographie trans-thoracique (ETT) pour détecter les végétations valvulaires dans les endocardites infectieuses sur valves natives est de 70%.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité de l'échographie trans-œsophagienne (ETO) pour détecter les végétations valvulaires dans les endocardites infectieuses sur valves natives?",
+        "answer": "La sensibilité de l'échographie trans-œsophagienne (ETO) pour détecter les végétations valvulaires dans les endocardites infectieuses sur valves natives dépasse 90%.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères diagnostiques majeurs de la Duke University pour l'endocardite infectieuse?",
+        "answer": "Les critères diagnostiques majeurs de la Duke University pour l'endocardite infectieuse sont les hémocultures positives avec un micro-organisme typique d'une endocardite et la démonstration de l'atteinte de l'endocarde par échocardiographie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères diagnostiques mineurs de la Duke University pour l'endocardite infectieuse?",
+        "answer": "Les critères diagnostiques mineurs de la Duke University pour l'endocardite infectieuse incluent des prédispositions cardiaques ou des toxicomanies intraveineuses, une fièvre supérieure à 38°C, des phénomènes vasculaires, des phénomènes immunologiques, et des preuves microbiologiques ne répondant pas aux critères majeurs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour l'endocardite infectieuse?",
+        "answer": "Le traitement de l'endocardite infectieuse nécessite une antibiothérapie bactéricide prolongée à fortes doses pour éviter la rechute.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Pourquoi une antibiothérapie bactéricide prolongée à fortes doses est-elle nécessaire pour traiter l'endocardite infectieuse?",
+        "answer": "Une antibiothérapie bactéricide prolongée à fortes doses est nécessaire pour traiter l'endocardite infectieuse car les bactéries sont protégées de la phagocytose au sein des végétations, ce qui permet à l'infection de se développer à l'abri des défenses immunitaires de l'hôte.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux pathogènes responsables d'endocardite infectieuse sur prothèse valvulaire en France?",
+        "answer": "Les principaux pathogènes responsables d'endocardite infectieuse sur prothèse valvulaire en France sont les streptocoques (25%), Staphylococcus aureus (25%), les entérocoques (20%), et les staphylocoques à coagulase négative (10%).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux pathogènes responsables d'endocardite infectieuse sur valve native en France?",
+        "answer": "Les principaux pathogènes responsables d'endocardite infectieuse sur valve native en France sont les streptocoques (50%), Staphylococcus aureus (20%), les entérocoques (10%), et les staphylocoques à coagulase négative (5%).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables d'endocardite infectieuse dans les pays en développement?",
+        "answer": "Dans les pays en développement, les principaux agents responsables d'endocardite infectieuse incluent des bactéries très variées, notamment les zoonoses Coxiella burnetii, Bartonella sp., Brucella sp., et les bactéries du groupe HACCEK.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les critères pour exclure une endocardite infectieuse selon la Duke University?",
+        "answer": "Selon la Duke University, une endocardite infectieuse est exclue si un diagnostic différentiel explique les signes cliniques d'EI ou si les manifestations d'EI disparaissent avec moins de 4 jours d'antibiothérapie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères pour diagnostiquer une endocardite infectieuse certaine selon la Duke University?",
+        "answer": "Selon la Duke University, une endocardite infectieuse certaine est diagnostiquée avec 2 critères majeurs, ou 1 critère majeur et 3 critères mineurs, ou 5 critères mineurs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères pour diagnostiquer une endocardite infectieuse possible selon la Duke University?",
+        "answer": "Selon la Duke University, une endocardite infectieuse possible est diagnostiquée avec 1 critère majeur et 2 critères mineurs, ou 3 critères mineurs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères majeurs pour le diagnostic des endocardites infectieuses?",
+        "answer": "Les critères majeurs incluent : hémocultures positives pour des micro-organismes typiques d'endocardite infectieuse, ou preuve d'atteinte endocardique (échocardiogramme positif pour végétation, abcès, ou désinsertion prothétique partielle récente, ou nouveau souffle de régurgitation valvulaire).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères mineurs pour le diagnostic des endocardites infectieuses?",
+        "answer": "Les critères mineurs incluent : prédisposition (cardiopathie à risque ou toxicomanie intraveineuse), fièvre ≥ 38,0°C, phénomènes vasculaires (emboles septiques, infarctus pulmonaires, anévrisme mycotique, hémorragie intracrânienne, hémorragies conjonctivales, taches de Janeway), phénomènes immunologiques (glomérulonéphrite, faux panaris d’Osler, taches de Roth, facteur rhumatoïde), et arguments microbiologiques (hémocultures positives hors définition « critère majeur »).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de base pour les endocardites infectieuses?",
+        "answer": "Le traitement comporte toujours une antibiothérapie, associée dans 40 à 50 % des cas à une intervention de remplacement ou de réparation valvulaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés pour traiter les endocardites à streptocoques sensibles à la pénicilline G sur valve native non compliquée?",
+        "answer": "Les antibiotiques utilisés sont : Pénicilline G ou Amoxicilline ou ceftriaxone ± Gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite à streptocoques sensibles à la pénicilline G sur valve native non compliquée?",
+        "answer": "La durée du traitement est de 2 semaines de bithérapie si fonction rénale normale ou 4 semaines de monothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés pour traiter les endocardites à entérocoques sensibles aux bêtalactamines et de bas niveau de résistance à la gentamicine?",
+        "answer": "Les antibiotiques utilisés sont : Amoxicilline + Gentamicine ou Vancomycine ou Teicoplanine + Gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite à entérocoques sensibles aux bêtalactamines et de bas niveau de résistance à la gentamicine?",
+        "answer": "La durée du traitement est de 4-6 semaines, dont au moins 2 semaines de bithérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés pour traiter les endocardites à staphylocoques méti-S sur valve native?",
+        "answer": "Les antibiotiques utilisés sont : (Cl)oxacilline ou Vancomycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite à staphylocoques méti-S sur valve native?",
+        "answer": "La durée du traitement est de 4-6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés pour traiter les endocardites à staphylocoques méti-R sur valve native?",
+        "answer": "Les antibiotiques utilisés sont : Vancomycine ou Daptomycine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés pour traiter les endocardites à staphylocoques méti-S sur valve prothétique?",
+        "answer": "Les antibiotiques utilisés sont : (Cl)oxacilline + Gentamicine + Rifampicine ou Vancomycine + Gentamicine + Rifampicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite à staphylocoques méti-S sur valve prothétique?",
+        "answer": "La durée du traitement est de ≥ 6 semaines (gentamicine 15 jours).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés pour traiter les endocardites à staphylocoques méti-R sur valve prothétique?",
+        "answer": "Les antibiotiques utilisés sont : Vancomycine ou Daptomycine + Gentamicine + Rifampicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement empirique pour les endocardites sur valve native et tardive sur prothèse (>12 mois après la pose)?",
+        "answer": "Le traitement empirique inclut : Amoxicilline, Oxa ou cloxacilline, et Gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement empirique pour les endocardites précoces sur prothèse (< 12 mois après la pose)?",
+        "answer": "Le traitement empirique inclut : Vancomycine + Gentamicine + Rifampicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les endocardites à Brucella?",
+        "answer": "Le traitement inclut : Doxycycline 200 mg/j PO + Cotrimoxazole 1 600/320 mg/j PO en 2 fois + Rifampicine 1 200 mg/j PO en 2 fois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour les endocardites à Brucella?",
+        "answer": "La durée du traitement est d'au moins 3 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les endocardites à Coxiella burnetii?",
+        "answer": "Le traitement inclut : Doxycycline 200 mg/j PO + Hydroxychloroquine 600 mg/j PO ou Doxycycline 200 mg/j PO + Ofloxacine 400 mg/j PO.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour les endocardites à Coxiella burnetii?",
+        "answer": "La durée du traitement est d'au moins 18 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les endocardites à Bartonella?",
+        "answer": "Le traitement inclut : Ceftriaxone 2 g/J IV ou amoxicilline 200 mg/kg/j IV ou Doxycycline 200 mg/j PO + Gentamicine 3 mg/kg/j IV.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour les endocardites à Bartonella?",
+        "answer": "La durée du traitement est de 4 semaines (dont 2 avec la gentamicine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour les endocardites à Tropheryma whipplei?",
+        "answer": "Le traitement inclut : Doxycycline 200 mg/j + Hydroxychloroquine 600 mg/j, ou cotrimoxazole 1 600/320 mg/j PO en 2 fois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée optimale du traitement pour les endocardites à Tropheryma whipplei?",
+        "answer": "La durée optimale de traitement n'est pas connue (> 12 mois).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les indications de chirurgie valvulaire pour les endocardites infectieuses?",
+        "answer": "Les indications de chirurgie valvulaire incluent : insuffisance cardiaque réfractaire au traitement médical, persistance de l’infection malgré l’antibiothérapie, risque emboligène (végétations > 10 mm et persistance d’emboles sous traitement médical), ou présence d’un abcès péri-valvulaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les éléments de surveillance pour les endocardites infectieuses?",
+        "answer": "La surveillance inclut : suivi de la courbe thermique, recherche de signes périphériques et de complications, hémocultures, évolution de la CRP, état cardiaque (auscultation quotidienne, signes d’insuffisance cardiaque), et surveillance échocardiographique.",
+        "qtype": "surveillance"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention de l’endocardite infectieuse?",
+        "answer": "Les mesures de prévention incluent : hygiène bucco-dentaire, antisepsie soigneuse des plaies, limitation des gestes invasifs, traitement précoce de tout foyer infectieux, consultation précoce en cas de fièvre, et accès libre à du matériel d’injection stérile pour les consommateurs de drogue intra-veineuses.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour des informations sur l’endocardite infectieuse?",
+        "answer": "Les sites web recommandés incluent : Association pour l’Etude et la Prévention de l’Endocardite Infectieuse (AEPEI) et Site endocardites Aquitaine.",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quels sont les antibiotiques utilisés pour traiter les endocardites à streptocoques de sensibilité diminuée à la pénicilline G?",
+        "answer": "Les antibiotiques utilisés sont : Pénicilline G ou Amoxicilline + Gentamicine ou Vancomycine ou Teicoplanine + Gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite à streptocoques de sensibilité diminuée à la pénicilline G sur valve native?",
+        "answer": "La durée du traitement est de 2 semaines de bithérapie puis 2 semaines de monothérapie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée du traitement pour une endocardite à streptocoques de sensibilité diminuée à la pénicilline G sur valve prothétique?",
+        "answer": "La durée du traitement est de 4 semaines de monothérapie.",
+        "qtype": "traitement"
+    }
+]

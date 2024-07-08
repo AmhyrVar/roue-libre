@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Qu'est-ce que la fièvre Q?",
+        "answer": "La fièvre Q est une zoonose causée par Coxiella burnetii. La primo-infection symptomatique est appelée fièvre Q aiguë. Dans de rares cas, la bactérie peut échapper au contrôle immunitaire et provoquer des infections chroniques focalisées persistantes potentiellement mortelles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment la fièvre Q est-elle transmise à l'homme?",
+        "answer": "La transmission à l'homme se fait principalement par l'inhalation d'aérosols contaminés à partir des produits de parturition (placenta, liquide amniotique) de bétail infecté. La contamination peut également se faire par ingestion de lait cru, exposition au sang, voie transplacentaire ou sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs de Coxiella burnetii?",
+        "answer": "Les réservoirs de Coxiella burnetii comprennent les mammifères (bovins, moutons, chèvres surtout), les oiseaux et les arthropodes (principalement tiques).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre Q aiguë?",
+        "answer": "Les symptômes de la fièvre Q aiguë incluent une forme pseudo-grippale avec fièvre à 40°C, asthénie, céphalées et myalgies, une pneumonie, et une hépatite qui peut être minime, modérée ou sévère.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la fièvre Q?",
+        "answer": "La période d'incubation de la fièvre Q est d'environ 20 jours.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les modes de transmission de la fièvre Q?",
+        "answer": "Les modes de transmission de la fièvre Q incluent l'inhalation d'aérosols contaminés, l'ingestion de lait cru, l'exposition au sang, la voie transplacentaire et la voie sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes biologiques non spécifiques de la fièvre Q?",
+        "answer": "Les signes biologiques non spécifiques de la fièvre Q incluent une hyperleucocytose (25 %), une thrombopénie (25 %) et des enzymes hépatiques élevées (85 %).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de la fièvre Q pendant la grossesse?",
+        "answer": "Pendant la grossesse, la fièvre Q peut entraîner des complications obstétricales telles que l'avortement spontané, le retard de croissance, la mort fœtale in utero, l'oligo-amnios, l'accouchement prématuré et les malformations fœtales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre Q chez les enfants?",
+        "answer": "Chez les enfants, la fièvre Q aiguë est souvent asymptomatique. L'endocardite peut survenir chez des enfants atteints de cardiopathie congénitale ou de valvulopathie rhumatismale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections focalisées persistantes à Coxiella burnetii?",
+        "answer": "Les infections focalisées persistantes peuvent inclure des endocardites, des anévrismes mycotiques vasculaires, des infections de prothèse vasculaire, des infections ostéo-articulaires et une hépatite fibrosante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'incidence de la fièvre Q aiguë dans le sud de la France?",
+        "answer": "L'incidence de la fièvre Q aiguë dans le sud de la France est d'environ 50 cas pour 100 000 personnes par an.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'incidence de la fièvre Q en Guyane française?",
+        "answer": "L'incidence de la fièvre Q en Guyane française est de 20 à 40 cas pour 100 000 habitants avec des pics à 120 cas.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs de risque pour développer une endocardite à Coxiella burnetii?",
+        "answer": "Les facteurs de risque pour développer une endocardite à Coxiella burnetii incluent une maladie valvulaire cardiaque, en particulier une prothèse valvulaire, une valve aortique bicuspide ou un prolapsus valvulaire mitral.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pneumonie causée par la fièvre Q?",
+        "answer": "Les symptômes d'une pneumonie causée par la fièvre Q incluent une fièvre élevée, des céphalées, des myalgies, et un épanchement pleural. La radiographie pulmonaire visualise une pneumonie atypique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une hépatite causée par la fièvre Q?",
+        "answer": "Les symptômes d'une hépatite causée par la fièvre Q peuvent être minimes, modérés ou sévères. L'ictère est rarement présent. L'infection aiguë peut se manifester comme une hépatite granulomateuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes rares de la fièvre Q aiguë?",
+        "answer": "Les symptômes rares de la fièvre Q aiguë peuvent inclure une éruption maculo-papuleuse, un purpura, une péricardite, une myocardite, une gastro-entérite, une méningo-encéphalite aseptique, une cholécystite aiguë alithiasique, une uvéite, une névrite optique, une thyroïdite ou une vascularite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections ostéo-articulaires causées par Coxiella burnetii?",
+        "answer": "Les infections ostéo-articulaires causées par Coxiella burnetii peuvent inclure des douleurs articulaires et une inflammation des os et des articulations.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lymphadénites chroniques causées par Coxiella burnetii?",
+        "answer": "Les lymphadénites chroniques causées par Coxiella burnetii peuvent inclure un gonflement des ganglions lymphatiques et, dans de rares cas, évoluer vers un lymphome.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections vasculaires causées par Coxiella burnetii?",
+        "answer": "Les infections vasculaires causées par Coxiella burnetii peuvent inclure des anévrismes mycotiques vasculaires et des infections de prothèse vasculaire, toutes ces formes ayant un pronostic sévère.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des endocardites causées par Coxiella burnetii?",
+        "answer": "Les endocardites causées par Coxiella burnetii peuvent inclure une fièvre persistante, des sueurs nocturnes, une perte de poids, et des signes d'insuffisance cardiaque.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des infections chroniques à Coxiella burnetii?",
+        "answer": "Les infections chroniques à Coxiella burnetii peuvent inclure des endocardites, des anévrismes mycotiques vasculaires, des infections de prothèse vasculaire, des infections ostéo-articulaires, et une hépatite fibrosante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une méningo-encéphalite aseptique causée par la fièvre Q?",
+        "answer": "Les symptômes d'une méningo-encéphalite aseptique causée par la fièvre Q peuvent inclure des maux de tête sévères, une raideur de la nuque, des nausées, des vomissements, et une altération de l'état mental.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une cholécystite aiguë alithiasique causée par la fièvre Q?",
+        "answer": "Les symptômes d'une cholécystite aiguë alithiasique causée par la fièvre Q peuvent inclure des douleurs abdominales, de la fièvre, des nausées, et des vomissements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une uvéite causée par la fièvre Q?",
+        "answer": "Les symptômes d'une uvéite causée par la fièvre Q peuvent inclure une douleur oculaire, une rougeur de l'œil, une vision floue, et une sensibilité à la lumière.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une névrite optique causée par la fièvre Q?",
+        "answer": "Les symptômes d'une névrite optique causée par la fièvre Q peuvent inclure une perte de vision, une douleur oculaire, et une diminution de la perception des couleurs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une thyroïdite causée par la fièvre Q?",
+        "answer": "Les symptômes d'une thyroïdite causée par la fièvre Q peuvent inclure une douleur au niveau de la thyroïde, une fièvre, une fatigue, et des troubles hormonaux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une vascularite causée par la fièvre Q?",
+        "answer": "Les symptômes d'une vascularite causée par la fièvre Q peuvent inclure une inflammation des vaisseaux sanguins, des douleurs articulaires, des éruptions cutanées, et des ulcères.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une gastro-entérite causée par la fièvre Q?",
+        "answer": "Les symptômes d'une gastro-entérite causée par la fièvre Q peuvent inclure des douleurs abdominales, des diarrhées, des nausées, et des vomissements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une péricardite causée par la fièvre Q?",
+        "answer": "Les symptômes d'une péricardite causée par la fièvre Q peuvent inclure des douleurs thoraciques, une fièvre, et des palpitations.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les auto-anticorps fréquemment trouvés dans la fièvre Q?",
+        "answer": "Des auto-anticorps sont fréquemment trouvés dans la fièvre Q, bien que leur signification soit encore inconnue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes évocateurs de fièvre Q aiguë en Guyane?",
+        "answer": "En Guyane, une CRP élevée supérieure à 185 mg/L, un taux de leucocytes et de polynucléaires neutrophiles normaux et des céphalées sont très évocateurs de fièvre Q aiguë.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de référence pour le diagnostic microbiologique de la fièvre Q?",
+        "answer": "Le test d’immunofluorescence (IFI) évaluant les IgG, IgM et parfois les IgA contre les antigènes de phase I et phase II est actuellement la méthode de référence.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels taux d'IgG et d'IgM en phase II signent une infection récente de fièvre Q?",
+        "answer": "Des taux d’IgG ≥ 200 et IgM ≥ 50 en phase II signent une infection récente.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Que suggèrent des taux d'IgG de phase I > 800?",
+        "answer": "Des taux d'IgG de phase I > 800 suggèrent une infection chronique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quand doit être effectuée la surveillance sérologique après une fièvre Q aiguë?",
+        "answer": "La surveillance sérologique doit être effectuée à 3 mois et/ou au moins six mois après la fièvre Q aiguë.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels groupes de personnes sont particulièrement à risque de développer une infection chronique de fièvre Q?",
+        "answer": "Les immunodéprimés, les femmes enceintes et les personnes ayant une valvulopathie ou une anomalie vasculaire sont particulièrement à risque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle technique est utilisée pour détecter l'ADN de C. burnetii?",
+        "answer": "La Polymerase Chain Reaction (PCR) est utilisée pour détecter l’ADN de C. burnetii.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel niveau de sécurité biologique est requis pour l'isolement de C. burnetii en culture?",
+        "answer": "L’isolement de C. burnetii en culture doit être effectué en laboratoire de niveau de sécurité biologique 3.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la meilleure technique pour isoler C. burnetii à partir de sang ou de tissus?",
+        "answer": "La technique de culture en tube-bijoux ou shell-vial est la meilleure technique pour isoler C. burnetii à partir de sang ou de tissus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels agents peuvent causer une endocardite à « culture négative » en plus de C. burnetii?",
+        "answer": "Les agents responsables d’endocardite à « culture négative » comprennent Bartonella spp., Tropheryma whipplei, Abiotrophia elegans, Mycoplasma hominis et Legionella pneumophila.",
+        "qtype": "diagnostic différentiel"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une fièvre Q aiguë symptomatique?",
+        "answer": "La doxycycline (100 mg PO deux fois par jour pendant 14 à 21 jours) est recommandée pour une fièvre Q aiguë symptomatique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents de deuxième ligne pour le traitement de la fièvre Q aiguë?",
+        "answer": "Les fluoroquinolones et les macrolides récents peuvent être considérés comme des agents de deuxième ligne.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation pour les patients porteurs d’une valvulopathie avec fièvre Q aiguë?",
+        "answer": "L'association hydroxychloroquine + doxycycline pendant 12 mois est suggérée pour prévenir le développement d’une endocardite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est proposé en cas d’intolérance à l’hydroxychloroquine?",
+        "answer": "En cas d’intolérance à l’hydroxychloroquine, on peut proposer l’association fluoroquinolone / doxycycline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les femmes enceintes infectées par la fièvre Q?",
+        "answer": "L’utilisation du cotrimoxazole pendant au moins 5 semaines est recommandée pour les femmes enceintes infectées par la fièvre Q.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée minimale de traitement pour les patients souffrant d’une endocardite de la fièvre Q?",
+        "answer": "Les patients souffrant d’une endocardite de la fièvre Q doivent être traités pendant une période prolongée (minimum de 18 mois pour les valves natives et 24 mois pour les valves prothétiques).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le critère pour guider la durée du traitement de l’endocardite de la fièvre Q?",
+        "answer": "La durée du traitement doit être guidée par la baisse du titre sérologique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les enfants atteints de fièvre Q?",
+        "answer": "Aucun protocole fiable antibiotique ne peut être recommandé pour les enfants. La doxycycline doit être prescrite lorsque la vie de l’enfant est en danger.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel vaccin humain est disponible pour la prévention de la fièvre Q?",
+        "answer": "Un vaccin humain (Q-VAXTM) est commercialisé en Australie mais n’est pas disponible ailleurs.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles mesures de prévention sont recommandées pour la fièvre Q?",
+        "answer": "La prévention repose sur le contrôle de l’exposition à des animaux infectés et à leurs produits, en particulier placentaires.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels groupes de personnes doivent particulièrement appliquer les mesures de prévention contre la fièvre Q?",
+        "answer": "Les personnes à risque d’infection chronique (immunodépression, valvulopathie, grossesse) doivent particulièrement appliquer les mesures de prévention.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est l'enjeu important de santé publique dans le contrôle et la prévention des épidémies de fièvre Q?",
+        "answer": "Le dépistage des troupeaux positifs est un enjeu important de santé publique.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Pourquoi la fièvre Q est-elle difficile à diagnostiquer chez les voyageurs?",
+        "answer": "La fièvre Q est difficile à évoquer d’emblée du fait de sa symptomatologie peu spécifique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels symptômes doivent inciter à rechercher une fièvre Q chez les voyageurs?",
+        "answer": "Une fièvre d’origine indéterminée, une hépatite ou une pneumopathie au retour de voyage doivent inciter à rechercher une fièvre Q.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le taux d’incidence de la fièvre Q en Guyane?",
+        "answer": "La Guyane présente le taux d’incidence le plus élevé au monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel clone de C. burnetii a été identifié en Guyane?",
+        "answer": "Un clone unique MST17 a été identifié en Guyane.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la forme clinique prédominante de la fièvre Q aiguë en Guyane?",
+        "answer": "Plus de 90 % des fièvres Q aiguës en Guyane se présentent sous forme pulmonaire clinique ou radiologique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de la fièvre Q parmi les pneumopathies hospitalisées à Cayenne?",
+        "answer": "La fièvre Q représente 24 à 38 % des pneumopathies hospitalisées à Cayenne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels animaux de la faune sauvage amazonienne ont été retrouvés porteurs de C. burnetii?",
+        "answer": "Certains animaux de la faune sauvage amazonienne, comme les paresseux, porcs sauvages et rongeurs aquatiques, ont été retrouvés porteurs de la bactérie.",
+        "qtype": "épidémiologie"
+    }
+]

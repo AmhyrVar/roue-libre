@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quelle est la répartition géographique des shigelloses?",
+        "answer": "Les shigelloses sont présentes dans tous les pays à bas niveau d’hygiène.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmettent les shigelloses?",
+        "answer": "La transmission des shigelloses est interhumaine directe (possible par voie sexuelle) ou indirecte par une alimentation contaminée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les agents infectieux responsables de la dysentérie bacillaire?",
+        "answer": "Les agents infectieux responsables de la dysentérie bacillaire sont Shigella dysenteriae, S. flexneri, S. sonnei, et S. boydii.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle espèce de Shigella prédomine dans les pays à ressources limitées?",
+        "answer": "Dans les pays à ressources limitées, S. flexneri prédomine.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la létalité des épidémies causées par S. dysenteriae de type 1?",
+        "answer": "Les épidémies causées par S. dysenteriae de type 1 ont un taux de létalité de 5 à 15%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle toxine est produite par S. dysenteriae de type I?",
+        "answer": "S. dysenteriae de type I produit une toxine responsable de l’invasion de la muqueuse colique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la période d'incubation des shigelloses?",
+        "answer": "La période d'incubation des shigelloses est de 1 à 5 jours, parfois plus.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes typiques des shigelloses?",
+        "answer": "Les symptômes typiques des shigelloses incluent une fièvre élevée à 39-40°C, une diarrhée dysentérique avec selles glairo-sanglantes et purulentes, douleurs abdominales intenses, épreintes et ténesme anal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les formes cliniques possibles des shigelloses?",
+        "answer": "Les formes cliniques des shigelloses peuvent aller d'une diarrhée banale à des formes sévères avec troubles psychiques et convulsions.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel syndrome peut compliquer l’évolution des shigelloses chez des sujets de génotype HLA B27?",
+        "answer": "Un syndrome de Reiter (arthrite réactive) peut compliquer l’évolution des shigelloses chez des sujets de génotype HLA B27.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se pose le diagnostic des shigelloses?",
+        "answer": "Le diagnostic des shigelloses se pose par l'isolement des bactéries par coproculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il souhaitable de réaliser un antibiogramme pour les shigelloses?",
+        "answer": "Il est souhaitable de réaliser un antibiogramme en raison de l’existence de souches résistantes, importées d’Asie du Sud.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le réservoir des shigelloses?",
+        "answer": "Le réservoir des shigelloses est humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la dose infectieuse minimale pour les shigelloses?",
+        "answer": "Un très faible inoculum (10 à 200 micro-organismes) suffit pour entraîner une infection.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Les bactériémies sont-elles fréquentes dans les shigelloses?",
+        "answer": "Les bactériémies sont possibles mais rares dans les shigelloses.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la nature des selles dans une diarrhée dysentérique causée par les shigelloses?",
+        "answer": "Les selles sont glairo-sanglantes et purulentes dans une diarrhée dysentérique causée par les shigelloses.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes abdominaux associés aux shigelloses?",
+        "answer": "Les symptômes abdominaux associés aux shigelloses incluent des douleurs abdominales intenses, épreintes et ténesme anal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la température typique de la fièvre dans les shigelloses?",
+        "answer": "La température typique de la fièvre dans les shigelloses est de 39-40°C.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes neurologiques possibles dans les formes sévères de shigelloses?",
+        "answer": "Les formes sévères de shigelloses peuvent inclure des troubles psychiques et des convulsions.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la principale complication articulaire des shigelloses?",
+        "answer": "La principale complication articulaire des shigelloses est le syndrome de Reiter (arthrite réactive).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les quatre espèces de Shigella responsables de la dysentérie bacillaire?",
+        "answer": "Les quatre espèces de Shigella responsables de la dysentérie bacillaire sont Shigella dysenteriae, S. flexneri, S. sonnei, et S. boydii.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle espèce de Shigella est responsable d’épidémies avec un taux de létalité élevé?",
+        "answer": "S. dysenteriae de type 1 est responsable d’épidémies avec un taux de létalité de 5 à 15%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale voie de transmission des shigelloses?",
+        "answer": "La principale voie de transmission des shigelloses est interhumaine directe ou indirecte par une alimentation contaminée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation des shigelloses?",
+        "answer": "La durée d'incubation des shigelloses est de 1 à 5 jours, parfois plus.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes digestifs des shigelloses?",
+        "answer": "Les symptômes digestifs des shigelloses incluent une diarrhée dysentérique avec selles glairo-sanglantes et purulentes, douleurs abdominales intenses, épreintes et ténesme anal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des formes frustes de shigelloses?",
+        "answer": "Les formes frustes de shigelloses se limitent à une diarrhée banale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes des formes sévères de shigelloses?",
+        "answer": "Les formes sévères de shigelloses incluent des troubles psychiques et des convulsions.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour les shigelloses?",
+        "answer": "Le traitement de première intention pour les shigelloses n'est pas mentionné dans le PDF fourni.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les tests diagnostiques pour les shigelloses?",
+        "answer": "Les tests diagnostiques pour les shigelloses incluent l'isolement des bactéries par coproculture.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Pourquoi est-il important de réaliser un antibiogramme pour les shigelloses?",
+        "answer": "Il est important de réaliser un antibiogramme pour les shigelloses en raison de l’existence de souches résistantes, importées d’Asie du Sud.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour les shigelloses?",
+        "answer": "Azithromycine 500 mg x 1/24h (enfant : 20 mg/kg/24h) PO",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les alternatives à l'azithromycine pour le traitement des shigelloses?",
+        "answer": "Ciprofloxacine : 500 mg x 2/24h (enfant : 10 mg/kg x 2/j) PO, Ceftriaxone 50 à 100 mg/kg/24h IV",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement pour les formes modérées de shigelloses?",
+        "answer": "3 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement pour les formes sévères de shigelloses?",
+        "answer": "5 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont fréquemment résistants dans le traitement des shigelloses?",
+        "answer": "Ampicilline, tétracycline, sulfaméthoxazole-triméthoprime",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisés en cas de résistance aux antibiotiques de première ligne pour les shigelloses?",
+        "answer": "Fluoroquinolones, céphalosporines de 3e génération, azithromycine",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les risques associés à l'utilisation des fluoroquinolones, céphalosporines de 3e génération et azithromycine?",
+        "answer": "Risque de résistances croissantes notamment en Asie",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels médicaments sont contre-indiqués en cas de dysenterie?",
+        "answer": "Les antidiarrhéiques",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle mesure est essentielle en cas de diarrhée?",
+        "answer": "La réhydratation",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle mesure de prévention est recommandée en cas de shigellose?",
+        "answer": "Un isolement entérique strict",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle mesure de prévention est recommandée en situation épidémique de shigellose?",
+        "answer": "Entourer les poignées de porte avec un linge imprégné d'eau de Javel",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Le vaccin contre la shigellose est-il disponible?",
+        "answer": "Non, le vaccin n'est pas encore disponible",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour plus d'informations sur la shigellose?",
+        "answer": "http://www.pasteur.fr/fr/institut-pasteur/presse/fiches-info/shigellose, https://apps.who.int/iris/handle/10665/43830, https://www.cdc.gov/shigella/index.html",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quels sont les chapitres mentionnés en relation avec les shigelloses?",
+        "answer": "Résistances aux antibactériens, Technique, résultats et interprétation des prélèvements",
+        "qtype": "autre"
+    },
+    {
+        "question": "Quels sont les types de souches multirésistantes mentionnées pour les shigelloses?",
+        "answer": "S. flexneri et S. dysenteriae 1",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels antibiotiques de première ligne sont souvent inefficaces contre S. flexneri et S. dysenteriae 1?",
+        "answer": "Ampicilline, tétracycline, sulfaméthoxazole-triméthoprime",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'azithromycine pour un enfant atteint de shigellose?",
+        "answer": "20 mg/kg/24h PO",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ciprofloxacine pour un enfant atteint de shigellose?",
+        "answer": "10 mg/kg x 2/j PO",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ceftriaxone pour un enfant atteint de shigellose?",
+        "answer": "50 à 100 mg/kg/24h IV",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ciprofloxacine pour un adulte atteint de shigellose?",
+        "answer": "500 mg x 2/24h PO",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'azithromycine pour un adulte atteint de shigellose?",
+        "answer": "500 mg x 1/24h PO",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la ceftriaxone pour un adulte atteint de shigellose?",
+        "answer": "50 à 100 mg/kg/24h IV",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques de première ligne mentionnés pour les shigelloses?",
+        "answer": "Ampicilline, tétracycline, sulfaméthoxazole-triméthoprime",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés en cas de résistance aux antibiotiques de première ligne pour les shigelloses?",
+        "answer": "Fluoroquinolones, céphalosporines de 3e génération, azithromycine",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement recommandée pour les formes modérées de shigelloses?",
+        "answer": "3 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la durée de traitement recommandée pour les formes sévères de shigelloses?",
+        "answer": "5 jours",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels médicaments sont contre-indiqués en cas de dysenterie?",
+        "answer": "Les antidiarrhéiques",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle mesure est essentielle en cas de diarrhée?",
+        "answer": "La réhydratation",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle mesure de prévention est recommandée en cas de shigellose?",
+        "answer": "Un isolement entérique strict",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle mesure de prévention est recommandée en situation épidémique de shigellose?",
+        "answer": "Entourer les poignées de porte avec un linge imprégné d'eau de Javel",
+        "qtype": "prévention"
+    }
+]

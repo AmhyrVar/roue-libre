@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les principaux risques infectieux associés à l'usage de drogues par injection intraveineuse?",
+        "answer": "Les principaux risques infectieux associés à l'usage de drogues par injection intraveineuse incluent la transmission du VIH, des hépatites C et B, ainsi que des infections cutanées et des tissus mous.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les agents infectieux couramment transmis par le partage de matériel d'injection?",
+        "answer": "Les agents infectieux couramment transmis par le partage de matériel d'injection incluent Staphylococcus aureus résistant à la méthicilline (SARM) et Streptococcus pyogenes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'injection sous-cutanée ou intramusculaire de drogue?",
+        "answer": "L'injection sous-cutanée ou intramusculaire de drogue, également appelée 'skin popping', présente des risques d'infection cutanée et des tissus mous.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques infectieux liés à la pratique du 'booting'?",
+        "answer": "La pratique du 'booting', qui consiste à injecter de la drogue et du sang, présente des risques d'infection cutanée et des tissus mous.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'inhalation nasale de cocaïne?",
+        "answer": "L'inhalation nasale de cocaïne présente un risque d'infection par le virus de l'hépatite C (VHC).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments du bilan standard pour un UDIV présentant un syndrome fébrile?",
+        "answer": "Le bilan standard pour un UDIV présentant un syndrome fébrile inclut la biologie (NFS, CRP, hémocultures, uroculture, sérologies VIH, hépatites B et C, syphilis) et l'imagerie (radio de thorax, échographie abdominale ou scanner thoraco-abdominal, fond d'œil).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de fièvre chez un UDIV avec point d'appel infectieux et gravité?",
+        "answer": "En cas de fièvre chez un UDIV avec point d'appel infectieux et gravité, il est recommandé d'administrer une association de bêtalactamine à large spectre et de glycopeptide ou de daptomycine.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant les infections pulmonaires chez les usagers de drogues?",
+        "answer": "Les facteurs favorisant les infections pulmonaires chez les usagers de drogues incluent la dénutrition, la consommation d'alcool, une infection par le VIH, la promiscuité, et le logement insalubre ou inexistant.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels agents pathogènes sont souvent impliqués dans les pneumonies communautaires chez les UDIV?",
+        "answer": "Les agents pathogènes souvent impliqués dans les pneumonies communautaires chez les UDIV incluent le pneumocoque, les bactéries de la cavité buccale, les entérobactéries et les anaérobies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel traitement antibiotique est recommandé pour les pneumonies communautaires chez les UDIV?",
+        "answer": "Le traitement antibiotique recommandé pour les pneumonies communautaires chez les UDIV comprend soit l'association amoxicilline-acide clavulanique, soit une céphalosporine de troisième génération injectable type ceftriaxone avec du métronidazole.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques d'infections sexuellement transmissibles (IST) chez les UDIV?",
+        "answer": "Les risques d'infections sexuellement transmissibles (IST) chez les UDIV incluent Chlamydia trachomatis, Neisseria gonorrhoeae, la syphilis, le VIH et le VHB.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types d'infections cutanées sont fréquentes chez les UDIV en raison des conditions de vie?",
+        "answer": "Les types d'infections cutanées fréquentes chez les UDIV en raison des conditions de vie incluent les infections bactériennes de type ecthyma ou impetigo, les lésions de grattage, les surinfections de piqûres et morsures, et les ectoparasitoses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'utilisation de drogue contaminée?",
+        "answer": "L'utilisation de drogue contaminée peut entraîner des épidémies d'infections telles que celles causées par Clostridium, responsable du botulisme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux liés à la pratique du 'shotgunning'?",
+        "answer": "La pratique du 'shotgunning', qui consiste à fumer ou inhaler de la drogue puis à la transmettre à un autre partenaire, présente des risques d'infections respiratoires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à la pratique des 'speed-balls'?",
+        "answer": "La pratique des 'speed-balls', qui consiste à mélanger héroïne et cocaïne, présente des risques d'infection cutanée et des tissus mous.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à la pratique des 'TaBs'?",
+        "answer": "La pratique des 'TaBs', qui consiste à mélanger pentazocine et tripelennamine dans de l'eau contaminée, présente un risque d'infection à Pseudomonas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments à prendre en compte dans la prise en charge d'une tuberculose avérée chez un UDIV?",
+        "answer": "La prise en charge d'une tuberculose avérée chez un UDIV doit prendre en compte l'état nutritionnel, l'existence d'une hépatite virale (en raison de la toxicité hépatique des antituberculeux) et les interactions médicamenteuses des antituberculeux avec les produits stupéfiants ou un éventuel traitement antirétroviral.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'utilisation de salive, de jus de citron ou d'eau pour solubiliser les substances injectées?",
+        "answer": "L'utilisation de salive, de jus de citron ou d'eau pour solubiliser les substances injectées augmente le risque de transmission d'agents infectieux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques de transmission du VIH chez les usagers de drogue intraveineuse (UDIV)?",
+        "answer": "Environ 10 % des nouveaux cas de VIH dans le monde sont attribuables aux usagers de drogue intraveineuse (UDIV).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'utilisation de drogues récréatives comme les poppers, la kétamine et l'ecstasy?",
+        "answer": "L'utilisation de drogues récréatives comme les poppers, la kétamine et l'ecstasy peut augmenter les pratiques sexuelles à risque et interagir avec certains antirétroviraux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques de surdoses d'opioïdes dans les pays à ressources limitées?",
+        "answer": "Dans les pays à ressources limitées, l'augmentation rapide de l'utilisation du tramadol d'origine illicite à des fins non médicales pose de gros problèmes de santé publique, similaires aux surdoses d'opioïdes en Amérique du Nord.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à la désocialisation des usagers de drogues?",
+        "answer": "La désocialisation des usagers de drogues entraîne un déni ou une négligence des infections ainsi qu'une réticence à utiliser le système de soins, ce qui favorise le recours tardif aux structures de santé et un suivi souvent chaotique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux liés à la promiscuité et au logement insalubre chez les usagers de drogues?",
+        "answer": "La promiscuité et le logement insalubre chez les usagers de drogues favorisent certaines maladies infectieuses comme les pneumonies (dont la tuberculose) et les maladies diarrhéiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à la consommation d'alcool chez les usagers de drogues?",
+        "answer": "La consommation d'alcool chez les usagers de drogues favorise l'altération des défenses immunitaires, augmentant ainsi le risque d'infections.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'état bucco-dentaire des usagers de drogues?",
+        "answer": "Le mauvais état bucco-dentaire des usagers de drogues favorise les sinusites et les pneumonies polymicrobiennes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à la polytoxicomanie chez les usagers de drogues?",
+        "answer": "La polytoxicomanie, qui inclut l'utilisation de drogues injectables ou non, d'alcool et de médicaments, augmente le risque de transmission d'agents infectieux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'injection de comprimés pilés comme la buprénorphine?",
+        "answer": "L'injection de comprimés pilés comme la buprénorphine peut augmenter le risque de transmission d'agents infectieux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques infectieux associés à l'utilisation de stimulants sexuels injectables comme le 'slam'?",
+        "answer": "L'utilisation de stimulants sexuels injectables comme le 'slam' peut augmenter les pratiques sexuelles à risque et interagir avec certains antirétroviraux.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels types d'hépatites doivent être systématiquement dépistées chez les usagers de drogues?",
+        "answer": "Une hépatite C, B ou delta doit être systématiquement dépistée et ce dépistage doit être répété à intervalle régulier.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types d'hépatites doivent être évoqués en cas de cytolyse?",
+        "answer": "En cas de cytolyse, il faut également savoir évoquer une hépatite A, une syphilis, une hépatite médicamenteuse ou alcoolique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle vaccination doit être systématiquement proposée aux usagers de drogues?",
+        "answer": "Une vaccination contre l’hépatite B et une mise à jour du calendrier vaccinal notamment vis à vis du tétanos doivent être systématiquement proposées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels outils de réduction des risques liés aux injections doivent être rendus accessibles?",
+        "answer": "Les outils de réduction des risques liés aux injections doivent être rendus accessibles (programmes échange seringue, mise à disposition de matériel d’injection et d’hygiène stériles, accompagnement professionnel et communautaire, etc.).",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels autres outils de prévention du VIH doivent être proposés aux usagers de substances psychoactives?",
+        "answer": "Les autres outils de la prévention diversifiée du VIH dont la prophylaxie pré-exposition (PrEP) doivent aussi être proposés aux usagers de substances psychoactives.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels types d'infections cutanées peuvent survenir chez les usagers de drogues?",
+        "answer": "Il s’agit le plus souvent d’infections du site d’injection mais il peut s’agir également d’une infection venant compliquer une zone cutanée lésée (thrombose, nécrose, ulcères) ou d’une infection hématogène, témoignant souvent d’une endocardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques liés à l'usage de pipes et à l'inhalation de drogues?",
+        "answer": "L’usage de pipes et l’inhalation de drogues exposent à un risque de délabrement de la barrière cutanée, de l’état dentaire et des voies aériennes supérieures.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels ectoparasites sont fréquents chez les usagers de drogues?",
+        "answer": "Les ectoparasites (gale et pédiculoses) sont fréquentes et doivent être recherchées et traitées.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prise en charge recommandée pour les infections cutanées chez les usagers de drogues?",
+        "answer": "La prise en charge comprend la vaccination contre le tétanos (si non à jour), la recherche de complications : abcédation, nécrose, syndrome de loge imposant une intervention chirurgicale et une antibiothérapie active sur les bactéries potentiellement en cause (staphylocoque doré, streptocoque, bacille à Gram négatif, anaérobies).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques peuvent être utilisés pour traiter les infections cutanées chez les usagers de drogues?",
+        "answer": "Selon les cas, l’amoxicilline-acide clavulanique, la clindamycine, une céphalosporine de première génération, le cotrimoxazole peuvent être utilisés.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé en cas de gravité des infections cutanées chez les usagers de drogues?",
+        "answer": "En cas de gravité, on pourra débuter avec un glycopeptide ou la daptomycine associée à une bétalactamine à large spectre type piperacilline-tazobactam, traitement qui sera simplifié après réception du résultat des prélèvements microbiologiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prise en charge chirurgicale recommandée pour un abcès ou une dermo-hypodermite nécrosante?",
+        "answer": "Un abcès ou une dermo-hypodermite nécrosante imposent une prise en charge chirurgicale urgente.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment peut-on traiter la gale chez les usagers de drogues?",
+        "answer": "La gale peut être traitée par une monodose d’ivermectine 200 ug/kg réitérée 7 jours plus tard ou par traitement local par benzoate de benzyle.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Comment doit-on traiter l'environnement en cas de gale?",
+        "answer": "L’environnement doit être traité (lavage à 60°C ou produits pyréthrinoïdes).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels agents pathogènes sont les plus souvent responsables de bactériémies chez les usagers de drogues?",
+        "answer": "Les agents pathogènes en cause sont le plus souvent les staphylocoques (60 %), les streptocoques (20 %), les bacilles à Gram négatif dont Pseudomonas aeruginosa (10 %) et les Candida (5 %).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment peut se révéler une endocardite tricuspidienne chez les usagers de drogues?",
+        "answer": "Il faut rechercher une endocardite tricuspidienne qui se révèle par des emboles septiques pulmonaires.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont recommandés pour diagnostiquer une endocardite tricuspidienne?",
+        "answer": "La radiographie et surtout le scanner thoraciques montrent de façon bilatérale des infiltrats, des nodules sous-pleuraux avec souvent un épanchement pleural. L’échocardiographie transoesophagienne permet d’affirmer le diagnostic, de rechercher des lésions sur les autres valves et d’évaluer la gravité des lésions.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel examen peut révéler une rétinite à Candida?",
+        "answer": "Le fond d’œil peut révéler une rétinite à Candida.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prise en charge initiale recommandée pour une bactériémie chez les usagers de drogues?",
+        "answer": "La prise en charge inclut une antibiothérapie couvrant les staphylocoques et les streptocoques, secondairement adaptée aux bactéries en cause.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement empirique est recommandé en cas de résistance à la méticilline chez les usagers de drogues?",
+        "answer": "La résistance à la méticilline étant plus fréquente dans cette population qu’en population générale, on débutera le traitement empirique par un glycopeptide type vancomycine ou de la daptomycine (voire de la dalbavancine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement empirique peut être proposé dans les zones où les ressources sont limitées?",
+        "answer": "Dans les zones où les ressources sont limitées, un traitement par triméthoprime-sulfaméthoxazole associé à un aminoglycoside peut être proposé en traitement empirique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement de relais oral peut être proposé en cas d’endocardite tricuspidienne non compliquée?",
+        "answer": "En cas d’endocardite tricuspidienne non compliquée, un traitement de relais oral associant ciprofloxacine (750 mg x 2/jour) et rifampicine (10 mg/kg/j à prendre à jeun en une ou deux prises) peut être proposé quand la souche isolée est sensible à ces deux antibiotiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisables en cas d’infection à Staphylococcus aureus méti-sensible?",
+        "answer": "Les autres antibiotiques utilisables en cas d’infection à Staphylococcus aureus méti-sensible sont l’oxacilline et la céfazoline par voie intraveineuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont utilisables en cas de S. aureus méticilline-résistant?",
+        "answer": "En cas de S. aureus méticilline-résistant, sont utilisables la vancomycine, la daptomycine ou la dalbavancine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand la chirurgie tricuspidienne est-elle indiquée?",
+        "answer": "La chirurgie tricuspidienne n’a d’indication qu’en cas de délabrement valvulaire majeur.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les localisations fréquentes des infections ostéo-articulaires chez les toxicomanes?",
+        "answer": "Les infections ostéo-articulaires chez le toxicomane se localisent volontiers sur le rachis, l’articulation sterno-claviculaire et le pubis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels agents responsables doivent être documentés par une ponction articulaire en cas d'infection ostéo-articulaire?",
+        "answer": "Les agents responsables sont variés (staphylocoques, streptocoques, Candida, mycobactéries…).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types d'infections du système nerveux central peuvent survenir chez les usagers de drogues?",
+        "answer": "Les infections du système nerveux central (méningite, abcès cérébral, empyème sous-dural, anévrysme mycotique, thrombophlébite cérébrale) ne doivent pas être confondues avec un excès de drogue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés en cas de suspicion d'infection du système nerveux central chez les usagers de drogues?",
+        "answer": "En cas de suspicion, un scanner cérébral et si possible une imagerie par résonance magnétique (IRM), doivent être réalisés de même qu’une ponction lombaire en l’absence de risque d’engagement.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles infections doivent être évoquées en cas d'infection par le VIH chez les usagers de drogues?",
+        "answer": "En cas d’infection par le VIH, il faudra évoquer toutes les causes spécifiques d’infection du système nerveux central.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles infections sexuellement transmissibles doivent être recherchées systématiquement chez les usagers de drogues?",
+        "answer": "Les IST sont fréquentes et doivent être recherchées systématiquement.",
+        "qtype": "diagnostic"
+    }
+]

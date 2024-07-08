@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les virus responsables des hépatites virales alphabétiques?",
+        "answer": "Les hépatites virales alphabétiques sont causées par les virus A, B, C, D (delta) et E.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de l'infection par le virus de l'hépatite B (VHB) en Afrique?",
+        "answer": "La prévalence de l'infection par le VHB en Afrique est de 8%, avec 750 millions de personnes infectées et 65 millions vivant avec une forme chronique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet principalement le virus de l'hépatite A (VHA)?",
+        "answer": "Le virus de l'hépatite A se transmet principalement par voie féco-orale, de personne à personne, et par les aliments contaminés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la période d'incubation moyenne du virus de l'hépatite A (VHA)?",
+        "answer": "La période d'incubation moyenne du virus de l'hépatite A est de 28 jours, avec une plage de 15 à 45 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité de l'hépatite A parmi les décès dus aux hépatites virales?",
+        "answer": "L'hépatite A est responsable de 0,5% des décès dus aux hépatites virales en général.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du virus de l'hépatite B (VHB)?",
+        "answer": "Le virus de l'hépatite B se transmet principalement par voie parentérale (transfusion, gestes médico-chirurgicaux, toxicomanie IV), sexuelle et materno-fœtale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du virus de l'hépatite B (VHB)?",
+        "answer": "La durée d'incubation du virus de l'hépatite B est de 30 à 120 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes souffrent d'une infection chronique par le virus de l'hépatite B (VHB) dans le monde?",
+        "answer": "Environ 240 millions de personnes souffrent d'une infection chronique par le virus de l'hépatite B dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le nombre annuel de décès dus à l'infection par le virus de l'hépatite B (VHB)?",
+        "answer": "Plus de 780 000 personnes meurent chaque année des suites d'une infection par le virus de l'hépatite B.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence de l'hépatite B en Afrique?",
+        "answer": "En Afrique, plus de 10% de la population adulte est porteuse de l'antigène de surface de l'hépatite B (AgHBs).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des carcinomes hépatocellulaires (CHC) en Afrique est imputable au virus de l'hépatite B (VHB)?",
+        "answer": "En Afrique, 80% des carcinomes hépatocellulaires (CHC) sont imputables au virus de l'hépatite B.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes souffrent d'une infection chronique par le virus de l'hépatite C (VHC) dans le monde?",
+        "answer": "Environ 130 à 170 millions de personnes souffrent d'une infection chronique par le virus de l'hépatite C dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le nombre annuel de décès dus à des maladies du foie liées à l'hépatite C?",
+        "answer": "Plus de 350 000 personnes meurent chaque année de maladies du foie liées à l'hépatite C.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du virus de l'hépatite C (VHC) en Égypte?",
+        "answer": "La prévalence du virus de l'hépatite C en Égypte est de 22%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le mode de transmission du virus de l'hépatite D (VHD)?",
+        "answer": "Le virus de l'hépatite D se transmet par les mêmes modes que le virus de l'hépatite B, principalement par voie parentérale, sexuelle et materno-fœtale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du virus de l'hépatite D (VHD)?",
+        "answer": "La durée d'incubation du virus de l'hépatite D est de 30 à 45 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la principale voie de transmission du virus de l'hépatite E (VHE)?",
+        "answer": "La principale voie de transmission du virus de l'hépatite E est féco-orale, surtout hydrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du virus de l'hépatite E (VHE)?",
+        "answer": "La durée d'incubation du virus de l'hépatite E est de 10 à 40 jours.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de nouvelles infections par le virus de l'hépatite E (VHE) sont estimées chaque année dans le monde?",
+        "answer": "En 2020, on estimait à 20 millions les nouvelles infections par le virus de l'hépatite E dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le nombre de décès annuels dus au virus de l'hépatite E (VHE)?",
+        "answer": "En 2015, les 44 000 décès par le virus de l'hépatite E représentaient 3,3% des décès liés à l'ensemble des hépatites virales.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les autres virus moins hépatotropes pouvant causer une cytolyse aiguë?",
+        "answer": "Les autres virus moins hépatotropes pouvant causer une cytolyse aiguë incluent le cytomégalovirus (CMV), le virus d'Epstein-Barr (EBV), les virus herpétiques (HSV), les arbovirus (fièvre jaune, dengue), les virus des fièvres hémorragiques (Lassa, Marburg, Ebola) et le virus de la rougeole.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la réaction immune de l'hôte en cas d'hépatite aiguë qui guérit spontanément?",
+        "answer": "La réaction immune de l'hôte est forte, se traduisant par l'élimination des virus circulants et des hépatocytes infectés, ce qui conduit à une guérison spontanée dans 60 à 80% des cas.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la réaction immune de l'hôte en cas d'infection asymptomatique évoluant vers la guérison?",
+        "answer": "La réaction immune de l'hôte est faible mais adaptée, permettant à l'infection de rester asymptomatique et d'évoluer vers la guérison.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la réaction immune de l'hôte en cas d'hépatite chronique évoluant vers la cirrhose?",
+        "answer": "La réaction immune de l'hôte est faible et inadéquate, combinant une réplication prolongée du VHB et une destruction à bas bruit du tissu hépatique, ce qui peut évoluer vers la cirrhose post-hépatitique.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la réaction immune de l'hôte chez les porteurs chroniques asymptomatiques du VHB?",
+        "answer": "La réaction immune de l'hôte est nulle, permettant une tolérance parfaite à une réplication parfois massive du VHB.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes associés aux formes cholestatiques des hépatites virales?",
+        "answer": "Les formes cholestatiques des hépatites virales sont associées à un ictère, un prurit intense et une élévation importante des phosphatases alcalines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes observés dans les formes ictériques des hépatites virales?",
+        "answer": "Les formes ictériques des hépatites virales peuvent présenter des symptômes tels que la fièvre, l'asthénie, les arthralgies et l'urticaire, ainsi qu'un ictère, une hépatomégalie, une hépatalgie à la palpation et une oligurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes associés aux formes anictériques des hépatites virales?",
+        "answer": "Les formes anictériques des hépatites virales sont les plus fréquentes et peuvent inclure des symptômes tels que la polyarthrite, l'aplasie médullaire, l'anémie hémolytique, la neuropathie, le livedo, la cryoglobulinémie et une augmentation de fréquence des troubles neuro-cognitifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'évolution des formes prolongées ou à rechutes des hépatites virales?",
+        "answer": "Les formes prolongées ou à rechutes des hépatites virales peuvent évoluer jusqu'à 3 à 4 mois avant de guérir.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence des formes chroniques des hépatites B, C et delta?",
+        "answer": "Les formes chroniques des hépatites B, C et delta se développent au-delà du 6e mois d'infection, avec l'hépatite C étant la plus fréquente (50 à 70%) et évoluant vers la cirrhose dans 20% des cas en 20 ans environ.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux marqueurs séro-virologiques nécessaires au diagnostic des hépatites virales?",
+        "réponse": "Les principaux marqueurs séro-virologiques nécessaires au diagnostic des hépatites virales sont résumés dans le tableau 1b et dans l’arbre décisionnel de la figure 11.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'hépatite A?",
+        "réponse": "Le diagnostic de l'hépatite A est épidémio-clinique, confirmé par la présence d’anticorps anti-VHA de type IgM durant quelques semaines - mois puis de type IgG persistants.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les marqueurs sérologiques pour le diagnostic d’une infection aiguë par le VHB?",
+        "réponse": "Le diagnostic d’une infection aiguë par le VHB repose sur la détection d’IgM anti-HBc et de l’antigène HBs s’il n’a pas encore disparu.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic de portage chronique de l’AgHBs?",
+        "réponse": "Le diagnostic de portage chronique de l’AgHBs est affirmé sur la présence de l’AgHBs et la négativité du test de quantification de l’ADN VHB.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'hépatite C aiguë?",
+        "réponse": "La détection d’Ac anti-VHC dans le cadre d’une hépatite aiguë est souvent tardive et impose le recours à la PCR pour détecter l'ARN du VHC.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les objectifs du traitement antiviral du VHB et du VHC?",
+        "réponse": "Les objectifs du traitement antiviral du VHB et du VHC sont l’éradication virale, l’amélioration histologique, la prévention de l’évolution cirrhotique, la prévention de la survenue d’un CHC en cas de cirrhose et/ou de virus intégré (VHB), et la diminution de la propagation de l’infection.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite B?",
+        "réponse": "Les principales molécules disponibles pour le traitement de l’hépatite B sont le ténofovir, l’entécavir, la lamivudine, l’emtricitabine, et les immunomodulateurs comme l'interféron.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite C chronique?",
+        "réponse": "Le traitement de l’hépatite C chronique repose sur les médicaments directement actifs contre le VHC (DAA) bloquant des étapes spécifiques de la réplication virale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite D?",
+        "réponse": "Le traitement de l’hépatite D inclut le traitement du VHB et le bulevirtide.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite E?",
+        "réponse": "Il n'existe pas de traitement spécifique pour l'hépatite E.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les objectifs de la vaccination contre le VHB?",
+        "réponse": "L’objectif de la vaccination contre le VHB est de protéger contre l’infection par le VHB et ses conséquences chroniques, et de prévenir l’infection par le VHD.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les schémas vaccinaux pour l'hépatite B chez les voyageurs?",
+        "réponse": "Les schémas vaccinaux pour l'hépatite B chez les voyageurs incluent 2 doses administrées à au moins un mois d’intervalle et une 3e dose administrée entre 6 et 12 mois après la 1re dose, ou un schéma accéléré avec 3 doses (à J0, J7 et J21) en primo-vaccination avec un rappel 12 mois après la 1re injection.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les risques associés à la co-infection VIH-VHC?",
+        "réponse": "La co-infection VIH-VHC peut se traduire par une maladie VHC plus grave avec un taux plus élevé de passage à la cirrhose, un délai d’apparition de la cirrhose plus court, un taux de complications plus important, une moindre réponse durable à l’interféron en monothérapie, et une charge virale VHC plus élevée.",
+        "qtype": "co-infection"
+    },
+    {
+        "question": "Quels sont les risques associés à la co-infection VIH-VHB?",
+        "réponse": "La co-infection VIH-VHB présente des particularités telles que la réactivation en cas d’immunodépression sévère, une vitesse de progression vers la cirrhose plus élevée, une moindre efficacité de la vaccination, et une évolution plus fréquente vers la chronicité.",
+        "qtype": "co-infection"
+    },
+    {
+        "question": "Quels sont les principaux objectifs du traitement antiviral du VHB et du VHC?",
+        "réponse": "Les principaux objectifs du traitement antiviral du VHB et du VHC sont l’éradication virale, l’amélioration histologique, la prévention de l’évolution cirrhotique, la prévention de la survenue d’un CHC en cas de cirrhose et/ou de virus intégré (VHB), et la diminution de la propagation de l’infection.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite B?",
+        "réponse": "Les principales molécules disponibles pour le traitement de l’hépatite B sont le ténofovir, l’entécavir, la lamivudine, l’emtricitabine, et les immunomodulateurs comme l'interféron.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite C chronique?",
+        "réponse": "Le traitement de l’hépatite C chronique repose sur les médicaments directement actifs contre le VHC (DAA) bloquant des étapes spécifiques de la réplication virale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite D?",
+        "réponse": "Le traitement de l’hépatite D inclut le traitement du VHB et le bulevirtide.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite E?",
+        "réponse": "Il n'existe pas de traitement spécifique pour l'hépatite E.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les objectifs de la vaccination contre le VHB?",
+        "réponse": "L’objectif de la vaccination contre le VHB est de protéger contre l’infection par le VHB et ses conséquences chroniques, et de prévenir l’infection par le VHD.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les schémas vaccinaux pour l'hépatite B chez les voyageurs?",
+        "réponse": "Les schémas vaccinaux pour l'hépatite B chez les voyageurs incluent 2 doses administrées à au moins un mois d’intervalle et une 3e dose administrée entre 6 et 12 mois après la 1re dose, ou un schéma accéléré avec 3 doses (à J0, J7 et J21) en primo-vaccination avec un rappel 12 mois après la 1re injection.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les risques associés à la co-infection VIH-VHC?",
+        "réponse": "La co-infection VIH-VHC peut se traduire par une maladie VHC plus grave avec un taux plus élevé de passage à la cirrhose, un délai d’apparition de la cirrhose plus court, un taux de complications plus important, une moindre réponse durable à l’interféron en monothérapie, et une charge virale VHC plus élevée.",
+        "qtype": "co-infection"
+    },
+    {
+        "question": "Quels sont les risques associés à la co-infection VIH-VHB?",
+        "réponse": "La co-infection VIH-VHB présente des particularités telles que la réactivation en cas d’immunodépression sévère, une vitesse de progression vers la cirrhose plus élevée, une moindre efficacité de la vaccination, et une évolution plus fréquente vers la chronicité.",
+        "qtype": "co-infection"
+    },
+    {
+        "question": "Quels sont les principaux objectifs du traitement antiviral du VHB et du VHC?",
+        "réponse": "Les principaux objectifs du traitement antiviral du VHB et du VHC sont l’éradication virale, l’amélioration histologique, la prévention de l’évolution cirrhotique, la prévention de la survenue d’un CHC en cas de cirrhose et/ou de virus intégré (VHB), et la diminution de la propagation de l’infection.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite B?",
+        "réponse": "Les principales molécules disponibles pour le traitement de l’hépatite B sont le ténofovir, l’entécavir, la lamivudine, l’emtricitabine, et les immunomodulateurs comme l'interféron.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite C chronique?",
+        "réponse": "Le traitement de l’hépatite C chronique repose sur les médicaments directement actifs contre le VHC (DAA) bloquant des étapes spécifiques de la réplication virale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite D?",
+        "réponse": "Le traitement de l’hépatite D inclut le traitement du VHB et le bulevirtide.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements disponibles pour l'hépatite E?",
+        "réponse": "Il n'existe pas de traitement spécifique pour l'hépatite E.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les objectifs de la vaccination contre le VHB?",
+        "réponse": "L’objectif de la vaccination contre le VHB est de protéger contre l’infection par le VHB et ses conséquences chroniques, et de prévenir l’infection par le VHD.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les schémas vaccinaux pour l'hépatite B chez les voyageurs?",
+        "réponse": "Les schémas vaccinaux pour l'hépatite B chez les voyageurs incluent 2 doses administrées à au moins un mois d’intervalle et une 3e dose administrée entre 6 et 12 mois après la 1re dose, ou un schéma accéléré avec 3 doses (à J0, J7 et J21) en primo-vaccination avec un rappel 12 mois après la 1re injection.",
+        "qtype": "prévention"
+    }
+]

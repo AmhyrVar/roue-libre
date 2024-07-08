@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que le SRIS?",
+        "answer": "Le SRIS (Syndrome de Réponse Inflammatoire Systémique) est une réponse inflammatoire systémique de l’organisme à une agression infectieuse ou non infectieuse se manifestant par au moins deux des signes suivants : température > 38,3 °C ou < 36 °C, fréquence cardiaque > 90/min, fréquence respiratoire > 20/min (ou PaCO2 < 32 mmHg), leucocytose > 12 ou < 4 G/L ou présence de > 10 % de formes immatures.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Comment est défini le sepsis?",
+        "answer": "Le sepsis est défini comme un syndrome de réponse inflammatoire systémique (SRIS) de l’organisme à une agression par un agent infectieux bactérien, viral, fongique ou parasitaire. Il est caractérisé par une dysfonction d’organe menaçant le pronostic vital causée par une réponse dérégulée de l’hôte à l’infection.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les critères pour diagnostiquer un choc septique?",
+        "answer": "Le choc septique est diagnostiqué par la présence de sepsis avec des anomalies circulatoires et cellulaires/métaboliques profondes, identifiées par une hypotension artérielle persistante nécessitant l’administration de vasopresseurs pour maintenir la pression artérielle moyenne (PAM) à 65 mm Hg et un taux de lactates sériques > 2 mmol/L (18 mg/dL) malgré une correction adéquate de la volémie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'un choc septique?",
+        "answer": "Les signes cliniques d'un choc septique incluent un contexte infectieux avec frissons et hyperthermie (parfois remplacée par une hypothermie).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes biologiques d'un choc septique?",
+        "answer": "Les signes biologiques d'un choc septique incluent une CRP élevée, une hyperleucocytose franche (parfois leucopénie et thrombopénie).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les gestes à faire en urgence au niveau du centre de santé communautaire pour un choc septique?",
+        "answer": "Au niveau du centre de santé communautaire, il faut rechercher systématiquement le paludisme en zone d’endémie, mettre en place une voie veineuse si possible avec remplissage vasculaire par cristalloïdes, débuter l’antibiothérapie et évacuer le patient.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les gestes à faire en urgence au niveau du secteur de santé de district pour un choc septique?",
+        "answer": "Au niveau du secteur de santé de district, il faut poser une voie d’abord veineuse de bon calibre, effectuer un remplissage par cristalloïdes (sérum salé isotonique ou Ringer lactate) pour corriger l’hypotension artérielle et reprendre la diurèse, et administrer de l’oxygène pour un objectif de saturation périphérique en O2 ≥ 95 %. Si ces mesures échouent, il faut rapidement évacuer le patient vers l’hôpital de proximité.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les gestes à faire en urgence au niveau hospitalier pour un choc septique?",
+        "answer": "Au niveau hospitalier, il faut poser deux grosses voies d’abord veineuses et perfuser des cristalloïdes, administrer de l’oxygène pour un objectif de saturation périphérique en O2 ≥ 95 %, et mettre en place une sonde urinaire pour surveiller la diurèse horaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour la respiration?",
+        "answer": "Les critères du score SOFA pour la respiration sont : PaO2/FiO2 > 400 (0 point), 301-400 (1 point), 201-300 (2 points), 101-200 avec assistance respiratoire (3 points), ≤ 100 avec assistance respiratoire (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour la coagulation?",
+        "answer": "Les critères du score SOFA pour la coagulation sont : Plaquettes x 103/mm3 > 150 (0 point), 101-150 (1 point), 51-100 (2 points), 21-50 (3 points), ≤ 20 (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le foie?",
+        "answer": "Les critères du score SOFA pour le foie sont : Bilirubine, umol/L - (mmol/L) < 1.2 (<20) (0 point), 1.2-1.9 (20-32) (1 point), 2.0-5.9 (33-101) (2 points), 6.0-11.9 (102+204) (3 points), > 12.0 (> 204) (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le système cardiovasculaire?",
+        "answer": "Les critères du score SOFA pour le système cardiovasculaire sont : PAM > 70 mmHg (0 point), PAM < 70 mmHg (1 point), Dopamine* < 5 ou dobutamine* (2 points), Dopamine* > 5 ou adrénaline* ≤ 0.1 ou noradrénaline* ≤ 0.1 (3 points), Dopamine* > 15 ou adrénaline* > 0.1 ou noradrénaline* > 0.1 (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le système nerveux central?",
+        "answer": "Les critères du score SOFA pour le système nerveux central sont : Glasgow Score 15 (0 point), 13-14 (1 point), 10-12 (2 points), 6-9 (3 points), < 6 (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères du score SOFA pour le rein?",
+        "answer": "Les critères du score SOFA pour le rein sont : Créatinine, mg/dL (μmol/L) ou diurèse < 1.2 (< 110) (0 point), 1.2-1.9 (110-170) (1 point), 2.0-3.4 (171-299) (2 points), 3.5-4.9 (300-440) ou < 500 mL/jour (3 points), > 5.0 (> 440) ou < 200 mL/jour (4 points).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les arguments en faveur d’un état de choc d’origine non-infectieuse?",
+        "answer": "Les arguments en faveur d’un état de choc d’origine non-infectieuse incluent : Choc cardiogénique (signes d’insuffisance cardiaque gauche, droite ou globale, douleur thoracique, phlébite, embolie pulmonaire, trouble du rythme cardiaque, cardiopathie sous-jacente connue), Choc hypovolémique (signes de déshydratation, diarrhée, vomissements, brûlures cutanées), Choc hémorragique (pâleur conjonctivale, hémorragie extériorisée), Choc anaphylactique (circonstance déclenchante, éruption cutanée diffuse, urticaire, œdème de Quincke, terrain allergique connu).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d’un choc cardiogénique?",
+        "answer": "Les signes d’un choc cardiogénique incluent des signes d’insuffisance cardiaque gauche (œdème aigu pulmonaire), droite (turgescence des jugulaires, hépatalgie) ou globale, douleur thoracique, phlébite, embolie pulmonaire, trouble du rythme cardiaque, et une cardiopathie sous-jacente connue.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’un choc hypovolémique?",
+        "answer": "Les signes d’un choc hypovolémique incluent des signes de déshydratation (pli cutané, sensation de soif), diarrhée, vomissements, et brûlures cutanées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’un choc hémorragique?",
+        "answer": "Les signes d’un choc hémorragique incluent une pâleur conjonctivale et une hémorragie extériorisée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’un choc anaphylactique?",
+        "answer": "Les signes d’un choc anaphylactique incluent une circonstance déclenchante (piqûre d’insecte, prise médicamenteuse), une éruption cutanée diffuse, de l’urticaire, un œdème de Quincke, et un terrain allergique connu.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la première étape de la prise en charge d’un choc septique au niveau du centre de santé communautaire?",
+        "answer": "La première étape de la prise en charge d’un choc septique au niveau du centre de santé communautaire est la recherche systématique du paludisme en zone d’endémie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est l'objectif de saturation périphérique en O2 lors de la prise en charge d’un choc septique au niveau du secteur de santé de district?",
+        "answer": "L'objectif de saturation périphérique en O2 lors de la prise en charge d’un choc septique au niveau du secteur de santé de district est ≥ 95 %. ",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement initial pour corriger l’hypotension artérielle dans un choc septique au niveau du secteur de santé de district?",
+        "answer": "Le traitement initial pour corriger l’hypotension artérielle dans un choc septique au niveau du secteur de santé de district est le remplissage par cristalloïdes (sérum salé isotonique ou Ringer lactate).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le critère majeur de surveillance au niveau hospitalier pour un patient en choc septique?",
+        "answer": "Le critère majeur de surveillance au niveau hospitalier pour un patient en choc septique est la diurèse horaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes d’une insuffisance cardiaque gauche dans un choc cardiogénique?",
+        "answer": "Les signes d’une insuffisance cardiaque gauche dans un choc cardiogénique incluent un œdème aigu pulmonaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’une insuffisance cardiaque droite dans un choc cardiogénique?",
+        "answer": "Les signes d’une insuffisance cardiaque droite dans un choc cardiogénique incluent la turgescence des jugulaires et l’hépatalgie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’une insuffisance cardiaque globale dans un choc cardiogénique?",
+        "answer": "Les signes d’une insuffisance cardiaque globale dans un choc cardiogénique incluent des signes d’insuffisance cardiaque gauche et droite combinés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’une déshydratation dans un choc hypovolémique?",
+        "answer": "Les signes d’une déshydratation dans un choc hypovolémique incluent un pli cutané et une sensation de soif.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’une brûlure cutanée dans un choc hypovolémique?",
+        "answer": "Les signes d’une brûlure cutanée dans un choc hypovolémique incluent des lésions cutanées visibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’une hémorragie extériorisée dans un choc hémorragique?",
+        "answer": "Les signes d’une hémorragie extériorisée dans un choc hémorragique incluent la présence de sang visible à l’extérieur du corps.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes d’une éruption cutanée diffuse dans un choc anaphylactique?",
+        "answer": "Les signes d’une éruption cutanée diffuse dans un choc anaphylactique incluent des rougeurs et des plaques sur la peau.",
+        "qtype": "symptômes"
+    }
+]

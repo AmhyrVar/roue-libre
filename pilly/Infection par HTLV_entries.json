@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelle est la prévalence estimée de l'infection par le virus HTLV-1 dans le monde?",
+        "answer": "On estime entre 10 à 20 millions le nombre de personnes infectées par le virus HTLV-1.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Dans quelles régions le virus HTLV-1 est-il fréquent?",
+        "answer": "Ce virus est fréquent dans l’extrême Sud du Japon, les Caraïbes, les Antilles Françaises, le Moyen-Orient, l'Australie, la Papouasie - Nouvelle Guinée et en Afrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de séropositivité HTLV-I dans les zones de forêt du Cameroun, du Gabon ou du Congo?",
+        "answer": "Le taux de séropositivité HTLV-I est de plus de 5 % dans la population générale adulte des zones de forêt du Cameroun, du Gabon ou du Congo.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet principalement le virus HTLV-1 de la mère à l'enfant?",
+        "answer": "La transmission se fait de la mère à l’enfant, le lait jouant un rôle majeur avec un taux de transmission de l’ordre de 20 % qui passe à 2 % en cas d’allaitement artificiel.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la différence de prévalence du HTLV-1 entre les hommes et les femmes?",
+        "answer": "La prévalence est plus élevée chez les femmes que chez les hommes au sein des foyers.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les modes de transmission du HTLV-1?",
+        "answer": "Le HTLV-1 se transmet par voie parentérale (toxicomanie, transfusion), de la mère à l’enfant (allaitement), et par voie sexuelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Depuis quand le dépistage systématique du HTLV-1 est-il pratiqué en France métropolitaine?",
+        "answer": "Le dépistage systématique chez les donneurs de sang est pratiqué en France métropolitaine depuis 1992.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est l'origine du HTLV-1?",
+        "answer": "L'origine du HTLV-1 est simienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les deux principales entités cliniques causées par le HTLV-1?",
+        "answer": "Le virus HTLV-1 est responsable de deux entités cliniques : une maladie neurologique (la paraparésie spastique tropicale) et une forme particulière de lymphome/leucémie T de l’adulte.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du HTLV-1?",
+        "answer": "L’incubation est très longue.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle proportion des séropositifs au HTLV-1 développe une pathologie?",
+        "answer": "Environ un séropositif sur cent, voire mille, développe une pathologie 20 à 30 ans après la contamination.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission du HTLV-2?",
+        "answer": "Le HTLV-2 est endémique chez les Amérindiens et chez certains Pygmées d'Afrique Centrale ; il infecte les toxicomanes (UDIV) aux États-Unis et en Europe.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du HTLV-1 dans l'extrême Sud du Japon?",
+        "answer": "Le virus HTLV-1 est fréquent dans l’extrême Sud du Japon.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle de l'allaitement artificiel dans la transmission du HTLV-1?",
+        "answer": "L’allaitement artificiel réduit le taux de transmission de 20 % à 2 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux foyers de transmission du HTLV-1?",
+        "answer": "Les principales caractéristiques épidémiologiques de ce virus sont sa répartition en foyer (familial et/ou villageois).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de transmission du HTLV-1 par le lait maternel?",
+        "answer": "Le taux de transmission est de l’ordre de 20 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du HTLV-1 en Afrique centrale?",
+        "answer": "La prévalence est de plus de 5 % dans la population générale adulte des zones de forêt du Cameroun, du Gabon ou du Congo.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de séropositivité HTLV-I dans le nord de l’Afrique?",
+        "answer": "Le taux de séropositivité HTLV-I dans le nord de l’Afrique est de 0,1 à 0,5 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission du HTLV-1 par voie parentérale?",
+        "answer": "Le HTLV-1 se transmet par voie parentérale : toxicomanie, transfusion.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Depuis quand le dépistage systématique du HTLV-1 est-il pratiqué aux Antilles Françaises?",
+        "answer": "Le dépistage systématique chez les donneurs de sang est pratiqué aux Antilles Françaises depuis 1989.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du HTLV-1 chez les femmes par rapport aux hommes?",
+        "answer": "La prévalence est plus élevée chez les femmes que chez les hommes au sein des foyers.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le rôle de la transmission sexuelle dans la prévalence du HTLV-1 chez les femmes?",
+        "answer": "La transmission sexuelle est possible et l'homme contamine plus souvent la femme, expliquant la plus forte prévalence chez les femmes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux tableaux cliniques causés par le HTLV-1?",
+        "answer": "Le spectre clinique est largement dominé par deux entités cliniques : la paraparésie spastique tropicale et une forme particulière de lymphome/leucémie T de l’adulte.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la proportion de séropositifs au HTLV-1 qui sont asymptomatiques?",
+        "answer": "La très grande majorité des séropositifs sont asymptomatiques.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la durée d'incubation du HTLV-1 avant l'apparition des symptômes?",
+        "answer": "L’incubation est très longue, et les manifestations cliniques sont rares.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux modes de transmission du HTLV-1 par voie sexuelle?",
+        "answer": "La transmission sexuelle est possible et l'homme contamine plus souvent la femme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du HTLV-1 dans les Antilles Françaises?",
+        "answer": "Le virus HTLV-1 est fréquent dans les Antilles Françaises.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du HTLV-1 en Papouasie - Nouvelle Guinée?",
+        "answer": "Le virus HTLV-1 est fréquent en Papouasie - Nouvelle Guinée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la prévalence du HTLV-1 en Australie?",
+        "answer": "Le virus HTLV-1 est fréquent en Australie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ATLL (Adult T-cell Leukemia/lymphoma) ?",
+        "answer": "L'ATLL se manifeste par une leucémie et/ou lymphome comportant une infiltration médullaire, des lymphadénopathies, des lésions cutanées, une hépatosplénomégalie, une hypercalcémie, des lésions osseuses lytiques, et une immunodépression entraînant des infections opportunistes et à pyogènes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la médiane de survie pour l'ATLL ?",
+        "answer": "La médiane de survie pour l'ATLL est inférieure à un an.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la myélopathie/paraparésie spastique tropicale ?",
+        "answer": "La myélopathie/paraparésie spastique tropicale se traduit par l’apparition progressive d’une faiblesse et d’une spasticité des membres inférieurs associées à une hyperréflexie et un signe de Babinski. Les signes sensitifs sont mineurs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'évolution de la myélopathie/paraparésie spastique tropicale ?",
+        "answer": "L’évolution de la myélopathie/paraparésie spastique tropicale se fait après plusieurs années vers l’incontinence urinaire et fécale et la paralysie des membres inférieurs.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Comment diagnostique-t-on l'HTLV ?",
+        "answer": "Le diagnostic de l'HTLV repose sur la détection immuno-enzymatique (ELISA) des Ac anti-HTLV, confirmée par Western blot ou par PCR-ADN permettant de différencier le HTLV-1 du HTLV-2.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le marqueur de pronostic péjoratif des myélopathies ?",
+        "answer": "Un ADN proviral élevé est un marqueur de pronostic péjoratif des myélopathies.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quel est le traitement de l'hypercalcémie dans le cadre de l'ATLL ?",
+        "answer": "Le traitement de l'hypercalcémie, souvent cause de décès dans le cadre de l'ATLL, est nécessaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'efficacité de la chimiothérapie pour l'ATLL ?",
+        "answer": "La chimiothérapie est relativement peu efficace pour l'ATLL et ne se conçoit qu’en centre spécialisé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels traitements ont été proposés pour la paraparésie spastique tropicale ?",
+        "answer": "Pour la paraparésie spastique tropicale, des traitements par les corticoïdes ont été proposés après déparasitage couvrant l’anguillulose et recherche systématique d’une tuberculose associée.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Les antirétroviraux sont-ils efficaces pour traiter la paraparésie spastique tropicale ?",
+        "answer": "Les antirétroviraux n’ont pas d’intérêt pour traiter la paraparésie spastique tropicale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prévention pour l'infection par HTLV ?",
+        "answer": "La prévention repose sur la contre-indication de l’allaitement maternel, la sécurité transfusionnelle par le dépistage des anticorps anti-HTLV dans les zones endémiques, et le traitement précoce de l’anguillulose.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les autres manifestations cliniques de l'infection par HTLV ?",
+        "answer": "Les autres manifestations cliniques de l'infection par HTLV incluent une immunodéficience se révélant par un tableau de syndrome d'hyperinfection strongyloïdienne avec charge parasitaire majeure, intestinale et/ou extra-intestinale (poumons, SNC…), et une dermatite infectieuse très rare décrite chez les enfants vivant en zone d’endémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles atteintes à composante inflammatoire ou infectieuse ont été décrites pour l'infection par HTLV ?",
+        "answer": "Des atteintes à composante inflammatoire ou infectieuse telles que des uvéites récurrentes, paralysie faciale, et polymyosite ont été décrites pour l'infection par HTLV.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'association possible avec la myélopathie/paraparésie spastique tropicale ?",
+        "answer": "L’association avec une alvéolite à lymphocyte T8 est possible pour la myélopathie/paraparésie spastique tropicale.",
+        "qtype": "association"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour plus d'informations sur l'HTLV ?",
+        "answer": "Les sites web recommandés pour plus d'informations sur l'HTLV sont : http://www.pasteur.fr/fr/institut-pasteur/presse/fiches-info/htlv-i et http://www.cdc.gov/mmwr/preview/mmwrhtml/00021234.htm",
+        "qtype": "ressources"
+    },
+    {
+        "question": "Quels sont les symptômes de l'immunodéficience liée à l'infection par HTLV ?",
+        "answer": "L'immunodéficience liée à l'infection par HTLV se révèle par un tableau de syndrome d'hyperinfection strongyloïdienne avec charge parasitaire majeure, intestinale et/ou extra-intestinale (poumons, SNC…).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la manifestation cutanée rare de l'infection par HTLV chez les enfants ?",
+        "answer": "La manifestation cutanée rare de l'infection par HTLV chez les enfants est la dermatite infectieuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes sensitifs de la myélopathie/paraparésie spastique tropicale ?",
+        "answer": "Les signes sensitifs de la myélopathie/paraparésie spastique tropicale sont mineurs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels anticorps sont mis en évidence dans le LCR pour diagnostiquer la myélopathie/paraparésie spastique tropicale ?",
+        "answer": "Les anticorps anti-HTLV-I sont mis en évidence dans le LCR pour diagnostiquer la myélopathie/paraparésie spastique tropicale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la leucémie/lymphome T de l’adulte ?",
+        "answer": "Les symptômes de la leucémie/lymphome T de l’adulte incluent une leucémie et/ou lymphome avec infiltration médullaire, des lymphadénopathies, des lésions cutanées, une hépatosplénomégalie, une hypercalcémie, des lésions osseuses lytiques, et une immunodépression entraînant des infections opportunistes et à pyogènes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le pronostic à court terme de la leucémie/lymphome T de l’adulte ?",
+        "answer": "Le pronostic à court terme de la leucémie/lymphome T de l’adulte est très mauvais.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les traitements proposés pour la paraparésie spastique tropicale après déparasitage ?",
+        "answer": "Les traitements proposés pour la paraparésie spastique tropicale après déparasitage sont les corticoïdes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le rôle des antirétroviraux dans le traitement de la paraparésie spastique tropicale ?",
+        "answer": "Les antirétroviraux n’ont pas d’intérêt dans le traitement de la paraparésie spastique tropicale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la cause fréquente de décès dans le cadre de l'ATLL ?",
+        "answer": "L'hypercalcémie est une cause fréquente de décès dans le cadre de l'ATLL.",
+        "qtype": "pronostic"
+    },
+    {
+        "question": "Quels sont les traitements nécessaires pour l'ATLL ?",
+        "answer": "Les traitements nécessaires pour l'ATLL incluent le traitement de l'hypercalcémie et la chimiothérapie en centre spécialisé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prévention recommandée pour l'anguillulose sur le terrain de l'infection par HTLV ?",
+        "answer": "La prévention recommandée pour l'anguillulose sur le terrain de l'infection par HTLV est le traitement précoce.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la paraparésie spastique tropicale ?",
+        "answer": "Les signes cliniques de la paraparésie spastique tropicale incluent une faiblesse et une spasticité des membres inférieurs, une hyperréflexie, et un signe de Babinski.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'association possible avec la paraparésie spastique tropicale ?",
+        "answer": "L’association possible avec la paraparésie spastique tropicale est une alvéolite à lymphocyte T8.",
+        "qtype": "association"
+    },
+    {
+        "question": "Quels sont les symptômes de la dermatite infectieuse liée à l'infection par HTLV ?",
+        "answer": "La dermatite infectieuse liée à l'infection par HTLV est très rare et n’est décrite que chez les enfants vivant en zone d’endémie.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Quelles sont les principales causes d'éruption fébrile?",
+        "answer": "Les principales causes d'éruption fébrile sont les infections (virales, bactériennes, parasitaires et fongiques), les allergies médicamenteuses (toxidermies) et les maladies inflammatoires systémiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels signes de gravité immédiate doivent être recherchés lors de l'évaluation initiale d'une éruption fébrile?",
+        "answer": "Les signes de gravité immédiate à rechercher sont les signes de sepsis sévère ou de choc septique, le signe de Nikolsky (décollement épidermique) et la présence de bulles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement d'urgence pour un purpura fulminans?",
+        "answer": "Le traitement d'urgence pour un purpura fulminans est l'administration immédiate d'une première dose d'un antibiotique, de préférence par voie IV, sinon par IM. L'antibiotique recommandé est la ceftriaxone, sinon cefotaxime ou amoxicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures d'isolement sont nécessaires pour une pathologie contagieuse?",
+        "answer": "Les mesures d'isolement nécessaires dépendent du mode de transmission : précautions type 'air' (ex : rougeole, varicelle), type 'gouttelettes' (ex : méningocoque, rubéole) ou type 'contact' (ex : fièvre hémorragique virale africaine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels éléments doivent être précisés lors de l'interrogatoire d'un patient avec une éruption fébrile?",
+        "answer": "L'interrogatoire doit préciser l'histoire de la maladie, les expositions à risque, et les antécédents médicaux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les types de lésions élémentaires à examiner lors d'une éruption fébrile?",
+        "answer": "Les types de lésions élémentaires à examiner sont les macules, papules, vésicules, bulles, pustules, pétéchies et purpura.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels agents infectieux peuvent causer des éruptions fébriles avec des macules et papules?",
+        "answer": "Les agents infectieux pouvant causer des éruptions fébriles avec des macules et papules incluent les arboviroses, les enterovirus, l'exanthème subit, l'herpès disséminé, les hépatites virales A et B, le mégalérythème épidémique, les poxviroses, la primo-infection EBV, la primo-infection VIH, la rougeole, la rubéole, et la varicelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels agents infectieux peuvent causer des éruptions fébriles avec des vésicules, bulles ou pustules?",
+        "answer": "Les agents infectieux pouvant causer des éruptions fébriles avec des vésicules, bulles ou pustules incluent les arboviroses (chikungunya), les enterovirus, les poxviroses, la primo-infection EBV, la varicelle et le zona disséminé, l'angiomatose bacillaire, Capnocytophaga canimorsus, l'endocardite, l'épidermolyse staphylococcique aiguë, la gonococcémie, les rickettsioses (R. africae), le choc toxique staphylococcique ou streptococcique, Vibrio vulnificus, les candidoses cutanéo-systémiques, la cryptococcose disséminée, et l'histoplasmose disséminée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels agents infectieux peuvent causer des éruptions fébriles avec des pétéchies ou purpura?",
+        "answer": "Les agents infectieux pouvant causer des éruptions fébriles avec des pétéchies ou purpura incluent les arboviroses (dengue), les enterovirus, l'angiomatose bacillaire, Capnocytophaga canimorsus, l'endocardite, les infections invasives à méningocoque, la gonococcémie, les rickettsioses, la scarlatine, la syphilis secondaire, et les vascularites.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cutanés caractéristiques de la trypanosomose africaine en phase lymphatico-sanguine?",
+        "answer": "Les signes cutanés caractéristiques de la trypanosomose africaine en phase lymphatico-sanguine sont le trypanome (lésion d'inoculation, lésion papuleuse érythémateuse évoluant vers une ulcération) et les trypanides (placards érythémateux polycycliques du tronc et de la racine des membres).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types de lésions cutanées peuvent être observées au cours des infections fongiques chez les patients immunodéprimés?",
+        "answer": "Au cours des infections fongiques chez les patients immunodéprimés, on peut observer des lésions papuleuses ou nodulaires avec une ombilication centrale, ressemblant à des lésions de molluscum contagiosum, et une évolution ulcéro-crouteuse et nécrotique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux caractères distinctifs entre une étiologie virale et médicamenteuse pour les exanthèmes maculo-papuleux?",
+        "answer": "Les principaux caractères distinctifs entre une étiologie virale et médicamenteuse pour les exanthèmes maculo-papuleux sont rapportés dans le tableau 2 (non fourni dans l'extrait).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de gravité immédiate à rechercher lors de l'évaluation initiale d'une éruption fébrile?",
+        "answer": "Les signes de gravité immédiate à rechercher sont les signes de sepsis sévère ou de choc septique, le signe de Nikolsky (décollement épidermique) et la présence de bulles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une éruption fébrile à préciser lors de l'interrogatoire?",
+        "answer": "Les signes cliniques associés à préciser sont la date d'apparition de la fièvre, la date d'apparition de l'éruption, les signes cliniques associés, et le mode d'apparition (brutal ou progressif).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques d'exposition à préciser lors de l'interrogatoire d'un patient avec une éruption fébrile?",
+        "answer": "Les risques d'exposition à préciser sont la prise médicamenteuse dans les 6 semaines, les voyages récents, le contexte épidémique, les activités à risque, l'alimentation, les relations sexuelles non protégées, le contact avec des personnes malades, et le contact avec des animaux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels antécédents médicaux doivent être précisés lors de l'interrogatoire d'un patient avec une éruption fébrile?",
+        "answer": "Les antécédents médicaux à préciser sont l'immunodépression, la pathologie valvulaire, les antécédents infectieux et allergiques, et les vaccinations (rougeole, rubéole, VZV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes généraux à rechercher lors de l'examen clinique d'une éruption fébrile?",
+        "answer": "Les signes généraux à rechercher sont la présence d'adénopathies, d'une hépato-splénomégalie, d'arthrites, et de signes neurologiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cutanés caractéristiques de la trypanosomose africaine en phase lymphatico-sanguine?",
+        "answer": "Les signes cutanés caractéristiques de la trypanosomose africaine en phase lymphatico-sanguine sont le trypanome (lésion d'inoculation, lésion papuleuse érythémateuse évoluant vers une ulcération) et les trypanides (placards érythémateux polycycliques du tronc et de la racine des membres).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types de lésions cutanées peuvent être observées au cours des infections fongiques chez les patients immunodéprimés?",
+        "answer": "Au cours des infections fongiques chez les patients immunodéprimés, on peut observer des lésions papuleuses ou nodulaires avec une ombilication centrale, ressemblant à des lésions de molluscum contagiosum, et une évolution ulcéro-crouteuse et nécrotique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux caractères distinctifs entre une étiologie virale et médicamenteuse pour les exanthèmes maculo-papuleux?",
+        "answer": "Les principaux caractères distinctifs entre une étiologie virale et médicamenteuse pour les exanthèmes maculo-papuleux sont rapportés dans le tableau 2 (non fourni dans l'extrait).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de gravité immédiate à rechercher lors de l'évaluation initiale d'une éruption fébrile?",
+        "answer": "Les signes de gravité immédiate à rechercher sont les signes de sepsis sévère ou de choc septique, le signe de Nikolsky (décollement épidermique) et la présence de bulles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques associés à une éruption fébrile à préciser lors de l'interrogatoire?",
+        "answer": "Les signes cliniques associés à préciser sont la date d'apparition de la fièvre, la date d'apparition de l'éruption, les signes cliniques associés, et le mode d'apparition (brutal ou progressif).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques d'exposition à préciser lors de l'interrogatoire d'un patient avec une éruption fébrile?",
+        "answer": "Les risques d'exposition à préciser sont la prise médicamenteuse dans les 6 semaines, les voyages récents, le contexte épidémique, les activités à risque, l'alimentation, les relations sexuelles non protégées, le contact avec des personnes malades, et le contact avec des animaux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels antécédents médicaux doivent être précisés lors de l'interrogatoire d'un patient avec une éruption fébrile?",
+        "answer": "Les antécédents médicaux à préciser sont l'immunodépression, la pathologie valvulaire, les antécédents infectieux et allergiques, et les vaccinations (rougeole, rubéole, VZV).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes généraux à rechercher lors de l'examen clinique d'une éruption fébrile?",
+        "answer": "Les signes généraux à rechercher sont la présence d'adénopathies, d'une hépato-splénomégalie, d'arthrites, et de signes neurologiques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cutanés caractéristiques de la trypanosomose africaine en phase lymphatico-sanguine?",
+        "answer": "Les signes cutanés caractéristiques de la trypanosomose africaine en phase lymphatico-sanguine sont le trypanome (lésion d'inoculation, lésion papuleuse érythémateuse évoluant vers une ulcération) et les trypanides (placards érythémateux polycycliques du tronc et de la racine des membres).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels types de lésions cutanées peuvent être observées au cours des infections fongiques chez les patients immunodéprimés?",
+        "answer": "Au cours des infections fongiques chez les patients immunodéprimés, on peut observer des lésions papuleuses ou nodulaires avec une ombilication centrale, ressemblant à des lésions de molluscum contagiosum, et une évolution ulcéro-crouteuse et nécrotique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux caractères distinctifs entre une étiologie virale et médicamenteuse pour les exanthèmes maculo-papuleux?",
+        "answer": "Les principaux caractères distinctifs entre une étiologie virale et médicamenteuse pour les exanthèmes maculo-papuleux sont rapportés dans le tableau 2 (non fourni dans l'extrait).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de gravité cliniques à rechercher systématiquement en cas de toxidermie grave ?",
+        "answer": "Altération de l’état général, étendue des lésions cutanées, survenue de lésions muqueuses, décollement cutané avec signe de Nikolsky.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens biologiques à réaliser en cas de suspicion de toxidermie grave ?",
+        "answer": "On recherchera une hyperéosinophilie, une insuffisance rénale, une cytolyse hépatique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels syndromes peuvent être évoqués en cas de toxidermie grave ?",
+        "answer": "Syndromes de Stevens-Johnson ou de Lyell, DRESS (Drug Rash with Eosinophilia and Systemic Symptoms).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une étiologie virale pour les exanthèmes fébriles maculo-papuleux ?",
+        "answer": "Enanthème, signes généraux, prodromes d’allure grippale (arthralgies, myalgies, céphalées), signes ORL, respiratoires ou digestifs associés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une étiologie médicamenteuse pour les exanthèmes fébriles maculo-papuleux ?",
+        "answer": "Absence d’énanthème et de fièvre dans les formes non graves.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les caractéristiques d'une vésicule ?",
+        "answer": "Une élevure circonscrite de la peau contenant un liquide clair.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les caractéristiques d'une pustule ?",
+        "answer": "Une élevure circonscrite de la peau contenant un exsudat purulent.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les caractéristiques d'une bulle ?",
+        "answer": "Une lésion de diamètre supérieur à 5 mm.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les causes infectieuses des éruptions vésiculeuses, pustuleuses ou bulleuses ?",
+        "answer": "Les causes infectieuses sont avant tout virales, comme le chikungunya chez l’enfant, et plus rarement bactériennes comme les lésions pustuleuses au cours d’une gonococcémie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les caractéristiques des lésions purpuriques ?",
+        "answer": "Les lésions purpuriques sont dues à du sang extravasé dans le derme et ne s’effacent pas à la vitropression.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types de purpura ?",
+        "answer": "Purpura pétéchial, ecchymotique, ou nécrotique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'un purpura fulminans ?",
+        "answer": "Tout purpura fébrile comportant au moins un élément nécrotique ou ecchymotique de diamètre supérieur ou égal à 3 mm.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics à évoquer en cas d'éruption érythémateuse diffuse fébrile ?",
+        "answer": "Arboviroses, choc toxique staphylococcique ou streptococcique, épidermolyse staphylococcique aiguë, scarlatine, toxidermie grave, syndrome de Kawasaki.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelles sont les caractéristiques des érythèmes noueux ?",
+        "answer": "Nodosités érythémateuses dermo-hypodermiques, douloureuses, de taille variable, siégeant surtout au niveau des membres, évoluant comme des ecchymoses, en plusieurs poussées, association fréquente à des arthralgies/arthrites, durant au moins 15 jours, ne suppurant pas, disparaissant sans séquelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les principales causes infectieuses des érythèmes noueux ?",
+        "answer": "Primo-infection tuberculeuse, streptococcies, yersiniose, réaction lépromateuse, bartonellose, mycobactéries atypiques, chlamydioses, histoplasmose.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les principales causes inflammatoires des érythèmes noueux ?",
+        "answer": "Sarcoïdose, Behçet, Crohn, RCH, lupus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels médicaments peuvent causer des érythèmes noueux ?",
+        "answer": "Sulfamides, ß-lactamines, salicylés, thiazidiques, œstro-progestatifs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les examens paracliniques à réaliser en cas d'éruption fébrile sans orientation étiologique évidente ?",
+        "answer": "Numération formule sanguine, hémocultures répétées, prélèvements cutanés, biopsie cutanée, sérologies orientées par le contexte géographique et épidémique, bilan parasitologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes biologiques en faveur d'une origine virale pour une éruption fébrile ?",
+        "answer": "Lymphopénie, thrombopénie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes biologiques en faveur d'une helminthose en phase d'invasion ou d'une allergie médicamenteuse ?",
+        "answer": "Hyperéosinophilie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes biologiques en faveur d'une primo-infection à EBV, VIH, CMV, HHV-6, ou toxoplasme ?",
+        "answer": "Syndrome mononucléosique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de suspicion d'infection bactérienne avec éruption fébrile ?",
+        "answer": "Céphalosporine de 3e génération par voie IV si purpura fébrile, doxycycline si suspicion de rickettiose, antibiothérapie active contre les streptocoques et staphylocoques si suspicion d’infection systémique à ces bactéries.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les traitements recommandés en cas de toxidermie évoquée ?",
+        "answer": "Arrêt d’un (des) médicament(s) suspect(s).",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Dans quelles indications parasitaires la corticothérapie par voie générale est-elle discutée ?",
+        "answer": "Bilharziose à la phase invasive, trichinellose.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quelles mesures associées peuvent être recommandées en cas de pathologie contagieuse avec éruption fébrile ?",
+        "answer": "Isolement, éviction scolaire, précaution vis-à-vis des femmes enceintes non immunisées.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une éruption vésiculo-bulleuse au cours du chikungunya ?",
+        "answer": "Survenue possible d’une éruption vésiculo-bulleuse, en particulier chez l’enfant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une gonococcémie ?",
+        "answer": "Lésions pustuleuses avec présence de lésions purpuriques et ténosynovites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une infection à Vibrio vulnificus ?",
+        "answer": "Bulles hémorragiques après ingestion de fruit de mer ou contamination d’une plaie par de l’eau de mer.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques des rickettioses à Rickettsia africae ?",
+        "answer": "Lésions vésiculeuses.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l’épidermolyse staphylococcique aiguë ?",
+        "answer": "Bulles à toit fripé associé à des décollements étendus.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce qu'une myiase?",
+    "answer": "Les myiases sont des parasitoses humaines ou animales dues à des larves de mouches non piqueuses.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelles sont les principales mouches responsables de myiases épicutannées?",
+    "answer": "Auchmeromyia senegalensis en Afrique tropicale.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se transmettent les myiases furonculoïdes en Afrique?",
+    "answer": "Les myiases furonculoïdes en Afrique sont principalement dues à Cordylobia anthropophaga, qui pond des œufs sur le sol ou sur les linges contaminés par des urines ou des selles.",
+    "qtype": "transmission"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases sous-cutanées?",
+    "answer": "Les myiases sous-cutanées peuvent causer des papules furonculoïdes, des douleurs intermittentes, et des lésions inflammatoires.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelle est la durée de développement des larves de Cordylobia anthropophaga?",
+    "answer": "Le développement des larves de Cordylobia anthropophaga dure de 7 à 21 jours.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les types de myiases cavitaires?",
+    "answer": "Les myiases cavitaires incluent les myiases oculaires, nasosinusiennes, et du conduit auditif.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases des plaies?",
+    "answer": "Les myiases des plaies sont souvent associées à des tissus nécrosés et malodorants, où les mouches viennent pondre leurs œufs.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelle mouche est responsable des myiases furonculoïdes en Amérique Centrale et du Sud?",
+    "answer": "Dermatobia hominis est responsable des myiases furonculoïdes en Amérique Centrale et du Sud.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se transmettent les œufs de Dermatobia hominis?",
+    "answer": "Les œufs de Dermatobia hominis sont déposés sur l'abdomen d'un moustique hématophage, qui les transfère ensuite sur la peau de mammifères ou de l'homme lors de la piqûre.",
+    "qtype": "transmission"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases furonculoïdes causées par Dermatobia hominis?",
+    "answer": "Les myiases furonculoïdes causées par Dermatobia hominis se manifestent par des papules inflammatoires, des douleurs vives, et peuvent se compliquer d'abcès et de lymphangite.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux types de myiases?",
+    "answer": "Les principaux types de myiases sont les myiases épicutanées, sous-cutanées, cavitaires, et des plaies.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quelle est la localisation typique des myiases furonculoïdes causées par Cordylobia anthropophaga?",
+    "answer": "Les myiases furonculoïdes causées par Cordylobia anthropophaga se localisent souvent dans les zones couvertes du corps.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quelle est la durée de maturation des larves de Dermatobia hominis?",
+    "answer": "La maturation des larves de Dermatobia hominis dure environ six semaines.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases épicutanées causées par Auchmeromyia senegalensis?",
+    "answer": "Les myiases épicutanées causées par Auchmeromyia senegalensis peuvent causer un œdème localisé suite à la piqûre de la larve.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux vecteurs des myiases cavitaires?",
+    "answer": "Les principaux vecteurs des myiases cavitaires sont les mouches des genres Lucilia, Sarcophaga, et Calliphora.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Comment se développent les myiases des plaies?",
+    "answer": "Les myiases des plaies se développent lorsque les mouches sont attirées par les tissus nécrosés et malodorants, où elles pondent leurs œufs.",
+    "qtype": "physiopathologie"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases rampantes?",
+    "answer": "Les myiases rampantes causées par les larves d'Hypoderma peuvent provoquer des lésions migratoires sous la peau.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quelle est la méthode d'extraction des larves de Cordylobia anthropophaga?",
+    "answer": "Les larves de Cordylobia anthropophaga sont généralement extraites manuellement.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quelle est la méthode d'extraction des larves de Dermatobia hominis?",
+    "answer": "Les larves de Dermatobia hominis sont souvent extraites chirurgicalement.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases oculaires?",
+    "answer": "Les myiases oculaires peuvent causer des lésions inflammatoires au niveau des yeux.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases nasosinusiennes?",
+    "answer": "Les myiases nasosinusiennes peuvent causer des lésions inflammatoires au niveau des sinus et des narines.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases du conduit auditif?",
+    "answer": "Les myiases du conduit auditif peuvent causer des lésions inflammatoires au niveau des oreilles.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases des plaies?",
+    "answer": "Les myiases des plaies peuvent causer des lésions nécrosées et malodorantes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les principaux vecteurs des myiases des plaies?",
+    "answer": "Les principaux vecteurs des myiases des plaies sont les mouches des genres Cochliomyia, Chrysomyia, Lucilia, Sarcophaga, Calliphora, Callitroga, Musca, et Fannia.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases furonculoïdes causées par Cordylobia anthropophaga?",
+    "answer": "Les myiases furonculoïdes causées par Cordylobia anthropophaga se manifestent par des papules furonculoïdes, des piqûres peu douloureuses, et des lésions oblongues caractéristiques.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases furonculoïdes causées par Dermatobia hominis?",
+    "answer": "Les myiases furonculoïdes causées par Dermatobia hominis se manifestent par des papules inflammatoires, des douleurs vives, et peuvent se compliquer d'abcès et de lymphangite.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases rampantes causées par Hypoderma?",
+    "answer": "Les myiases rampantes causées par Hypoderma peuvent provoquer des lésions migratoires sous la peau.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases cavitaires causées par Lucilia, Sarcophaga, et Calliphora?",
+    "answer": "Les myiases cavitaires causées par Lucilia, Sarcophaga, et Calliphora peuvent causer des lésions inflammatoires au niveau des cavités nasales, des sinus, et des conduits auditifs.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases des plaies causées par Cochliomyia hominivorax?",
+    "answer": "Les myiases des plaies causées par Cochliomyia hominivorax peuvent causer des lésions nécrosées et malodorantes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quels sont les symptômes des myiases des plaies causées par Chrysomyia?",
+    "answer": "Les myiases des plaies causées par Chrysomyia peuvent causer des lésions nécrosées et malodorantes.",
+    "qtype": "symptômes"
+  }
+]

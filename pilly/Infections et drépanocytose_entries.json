@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Qu'est-ce que la drépanocytose?",
+        "answer": "La drépanocytose est une maladie génétique fréquente en Afrique Noire, caractérisée par la présence d'une hémoglobine anormale Hb S qui polymérise en situation d'hypoxie, entraînant une hémolyse chronique et des phénomènes vaso-occlusifs.",
+        "qtype": "définition"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la drépanocytose?",
+        "answer": "Les principaux symptômes de la drépanocytose incluent des crises vaso-occlusives, une hémolyse chronique, des séquestrations spléniques aiguës, des accidents vasculaires cérébraux, des syndromes thoraciques aigus et des infections graves.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la drépanocytose?",
+        "answer": "Le diagnostic de la drépanocytose peut se faire dès la naissance par électrophorèse de l'hémoglobine, permettant de mettre en place un calendrier vaccinal adapté, une prophylaxie par pénicilline, une supplémentation en acide folique et l'éducation des familles.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les germes les plus redoutables pour les enfants drépanocytaires?",
+        "answer": "Les germes les plus redoutables pour les enfants drépanocytaires sont le pneumocoque et les salmonelles.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les mécanismes de susceptibilité majorée à l'infection chez les patients drépanocytaires?",
+        "answer": "Les mécanismes de susceptibilité majorée à l'infection chez les patients drépanocytaires incluent l'asplénie fonctionnelle et le déficit en anticorps opsonisants.",
+        "qtype": "pathogénie"
+    },
+    {
+        "question": "Quels sont les traitements prophylactiques recommandés pour les patients drépanocytaires?",
+        "answer": "Les traitements prophylactiques recommandés pour les patients drépanocytaires incluent une prophylaxie par pénicilline, une supplémentation en acide folique et un calendrier vaccinal adapté.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques d'infection chez les patients drépanocytaires en Afrique?",
+        "answer": "En Afrique, le risque d'infection invasive chez les patients drépanocytaires est multiplié par 19 et celui de méningite par 20.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux virus concernés par les infections chez les patients drépanocytaires?",
+        "answer": "Les principaux virus concernés par les infections chez les patients drépanocytaires sont le virus grippal, le parvovirus B19, les virus post-transfusionnels (VHB, VHC, VIH) et le coronavirus (Sars-Cov2).",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quels sont les principaux tableaux cliniques rencontrés chez les patients drépanocytaires?",
+        "answer": "Les principaux tableaux cliniques rencontrés chez les patients drépanocytaires incluent le sepsis, la méningite, le purpura, la bactériémie, la pneumonie et l'ostéomyélite aiguë.",
+        "qtype": "tableaux cliniques"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de la pneumonie chez les patients drépanocytaires?",
+        "answer": "Les agents pathogènes responsables de la pneumonie chez les patients drépanocytaires incluent S. pneumoniae, Haemophilus, S. aureus et Mycoplasma.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quel est le traitement antibiotique recommandé pour une pneumonie chez un patient drépanocytaire?",
+        "answer": "Le traitement antibiotique recommandé pour une pneumonie chez un patient drépanocytaire est une C3G ou une aminopénicilline, associée systématiquement à un macrolide.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques associés à une crise vaso-occlusive chez les patients drépanocytaires?",
+        "answer": "Les risques associés à une crise vaso-occlusive chez les patients drépanocytaires incluent la fièvre, la déshydratation, la séquestration splénique et le syndrome thoracique aigu.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste une ostéomyélite aiguë chez les patients drépanocytaires?",
+        "answer": "Une ostéomyélite aiguë chez les patients drépanocytaires se manifeste souvent par des douleurs osseuses, une fièvre et peut être multifocale. Elle est souvent associée à des hémocultures positives et nécessite une échographie ou une IRM pour le diagnostic.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de l'ostéomyélite aiguë chez les patients drépanocytaires?",
+        "answer": "Les agents pathogènes responsables de l'ostéomyélite aiguë chez les patients drépanocytaires incluent Salmonella, S. aureus et le pneumocoque.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Quel est le traitement antibiotique recommandé pour une ostéomyélite aiguë chez un patient drépanocytaire?",
+        "answer": "Le traitement antibiotique recommandé pour une ostéomyélite aiguë chez un patient drépanocytaire est une C3G.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les risques d'infection sévère chez les enfants drépanocytaires?",
+        "answer": "Les risques d'infection sévère chez les enfants drépanocytaires incluent une incidence élevée de sepsis, de méningite et de bactériémie, principalement causés par S. pneumoniae et les salmonelles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux parasites concernés par les infections chez les patients drépanocytaires?",
+        "answer": "Les principaux parasites concernés par les infections chez les patients drépanocytaires incluent les parasites responsables du paludisme.",
+        "qtype": "germes"
+    },
+    {
+        "question": "Comment le paludisme affecte-t-il les patients drépanocytaires?",
+        "answer": "Le paludisme peut augmenter l'anémie chez les patients drépanocytaires, nécessitant souvent une transfusion, et une prophylaxie des infections palustres est impérative pour ces patients séjournant en zone impaludée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque de crise vaso-occlusive chez les patients drépanocytaires?",
+        "answer": "Les principaux facteurs de risque de crise vaso-occlusive chez les patients drépanocytaires incluent la fièvre, la déshydratation, et tout stress physique ou psychique.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une crise vaso-occlusive chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une crise vaso-occlusive chez les patients drépanocytaires incluent des douleurs intenses, souvent dans les os, et peuvent être accompagnées de fièvre et de déshydratation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une séquestration splénique aiguë chez les enfants drépanocytaires?",
+        "answer": "Les principaux symptômes d'une séquestration splénique aiguë chez les enfants drépanocytaires incluent une douleur abdominale, une splénomégalie, une anémie sévère et un choc hypovolémique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'un syndrome thoracique aigu chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'un syndrome thoracique aigu chez les patients drépanocytaires incluent une douleur thoracique, une toux, une dyspnée et une hypoxie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une infection bactérienne chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une infection bactérienne chez les patients drépanocytaires incluent une fièvre, des douleurs, une inflammation et des signes de sepsis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une méningite chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une méningite chez les patients drépanocytaires incluent une fièvre élevée, des maux de tête, une raideur de la nuque et des troubles de la conscience.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une bactériémie chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une bactériémie chez les patients drépanocytaires incluent une fièvre, des frissons, une hypotension et des signes de sepsis.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une pneumonie chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une pneumonie chez les patients drépanocytaires incluent une toux, une fièvre, une dyspnée et des douleurs thoraciques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une arthrite chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une arthrite chez les patients drépanocytaires incluent des douleurs articulaires, une inflammation, une fièvre et une limitation des mouvements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une ostéomyélite chez les patients drépanocytaires?",
+        "answer": "Les principaux symptômes d'une ostéomyélite chez les patients drépanocytaires incluent des douleurs osseuses, une fièvre, une inflammation et une limitation des mouvements.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes d'une crise de séquestration splénique chez les enfants drépanocytaires?",
+        "answer": "Les principaux symptômes d'une crise de séquestration splénique chez les enfants drépanocytaires incluent une douleur abdominale, une splénomégalie, une anémie sévère et un choc hypovolémique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection osseuse ou articulaire à Salmonella chez un patient drépanocytaire?",
+        "answer": "C3G + fluoroquinolone jusqu’à l’antibiogramme.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour une infection osseuse ou articulaire à S. aureus chez un patient drépanocytaire?",
+        "answer": "Cloxacilline IV, relais par amoxiclav per os.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'alternative pour le relais per os pour les infections osseuses ou articulaires à Salmonella et S. aureus?",
+        "answer": "Cotrimoxazole.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour une anémie/érythroblastopénie chez un enfant drépanocytaire?",
+        "answer": "Pas d'antibiotique, transfusion.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les examens à réaliser en cas d'hépatite post-transfusionnelle chez un patient drépanocytaire?",
+        "answer": "ALAT, sérologie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement préventif pour l'hépatite post-transfusionnelle chez un patient drépanocytaire?",
+        "answer": "Aucun (prévention).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les deux facteurs qui interviennent dans le choix de l’antibiotique pour un patient drépanocytaire?",
+        "answer": "Son efficacité et la résistance bactérienne.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'option de première intention pour une infection chez un patient drépanocytaire?",
+        "answer": "Ceftriaxone IV (50 mg/kg/jour).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'alternative thérapeutique en cas d’échec du traitement habituel des otites moyenne aiguës (OMA) à salmonelles chez un enfant drépanocytaire?",
+        "answer": "Fluoroquinolones.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie recommandée pour l'amoxicilline en cas de résistance bactérienne chez un patient drépanocytaire?",
+        "answer": "150 mg/kg/jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand faut-il consulter en cas de fièvre chez un enfant drépanocytaire?",
+        "answer": "Dès que la fièvre est ≥ 38 °C, surtout avant l’âge de 3 ans.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quand faut-il hospitaliser un enfant drépanocytaire en cas de fièvre?",
+        "answer": "Si > 38,5 °C avant l’âge de 3 ans ou état clinique grave.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement anti-infectieux de première intention en cas de crise vaso-occlusive (CVO) osseuse chez un patient drépanocytaire?",
+        "answer": "Antibiothérapie à large spectre (C3G).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement antipaludique recommandé pour un patient drépanocytaire?",
+        "answer": "Antipaludique présomptif ou si frottis ou goutte épaisse positifs.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de soutien recommandés pour un patient drépanocytaire en cas d'infection?",
+        "answer": "Réhydratation abondante (orale ou IV), antalgiques, antipyrétiques, oxygénothérapie si pneumonie grave.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand est-il recommandé de faire une transfusion chez un patient drépanocytaire?",
+        "answer": "En cas d’anémies mal tolérées.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la prophylaxie antibiotique recommandée pour un enfant drépanocytaire?",
+        "answer": "Péni V : 2 prises/j, ≤ 10 kg : 100 000 U/kg/j, > 10 kg : 50 000 U/kg/j.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "À quel âge doit-on commencer la prophylaxie antibiotique chez un enfant drépanocytaire?",
+        "answer": "À partir de 2 mois.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Jusqu'à quel âge doit-on continuer la prophylaxie antibiotique chez un enfant drépanocytaire?",
+        "answer": "Jusqu'à 5 à 15 ans.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quel est le calendrier vaccinal recommandé pour le vaccin pneumococcique chez un enfant drépanocytaire?",
+        "answer": "Prévenar 13® : 1 dose à 2, 3, et 4 mois, rappel à 11-12 mois, puis Pneumovax® : 1 dose à l’âge de 2 ans puis rappel tous les 5 ans.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quels sont les autres vaccins recommandés pour un enfant drépanocytaire?",
+        "answer": "VHB, Méningococcique ACYW135, Méningococcique B, Grippal, Hépatite A, Typhique.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quelle est la règle concernant la pénicilline V orale quotidienne chez l’enfant drépanocytaire?",
+        "answer": "Elle doit être proposée dès 2 mois de vie.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quelle est la réduction de l’incidence des pneumococcies invasives grâce à la pénicilline V orale quotidienne chez l’enfant drépanocytaire?",
+        "answer": "De l’ordre de 80 %.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quand peut-on envisager l’arrêt de la pénicilline V orale quotidienne chez l’enfant drépanocytaire?",
+        "answer": "Dès l’âge de 5 ans chez les enfants vaccinés contre le pneumocoque et qui n’ont pas présenté d’épisodes infectieux graves ou répétés.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quels sont les vaccins conjugués efficaces contre les sérotypes 1 et 5 du pneumocoque?",
+        "answer": "Les vaccins conjugués 10 ou 13 valents.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "À partir de quel âge les vaccins conjugués 10 ou 13 valents sont-ils actifs?",
+        "answer": "Dès l’âge de 2 mois.",
+        "qtype": "prophylaxie"
+    },
+    {
+        "question": "Quelles sont les mesures générales de prévention des crises vaso-occlusives (CVO) chez un patient drépanocytaire?",
+        "answer": "Éviter les changements de température, les bains en eau froide, la déshydratation, les stress, l’hypoxie.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'importance de l'hyperhydratation chez un patient drépanocytaire?",
+        "answer": "Elle doit être permanente et majorée en cas de fièvre.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel type de soutien est recommandé dès l’annonce du diagnostic de drépanocytose?",
+        "answer": "Soutien psychologique.",
+        "qtype": "prévention"
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quels sont les symptômes de l'urétrite chez l'homme?",
+        "answer": "L'urétrite chez l'homme se traduit par un écoulement urétral et des brûlures urétrales et mictionnelles apparaissant quelques jours à quelques semaines après un rapport sexuel infectant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les causes les plus fréquentes de l'urétrite chez l'homme?",
+        "answer": "Les causes les plus fréquentes de l'urétrite chez l'homme sont Neisseria gonorrhoeae et Chlamydia trachomatis.",
+        "qtype": "étiologies"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'urétrite à gonocoques?",
+        "answer": "Les signes cliniques de l'urétrite à gonocoques incluent une incubation courte de 4 à 6 jours, irritation du méat urinaire, brûlures mictionnelles, écoulement trouble puis purulent, et parfois des filaments purulents dans les urines.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les groupes à risque pour la transmission de la gonococcie?",
+        "answer": "Les groupes à risque pour la transmission de la gonococcie sont ceux habituels des infections sexuellement transmissibles (IST).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques associés à la gonococcie?",
+        "answer": "Les risques associés à la gonococcie incluent des complications aiguës et chroniques, des séquelles fibreuses comme le rétrécissement urétral et la stérilité, ainsi que la dissémination hématogène pouvant causer des arthrites.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour l'urétrite à gonocoques?",
+        "answer": "Un antibiogramme doit être réalisé pour toute urétrite à gonocoque afin de déterminer le traitement antibiotique approprié, en raison de la résistance croissante aux antibiotiques.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la dissémination systémique de la gonococcie?",
+        "answer": "Les signes cliniques de la dissémination systémique de la gonococcie incluent fièvre, lésions cutanées (macules, vésicules, pustules, lésions hémorragiques) et arthrites (polyarthrite puis mono- ou biarthrites purulentes).",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les symptômes de la périhépatite chez l'homme?",
+        "answer": "La périhépatite chez l'homme se traduit par des douleurs de l'hypochondre droit et, en laparoscopie, par des adhérences périhépatiques en 'cordes de violon'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'urétrite non gonococcique?",
+        "answer": "Les symptômes de l'urétrite non gonococcique incluent un écoulement urétral clair, peu de brûlures mictionnelles ou une 'goutte matinale'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les germes responsables des urétrites non gonococciques?",
+        "answer": "Les urétrites non gonococciques sont principalement dues à Chlamydia trachomatis.",
+        "qtype": "étiologies"
+    },
+    {
+        "question": "Quels sont les symptômes d'une conjonctivite gonococcique?",
+        "answer": "Les symptômes d'une conjonctivite gonococcique incluent œdème, photophobie et sécrétions purulentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet la pharyngite gonococcique?",
+        "answer": "La pharyngite gonococcique se transmet par fellation ou cunnilingus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pharyngite gonococcique?",
+        "answer": "La pharyngite gonococcique est souvent asymptomatique ou marquée par une angine banale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une proctite gonococcique?",
+        "answer": "Les symptômes d'une proctite gonococcique incluent ténesme, épreintes ou suintement anal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une prostatite aiguë due à une urétrite gonococcique?",
+        "answer": "Les symptômes d'une prostatite aiguë due à une urétrite gonococcique incluent des douleurs pelviennes, des difficultés à uriner et parfois de la fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une prostatite chronique due à une urétrite gonococcique?",
+        "answer": "La prostatite chronique due à une urétrite gonococcique est rarement observée et peut inclure des douleurs pelviennes persistantes et des troubles urinaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte épidydimaire bilatérale due à une urétrite gonococcique?",
+        "answer": "Les symptômes d'une atteinte épidydimaire bilatérale due à une urétrite gonococcique incluent des douleurs testiculaires et un gonflement des épididymes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une rétrécissement urétral post-gonococcique?",
+        "answer": "Les symptômes d'un rétrécissement urétral post-gonococcique incluent dysurie, faiblesse du jet mictionnel et parfois des infections urinaires récurrentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une hématurie terminale due à une urétrite gonococcique?",
+        "answer": "Les symptômes d'une hématurie terminale due à une urétrite gonococcique incluent la présence de sang à la fin de la miction.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une balanite due à une urétrite gonococcique?",
+        "answer": "Les symptômes d'une balanite due à une urétrite gonococcique incluent une inflammation et un gonflement du prépuce.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une adénopathie inguinale due à une urétrite gonococcique?",
+        "answer": "Les symptômes d'une adénopathie inguinale due à une urétrite gonococcique incluent des ganglions lymphatiques inguinaux sensibles et enflés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection urinaire due à un rétrécissement urétral post-gonococcique?",
+        "answer": "Les symptômes d'une infection urinaire due à un rétrécissement urétral post-gonococcique incluent des douleurs mictionnelles, une envie fréquente d'uriner et parfois de la fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une rétention vésicale due à un rétrécissement urétral post-gonococcique?",
+        "answer": "Les symptômes d'une rétention vésicale due à un rétrécissement urétral post-gonococcique incluent une incapacité à uriner et une douleur intense dans le bas-ventre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une hydronéphrose due à un rétrécissement urétral post-gonococcique?",
+        "answer": "Les symptômes d'une hydronéphrose due à un rétrécissement urétral post-gonococcique incluent des douleurs lombaires et des infections urinaires récurrentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pyélonéphrite due à un rétrécissement urétral post-gonococcique?",
+        "answer": "Les symptômes d'une pyélonéphrite due à un rétrécissement urétral post-gonococcique incluent des douleurs lombaires, de la fièvre et des frissons.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une HTA due à un rétrécissement urétral post-gonococcique?",
+        "answer": "Les symptômes d'une HTA due à un rétrécissement urétral post-gonococcique incluent une pression artérielle élevée persistante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une arthrite due à une dissémination systémique de la gonococcie?",
+        "answer": "Les symptômes d'une arthrite due à une dissémination systémique de la gonococcie incluent des douleurs articulaires, un gonflement et une rougeur des articulations, souvent les genoux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection cutanée due à une dissémination systémique de la gonococcie?",
+        "answer": "Les symptômes d'une infection cutanée due à une dissémination systémique de la gonococcie incluent des macules, vésicules, pustules et lésions hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une fièvre due à une dissémination systémique de la gonococcie?",
+        "answer": "Les symptômes d'une fièvre due à une dissémination systémique de la gonococcie incluent une température corporelle élevée et des frissons.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux agents responsables des urétrites chez l'homme?",
+        "answer": "Neisseria gonorrhoeae, Chlamydia trachomatis et Mycoplasma genitalium sont responsables de plus de 90 % des urétrites chez l’homme.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quand faut-il suspecter une infection à Mycoplasma genitalium?",
+        "answer": "Il faut suspecter Mycoplasma genitalium lors des urétrites récidivantes non gonococciques.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement antibiotique probabiliste recommandé pour une urétrite?",
+        "answer": "Le traitement antibiotique probabiliste recommandé associe systématiquement le traitement anti gonococcique et anti-Chlamydiæ : ceftriaxone 1 g en une seule injection IV ou IM, associé à azithromycine 1 g PO x 2 ou doxycycline PO 200 mg/j en 2 prises/j pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle méthode est utilisée pour confirmer le diagnostic d'urétrite?",
+        "answer": "La méthode de référence est de réaliser deux PCR CT/NG, une sur un premier jet d’urine et l’autre sur l’écoulement urétral.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes cliniques qui orientent vers un traitement présomptif d'urétrite?",
+        "answer": "Les signes cliniques incluent un écoulement urétral chez l’homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel traitement est recommandé pour une urétrite à Mycoplasma genitalium?",
+        "answer": "Le traitement recommandé pour une urétrite à Mycoplasma genitalium est doxycycline PO 200 mg/j pendant 7 jours puis azithromycine PO dose de charge de 1 g puis 500 mg/j durant 4 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels prélèvements doivent être réalisés chez les HSH présentant des signes d'urétrite?",
+        "answer": "Les localisations ano-rectales et pharyngées doivent être ciblées, et les 3 sites seront prélevés.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est l'objectif du prélèvement bactériologique en cas d'urétrite?",
+        "answer": "L’objectif est de confirmer le diagnostic et de réaliser un antibiogramme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel traitement est recommandé pour une urétrite à Trichomonas vaginalis?",
+        "answer": "Le traitement recommandé est tinidazole PO 4 comprimés de 500 mg en prise unique ou métronidazole PO 2 g en prise unique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas d'écoulement urétral persistant après un traitement initial?",
+        "answer": "Il faut envisager une infection à Mycoplasma genitalium ou Trichomonas vaginalis, réaliser un prélèvement urétral pour examen microscopique, culture, antibiogramme, et traiter selon les lignes directrices OMS.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements anti gonococciques recommandés?",
+        "answer": "Les traitements anti gonococciques recommandés incluent ceftriaxone 1 g en une seule injection IV ou IM, spectinomycine 2 g en une seule injection IM, gentamicine IM 240 mg, ou azithromycine PO prise unique de 2 g.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels tests sont recommandés pour diagnostiquer une urétrite?",
+        "answer": "Les tests recommandés incluent deux PCR CT/NG, une sur un premier jet d’urine et l’autre sur l’écoulement urétral.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'une urétrite à Trichomonas vaginalis?",
+        "answer": "Les signes incluent la présence de Trichomonas vaginalis à l’examen direct du prélèvement urétral.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour une urétrite non gonococcique?",
+        "answer": "Le traitement de première intention inclut azithromycine 1 g PO x 2 ou doxycycline PO 200 mg/j en 2 prises/j pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire si les résultats des tests moléculaires ne sont pas disponibles le jour même?",
+        "answer": "Il faut modifier le traitement syndromique prescrit en tenant compte des résultats de ce test quand ils seront disponibles.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes à rechercher en cas d'absence de polynucléaires à l'examen direct?",
+        "answer": "Il faut rechercher des filaments mycéliens, voire des Trichomonas vaginalis.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une urétrite à Chlamydia trachomatis?",
+        "answer": "Le traitement recommandé est azithromycine 1 g PO x 2 ou doxycycline PO 200 mg/j en 2 prises/j pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite chez l'homme?",
+        "answer": "Les symptômes incluent un écoulement urétral.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une urétrite à Neisseria gonorrhoeae?",
+        "answer": "Le traitement recommandé est ceftriaxone 1 g en une seule injection IV ou IM.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas de capacité limitée du laboratoire pour diagnostiquer une urétrite?",
+        "answer": "Il faut traiter NG/CT selon les lignes directrices OMS devant l’échec du traitement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements alternatifs en cas de contre-indication aux bêta-lactamines pour une urétrite gonococcique?",
+        "answer": "Les traitements alternatifs incluent spectinomycine 2 g en une seule injection IM, gentamicine IM 240 mg, ou azithromycine PO prise unique de 2 g.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le schéma de traitement pour une urétrite à Mycoplasma genitalium après échec des traitements initiaux?",
+        "answer": "Le schéma de traitement inclut doxycycline PO 200 mg/j pendant 7 jours puis azithromycine PO dose de charge de 1 g puis 500 mg/j durant 4 jours, ou moxifloxacine PO.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les tests à réaliser en cas d'écoulement urétral persistant après traitement?",
+        "answer": "Il faut réaliser un test 21 jours après le traitement initial, envisager une infection à MG ou T. vaginalis, et effectuer un prélèvement urétral pour examen microscopique, culture, antibiogramme.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une urétrite à Trichomonas vaginalis?",
+        "answer": "Le traitement recommandé est tinidazole PO 4 comprimés de 500 mg en prise unique ou métronidazole PO 2 g en prise unique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Que faire en cas de réinfection ou de mauvaise observance du traitement d'une urétrite?",
+        "answer": "Il faut retraiter NG/CT.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une urétrite à Mycoplasma genitalium?",
+        "answer": "Les signes cliniques incluent des urétrites récidivantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour une urétrite à Chlamydia trachomatis?",
+        "answer": "Le traitement de première intention inclut azithromycine 1 g PO x 2 ou doxycycline PO 200 mg/j en 2 prises/j pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes responsables de plus de 90 % des urétrites chez l'homme?",
+        "answer": "Neisseria gonorrhoeae, Chlamydia trachomatis et Mycoplasma genitalium.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour une urétrite à Neisseria gonorrhoeae?",
+        "answer": "Le traitement recommandé est ceftriaxone 1 g en une seule injection IV ou IM.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite chez l'homme?",
+        "answer": "Les symptômes incluent un écoulement urétral.",
+        "qtype": "symptômes"
+    }
+]

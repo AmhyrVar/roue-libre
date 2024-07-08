@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Qu'est-ce que l'ulcère de Buruli?",
+        "answer": "L'ulcère de Buruli est une infection à Mycobacterium ulcerans qui provoque des ulcérations cutanées délabrantes et des séquelles ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la cause de l'ulcère de Buruli?",
+        "answer": "L'ulcère de Buruli est causé par Mycobacterium ulcerans, une mycobactérie environnementale qui produit une toxine nécrosante appelée mycolactone.",
+        "qtype": "causes"
+    },
+    {
+        "question": "Dans quelles régions l'ulcère de Buruli est-il hyperendémique?",
+        "answer": "L'ulcère de Buruli est hyperendémique en Afrique, principalement dans les régions tropicales et sub-tropicales à climats chauds et humides.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment l'ulcère de Buruli se transmet-il?",
+        "answer": "L'ulcère de Buruli se transmet par inoculation directe transcutanée lors de microtraumatismes à partir d'un réservoir environnemental hydrotellurique. Les insectes aquatiques, en particulier les punaises aquatiques, peuvent également jouer un rôle dans la transmission.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les facteurs de risque de l'ulcère de Buruli en Afrique?",
+        "answer": "Les facteurs de risque incluent la proximité de rivières et de plans d'eau à débit lent, l'utilisation de sources d'eau non protégées pour les activités domestiques, l'absence de vêtements protecteurs, et la désinfection inadaptée des plaies.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ulcère de Buruli au stade pré-ulcératif?",
+        "answer": "Les symptômes au stade pré-ulcératif incluent des papules, des nodules, des plaques et des œdèmes, souvent indolores et surélevés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ulcère de Buruli au stade ulcératif?",
+        "answer": "Au stade ulcératif, l'ulcère de Buruli se manifeste par des ulcérations cutanées délabrantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'ulcère de Buruli au stade cicatriciel?",
+        "answer": "Au stade cicatriciel, l'ulcère de Buruli se manifeste par des cicatrices et des séquelles ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de l'ulcère de Buruli au stade précoce?",
+        "answer": "Les diagnostics différentiels incluent le granulome à corps étranger, le nodule onchocerquien, le kyste sébacé, le fibrome, le lipome, l'abcès, le furoncle, la cellulite, la leishmaniose débutante, et l'infection à M. marinum.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de l'ulcère de Buruli au stade d'ulcération?",
+        "answer": "Les diagnostics différentiels incluent la lèpre, la tuberculose, la basidiobolomycose, l'amœbose cutanée, la leishmaniose cutanéo-muqueuse, l'ulcère phagédénique, et diverses mycoses.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le rôle des insectes aquatiques dans la transmission de l'ulcère de Buruli?",
+        "answer": "Les insectes aquatiques, en particulier les punaises aquatiques, peuvent être des hôtes naturels et vecteurs de M. ulcerans, transmettant la maladie par piqûre accidentelle de l'homme.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs environnementaux de M. ulcerans?",
+        "answer": "Les principaux réservoirs environnementaux de M. ulcerans sont les écosystèmes aquatiques tels que les fleuves, les lacs artificiels ou naturels, et les marécages.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quelle est la période d'incubation de l'ulcère de Buruli?",
+        "answer": "La période d'incubation de l'ulcère de Buruli varie de quelques semaines à plusieurs années.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une papule dans l'ulcère de Buruli?",
+        "answer": "Une papule est une lésion surélevée, indolore, de plus de 1 cm de diamètre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'un nodule dans l'ulcère de Buruli?",
+        "answer": "Un nodule est une lésion palpable, ferme, de 1 à 2 cm, indolore, adhérente à la peau, plus ou moins prurigineuse, parfois associée à un halo œdémateux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une plaque dans l'ulcère de Buruli?",
+        "answer": "La plaque est une large lésion cutanée indurée, surélevée, froide, indolore, bien délimitée, à bords irréguliers et à surface dépigmentée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'un œdème dans l'ulcère de Buruli?",
+        "answer": "L'œdème se manifeste par une tuméfaction sous-cutanée froide, ne prenant pas le godet, plus ou moins douloureuse, fixe, aux limites floues.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs de risque environnementaux de l'ulcère de Buruli?",
+        "answer": "Les bouleversements environnementaux tels que la déforestation, la création de lacs artificiels pour l'irrigation et la pêche, et les inondations favorisent le développement du vecteur de l'ulcère de Buruli.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quel est l'impact de l'infection à VIH sur l'ulcère de Buruli?",
+        "answer": "L'infection à VIH complique la prise en charge de l'ulcère de Buruli, rendant l'évolution clinique de la maladie plus agressive avec des résultats thérapeutiques médiocres.",
+        "qtype": "facteurs de risque"
+    },
+    {
+        "question": "Quelle est la létalité de l'infection à M. ulcerans?",
+        "answer": "L'infection à M. ulcerans est caractérisée par une faible létalité mais entraîne des séquelles ostéo-articulaires invalidantes chez plus de la moitié des patients.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des formes inflammatoires fébriles de l'ulcère de Buruli?",
+        "answer": "Les formes inflammatoires fébriles peuvent mimer une dermo-hypodermite bactérienne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le rôle de la mycolactone dans l'ulcère de Buruli?",
+        "answer": "La mycolactone est une exotoxine lipidique produite par M. ulcerans, responsable de la nécrose des lésions cutanées et de la faible réaction inflammatoire locale.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions cutanées au stade précoce de l'ulcère de Buruli?",
+        "answer": "Les lésions cutanées au stade précoce incluent des papules, des nodules, des plaques et des œdèmes, souvent indolores et surélevés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions cutanées au stade avancé de l'ulcère de Buruli?",
+        "answer": "Les lésions cutanées au stade avancé incluent des ulcérations délabrantes et des cicatrices.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des lésions cutanées au stade cicatriciel de l'ulcère de Buruli?",
+        "answer": "Les lésions cutanées au stade cicatriciel incluent des cicatrices et des séquelles ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes pré-ulcératives de l'ulcère de Buruli?",
+        "answer": "Les formes pré-ulcératives incluent des papules, des nodules, des plaques et des œdèmes, souvent indolores et surélevés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes ulcératives de l'ulcère de Buruli?",
+        "answer": "Les formes ulcératives incluent des ulcérations cutanées délabrantes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes cicatricielles de l'ulcère de Buruli?",
+        "answer": "Les formes cicatricielles incluent des cicatrices et des séquelles ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes inflammatoires fébriles de l'ulcère de Buruli?",
+        "answer": "Les formes inflammatoires fébriles peuvent mimer une dermo-hypodermite bactérienne.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes pré-ulcératives de l'ulcère de Buruli?",
+        "answer": "Les formes pré-ulcératives incluent des papules, des nodules, des plaques et des œdèmes, souvent indolores et surélevés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de l'ulcère de Buruli?",
+        "answer": "Les nodules et les papules évoluent le plus souvent vers une ulcération cutanée profonde d’extension progressive. Cette perte de substance dermo-épidermique présente un fond nécrotique jaunâtre, des bords décollés et un pourtour œdémateux. L'ulcération est caractérisée par sa chronicité et son indolence, sauf en cas de surinfection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de l'ulcère de Buruli?",
+        "answer": "Les diagnostics différentiels incluent les lésions post envenimations, le pian, la syphilis, l'ulcère vasculaire, l'hémoglobinopathie, le mal perforant plantaire diabétique, l'infection à pyogènes, la tuberculose, la lèpre, et les mycobactérioses atypiques à M. marinum, M. haemophilum, M. chelonei-fortuitum.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les risques de complications de l'ulcère de Buruli?",
+        "answer": "Les complications incluent des atteintes multifocales, des formes extensives en profondeur pouvant détruire tendons, muscles, nerfs, organes, des atteintes osseuses pouvant se compliquer d’arthrites ou d’ostéomyélites, et des surinfections bactériennes responsables de phlegmon, de dermo-hypodermite bactérienne aiguë, voire de septicémie.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les méthodes de diagnostic microbiologique de l'ulcère de Buruli?",
+        "answer": "Les méthodes de diagnostic microbiologique incluent l'examen direct d’un frottis cutané, la culture sur milieu de Loewenstein-Jensen, l'amplification génique (PCR) de la séquence IS2404, l'histopathologie, et la détection rapide de la mycolactone.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité de l'examen direct d’un frottis cutané pour l'ulcère de Buruli?",
+        "answer": "La sensibilité de l'examen direct d’un frottis cutané varie suivant les formes cliniques avec 60 % pour les formes nodulaires et 80 % pour les formes oedémateuses.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la durée nécessaire pour obtenir des résultats de culture pour l'ulcère de Buruli?",
+        "answer": "La culture pratiquée à partir des écouvillons ou des biopsies cutanées prend au moins 6 à 8 semaines.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité de l'amplification génique (PCR) de la séquence IS2404 pour l'ulcère de Buruli?",
+        "answer": "La sensibilité de l'amplification génique (PCR) de la séquence IS2404 est de 98 %, et la spécificité est proche de 100 %.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la sensibilité de l'histopathologie pour l'ulcère de Buruli?",
+        "answer": "La sensibilité de l'histopathologie est de 90 %. Elle montre une nécrose du collagène dermique et du tissu cellulo-adipeux sous cutané avec une réaction inflammatoire modérée et la présence de BAAR.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de première intention pour l'ulcère de Buruli?",
+        "answer": "L’antibiothérapie est le traitement de première intention pour toutes les formes cliniques de l'ulcère de Buruli.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques sont recommandés pour traiter l'ulcère de Buruli?",
+        "answer": "Le schéma d’antibiothérapie recommandé consiste en une association de rifampicine (10 mg/kg une fois par jour) et de clarithromycine (7,5 mg/kg deux fois par jour) pendant 8 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements complémentaires à l'antibiothérapie pour l'ulcère de Buruli?",
+        "answer": "Les traitements complémentaires incluent la chirurgie conservatrice, la diffusion des règles d’asepsie, la qualité des pansements, la vaccination antitétanique, la kinésithérapie, et la rééducation fonctionnelle.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les objectifs de la chirurgie conservatrice pour l'ulcère de Buruli?",
+        "answer": "La chirurgie conservatrice, avec notamment le débridement et la greffe cutanée, peut aider la guérison et réduire les cicatrices susceptibles de limiter les mouvements.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures sont essentielles pour favoriser la cicatrisation de l'ulcère de Buruli?",
+        "answer": "La diffusion des règles d’asepsie et la qualité des pansements sont essentielles pour favoriser la cicatrisation et limiter les surinfections bactériennes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les avantages de la kinésithérapie pour les patients atteints d'ulcère de Buruli?",
+        "answer": "La kinésithérapie et la rééducation fonctionnelle doivent être utilisées au plus tôt afin de limiter les séquelles invalidantes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les intérêts des techniques adjuvantes pour l'ulcère de Buruli?",
+        "answer": "L’intérêt des techniques adjuvantes telles que la thermothérapie, l’oxygénothérapie hyperbare, et les héparines de bas poids moléculaire est discuté.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la stratégie de prévention de l'ulcère de Buruli dans les régions endémiques?",
+        "answer": "La stratégie de prévention inclut la détection précoce des cas, l’antibiothérapie, le suivi des plaies, la prévention des séquelles par la physiothérapie et la chirurgie conservatrice.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est l'efficacité de la vaccination par le BCG contre l'ulcère de Buruli?",
+        "answer": "La vaccination par le bacille Calmette-Guérin (BCG) semble conférer une protection limitée contre l'ulcère de Buruli.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les sites web recommandés pour obtenir des informations sur l'ulcère de Buruli?",
+        "answer": "Les sites web recommandés incluent: https://www.who.int/fr/news-room/fact-sheets/detail/buruli-ulcer-(mycobacterium-ulcerans-infection), http://www.raoul-follereau.org/, https://www.infontd.org/fr/organization/stop-buruli, et http://apps.who.int/iris/bitstream/10665/77772/1/9789242503401_fre.pdf.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes des formes compliquées de l'ulcère de Buruli?",
+        "answer": "Les formes compliquées peuvent inclure des atteintes multifocales, des formes extensives en profondeur détruisant tendons, muscles, nerfs, organes, des atteintes osseuses se compliquant d’arthrites ou d’ostéomyélites, et des surinfections bactériennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes ulcératives de l'ulcère de Buruli?",
+        "answer": "Les formes ulcératives présentent des nodules et des papules évoluant vers une ulcération cutanée profonde avec un fond nécrotique jaunâtre, des bords décollés et un pourtour œdémateux. L'ulcération est chronique et indolente sauf en cas de surinfection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes nodulaires de l'ulcère de Buruli?",
+        "answer": "Les formes nodulaires de l'ulcère de Buruli présentent des nodules qui peuvent évoluer vers une ulcération cutanée profonde.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes oedémateuses de l'ulcère de Buruli?",
+        "answer": "Les formes oedémateuses de l'ulcère de Buruli présentent un œdème important autour de la lésion.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes surinfectées de l'ulcère de Buruli?",
+        "answer": "Les formes surinfectées de l'ulcère de Buruli présentent des signes d'infection secondaire tels que la douleur, la rougeur, et la fièvre.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des formes multifocales de l'ulcère de Buruli?",
+        "answer": "Les formes multifocales de l'ulcère de Buruli présentent plusieurs lésions ulcérées simultanément.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des atteintes osseuses de l'ulcère de Buruli?",
+        "answer": "Les atteintes osseuses de l'ulcère de Buruli peuvent se compliquer d’arthrites ou d’ostéomyélites des extrémités responsables de séquelles à type de déformations ou nécessitant une amputation.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des surinfections bactériennes de l'ulcère de Buruli?",
+        "answer": "Les surinfections bactériennes de l'ulcère de Buruli peuvent provoquer un phlegmon, une dermo-hypodermite bactérienne aiguë, voire une septicémie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des récidives de l'ulcère de Buruli?",
+        "answer": "Les récidives de l'ulcère de Buruli se manifestent par la réapparition de lésions sur le site initial de l’infection.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des séquelles de l'ulcère de Buruli?",
+        "answer": "Les séquelles de l'ulcère de Buruli incluent des chéloïdes, des rétractions, et des ankyloses.",
+        "qtype": "symptômes"
+    }
+]

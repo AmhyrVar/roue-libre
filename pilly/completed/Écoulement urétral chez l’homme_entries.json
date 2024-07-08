@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quels sont les symptômes de l'urétrite chez l'homme?",
+        "answer": "L'urétrite chez l'homme se traduit par un écoulement urétral et des brûlures urétrales et mictionnelles apparaissant quelques jours à quelques semaines après un rapport sexuel infectant.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les causes les plus fréquentes de l'urétrite chez l'homme?",
+        "answer": "Les causes les plus fréquentes sont Neisseria gonorrhoeae et Chlamydia trachomatis.",
+        "qtype": "étiologies"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'urétrite à gonocoques?",
+        "answer": "L'incubation est courte : 4 à 6 jours. Le premier signe est l'irritation du méat urinaire, suivi de brûlures mictionnelles et d'un écoulement trouble puis franchement purulent.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les groupes à risque pour la transmission de la gonococcie?",
+        "answer": "Les groupes à risque sont ceux habituels des infections sexuellement transmissibles (IST).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les risques associés à la gonococcie?",
+        "answer": "Les risques sont les complications aiguës et chroniques, les séquelles fibreuses (rétrécissement urétral, stérilité) et la dissémination hématogène (arthrites).",
+        "qtype": "complications"
+    },
+    {
+        "question": "Comment se fait la transmission de la gonococcie?",
+        "answer": "La transmission se fait par voie sexuelle.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une urétrite non gonococcique?",
+        "answer": "Les urétrites non gonococciques sont marquées par un écoulement urétral clair, peu de brûlures mictionnelles ou une 'goutte matinale'.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les germes responsables des urétrites non gonococciques?",
+        "answer": "Les urétrites non gonococciques sont principalement dues à Chlamydia trachomatis.",
+        "qtype": "étiologies"
+    },
+    {
+        "question": "Quels sont les symptômes d'une conjonctivite gonococcique?",
+        "answer": "Les symptômes d'une conjonctivite gonococcique incluent œdème, photophobie et sécrétions purulentes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se manifeste une pharyngite gonococcique?",
+        "answer": "La pharyngite gonococcique est souvent asymptomatique ou marquée par une angine banale.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les symptômes d'une proctite gonococcique?",
+        "answer": "Les symptômes d'une proctite gonococcique incluent ténesme, épreintes ou suintement anal.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications possibles d'une urétrite à gonocoques?",
+        "answer": "Les complications possibles incluent rétrécissement urétral, prostatites, atteinte épidydimaire bilatérale, dissémination systémique et périhépatite.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les signes d'une dissémination systémique de la gonococcie?",
+        "answer": "Les signes incluent fièvre, lésions cutanées (macules, vésicules, pustules, lésions hémorragiques) et arthrites.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les symptômes d'une périhépatite chez l'homme?",
+        "answer": "Les symptômes incluent des douleurs de l'hypochondre droit et des adhérences périhépatiques en 'cordes de violon' visibles en laparoscopie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une prostatite aiguë due à une urétrite à gonocoques?",
+        "answer": "La prostatite aiguë est observée au décours des urétrites trop tardivement traitées.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une prostatite chronique due à une urétrite à gonocoques?",
+        "answer": "La prostatite chronique est rarement due aux gonocoques.",
+        "qtype": "signes cliniques"
+    },
+    {
+        "question": "Quels sont les symptômes d'une atteinte épidydimaire bilatérale due à une urétrite à gonocoques?",
+        "answer": "L'atteinte épidydimaire bilatérale est une cause de stérilité masculine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques?",
+        "answer": "Les symptômes incluent irritation du méat urinaire, brûlures mictionnelles, écoulement trouble puis purulent, hématurie terminale, balanite, œdème du prépuce et adénopathies inguinales sensibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite non gonococcique?",
+        "answer": "Les symptômes incluent un écoulement urétral clair et peu de brûlures mictionnelles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de dissémination systémique?",
+        "answer": "Les symptômes incluent fièvre, lésions cutanées et arthrites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de rétrécissement urétral?",
+        "answer": "Les symptômes incluent dysurie, faiblesse du jet mictionnel et complications telles que l'infection urinaire, la rétention vésicale, les fistules pelviennes, l'hydronéphrose, les pyélonéphrites et l'HTA.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de prostatite aiguë?",
+        "answer": "Les symptômes incluent des douleurs et une inflammation de la prostate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de prostatite chronique?",
+        "answer": "Les symptômes incluent des douleurs et une inflammation persistante de la prostate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas d'atteinte épidydimaire bilatérale?",
+        "answer": "Les symptômes incluent des douleurs et une inflammation des épididymes, pouvant mener à la stérilité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de dissémination systémique?",
+        "answer": "Les symptômes incluent fièvre, lésions cutanées et arthrites.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de périhépatite?",
+        "answer": "Les symptômes incluent des douleurs de l'hypochondre droit et des adhérences périhépatiques visibles en laparoscopie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de rétrécissement urétral?",
+        "answer": "Les symptômes incluent dysurie, faiblesse du jet mictionnel et complications telles que l'infection urinaire, la rétention vésicale, les fistules pelviennes, l'hydronéphrose, les pyélonéphrites et l'HTA.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de prostatite aiguë?",
+        "answer": "Les symptômes incluent des douleurs et une inflammation de la prostate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas de prostatite chronique?",
+        "answer": "Les symptômes incluent des douleurs et une inflammation persistante de la prostate.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une urétrite à gonocoques en cas d'atteinte épidydimaire bilatérale?",
+        "answer": "Les symptômes incluent des douleurs et une inflammation des épididymes, pouvant mener à la stérilité.",
+        "qtype": "symptômes"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qu'est-ce que l'hydatidose humaine?",
+        "answer": "L'hydatidose humaine est une cestodose provoquée par la forme larvaire d'un petit ténia des canidés : Echinococcus granulosus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les hôtes intermédiaires et définitifs du cycle de l'hydatidose?",
+        "answer": "Le chien est l'hôte définitif et le mouton est l'hôte intermédiaire. D'autres carnivores comme les chacals, hyènes, lycaons, lions peuvent héberger le parasite adulte, et d'autres herbivores comme les chèvres, bovins, dromadaires, antilopes, suidés, équidés et cervidés peuvent constituer l'hôte intermédiaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment l'homme s'insère-t-il dans le cycle parasitaire de l'hydatidose?",
+        "answer": "L'homme s'insère dans le cycle parasitaire de façon accidentelle en ingérant des embryophores après contact direct avec le chien, plus rarement indirectement à partir d'aliments ou d'eau contaminés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les organes principalement touchés par les kystes hydatiques chez l'homme?",
+        "answer": "Chez l'homme, 60-70 % des kystes sont hépatiques, multiples dans 30 % des cas, parfois associés à d'autres localisations, en particulier pulmonaires (≈ 10 %). Les autres localisations concernent principalement les os, la rate, les reins et le cerveau.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques de l'hydatidose hépatique en l'absence de complication?",
+        "answer": "En l'absence de complication et si le kyste est volumineux, une sensation de pesanteur ou une douleur de l'hypochondre droit peuvent être perçus. L'examen clinique peut alors mettre en évidence une hépatomégalie indolore à la palpation, isolée, à surface lisse le plus souvent.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelles sont les complications possibles de l'hydatidose hépatique?",
+        "answer": "Les complications possibles incluent la fissuration et/ou rupture du kyste, la surinfection, et la compression des voies biliaires, des veines sus-hépatiques ou du tronc porte.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'hydatidose?",
+        "answer": "Le diagnostic repose sur l'association d'arguments épidémiologiques, radiologiques et sérologiques. L'organisation interne et la structure du kyste définies par l'échographie ou la tomodensitométrie (TDM) donnent des arguments décisifs pour le diagnostic positif.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests sérologiques utilisés pour le diagnostic de l'hydatidose?",
+        "answer": "Les tests sérologiques de dépistage incluent l'immunofluorescence indirecte, l'hémagglutination passive et la méthode immuno-enzymatique (ELISA). Une confirmation par un test spécifique (Western blot) est légalement obligatoire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la stratégie thérapeutique pour les kystes hydatiques hépatiques non cloisonnés d'un diamètre > 5 cm?",
+        "answer": "Ces kystes doivent bénéficier d'un traitement par PAIR (Ponction, Aspiration, Injection, Ré-aspiration). La technique inclut la ponction du kyste sous contrôle échographique ou tomodensitométrique, l'aspiration du liquide hydatique, l'injection d'un scolicide, et la ré-aspiration du scolicide et des débris intra-kystiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé pour les kystes hydatiques inopérables et ceux, viables, < à 5 cm de diamètre?",
+        "answer": "Ces kystes seront traités par l'albendazole (15 mg/kg par jour en deux prises pendant les repas) sur une durée de 3 à 6 mois, voire plus en fonction de l'évolution.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures de prophylaxie sont recommandées pour prévenir l'hydatidose?",
+        "answer": "Les mesures de prophylaxie incluent la suppression de l'accès des chiens aux viscères de moutons, la vermifugation régulière des chiens, éviter la promiscuité avec les chiens, bien se laver les mains avant les repas et nettoyer soigneusement fruits et légumes avant leur consommation.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Qu'est-ce que la cysticercose?",
+        "answer": "La cysticercose est une cestodose provoquée par la forme larvaire (cysticerque) de Taenia solium.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment l'homme se contamine-t-il par la cysticercose?",
+        "answer": "L'homme se contamine par l'ingestion d'aliments ou d'eau souillés par les œufs de T. solium, disséminés dans la nature par un autre humain porteur du ver adulte. La contamination peut aussi être due à une auto-infection liée à une mauvaise hygiène personnelle ou à la digestion de proglottis remontant de l'iléon dans l'estomac.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la cysticercose cérébrale?",
+        "answer": "Les principaux symptômes incluent la comitialité (épilepsie), l'hypertension intracrânienne ou l'hydrocéphalie, un déficit moteur, et des signes d'encéphalite aiguë en cas de localisation massive intracérébrale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la cysticercose sous-cutanée?",
+        "answer": "Le diagnostic est aisé : la découverte de nodules amène à pratiquer leur ponction ou leur exérèse, assurant ainsi un diagnostic de certitude.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements de référence pour la neurocysticercose?",
+        "answer": "L'albendazole (ABZ) et le praziquantel (PZQ) sont les médicaments de référence efficaces dans la neurocysticercose sur environ 80 % des cysticerques intra-parenchymateux non calcifiés. Une corticothérapie efficace est toujours associée pendant au moins la première semaine du traitement antiparasitaire.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures de prévention sont recommandées pour la cysticercose?",
+        "answer": "La prophylaxie passe par des mesures d'hygiène générale et individuelle : l'installation de latrines ou de tout-à-l'égout, la non utilisation des matières fécales humaines comme engrais, et l'élevage des porcs en stabulation. La cuisson suffisante de la viande est également recommandée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Qu'est-ce que la trichinellose?",
+        "answer": "La trichinellose est une zoonose helminthique commune à l'homme et à de nombreux mammifères sauvages ou domestiques, causée par un nématode du genre Trichinella spp.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait l'infestation par Trichinella spiralis?",
+        "answer": "L'infestation se fait par ingestion de viande crue ou mal cuite d'omnivores comme les suidés (porc, sanglier, phacochère), de carnivores (félins) voire d'herbivores (cheval) contenant des larves enkystées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase patente de la trichinellose?",
+        "answer": "La phase patente, dite de migration larvaire, se présente comme un syndrome grippal avec fièvre, douleurs musculaires, œdèmes faciaux, conjonctivite, et éruption cutanée.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la trichinellose?",
+        "answer": "Le diagnostic repose sur des arguments cliniques, épidémiologiques et biologiques, notamment la présence d'une hyperéosinophilie sanguine et la détection de larves enkystées dans les muscles par biopsie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la trichinellose?",
+        "answer": "Les traitements incluent les antiparasitaires comme l'albendazole et le mébendazole, associés à des corticostéroïdes pour réduire l'inflammation.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles mesures de prévention sont recommandées pour la trichinellose?",
+        "answer": "La prévention passe par la cuisson suffisante de la viande, l'inspection sanitaire des viandes, et l'élevage des porcs en stabulation pour éviter leur contamination.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la cysticercose oculaire?",
+        "answer": "Les principaux symptômes incluent une uvéite et une atteinte rétinienne, avec des cysticerques retrouvés dans la chambre postérieure (corps vitré ou sous rétinien) ou dans la chambre antérieure (iris ou humeur aqueuse).",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la cysticercose sous-cutanée?",
+        "answer": "Les localisations sous-cutanées prennent l'aspect de nodules de 1 à 2 cm, mobiles, indolores, prédominant sur les bras et le thorax. Ils deviennent inflammatoires puis disparaissent progressivement ou se calcifient.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la cysticercose cérébrale?",
+        "answer": "Les principaux symptômes incluent la comitialité (épilepsie), l'hypertension intracrânienne ou l'hydrocéphalie, un déficit moteur, et des signes d'encéphalite aiguë en cas de localisation massive intracérébrale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la trichinellose?",
+        "answer": "Les principaux symptômes incluent un syndrome grippal avec fièvre, douleurs musculaires, œdèmes faciaux, conjonctivite, et éruption cutanée.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la phase entérique de la trichinellose?",
+        "answer": "La phase entérique est responsable d'une augmentation du péristaltisme intestinal avec pour conséquence la diarrhée.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la phase de migration larvaire de la trichinellose?",
+        "answer": "La phase de migration larvaire est responsable d'une réaction systémique biologique et clinique, avec une infiltration cellulaire inflammatoire centrée autour des larves présentes dans les muscles, associée à un phénomène de vascularite et de microthromboses intra-vasculaires.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de la cysticercose cérébrale?",
+        "answer": "Les principaux symptômes incluent la comitialité (épilepsie), l'hypertension intracrânienne ou l'hydrocéphalie, un déficit moteur, et des signes d'encéphalite aiguë en cas de localisation massive intracérébrale.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes caractéristiques de la trichinellose?",
+        "answer": "Les symptômes caractéristiques de la trichinellose incluent une fièvre rapidement élevée, des myalgies diffuses parfois intenses et des œdèmes de la face.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la trichinellose?",
+        "answer": "Le diagnostic de trichinellose se fait souvent sur un faisceau d’arguments clinico-biologiques, avec des tests sérologiques spécifiques positifs après 3 à 4 semaines, et peut être confirmé par la positivité de l’immunodiagnostic par ELISA et/ou Western blot et la découverte de larves dans une biopsie musculaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement étiologique de la trichinellose?",
+        "answer": "Le traitement étiologique de la trichinellose utilise l’albendazole à 15 mg/kg/jour en deux prises pendant 8 ou 15 jours, ou le mébendazole à 25 mg/kg/jour en deux ou trois prises pendant 15 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mesure de prévention la plus efficace contre la trichinellose?",
+        "answer": "La mesure de prévention la plus efficace contre la trichinellose est l’assainissement de la viande possiblement infectée, notamment par la cuisson à 70°C pendant plus de 3 minutes.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les complications possibles de la trichinellose?",
+        "answer": "Les complications possibles de la trichinellose incluent des encéphalites ou des myocardites, qui peuvent être fatales.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les hôtes définitifs de Toxocara canis et Toxocara cati?",
+        "answer": "Les hôtes définitifs de Toxocara canis sont les chiens, et ceux de Toxocara cati sont les chats.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxocarose chez l'enfant?",
+        "answer": "Les symptômes de la toxocarose chez l'enfant incluent une fièvre modérée, des arthralgies, de la diarrhée, des nausées, un amaigrissement, une asthénie, des signes allergiques cutanés ou respiratoires, et une hépatomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de certitude de la toxocarose?",
+        "answer": "Le diagnostic de certitude de la toxocarose est immunologique, avec un test ELISA confirmé par Western blot, et nécessite la présence d’une hyperéosinophilie sanguine et d’une augmentation du taux des IgE totales.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la toxocarose symptomatique?",
+        "answer": "Le traitement de la toxocarose symptomatique peut inclure la diéthylcarbamazine (DEC) à 6 mg/kg par jour pendant 21 jours ou l’albendazole (ABZ) à 10-15 mg/kg par jour pendant 15 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre la toxocarose?",
+        "answer": "Les mesures de prévention contre la toxocarose incluent des règles d’hygiène individuelle, éviter la promiscuité avec les chiens et les chats, et éviter l’ingestion de légumes ou de fruits crus susceptibles d’être souillés par des déjections de chiens ou de chats.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de l'angiostrongylose neurologique?",
+        "answer": "Les symptômes de l'angiostrongylose neurologique incluent des céphalées, une raideur nucale, des paresthésies, des vomissements et une fièvre modérée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de l'angiostrongylose?",
+        "answer": "Le diagnostic de l'angiostrongylose repose sur les données épidémiologiques, la présence de symptômes neurologiques ou digestifs, et la découverte d’une hyperéosinophilie sanguine associée.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de l'angiostrongylose?",
+        "answer": "Le traitement de l'angiostrongylose inclut l’albendazole à 15 mg/kg/jour pendant 15 jours, souvent associé à une corticothérapie de 1 mg/kg/jour pendant 15 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre l'angiostrongylose?",
+        "answer": "Les mesures de prévention contre l'angiostrongylose incluent le lavage des légumes et des mains, et éviter l’ingestion crue des divers hôtes intermédiaires ou paraténiques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la gnathostomose cutanée?",
+        "answer": "Les symptômes de la gnathostomose cutanée incluent un œdème migrateur intermittent, prurigineux, douloureux ou érythémateux, apparaissant 4 à 5 semaines après la contamination.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la gnathostomose?",
+        "answer": "Le diagnostic de la gnathostomose repose sur la triade « œdème cutané migrateur, hyperéosinophilie sanguine et exposition au risque alimentaire » et peut être confirmé par la découverte et l’identification du parasite dans une biopsie-exérèse de la lésion dermatologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la gnathostomose cutanée?",
+        "answer": "Le traitement de la gnathostomose cutanée inclut l’albendazole à 15 mg/kg/jour en deux prises pendant 21 jours ou l’ivermectine à 0,2 mg/kg en 1 prise.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre la gnathostomose?",
+        "answer": "Les mesures de prévention contre la gnathostomose incluent d’éviter de manger cru ou peu cuit les animaux hôtes intermédiaires ou paraténiques.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes du syndrome de larva migrans cutanée?",
+        "answer": "Les symptômes du syndrome de larva migrans cutanée incluent des papules érythémato-prurigineuses, un fin cordon serpigineux extrêmement prurigineux, et parfois des lésions vésiculo-bulleuses ou eczématisées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic du syndrome de larva migrans cutanée?",
+        "answer": "Le diagnostic du syndrome de larva migrans cutanée est exclusivement clinique et ne pose aucune difficulté.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement du syndrome de larva migrans cutanée?",
+        "answer": "Le traitement du syndrome de larva migrans cutanée inclut l’ivermectine à la dose de 0,2 mg/kg en une prise unique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les mesures de prévention contre les migrations larvaires et impasses parasitaires?",
+        "answer": "Les mesures de prévention contre les migrations larvaires et impasses parasitaires incluent le lavage des mains et des crudités, l'abstention de poissons et crustacés crus, la cuisson à cœur des viandes, et l'interposition de tissus épais et/ou de chaussures entre le corps et le sol des zones de baignade.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les symptômes de la trichinellose en phase d'enkystement des larves?",
+        "answer": "En phase d'enkystement des larves, les symptômes de la trichinellose incluent une asthénie majeure, une fièvre élevée, des myalgies invalidantes, et parfois des complications à type d’encéphalite ou de myocardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la toxocarose chez l'adulte?",
+        "answer": "Chez l'adulte, les symptômes de la toxocarose incluent une asthénie, une symptomatologie d’allergie, et des douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de l'angiostrongylose abdominale?",
+        "answer": "Les symptômes de l'angiostrongylose abdominale incluent des douleurs abdominales vagues, et dans les formes plus sévères, des douleurs intenses en rapport avec une iléo-colite pouvant se compliquer de péritonite, d’occlusion ou d’hémorragie digestive.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la gnathostomose cérébrale?",
+        "answer": "Les symptômes de la gnathostomose cérébrale incluent une radiculomyélite, une radiculomyéloencéphalite, une méningite à éosinophiles, une hémorragie sub-arachnoïdienne, une violente douleur radiculaire, une céphalée intense, et la paralysie d’un membre ou d’une des paires crâniennes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la pentastomose?",
+        "answer": "Les symptômes de la pentastomose incluent des calcifications en «anneaux brisés» thoraciques ou/et abdominales, et des syndromes occlusifs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la pentastomose?",
+        "answer": "Le diagnostic de la pentastomose repose sur la visualisation des larves, souvent découvertes fortuitement lors d’un examen radiologique, une intervention chirurgicale ou une autopsie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la pentastomose?",
+        "answer": "Il n’existe pas de traitement spécifique pour la pentastomose.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de l'infection nasopharyngée par Linguatula serrata?",
+        "answer": "Les symptômes de l'infection nasopharyngée par Linguatula serrata incluent des signes à type de dyspnée, de dysphagie, et de dysphonie.",
+        "qtype": "symptômes"
+    }
+]

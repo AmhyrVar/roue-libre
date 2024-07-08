@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Qu'est-ce que la fièvre puerpérale (FP) ?",
+        "answer": "La fièvre puerpérale (FP) est une infection maternelle grave, historique, épidémique, causée par des streptocoques β-hémolytiques du groupe A et survenant dans les jours suivant l’accouchement ou une fausse couche.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se propage la fièvre puerpérale (FP) ?",
+        "answer": "La contamination de la fièvre puerpérale (FP) est souvent nosocomiale et véhiculée par les mains, les instruments et l’absence de port de masque, et se fait au cours de l’accouchement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pronostic de la fièvre puerpérale avant l'ère des antibiotiques ?",
+        "answer": "Le pronostic de la fièvre puerpérale était redoutable avant l’ère des antibiotiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Le fœtus est-il concerné par l'infection de la fièvre puerpérale ?",
+        "answer": "Le fœtus n’est pas concerné par l’infection de la fièvre puerpérale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la situation actuelle de la fièvre puerpérale dans les pays où les règles d'hygiène de base sont respectées ?",
+        "answer": "La fièvre puerpérale a pratiquement disparu aujourd’hui partout où les règles d’hygiène de base sont respectées et où l’accès aux antibiotiques est aisé.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la fréquence des infections du post-partum dans les pays à ressources limitées ?",
+        "answer": "L’infection du post-partum reste aujourd’hui très fréquente dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les entités définies par l'OMS pour les infections puerpérales depuis 1992 ?",
+        "answer": "Les entités définies par l’OMS pour les infections puerpérales depuis 1992 sont : le sepsis puerpéral, les infections puerpérales, et les endométrites du post-partum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Qu'est-ce que le sepsis puerpéral ?",
+        "answer": "Le sepsis puerpéral est une infection des voies génitales du début du travail et/ou de la rupture des membranes jusqu’au 42e jour post-partum.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Qu'est-ce que les endométrites du post-partum ?",
+        "answer": "Les endométrites du post-partum sont des infections du post-partum impliquant l’utérus (muqueuse utérine, myomètre et paramètres).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la première cause de mortalité des accouchées ?",
+        "answer": "La complication majeure du post-partum, la fièvre puerpérale, constitue surtout la première cause de mortalité des accouchées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des décès et des hystérectomies est imputable à la fièvre puerpérale ?",
+        "answer": "15 à 35 % des décès et 30 % des hystérectomies sont imputables à la fièvre puerpérale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la fréquence de la fièvre puerpérale en Afrique dans les centres équipés et hors centre ?",
+        "answer": "En Afrique, la fièvre puerpérale complique 2 % des accouchements qui ont lieu dans les centres équipés et 5 à 6 % de ceux qui ont lieu hors centre.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le taux de mortalité de la fièvre puerpérale dans les centres équipés en Afrique ?",
+        "answer": "Le taux de mortalité de la fièvre puerpérale dans les centres équipés en Afrique est de l’ordre de 5 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les germes en cause dans la fièvre puerpérale ?",
+        "answer": "Le spectre des germes en cause dans la fièvre puerpérale inclut, outre le streptocoque historique, staphylocoques, entérocoques, gonocoque, anaérobies (Clostridium perfringens) et bacilles Gram négatif (BGN).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Les germes responsables de la fièvre puerpérale sont-ils souvent recherchés et identifiés ?",
+        "answer": "Ces germes sont rarement recherchés et identifiés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la période de susceptibilité accrue aux infections en général pour les femmes ?",
+        "answer": "Le post-partum est une période de susceptibilité accrue aux infections en général.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la première cause de décès maternel parmi les complications du post-partum ?",
+        "answer": "Le sepsis puerpéral est la première cause de décès maternel parmi les complications du post-partum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel pourcentage des accouchements est concerné par le sepsis puerpéral ?",
+        "answer": "Le sepsis puerpéral concerne 2 à 6 % des accouchements.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux germes responsables de la fièvre puerpérale ?",
+        "answer": "Les principaux germes responsables de la fièvre puerpérale sont les streptocoques β-hémolytiques du groupe A, staphylocoques, entérocoques, gonocoque, anaérobies (Clostridium perfringens) et bacilles Gram négatif (BGN).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de contamination de la fièvre puerpérale ?",
+        "answer": "Les principaux facteurs de contamination de la fièvre puerpérale sont les mains, les instruments et l’absence de port de masque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux types d'infections puerpérales définis par l'OMS ?",
+        "answer": "Les principaux types d'infections puerpérales définis par l'OMS sont le sepsis puerpéral, les infections puerpérales, et les endométrites du post-partum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la responsabilité du sepsis puerpéral dans la mortalité maternelle ?",
+        "answer": "Le sepsis puerpéral est responsable de 15 à 35 % de la mortalité maternelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les autres types de complications du post-partum mentionnés dans le tableau 1 ?",
+        "answer": "Les autres types de complications du post-partum mentionnés dans le tableau 1 sont les hémorragies, l’éclampsie, la rupture utérine, les déchirures périnéales, les fistules recto-vaginales et l’anémie maternelle.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de mortalité maternelle attribué aux hémorragies post-partum ?",
+        "answer": "Le pourcentage de mortalité maternelle attribué aux hémorragies post-partum est de 17 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le pourcentage de mortalité maternelle attribué à l’éclampsie post-partum ?",
+        "answer": "Le pourcentage de mortalité maternelle attribué à l’éclampsie post-partum est de 12 %.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux germes responsables des infections puerpérales ?",
+        "answer": "Les principaux germes responsables des infections puerpérales sont les streptocoques β-hémolytiques du groupe A, staphylocoques, entérocoques, gonocoque, anaérobies (Clostridium perfringens) et bacilles Gram négatif (BGN).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la fréquence des infections puerpérales dans les pays à ressources limitées ?",
+        "answer": "Les infections puerpérales sont plus fréquentes dans les pays à ressources limitées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux facteurs de risque de la fièvre puerpérale ?",
+        "answer": "Les principaux facteurs de risque de la fièvre puerpérale sont la contamination nosocomiale, les mains, les instruments et l’absence de port de masque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la période de survenue des infections puerpérales selon l'OMS ?",
+        "answer": "Les infections puerpérales surviennent du début du travail et/ou de la rupture des membranes jusqu’au 42e jour post-partum.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la complication majeure du post-partum ?",
+        "answer": "La complication majeure du post-partum est la fièvre puerpérale.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les germes responsables de la fièvre puerpérale?",
+        "answer": "Les germes polymorphes responsables de la fièvre puerpérale incluent les streptocoques, les BGN (bactéries à Gram négatif) et les anaérobies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisants de la fièvre puerpérale?",
+        "answer": "Les facteurs favorisants de la fièvre puerpérale incluent le défaut de soins anténataux, le défaut d’assistance et d’équipement pour l’accouchement, la rupture prématurée des membranes, la chorio-amniotite, la gonococcie, les conditions d’hygiène précaires autour de l’accouchement, les touchers vaginaux excessifs pendant le travail, les dystocies et toutes causes de travail prolongé, les manœuvres obstétricales, la rétention placentaire, toutes procédures et instruments non stériles, l'absence de masque, l'anémie maternelle et la césarienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la fièvre puerpérale?",
+        "answer": "Les symptômes de la fièvre puerpérale incluent une fièvre débutant vers le troisième ou le quatrième jour après l’accouchement, initialement modérée mais s’élevant au fil des jours, un syndrome toxique possible, un pelvis spontanément douloureux, des lochies abondantes et fétides voire hémorragiques, un utérus sensible, mou, non rétracté et de trop grande taille relativement à la date de l’accouchement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications possibles en l'absence d'antibiothérapie pour la fièvre puerpérale?",
+        "answer": "Les complications possibles en l'absence d'antibiothérapie pour la fièvre puerpérale incluent des complications loco-régionales (hémorragies des suites de couche, abcès et empyème utérin, salpingite, abcès tubo-ovarien, phlegmon pelvien, phlébite pelvienne, stérilité) et des complications générales (péritonite, bactériémie, choc septique).",
+        "qtype": "complications"
+    },
+    {
+        "question": "Comment se fait le diagnostic de la fièvre puerpérale?",
+        "answer": "Le diagnostic de la fièvre puerpérale est basé d’abord sur la clinique et la chronologie. Des prélèvements des lochies, quand ils sont possibles, ont un intérêt épidémiologique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les diagnostics différentiels de la fièvre puerpérale?",
+        "answer": "Les diagnostics différentiels de la fièvre puerpérale incluent la lymphangite, l'abcès du sein, l'infection urinaire, la pneumopathie, le paludisme, la tuberculose, l'infection à VIH et ses complications, et la phlébite puerpérale.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement antibiotique recommandé pour la fièvre puerpérale?",
+        "answer": "Le traitement antibiotique recommandé pour la fièvre puerpérale inclut l'amoxicilline ± acide clavulanique pendant 10 jours et la gentamicine pendant 3 jours, ou la clindamycine et la gentamicine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les autres mesures à prendre en charge en cas de fièvre puerpérale?",
+        "answer": "Les autres mesures à prendre en charge en cas de fièvre puerpérale incluent la révision utérine, l'administration d'ocytociques, la mobilisation et le lever précoce.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelles sont les interventions chirurgicales possibles en cas de fièvre puerpérale?",
+        "answer": "Les interventions chirurgicales possibles en cas de fièvre puerpérale incluent le drainage et l'hystérectomie ultime, bien que ces interventions ne soient pas systématiques.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mortalité associée à la fièvre puerpérale dans les centres équipés?",
+        "answer": "La mortalité associée à la fièvre puerpérale dans les centres équipés est d'environ 5%.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "À quel moment la fièvre puerpérale débute-t-elle généralement?",
+        "answer": "La fièvre puerpérale débute généralement vers le troisième ou le quatrième jour après l’accouchement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la fièvre puerpérale à la palpation abdominale?",
+        "answer": "À la palpation abdominale, les signes cliniques de la fièvre puerpérale incluent un utérus sensible, mou, non rétracté et de trop grande taille relativement à la date de l’accouchement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les germes rarement identifiés dans la fièvre puerpérale?",
+        "answer": "Les germes rarement identifiés dans la fièvre puerpérale incluent les streptocoques, les BGN (bactéries à Gram négatif) et les anaérobies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des lochies en cas de fièvre puerpérale?",
+        "answer": "En cas de fièvre puerpérale, les lochies peuvent être abondantes et fétides, voire hémorragiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs d'hygiène précaires favorisant la fièvre puerpérale?",
+        "answer": "Les facteurs d'hygiène précaires favorisant la fièvre puerpérale incluent les conditions d’hygiène précaires autour de l’accouchement et toutes procédures et instruments non stériles, absence de masque.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs obstétricaux favorisant la fièvre puerpérale?",
+        "answer": "Les facteurs obstétricaux favorisant la fièvre puerpérale incluent les touchers vaginaux excessifs pendant le travail, les dystocies et toutes causes de travail prolongé, les manœuvres obstétricales et la rétention placentaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs médicaux favorisant la fièvre puerpérale?",
+        "answer": "Les facteurs médicaux favorisant la fièvre puerpérale incluent l'anémie maternelle et la césarienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes d'un syndrome toxique en cas de fièvre puerpérale?",
+        "answer": "Les symptômes d'un syndrome toxique en cas de fièvre puerpérale incluent une fièvre s’élevant au fil des jours et un pelvis spontanément douloureux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection urinaire en post-partum?",
+        "answer": "Les symptômes d'une infection urinaire en post-partum incluent souvent une asymptomatique, avec un ECBU systématique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une lymphangite ou d'un abcès du sein en post-partum?",
+        "answer": "Les symptômes d'une lymphangite ou d'un abcès du sein en post-partum incluent une douleur localisée au sein.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une pneumopathie en post-partum?",
+        "answer": "Les symptômes d'une pneumopathie en post-partum incluent des signes cliniques et radiologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes du paludisme en post-partum?",
+        "answer": "Les symptômes du paludisme en post-partum dépendent du contexte.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la tuberculose en post-partum?",
+        "answer": "Les symptômes de la tuberculose en post-partum incluent des antécédents, des signes cliniques et radiologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une infection à VIH et ses complications en post-partum?",
+        "answer": "Les symptômes d'une infection à VIH et ses complications en post-partum incluent des résultats sérologiques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une phlébite puerpérale?",
+        "answer": "Les symptômes d'une phlébite puerpérale apparaissent généralement à partir du dixième jour post-partum.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes d'une maladie de système comme le lupus en post-partum?",
+        "answer": "Les symptômes d'une maladie de système comme le lupus en post-partum incluent des antécédents et la présence d'auto-anticorps.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements chirurgicaux non systématiques pour la fièvre puerpérale?",
+        "answer": "Les traitements chirurgicaux non systématiques pour la fièvre puerpérale incluent le drainage et l'hystérectomie ultime.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation de l'OMS concernant la fièvre puerpérale?",
+        "answer": "La recommandation de l'OMS concernant la fièvre puerpérale peut être consultée sur le site : https://apps.who.int/iris/bitstream/handle/10665/205684/WHO_RHR_16.01_fre.pdf;sequence=1",
+        "qtype": "traitement"
+    }
+]

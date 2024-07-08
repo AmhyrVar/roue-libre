@@ -1,0 +1,287 @@
+[
+    {
+        "question": "Quelles sont les sous-espèces de Trypanosoma brucei responsables de la trypanosomose humaine africaine?",
+        "response": "Trypanosoma brucei gambiense (T.b. gambiense) et Trypanosoma brucei rhodesiense (T.b. rhodesiense).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la trypanosomose humaine africaine?",
+        "response": "Elle se transmet par la piqûre de la mouche tsé-tsé ou glossine hématophage.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique de T.b. gambiense classique?",
+        "response": "Du Sénégal à l’Angola plus le Sud-Soudan et le Nord-Ouganda.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique de T.b. rhodesiense?",
+        "response": "De l’Ouganda à la Zambie par cas isolés ou poussées épidémiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs animaux de T.b. rhodesiense?",
+        "response": "Cochon sauvage et antilopes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les deux phases de l'évolution de la trypanosomose humaine africaine?",
+        "response": "Phase lymphatico-sanguine (LS) ou stade 1 et phase méningo-encéphalique (ME) ou stade 2.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine de la trypanosomose humaine africaine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique de la trypanosomose humaine africaine?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la phase lymphatico-sanguine avec T.b. rhodesiense?",
+        "response": "Syndrome infectieux sévère avec fièvre, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la phase lymphatico-sanguine avec T.b. gambiense groupe I?",
+        "response": "Les signes cliniques sont rares.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes non spécifiques de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les troubles psychiques associés à la phase méningo-encéphalique?",
+        "response": "Apathie, irritabilité, anorexie, impuissance.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les troubles moteurs associés à la phase méningo-encéphalique?",
+        "response": "Tremblements, mouvements choréo-athétosiques, syndrome cérébelleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les troubles sensitifs associés à la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie cutanée et profonde, crampes, névralgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les troubles réflexes associés à la phase méningo-encéphalique?",
+        "response": "Hyporéflexie ostéo-tendineuse, réflexes archaïques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique avec T.b. rhodesiense?",
+        "response": "Les symptômes sont plus rapides et sévères, souvent le décès survient avant le stade sommeilleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique avec T.b. gambiense groupe II?",
+        "response": "Les symptômes sont plus rapides et sévères, souvent le décès survient avant le stade sommeilleux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de présomption de la trypanosomose humaine africaine?",
+        "response": "Anémie inflammatoire, hyperleucocytose à prédominance lymphocytaire, plasmocytose, cellules de Mott, thrombopénie, vitesse de sédimentation élevée, hyperprotidémie, atteinte hépatique.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes de certitude de la trypanosomose humaine africaine?",
+        "response": "Mise en évidence des trypanosomes sur un frottis sanguin, ganglionnaire ou médullaire, dans le liquide cérébro-spinal (LCS), méthodes de concentration comme mHCT et mAECT, sérologie (CATT, ELISA, immunofluorescence indirecte, hémagglutination, trypanolyse).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les tests sérologiques utilisés pour le diagnostic de la trypanosomose humaine africaine?",
+        "response": "Card Agglutination Test for Trypanomiasis (CATT), ELISA, immunofluorescence indirecte, hémagglutination, trypanolyse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes d'atteinte cérébrale (stade 2) de la trypanosomose humaine africaine?",
+        "response": "Présence de trypanosomes ou leucocytose > 5/mm3 dans le LCS, protéinorachie > 0,40 g/L, IgM augmentées, électroencéphalogramme pseudo-périodique, imagerie cérébrale (tomodensitométrie, IRM).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement de la trypanosomose humaine africaine au stade 1 de l'infection par T.b. gambiense?",
+        "response": "Pentamidine, sous forme d’iséthionate de pentamidine en ampoules de 300 mg à diluer dans 3 mL d’eau pour injection (100 mg/mL) ou en ampoules de 200 mg, injection intramusculaire ou perfusion intraveineuse quotidienne à la dose de 4 mg/kg/jour pendant 7 à 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires de la pentamidine?",
+        "response": "Douleur, nécrose au point d’injection intramusculaire, hypotension, douleurs thoraciques ou abdominales, nausées, vertiges, toxicité rénale, hypoglycémie, pancréatite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement de la trypanosomose humaine africaine au stade 1 de l'infection par T.b. rhodesiense?",
+        "response": "Suramine sodique, en ampoules de 1 g pour administration par voie intraveineuse, à la posologie de 20 mg/kg une fois par semaine pendant cinq semaines, sans dépasser 1 g par injection et une dose totale cumulée de 200 mg/kg.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les produits trypanocides utilisés pour le traitement de la trypanosomose humaine africaine?",
+        "response": "Pentamidine et suramine sodique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la trypanosomose humaine africaine au stade 1?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la trypanosomose humaine africaine au stade 2?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les troubles du sommeil associés à la trypanosomose humaine africaine?",
+        "response": "Perturbation du cycle veille-sommeil, hébétude permanente.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les effets indésirables fréquents du traitement par mélarsoprol?",
+        "answer": "Les effets indésirables fréquents du traitement par mélarsoprol incluent urticaire, nausées, vomissements, syncope, fièvre, photophobie ou larmoiement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie recommandée pour le mélarsoprol?",
+        "answer": "La posologie recommandée pour le mélarsoprol est de 3,6 mg/kg/jour (ou 1 mL/10 kg/jour) sans dépasser une ampoule par jour, en deux à quatre séries de trois ou quatre injections.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes évocateurs d'une atteinte du système nerveux central dans le cadre de la THA?",
+        "answer": "Les signes évocateurs d'une atteinte du système nerveux central dans le cadre de la THA incluent confusion, troubles du comportement, logorrhée, anxiété, ataxie, tremblements, déficit moteur, troubles de l'élocution, troubles de la marche, mouvements anormaux, convulsions.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la complication la plus redoutée du traitement par mélarsoprol?",
+        "answer": "La complication la plus redoutée du traitement par mélarsoprol est l'encéphalopathie arsenicale.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'éflornithine en monothérapie pour le traitement de la THA?",
+        "answer": "La posologie de l'éflornithine en monothérapie pour le traitement de la THA est de 400 mg/kg/jour chez l’adulte ou 600 mg/kg/jour chez l’enfant, répartis en quatre injections quotidiennes pendant 14 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles de l'éflornithine?",
+        "answer": "Les effets indésirables possibles de l'éflornithine incluent toxicité hématologique (cytopénies), digestive (diarrhée, vomissements), fièvre et convulsions.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du nifurtimox pour le traitement de la THA?",
+        "answer": "La posologie du nifurtimox pour le traitement de la THA est de 15 mg/kg/jour pour l’adulte (21 mg/kg/jour pour l’enfant) répartis en trois prises quotidiennes pendant 14 à 21 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables fréquents du fexinidazole?",
+        "answer": "Les effets indésirables fréquents du fexinidazole incluent nausées et vomissements, asthénie, anorexie, céphalées, insomnie, tremblements, sensations vertigineuses.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du fexinidazole pour un individu pesant au moins 35 kg?",
+        "answer": "La posologie du fexinidazole pour un individu pesant au moins 35 kg est de 1 800 mg en une prise par jour pendant 4 jours suivis de 1 200 mg en une prise par jour pendant 6 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la pentamidine pour le traitement de la THA?",
+        "answer": "La posologie de la pentamidine pour le traitement de la THA est de 4 mg/kg/j IM ou IV (dilué en sérum salé isotonique et administré en perfusion de 2h) pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles du traitement par mélarsoprol?",
+        "answer": "Les effets indésirables possibles du traitement par mélarsoprol incluent cytopénies, hépatite, névrite et surtout encéphalite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la combinaison thérapeutique nifurtimox + éflornithine (CTNE) pour le traitement de la THA?",
+        "answer": "La posologie de la combinaison thérapeutique nifurtimox + éflornithine (CTNE) pour le traitement de la THA est de 400 mg/kg/j IV en 2 perfusions de 1h x 7 jours pour l'éflornithine et 15 mg/kg/j PO en 3 prises x 10 jours pour le nifurtimox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes évocateurs d'un stade 2 sévère de la THA à T.b. gambiense?",
+        "answer": "Les symptômes évocateurs d'un stade 2 sévère de la THA à T.b. gambiense incluent confusion, troubles du comportement, logorrhée, anxiété, ataxie, tremblements, déficit moteur, troubles de l'élocution, troubles de la marche, mouvements anormaux, convulsions.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la posologie de la suramine pour le traitement de la THA?",
+        "answer": "La posologie de la suramine pour le traitement de la THA est une dose de test de 4-5 mg/kg IV (jour 1) puis 20 mg/kg IV une fois par semaine pendant 5 semaines (maximum 1 g par injection).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles du fexinidazole?",
+        "answer": "Les effets indésirables possibles du fexinidazole incluent nausées et vomissements, asthénie, anorexie, céphalées, insomnie, tremblements, sensations vertigineuses, manifestations neuropsychiatriques, allongement de l’intervalle QTc, neutropénie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'éflornithine en association avec le nifurtimox pour le traitement de la THA?",
+        "answer": "La posologie de l'éflornithine en association avec le nifurtimox pour le traitement de la THA est de 400 mg/kg/jour chez l’adulte ou 600 mg/kg/jour chez l’enfant, répartis en deux injections quotidiennes pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles du traitement par éflornithine?",
+        "answer": "Les effets indésirables possibles du traitement par éflornithine incluent toxicité hématologique (cytopénies), digestive (diarrhée, vomissements), fièvre et convulsions.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du fexinidazole pour un individu pesant entre 20 et 34 kg?",
+        "answer": "La posologie du fexinidazole pour un individu pesant entre 20 et 34 kg est de 1 200 mg par jour pendant 4 jours suivis de 600 mg par jour pendant 6 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables fréquents du traitement par mélarsoprol?",
+        "answer": "Les effets indésirables fréquents du traitement par mélarsoprol incluent urticaire, nausées, vomissements, syncope, fièvre, photophobie ou larmoiement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la pentamidine pour le traitement de la THA?",
+        "answer": "La posologie de la pentamidine pour le traitement de la THA est de 4 mg/kg/j IM ou IV (dilué en sérum salé isotonique et administré en perfusion de 2h) pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles du traitement par mélarsoprol?",
+        "answer": "Les effets indésirables possibles du traitement par mélarsoprol incluent cytopénies, hépatite, névrite et surtout encéphalite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de la combinaison thérapeutique nifurtimox + éflornithine (CTNE) pour le traitement de la THA?",
+        "answer": "La posologie de la combinaison thérapeutique nifurtimox + éflornithine (CTNE) pour le traitement de la THA est de 400 mg/kg/j IV en 2 perfusions de 1h x 7 jours pour l'éflornithine et 15 mg/kg/j PO en 3 prises x 10 jours pour le nifurtimox.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes évocateurs d'un stade 2 sévère de la THA à T.b. gambiense?",
+        "answer": "Les symptômes évocateurs d'un stade 2 sévère de la THA à T.b. gambiense incluent confusion, troubles du comportement, logorrhée, anxiété, ataxie, tremblements, déficit moteur, troubles de l'élocution, troubles de la marche, mouvements anormaux, convulsions.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la posologie de la suramine pour le traitement de la THA?",
+        "answer": "La posologie de la suramine pour le traitement de la THA est une dose de test de 4-5 mg/kg IV (jour 1) puis 20 mg/kg IV une fois par semaine pendant 5 semaines (maximum 1 g par injection).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles du fexinidazole?",
+        "answer": "Les effets indésirables possibles du fexinidazole incluent nausées et vomissements, asthénie, anorexie, céphalées, insomnie, tremblements, sensations vertigineuses, manifestations neuropsychiatriques, allongement de l’intervalle QTc, neutropénie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie de l'éflornithine en association avec le nifurtimox pour le traitement de la THA?",
+        "answer": "La posologie de l'éflornithine en association avec le nifurtimox pour le traitement de la THA est de 400 mg/kg/jour chez l’adulte ou 600 mg/kg/jour chez l’enfant, répartis en deux injections quotidiennes pendant 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles du traitement par éflornithine?",
+        "answer": "Les effets indésirables possibles du traitement par éflornithine incluent toxicité hématologique (cytopénies), digestive (diarrhée, vomissements), fièvre et convulsions.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie du fexinidazole pour un individu pesant entre 20 et 34 kg?",
+        "answer": "La posologie du fexinidazole pour un individu pesant entre 20 et 34 kg est de 1 200 mg par jour pendant 4 jours suivis de 600 mg par jour pendant 6 jours.",
+        "qtype": "traitement"
+    }
+]

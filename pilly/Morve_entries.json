@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Quels sont les pays où la morve est endémique?",
+        "answer": "La morve est endémique de certains pays d’Afrique (Ethiopie, Erythrée), d’Asie (Russie, Inde, Pakistan), du Moyen-Orient (Iran, Irak) et d’Amérique du Sud (Brésil).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels animaux sont principalement affectés par la morve?",
+        "answer": "La morve est principalement une maladie affectant les chevaux. Elle touche également les ânes et les mules et peut être contractée naturellement par d’autres mammifères comme les chèvres, les chiens et les chats.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la morve à l'homme?",
+        "answer": "La transmission accidentelle vers l’homme est possible, principalement par contact direct avec des lésions cutanées ou muqueuses, plus rarement par voie respiratoire (inhalation de poussières contaminées).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la bactérie responsable de la morve?",
+        "answer": "La bactérie responsable est Burkholderia mallei.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les groupes professionnels les plus à risque de contracter la morve?",
+        "answer": "Les professions en contact direct et prolongé avec des animaux infectés : vétérinaires, palefreniers, personnels des abattoirs, mais aussi agents de laboratoire en contact avec la bactérie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelles sont les formes les plus graves de la morve?",
+        "answer": "Les formes pulmonaires et septicémiques sont les plus graves, avec une mortalité proche de 50 %, principalement chez les sujets immunodéprimés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se fait la diffusion de l'infection par B. mallei dans l'organisme?",
+        "answer": "Après pénétration dans l’organisme (plaie, muqueuse nasale), l’infection est responsable d’abcès et d’ulcérations cutanées ou muqueuses, suppuratives. La diffusion se fait ensuite par voie lymphatique (adénite locale puis régionale avec abcédation), puis, en l’absence de traitement, par voie hématogène vers différents organes (rate, foie, poumons notamment).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la réponse immunitaire initiale à l'infection par B. mallei?",
+        "answer": "Dans la phase aiguë de l’infection, la réponse cellulaire innée (polynucléaires neutrophiles, macrophages) joue un rôle prépondérant.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme cutanée de la morve?",
+        "answer": "Après la contamination via une plaie cutanée ou de la muqueuse et une période d'incubation de 1 à 5 jours apparaissent des lésions nodulaires rapidement ulcérées parfois accompagnées d’une adénopathie satellite. Si le site de contamination est la muqueuse nasale, une perforation de la cloison nasale est possible et un écoulement nasal très abondant est observé : « morve ». ",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme pulmonaire de la morve?",
+        "answer": "Après une incubation de 10 à 14 jours, apparition brutale d’une toux, de douleurs thoraciques, d’une fièvre, et d’un syndrome pseudo-grippal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes radiographiques de la forme pulmonaire de la morve?",
+        "answer": "La radiographie thoracique peut mettre en évidence des infiltrats alvéolaires ou nodulaires, un épanchement pleural, des lésions abcédées voire cavitaires prédominant dans les lobes supérieurs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la forme cutanée de la morve?",
+        "answer": "La période d'incubation de la forme cutanée de la morve est de 1 à 5 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la forme pulmonaire de la morve?",
+        "answer": "La période d'incubation de la forme pulmonaire de la morve est de 10 à 14 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme septicémique de la morve?",
+        "answer": "La forme septicémique fait suite à une infection non traitée, et survient le plus souvent chez l’immunodéprimé.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la forme pulmonaire de la morve?",
+        "answer": "L’examen clinique est peu spécifique, en dehors d’une atteinte septicémique associée.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme aiguë de la morve?",
+        "answer": "La forme aiguë de la morve peut inclure des abcès et des ulcérations cutanées ou muqueuses, suppuratives.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme chronique de la morve?",
+        "answer": "La forme chronique de la morve peut inclure des abcès et des ulcérations cutanées ou muqueuses, suppuratives.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme nasale de la morve?",
+        "answer": "Si le site de contamination est la muqueuse nasale, une perforation de la cloison nasale est possible et un écoulement nasal très abondant est observé : « morve ». ",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme pulmonaire de la morve?",
+        "answer": "La pneumopathie fait suite à une inhalation de B. mallei ou complique les formes septicémiques. Après une incubation de 10 à 14 jours, apparition brutale d’une toux, de douleurs thoraciques, d’une fièvre, et d’un syndrome pseudo-grippal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes radiographiques de la forme pulmonaire de la morve?",
+        "answer": "La radiographie thoracique peut mettre en évidence des infiltrats alvéolaires ou nodulaires, un épanchement pleural, des lésions abcédées voire cavitaires prédominant dans les lobes supérieurs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la forme cutanée de la morve?",
+        "answer": "La période d'incubation de la forme cutanée de la morve est de 1 à 5 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la forme pulmonaire de la morve?",
+        "answer": "La période d'incubation de la forme pulmonaire de la morve est de 10 à 14 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme septicémique de la morve?",
+        "answer": "La forme septicémique fait suite à une infection non traitée, et survient le plus souvent chez l’immunodéprimé.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la forme pulmonaire de la morve?",
+        "answer": "L’examen clinique est peu spécifique, en dehors d’une atteinte septicémique associée.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme aiguë de la morve?",
+        "answer": "La forme aiguë de la morve peut inclure des abcès et des ulcérations cutanées ou muqueuses, suppuratives.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme chronique de la morve?",
+        "answer": "La forme chronique de la morve peut inclure des abcès et des ulcérations cutanées ou muqueuses, suppuratives.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme nasale de la morve?",
+        "answer": "Si le site de contamination est la muqueuse nasale, une perforation de la cloison nasale est possible et un écoulement nasal très abondant est observé : « morve ». ",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les symptômes de la forme pulmonaire de la morve?",
+        "answer": "La pneumopathie fait suite à une inhalation de B. mallei ou complique les formes septicémiques. Après une incubation de 10 à 14 jours, apparition brutale d’une toux, de douleurs thoraciques, d’une fièvre, et d’un syndrome pseudo-grippal.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes radiographiques de la forme pulmonaire de la morve?",
+        "answer": "La radiographie thoracique peut mettre en évidence des infiltrats alvéolaires ou nodulaires, un épanchement pleural, des lésions abcédées voire cavitaires prédominant dans les lobes supérieurs.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la forme cutanée de la morve?",
+        "answer": "La période d'incubation de la forme cutanée de la morve est de 1 à 5 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la forme pulmonaire de la morve?",
+        "answer": "La période d'incubation de la forme pulmonaire de la morve est de 10 à 14 jours.",
+        "qtype": "clinique"
+    },
+    {
+        "question": "Quels sont les signes cliniques de la forme septicémique de la morve?",
+        "answer": "Les signes cliniques de la forme septicémique de la morve incluent fièvre, altération de l’état général, diarrhée, céphalées, lymphangite, érythème diffus, pustules disséminées, polyadénopathie et organomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est l'évolution de la forme septicémique de la morve en l'absence de traitement?",
+        "answer": "En l'absence de traitement, l'évolution de la forme septicémique de la morve se fait vers un syndrome de défaillance multiviscérale le plus souvent fatal.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quels types d'abcès sont causés par la forme chronique de la morve?",
+        "answer": "La forme chronique de la morve est responsable de multiples abcès cutanés, hépatiques, spléniques, musculaires et osseux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic de certitude pour la morve?",
+        "answer": "Le diagnostic de certitude pour la morve repose sur la mise en évidence du pathogène sur les sécrétions (crachats) ou le pus (lésion cutanée, suppuration nasale) de lésions si possible récentes.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels antibiotiques sont actifs sur Burkholderia mallei?",
+        "answer": "Les antibiotiques actifs sur Burkholderia mallei sont : amoxicilline-clavulanate, ceftazidime, imipénème, tétracyclines, streptomycine, gentamicine et sulfamides.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement d'attaque pour les formes septicémiques et pulmonaires graves de la morve?",
+        "answer": "Le traitement d'attaque pour les formes septicémiques et pulmonaires graves de la morve repose sur l'imipénème intraveineux ou la ceftazidime, associée à la doxycycline dans les cas les plus graves, pour une durée totale de traitement de 6 à 12 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'alternative intéressante pour le traitement de la morve en raison de son faible coût et de sa disponibilité?",
+        "answer": "L'association triméthoprime-sulfaméthoxazole est une alternative intéressante pour le traitement de la morve en raison de son faible coût, de sa disponibilité dans les pays en développement, et de son efficacité sur B. mallei.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la mortalité des formes septicémiques de la morve sous traitement?",
+        "answer": "La mortalité des formes septicémiques de la morve, spontanément supérieure à 90 %, reste proche de 50 % sous traitement.",
+        "qtype": "évolution"
+    },
+    {
+        "question": "Quel traitement doit être entrepris pour les formes localisées de la morve?",
+        "answer": "Pour les formes localisées de la morve, un traitement par amoxicilline-acide clavulanique, tétracyclines ou triméthoprime-sulfaméthoxazole doit être entrepris, pour une durée d’au moins deux mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle prise en charge chirurgicale peut être nécessaire pour la morve?",
+        "answer": "Une prise en charge chirurgicale, telle que la mise à plat et le drainage d’abcès, peut être nécessaire pour la morve.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Existe-t-il un vaccin pour la prévention de la morve?",
+        "answer": "Aucun vaccin n’est actuellement disponible pour la prévention de la morve.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la prophylaxie discutée après exposition accidentelle à B. mallei?",
+        "answer": "La prophylaxie par triméthoprime-sulfaméthoxazole après exposition accidentelle à B. mallei est discutée.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Sur quoi repose la prévention de la morve?",
+        "answer": "La prévention de la morve repose sur le contrôle de la zoonose par une politique de dépistage/abattage systématique des animaux malades, et sur l’information aux personnels exposés.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quels sont les signes cutanés de la forme septicémique de la morve?",
+        "answer": "Les signes cutanés de la forme septicémique de la morve incluent lymphangite, érythème diffus et pustules disséminées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée totale de traitement pour les formes septicémiques et pulmonaires graves de la morve?",
+        "answer": "La durée totale de traitement pour les formes septicémiques et pulmonaires graves de la morve est de 6 à 12 mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les antibiotiques inefficaces contre Burkholderia mallei?",
+        "answer": "Les pénicillines G et A sont inefficaces contre Burkholderia mallei en raison de la sécrétion naturelle de pénicillinase par la bactérie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la résistance aux céphalosporines de Burkholderia mallei?",
+        "answer": "La résistance aux céphalosporines de 1re, 2e, et 3e générations, ceftazidime exclue, n’est pas rare chez Burkholderia mallei.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la règle concernant la résistance de Burkholderia mallei à la norfloxacine?",
+        "answer": "La résistance à la norfloxacine est la règle pour Burkholderia mallei.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes généraux de la forme septicémique de la morve?",
+        "answer": "Les signes généraux de la forme septicémique de la morve incluent fièvre, altération de l’état général, diarrhée et céphalées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic chez l'animal pour la morve?",
+        "answer": "La malléination, recherche de l’immunité à médiation cellulaire vis-à-vis de B. mallei, permet de faire le diagnostic chez l’animal.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes visibles à l'examen direct pour le diagnostic de la morve?",
+        "answer": "À l’examen direct, de rares bacilles Gram négatif à coloration bipolaire sont parfois visibles pour le diagnostic de la morve.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de confirmation du diagnostic de la morve par des techniques moléculaires?",
+        "answer": "Le diagnostic de la morve peut être confirmé par des techniques moléculaires ciblées (PCR) et par la spectrométrie de masse en utilisant des bases de données ad hoc.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de culture pour affirmer le diagnostic de la morve?",
+        "answer": "Les cultures du prélèvement, effectuées sur milieux standards, permettent d’affirmer le diagnostic de la morve.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic de la morve qui tend à disparaître?",
+        "answer": "La sérologie tend à disparaître comme méthode de diagnostic de la morve.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la base de la stratégie d’éradication de la morve chez l'animal?",
+        "answer": "La malléination, recherche de l’immunité à médiation cellulaire vis-à-vis de B. mallei, constitue la base de la stratégie d’éradication de la morve chez l'animal.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la durée minimale de traitement pour les formes localisées de la morve?",
+        "answer": "La durée minimale de traitement pour les formes localisées de la morve est d’au moins deux mois.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la résistance de Burkholderia mallei aux fluoroquinolones?",
+        "answer": "Des résistances à d'autres fluoroquinolones, comme la ciprofloxacine, ont été décrites pour Burkholderia mallei.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic de certitude pour la morve chez l'animal?",
+        "answer": "La malléination, recherche de l’immunité à médiation cellulaire vis-à-vis de B. mallei, permet de faire le diagnostic de certitude chez l'animal.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la politique de prévention de la morve chez les animaux?",
+        "answer": "La prévention de la morve chez les animaux repose sur une politique de dépistage/abattage systématique des animaux malades.",
+        "qtype": "prévention"
+    }
+]

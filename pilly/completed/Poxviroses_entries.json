@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quels sont les genres de Poxviridae pathogènes pour l'être humain?",
+        "answer": "Les genres connus pour être pathogènes chez l’être humain sont les orthopoxvirus, les parapoxvirus, les molluscipoxvirus et les yatapoxvirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus monkeypox?",
+        "answer": "Les réservoirs de virus monkeypox sont des petits mammifères comme les rongeurs. Les primates et antilopes, infectés sporadiquement, jouent un rôle de réservoir secondaire et d’amplification.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes initiaux de l'infection à virus monkeypox?",
+        "answer": "L'infection à virus monkeypox débute par une fièvre (38,5-40,5°C), d’intenses céphalées, des myalgies, des douleurs dorsales, et une grande asthénie durant environ 2 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de l'infection à virus monkeypox?",
+        "answer": "La durée de l’infection à virus monkeypox est de 2 à 4 semaines.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux traitements pour les infections à virus monkeypox?",
+        "answer": "Le traitement des infections à virus monkeypox est essentiellement symptomatique : réhydratation, prévention et traitement des surinfections cutanées. Le cidofovir intra-veineux peut être utilisé pour les formes graves, mais il est peu adapté au traitement de masse en raison de son coût et de sa néphrotoxicité.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus monkeypox?",
+        "answer": "Les principaux symptômes de l'infection à virus monkeypox incluent une fièvre, des céphalées, des myalgies, des douleurs dorsales, une grande asthénie, des adénopathies cervicales, une toux, une diarrhée, et une éruption varioliforme typique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se transmet le virus monkeypox?",
+        "answer": "Le virus monkeypox se transmet par contact direct avec des animaux infectés (par morsure, contact avec des lésions cutanées) ou par contact étroit avec les excrétions des voies respiratoires infectées, les lésions de la peau d’une personne infectée ou des objets contaminés récemment.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux pays touchés par le virus monkeypox?",
+        "answer": "Les principaux pays touchés par le virus monkeypox sont la République Démocratique du Congo (RDC), l’Afrique Centrale, l’Afrique de l’Ouest, le Soudan, et les États-Unis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus de l'Orf?",
+        "answer": "Les principaux symptômes de l'infection à virus de l'Orf incluent des lésions cutanées nodulaires, souvent sur les mains et les doigts, qui peuvent évoluer en ulcères.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à virus de l'Orf?",
+        "answer": "L'agent responsable de l'infection à virus de l'Orf est le virus de l'Orf, de genre Parapoxvirus appartenant à la famille des Poxviridae.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus de l'Orf?",
+        "answer": "Les principaux réservoirs du virus de l'Orf sont les ovins, notamment les agneaux non immunisés porteurs de lésions cutanées.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à molluscum contagiosum?",
+        "answer": "Les principaux symptômes de l'infection à molluscum contagiosum incluent des lésions cutanées perlées, ombiliquées, souvent regroupées en petites plaques.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à molluscum contagiosum?",
+        "answer": "L'agent responsable de l'infection à molluscum contagiosum est le molluscipoxvirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus tanapox?",
+        "answer": "Les principaux réservoirs du virus tanapox sont probablement les rongeurs et les moustiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à virus tanapox?",
+        "answer": "Les principaux symptômes de l'infection à virus tanapox incluent des lésions cutanées nodulaires, souvent accompagnées de fièvre et de lymphadénopathie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à virus tanapox?",
+        "answer": "L'agent responsable de l'infection à virus tanapox est le tanapoxvirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à cowpox?",
+        "answer": "Les principaux symptômes de l'infection à cowpox incluent des lésions cutanées pustuleuses, souvent sur les mains et les bras, qui peuvent évoluer en ulcères.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à cowpox?",
+        "answer": "L'agent responsable de l'infection à cowpox est le virus cowpox, de genre Orthopoxvirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus cowpox?",
+        "answer": "Les principaux réservoirs du virus cowpox sont les rongeurs.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à pseudocowpox?",
+        "answer": "Les principaux symptômes de l'infection à pseudocowpox incluent des lésions cutanées nodulaires, souvent sur les mains et les bras, qui peuvent évoluer en ulcères.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à pseudocowpox?",
+        "answer": "L'agent responsable de l'infection à pseudocowpox est le virus pseudocowpox, de genre Parapoxvirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus pseudocowpox?",
+        "answer": "Les principaux réservoirs du virus pseudocowpox sont les bovins.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à variole?",
+        "answer": "Les principaux symptômes de l'infection à variole incluent une fièvre élevée, des céphalées, des douleurs musculaires, une grande fatigue, et une éruption cutanée caractéristique qui évolue en pustules.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à variole?",
+        "answer": "L'agent responsable de l'infection à variole est le virus variola, de genre Orthopoxvirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus variola?",
+        "answer": "Le principal réservoir du virus variola est l'être humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à vaccine?",
+        "answer": "Les principaux symptômes de l'infection à vaccine incluent des lésions cutanées pustuleuses, souvent sur les mains et les bras, qui peuvent évoluer en ulcères.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à vaccine?",
+        "answer": "L'agent responsable de l'infection à vaccine est le virus vaccine, de genre Orthopoxvirus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les principaux réservoirs du virus vaccine?",
+        "answer": "Les principaux réservoirs du virus vaccine sont les bovins.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes de l'infection à tanapox?",
+        "answer": "Les principaux symptômes de l'infection à tanapox incluent des lésions cutanées nodulaires, souvent accompagnées de fièvre et de lymphadénopathie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est l'agent responsable de l'infection à tanapox?",
+        "answer": "L'agent responsable de l'infection à tanapox est le tanapoxvirus.",
+        "qtype": "diagnostic"
+    }
+]

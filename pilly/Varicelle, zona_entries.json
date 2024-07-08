@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la cause de la varicelle et du zona?",
+        "answer": "La varicelle et le zona sont dus au Varicelle Zoster Virus (VZV), un virus à ADN de la famille des Herpesviridae.",
+        "qtype": "étiologie"
+    },
+    {
+        "question": "Quelle est la période d'incubation de la varicelle?",
+        "answer": "La période d'incubation de la varicelle est de 14 jours.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes typiques de la varicelle?",
+        "answer": "Les symptômes typiques de la varicelle incluent une éruption fébrile avec des macules rosées, des vésicules en 'goutte de rosée', et un malaise général.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de la varicelle chez la femme enceinte?",
+        "answer": "Chez la femme enceinte, il existe un risque faible (< 2 %) de varicelle congénitale si la varicelle survient avant la 20e semaine de gestation et un risque de varicelle néonatale si la varicelle survient dans la semaine précédant l'accouchement.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se manifeste le zona chez les patients immunodéprimés?",
+        "answer": "Chez les patients immunodéprimés, le zona peut prendre un aspect ulcéro-hémorragique, être multimétamérique ou généralisé, avec un risque d'atteinte viscérale (pulmonaire, hépatique, encéphalique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le réservoir du Varicelle Zoster Virus (VZV)?",
+        "answer": "Le réservoir du Varicelle Zoster Virus (VZV) est strictement humain.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la fréquence du zona chez les sujets âgés?",
+        "answer": "L'incidence du zona augmente après 50 ans; il est rare dans l'enfance.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les signes cliniques du zona?",
+        "answer": "Les signes cliniques du zona incluent une éruption de bouquets de vésicules, pustules, érosions, croûtes, unilatérale, et une douleur à type de brûlure aiguë dans le territoire de l'éruption cutanée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la pneumopathie interstitielle varicelleuse?",
+        "answer": "La pneumopathie interstitielle varicelleuse est rare, surtout observée chez l'adulte, et peut être grave et hypoxémiante.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez l'enfant?",
+        "answer": "Chez l'enfant, la varicelle se manifeste par une éruption fébrile avec des macules rosées, des vésicules en 'goutte de rosée', et un malaise général. L'évolution est simple en 10-15 jours.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de surinfection cutanée chez les enfants atteints de varicelle?",
+        "answer": "Les surinfections cutanées à staphylocoque doré ou à streptocoque sont fréquentes chez les enfants atteints de varicelle, favorisées par le grattage et l'absence de soins locaux.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les immunodéprimés?",
+        "answer": "Les immunodéprimés présentent des formes graves de varicelle, ulcéro-nécrotiques, compliquées d'atteinte viscérale (pulmonaire, hépatique, méningo-encéphalique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la valeur prédictive du zona pour l'infection VIH dans certains pays d'Afrique?",
+        "answer": "Dans certains pays d'Afrique, la valeur prédictive positive du zona pour l'infection VIH a été montrée très élevée.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes du zona chez les patients VIH?",
+        "answer": "Chez les patients VIH, le zona est plus volontiers multimétamérique, impétiginisé, douloureux, nécrotique et a une plus longue durée d'évolution.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la lésion dermatologique élémentaire de la varicelle et du zona?",
+        "answer": "La lésion dermatologique élémentaire de la varicelle et du zona est une vésicule.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se présente typiquement l'éruption de la varicelle?",
+        "answer": "L'éruption de la varicelle se présente typiquement sous forme de macules rosées, vite surmontées d'une vésicule en 'goutte de rosée'.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée d'évolution du zona chez les patients VIH?",
+        "answer": "Chez les patients VIH, le zona a une plus longue durée d'évolution.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des douleurs post-zostériennes?",
+        "answer": "Les douleurs post-zostériennes se manifestent à type de brûlures, principalement observées chez les sujets âgés.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez l'adulte?",
+        "answer": "Chez l'adulte, la varicelle peut être grave et se manifester par une pneumopathie interstitielle varicelleuse, des formes ulcéro-nécrotiques et des atteintes viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la fréquence de la varicelle dans les pays occidentaux et en Afrique?",
+        "answer": "La varicelle est une maladie de l'enfant dans les pays occidentaux et de l'adulte en Afrique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle congénitale?",
+        "answer": "La varicelle congénitale peut survenir si la varicelle survient avant la 20e semaine de gestation, mais le risque est faible (< 2 %).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle néonatale?",
+        "answer": "La varicelle néonatale peut survenir si la varicelle survient dans la semaine précédant l'accouchement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les patients immunodéprimés?",
+        "answer": "Les patients immunodéprimés peuvent présenter des formes graves de varicelle, ulcéro-nécrotiques, compliquées d'atteinte viscérale (pulmonaire, hépatique, méningo-encéphalique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes jeunes?",
+        "answer": "Chez les adultes jeunes, la varicelle peut être grave et doit faire rechercher une infection par le VIH.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les enfants?",
+        "answer": "Chez les enfants, la varicelle se manifeste par une éruption fébrile avec des macules rosées, des vésicules en 'goutte de rosée', et un malaise général.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes?",
+        "answer": "Chez les adultes, la varicelle peut être grave et se manifester par une pneumopathie interstitielle varicelleuse, des formes ulcéro-nécrotiques et des atteintes viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les femmes enceintes?",
+        "answer": "Chez les femmes enceintes, la varicelle peut entraîner un risque faible (< 2 %) de varicelle congénitale si elle survient avant la 20e semaine de gestation et un risque de varicelle néonatale si elle survient dans la semaine précédant l'accouchement.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les patients immunodéprimés?",
+        "answer": "Les patients immunodéprimés peuvent présenter des formes graves de varicelle, ulcéro-nécrotiques, compliquées d'atteinte viscérale (pulmonaire, hépatique, méningo-encéphalique).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les enfants?",
+        "answer": "Chez les enfants, la varicelle se manifeste par une éruption fébrile avec des macules rosées, des vésicules en 'goutte de rosée', et un malaise général.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la varicelle chez les adultes?",
+        "answer": "Chez les adultes, la varicelle peut être grave et se manifester par une pneumopathie interstitielle varicelleuse, des formes ulcéro-nécrotiques et des atteintes viscérales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la varicelle en cas de fièvre?",
+        "answer": "En cas de fièvre, il faut utiliser du paracétamol. L’acide salicylique et les anti-inflammatoires non stéroidiens sont contre-indiqués.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les soins locaux recommandés pour la varicelle?",
+        "answer": "On recommande une douche ou un bain quotidien avec un savon. L’utilisation de pommades, crèmes, gel, talc doit être évitée. Des ongles propres et courts limitent les lésions de grattage et la surinfection.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est proposé en cas de prurit lié à la varicelle?",
+        "answer": "En cas de prurit, on peut proposer des antihistaminiques sédatifs de type hydroxyzine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé en cas de surinfection cutanée due à la varicelle?",
+        "answer": "En cas de surinfection cutanée, une antibiothérapie anti-staphylococcique et antistreptococcique doit être prescrite.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Dans quelles situations l’aciclovir intra-veineux est-il recommandé pour la varicelle?",
+        "answer": "L’aciclovir intra-veineux à la dose de 10 à 15 mg/kg/8 h pendant 7 à 10 jours est recommandé dans certaines situations : varicelle de l’immunodéprimé, varicelle grave (pneumopathie) du sujet non immunodéprimé, varicelle de la femme enceinte survenant dans les 8 à 10 jours avant l’accouchement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement local recommandé pour le zona?",
+        "answer": "Le traitement local est le même que celui de la varicelle.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement des douleurs aiguës du zona?",
+        "answer": "Le traitement des douleurs repose à la phase aiguë sur des antalgiques de palier II (paracétamol-codéine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement des algies chroniques post-zostériennes?",
+        "answer": "Les algies chroniques post-zostériennes relèvent du traitement des douleurs neurogènes avec utilisation d’amitriptyline, de carbamazépine, de clonazépam, de gabapentine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quand est-il inutile de prescrire un antiviral pour le zona?",
+        "answer": "Chez les sujets immunocompétents atteints d’un zona d’intensité modérée, il est inutile de prescrire un antiviral.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Dans quelles situations un traitement antiviral par valaciclovir est-il recommandé pour le zona?",
+        "answer": "Un traitement antiviral par valaciclovir (1 000 mg x 3/jour) per os pendant 7 jours peut être prescrit chez le sujet immunocompétent de plus de 50 ans, en prévention des douleurs post-zostériennes, en cas de douleurs intenses à la phase aiguë, de zona étendu ou en cas de zona ophtalmique.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le délai recommandé pour prescrire un traitement antiviral pour le zona?",
+        "answer": "Le traitement antiviral doit être prescrit le plus précocement possible (dans les 72h suivant le début de l’éruption).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel traitement est recommandé pour le zona chez le patient immunodéprimé?",
+        "answer": "Chez le patient immunodéprimé, l’aciclovir intraveineux est recommandé à la dose de 10 mg/kg/8 h ; le valaciclovir peut également être prescrit, en cas d’impossibilité de voie veineuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la méthode de diagnostic du zona en cas de doute?",
+        "answer": "En cas de doute, un prélèvement du liquide de vésicule peut être réalisé pour une PCR (Polymerase Chain Reaction) ou à défaut une culture à la recherche du virus.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Sur quoi repose le diagnostic positif du zona?",
+        "answer": "Le diagnostic positif est avant tout clinique, reposant sur l'anamnèse et les caractéristiques de l’éruption.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prévention recommandée pour la varicelle en milieu scolaire?",
+        "answer": "Elle repose sur l’éviction scolaire jusqu’à ce que les croûtes soient formées pour la varicelle.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelle est la recommandation pour les patients immunodéprimés en contact avec un varicelleux?",
+        "answer": "Pour les patients immunodéprimés, il faut proscrire les contacts avec un varicelleux.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les indications de la vaccination contre la varicelle en France?",
+        "answer": "En France, la vaccination généralisée contre la varicelle des enfants n’est pas recommandée. Cependant elle peut être recommandée dans certaines situations : adolescents à partir de 12 ans et femme en âge de procréer n’ayant pas eu la varicelle, sujets non immuns au contact de personnes immunodéprimées, personnels de santé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le type de vaccin contre le zona et pour qui est-il recommandé en France?",
+        "answer": "Le vaccin contre le zona est un vaccin vivant atténué, ayant fait la preuve de son efficacité pour réduire le poids de la maladie. Il est recommandé depuis 2014 en France pour les sujets âgés de 65 à 74 ans.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quelles sont les complications oculaires possibles du zona ophtalmique?",
+        "answer": "Les complications oculaires du zona ophtalmique peuvent conduire à une cécité ; elles nécessitent un avis spécialisé.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications cutanées possibles après un zona chez les personnes à peau noire?",
+        "answer": "Des cicatrices chéloïdes post-zostériennes sont possibles sur peau noire.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les risques associés à l'utilisation de l’acide salicylique et des anti-inflammatoires non stéroidiens pour la varicelle?",
+        "answer": "L’acide salicylique et les anti-inflammatoires non stéroidiens sont contre-indiqués en raison du risque de syndrome de Reye et de fasciite nécrosante respectivement.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les douleurs neuropathiques post-zostériennes?",
+        "answer": "Les algies chroniques post-zostériennes relèvent du traitement des douleurs neurogènes avec utilisation d’amitriptyline, de carbamazépine, de clonazépam, de gabapentine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la dose recommandée d’aciclovir intraveineux pour le traitement de la varicelle chez l'immunodéprimé?",
+        "answer": "L’aciclovir intra-veineux à la dose de 10 à 15 mg/kg/8 h pendant 7 à 10 jours est recommandé pour la varicelle de l’immunodéprimé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement antiviral recommandé pour le zona chez le patient immunodéprimé?",
+        "answer": "Chez le patient immunodéprimé, l’aciclovir intraveineux est recommandé à la dose de 10 mg/kg/8 h ; le valaciclovir peut également être prescrit, en cas d’impossibilité de voie veineuse.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation pour les ongles des patients atteints de varicelle?",
+        "answer": "Des ongles propres et courts limitent les lésions de grattage et la surinfection.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les douleurs aiguës du zona?",
+        "answer": "Le traitement des douleurs repose à la phase aiguë sur des antalgiques de palier II (paracétamol-codéine).",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement recommandé pour les douleurs neuropathiques post-zostériennes?",
+        "answer": "Les algies chroniques post-zostériennes relèvent du traitement des douleurs neurogènes avec utilisation d’amitriptyline, de carbamazépine, de clonazépam, de gabapentine.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la recommandation pour la vaccination contre la varicelle en France?",
+        "answer": "En France, la vaccination généralisée contre la varicelle des enfants n’est pas recommandée. Cependant elle peut être recommandée dans certaines situations : adolescents à partir de 12 ans et femme en âge de procréer n’ayant pas eu la varicelle, sujets non immuns au contact de personnes immunodéprimées, personnels de santé.",
+        "qtype": "prévention"
+    },
+    {
+        "question": "Quel est le type de vaccin contre le zona et pour qui est-il recommandé en France?",
+        "answer": "Le vaccin contre le zona est un vaccin vivant atténué, ayant fait la preuve de son efficacité pour réduire le poids de la maladie. Il est recommandé depuis 2014 en France pour les sujets âgés de 65 à 74 ans.",
+        "qtype": "prévention"
+    }
+]

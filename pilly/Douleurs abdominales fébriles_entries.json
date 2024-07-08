@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Quels sont les éléments à préciser lors de l'interrogatoire pour des douleurs abdominales fébriles?",
+        "answer": "Les caractères de la douleur abdominale (siège, irradiation...) et des signes digestifs associés, les caractéristiques de la fièvre (oscillante ou continue) et les signes associés (frissons, sueurs...), la chronologie des évènements et les facteurs déclencheurs, le terrain et les antécédents (âge, alcoolisme, prise de médicaments...).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels signes de souffrance péritonéale peut-on détecter à l'examen clinique?",
+        "answer": "Une contracture généralisée ou une défense extensive, une douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens morphologiques sont utiles pour préciser ou confirmer une suspicion d’occlusion ou d’épanchement péritonéal?",
+        "answer": "La radiographie du thorax de face, l'abdomen sans préparation (ASP), l’échographie, le scanner, l’endoscopie.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens biologiques et microbiologiques sont utiles pour confirmer une hypothèse diagnostique?",
+        "answer": "Le bilan hydro-électrolytique, la créatininémie, la protéine C-réactive, la lipase (ou amylase), le bilan hépatique (ASAT/SGOT, ALAT/SGPT, PAL, GGT, Bilirubine), l’hémogramme, la bandelette urinaire (et l’ECBU), les hémocultures, la coproculture, les examens parasitologiques des selles, les sérologies amibiennes, de Widal-Félix ou VIH.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements hémodynamiques à appliquer d’urgence en cas de choc ou de déshydratation?",
+        "answer": "Transfusion, expansion volémique, réhydratation, transfusion.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes associés à une fièvre oscillante ou continue?",
+        "answer": "Frissons, sueurs.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance au niveau du collet d'une hernie?",
+        "answer": "Une douleur à la mobilisation de la cuisse contractant le psoas (psoïtis).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale détectables à l'examen clinique?",
+        "answer": "Une contracture généralisée ou une défense extensive, une douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de choc à détecter lors de l'examen clinique?",
+        "answer": "Signes de déshydratation ou un état général très altéré lié à une infection chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires permettant de confirmer ou de préciser une hypothèse diagnostique?",
+        "answer": "Les examens morphologiques (radiographie, ASP, échographie, scanner, endoscopie) et les examens biologiques et microbiologiques (bilan hydro-électrolytique, créatininémie, protéine C-réactive, lipase, bilan hépatique, hémogramme, bandelette urinaire, hémocultures, coproculture, examens parasitologiques des selles, sérologies).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements à envisager en cas de douleur abdominale fébrile?",
+        "answer": "Ponction, abord chirurgical, coelioscopie, traitement antibiotique spécifique ou probabiliste.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale à détecter à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance au niveau du collet d'une hernie?",
+        "answer": "Douleur à la mobilisation de la cuisse contractant le psoas (psoïtis).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale détectables à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de choc à détecter lors de l'examen clinique?",
+        "answer": "Signes de déshydratation ou un état général très altéré lié à une infection chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires permettant de confirmer ou de préciser une hypothèse diagnostique?",
+        "answer": "Les examens morphologiques (radiographie, ASP, échographie, scanner, endoscopie) et les examens biologiques et microbiologiques (bilan hydro-électrolytique, créatininémie, protéine C-réactive, lipase, bilan hépatique, hémogramme, bandelette urinaire, hémocultures, coproculture, examens parasitologiques des selles, sérologies).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements à envisager en cas de douleur abdominale fébrile?",
+        "answer": "Ponction, abord chirurgical, coelioscopie, traitement antibiotique spécifique ou probabiliste.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale à détecter à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance au niveau du collet d'une hernie?",
+        "answer": "Douleur à la mobilisation de la cuisse contractant le psoas (psoïtis).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale détectables à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de choc à détecter lors de l'examen clinique?",
+        "answer": "Signes de déshydratation ou un état général très altéré lié à une infection chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires permettant de confirmer ou de préciser une hypothèse diagnostique?",
+        "answer": "Les examens morphologiques (radiographie, ASP, échographie, scanner, endoscopie) et les examens biologiques et microbiologiques (bilan hydro-électrolytique, créatininémie, protéine C-réactive, lipase, bilan hépatique, hémogramme, bandelette urinaire, hémocultures, coproculture, examens parasitologiques des selles, sérologies).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements à envisager en cas de douleur abdominale fébrile?",
+        "answer": "Ponction, abord chirurgical, coelioscopie, traitement antibiotique spécifique ou probabiliste.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale à détecter à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance au niveau du collet d'une hernie?",
+        "answer": "Douleur à la mobilisation de la cuisse contractant le psoas (psoïtis).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale détectables à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de choc à détecter lors de l'examen clinique?",
+        "answer": "Signes de déshydratation ou un état général très altéré lié à une infection chronique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les examens complémentaires permettant de confirmer ou de préciser une hypothèse diagnostique?",
+        "answer": "Les examens morphologiques (radiographie, ASP, échographie, scanner, endoscopie) et les examens biologiques et microbiologiques (bilan hydro-électrolytique, créatininémie, protéine C-réactive, lipase, bilan hépatique, hémogramme, bandelette urinaire, hémocultures, coproculture, examens parasitologiques des selles, sérologies).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements à envisager en cas de douleur abdominale fébrile?",
+        "answer": "Ponction, abord chirurgical, coelioscopie, traitement antibiotique spécifique ou probabiliste.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes de souffrance péritonéale à détecter à l'examen clinique?",
+        "answer": "Contracture généralisée ou défense extensive, douleur provoquée au toucher rectal ± perception d’une collection dans le cul-de-sac de Douglas.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes de souffrance au niveau du collet d'une hernie?",
+        "answer": "Douleur à la mobilisation de la cuisse contractant le psoas (psoïtis).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée de l'antibiothérapie pour une appendicite aiguë opérée non perforée?",
+        "answer": "1 jour",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels antibiotiques peuvent être utilisés pour traiter un abcès bactérien du foie?",
+        "answer": "L'antibiothérapie pour un abcès bactérien du foie nécessite 4 à 6 semaines.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quel est le traitement pour un abcès amibien du foie?",
+        "answer": "Un nitroimidazolé comme le métronidazole (40 mg/kg/j) pendant 10 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes cliniques d'une péritonite?",
+        "answer": "Douleurs abdominales diffuses avec contracture généralisée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels examens sont recommandés pour diagnostiquer une péritonite?",
+        "answer": "ASP, échographie ou scanner.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements possibles pour une occlusion sur obstacle?",
+        "answer": "Ponction transpariétale, coelioscopie, chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les agents pathogènes possibles pour une douleur de l'hypochondre droit avec fièvre?",
+        "answer": "Amibes, entérobactéries, entérocoques, anaérobies.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels examens sont recommandés pour une douleur de l'hypochondre droit avec fièvre?",
+        "answer": "Échographie ou scanner.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de l'hypochondre droit avec abcès amibien?",
+        "answer": "Antibiothérapie et ponction de l'abcès.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les diagnostics possibles pour une douleur de l'hypochondre gauche et de l'épigastre avec fièvre?",
+        "answer": "Abcès splénique, infarctus splénique, gastro-duodénite, UGD perforé bouché, colite transverse.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont recommandés pour une douleur de l'hypochondre gauche et de l'épigastre avec fièvre?",
+        "answer": "Échographie ou scanner, ASP, fibroscopie ou TOGD.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de l'hypochondre gauche et de l'épigastre avec abcès splénique?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les diagnostics possibles pour une douleur de la fosse iliaque gauche et de l'hypogastre?",
+        "answer": "Iléorectocolite bactérienne, pyélonéphrite, abcès rénal ou périrénal, sigmoïdite, pelvi-péritonite, salpingite, endométrite, rétention vésicale infectée, abcès du Retzius.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont recommandés pour une douleur de la fosse iliaque gauche et de l'hypogastre?",
+        "answer": "ASP, échographie, ECBU, rectoscopie, coproculture, KOP.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de la fosse iliaque gauche et de l'hypogastre avec abcès rénal?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les diagnostics possibles pour une douleur de la fosse iliaque droite?",
+        "answer": "Iléocolite aiguë, iléocolite chronique, pyélonéphrite, abcès rénal ou périrénal, appendicite rétrocaecale, abcès du psoas.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels examens sont recommandés pour une douleur de la fosse iliaque droite?",
+        "answer": "ASP, échographie ou scanner, ECBU.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de la fosse iliaque droite avec appendicite?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de la fosse iliaque droite avec iléocolite aiguë?",
+        "answer": "Antibiothérapie, nitroimidazolé, benzimidazolé.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de la fosse iliaque droite avec abcès du psoas?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une cholécystite aiguë?",
+        "answer": "Antibiothérapie pendant 4 à 7 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une diverticulite sigmoïdienne compliquée?",
+        "answer": "Antibiothérapie pendant 7 à 15 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une angiocholite drainée?",
+        "answer": "Antibiothérapie pendant 3 à 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une péritonite communautaire?",
+        "answer": "Antibiothérapie pendant 3 à 5 jours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une cholécystite aiguë non compliquée opérée dans les 24h?",
+        "answer": "Antibiothérapie pendant 1 jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une appendicite aiguë opérée non perforée?",
+        "answer": "Antibiothérapie pendant 1 jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de l'hypochondre droit avec abcès sous phrénique?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de l'hypochondre gauche et de l'épigastre avec pyélonéphrite?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de la fosse iliaque gauche et de l'hypogastre avec abcès du psoas?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements pour une douleur de la fosse iliaque droite avec abcès rénal?",
+        "answer": "Antibiothérapie ± chirurgie.",
+        "qtype": "traitement"
+    }
+]

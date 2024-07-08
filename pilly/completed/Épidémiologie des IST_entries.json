@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Combien de nouveaux cas annuels d'infections sexuellement transmissibles (IST) l'OMS estimait-elle en 2016?",
+        "answer": "L'OMS estimait à près de 376.4 millions le nombre de nouveaux cas annuels d'IST en 2016.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes des IST?",
+        "answer": "Les principaux agents pathogènes des IST incluent plus de 30 bactéries, virus et parasites tels que Neisseria gonorrhoeae, Chlamydia trachomatis, Treponema pallidum, Haemophilus ducreyi, Klebsiella granulomatis, les souches L1-L3 de Chlamydia trachomatis, le VIH, les virus Herpes simplex, les papillomavirus, le virus de l'hépatite B, le cytomégalovirus, et Trichomonas vaginalis.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux virus responsables des IST?",
+        "answer": "Les principaux virus responsables des IST sont le VIH, les virus Herpes simplex, les papillomavirus (HPV), le virus de l'hépatite B et le cytomégalovirus.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes courants des IST chez les femmes?",
+        "answer": "Chez les femmes, les IST peuvent causer des salpingites, des douleurs pelviennes chroniques, des grossesses extra-utérines ou même la stérilité par obstruction tubaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes courants des IST chez les hommes?",
+        "answer": "Chez les hommes, les IST peuvent causer des épididymites, qui sont également des causes de stérilité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques pour les nouveau-nés en cas d'infection maternelle par des gonocoques?",
+        "answer": "Chez le nouveau-né, l'infection de l'œil par des gonocoques peut entraîner la cécité par ulcérations cornéennes.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelle est la prévalence des IST dans les pays en développement par rapport au monde occidental?",
+        "answer": "La prévalence des IST dans les pays en développement est en moyenne 10 fois plus élevée que dans le monde occidental.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs contribuant à la grande prévalence des IST dans les pays en développement?",
+        "answer": "Les facteurs incluent le grand nombre de jeunes sujets, les difficultés d'accès aux soins, l'absence d'information sur les risques de transmission et les moyens de s'en prémunir, les traitements tardifs et inadaptés, le multipartenariat sexuel, et les conséquences des migrations de populations et des conflits armés.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des trichomonoses?",
+        "answer": "Trichomonas vaginalis cause essentiellement une vaginite chez la femme et une urétrite amicrobienne chez l'homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques de transmission du VIH en présence d'une IST?",
+        "answer": "Les IST classiques augmentent le risque de transmission sexuelle du VIH, avec un risque relatif de deux à sept en moyenne chez les sujets ayant eu une IST récente.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes des chlamydioses et des gonococcies chez les femmes?",
+        "answer": "Les chlamydioses et les gonococcies peuvent causer des salpingites, des douleurs pelviennes chroniques, des grossesses extra-utérines ou même la stérilité par obstruction tubaire chez les femmes.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes des chlamydioses et des gonococcies chez les hommes?",
+        "answer": "Chez les hommes, les chlamydioses et les gonococcies peuvent causer des épididymites, qui sont également des causes de stérilité.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les risques pour les nouveau-nés en cas d'infection maternelle par des chlamydioses?",
+        "answer": "Les chlamydioses sont une cause importante de conjonctivites et de pneumonies chez le nourrisson.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les risques de la syphilis congénitale?",
+        "answer": "La syphilis congénitale est une cause majeure de morbidité et de mortalité infantile, avec seulement 25 chances sur 100 d'avoir un nouveau-né normal si la mère est porteuse d'une infection syphilitique active pendant sa grossesse.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels cancers peuvent être provoqués par certaines papillomaviroses (HPV)?",
+        "answer": "Certaines papillomaviroses (HPV) peuvent provoquer des cancers des organes génitaux et de l'anus, notamment le cancer du col utérin.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelle est la principale cause de stérilité chez la femme?",
+        "answer": "Les IST, notamment les chlamydioses et les gonococcies, sont la principale cause de stérilité chez la femme.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelle est la stratégie importante pour prévenir l'infection à VIH dans une population?",
+        "answer": "Le traitement des IST est une stratégie importante pour prévenir l'infection à VIH dans une population.",
+        "qtype": "traitements"
+    },
+    {
+        "question": "Quels sont les modes de transmission des IST?",
+        "answer": "Les IST se transmettent principalement lors de rapports sexuels vaginaux, anaux ou buccogénitaux, mais aussi de la mère à l'enfant pendant la grossesse et à l'accouchement, par les produits sanguins, par transplantation voire plus rarement par d'autres voies non sexuelles.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux parasites responsables des IST?",
+        "answer": "Les principaux parasites responsables des IST sont Trichomonas vaginalis, Phtirus pubis (phtirose du pubis) et Sarcoptes scabiei (gale).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la vaginose bactérienne?",
+        "answer": "La vaginose bactérienne est une transformation de la flore vaginale normale au profit de germes anaérobies souvent associés à des mycoplasmes. Elle n'est pas toujours d'origine sexuelle mais des infections des partenaires, et donc des réinfestations, sont possibles.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la prévalence des femmes porteuses d'HPV dans le monde?",
+        "answer": "On estime que plus de 291 millions de femmes dans le monde ont été porteuses d'HPV dans leur vie.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Candida albicans?",
+        "answer": "Candida albicans est à l'origine d'une vulvovaginite chez la femme et d'une balanite chez l'homme, mais ces infections ne sont pas considérées comme des IST.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Trichomonas vaginalis?",
+        "answer": "Trichomonas vaginalis cause essentiellement une vaginite chez la femme et une urétrite amicrobienne chez l'homme.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Neisseria gonorrhoeae?",
+        "answer": "Neisseria gonorrhoeae cause la gonococcie, qui peut être asymptomatique mais peut aussi causer des infections génitales, rectales et pharyngées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Chlamydia trachomatis?",
+        "answer": "Chlamydia trachomatis cause les chlamydioses, qui peuvent être asymptomatiques mais peuvent aussi causer des infections génitales, rectales et pharyngées.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Treponema pallidum?",
+        "answer": "Treponema pallidum cause la syphilis, qui peut se manifester par des ulcères génitaux, des éruptions cutanées, et des complications systémiques si non traitée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Haemophilus ducreyi?",
+        "answer": "Haemophilus ducreyi cause le chancre mou, qui se manifeste par des ulcères génitaux douloureux.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Klebsiella granulomatis?",
+        "answer": "Klebsiella granulomatis cause le granulome inguinal ou donovanose, qui se manifeste par des ulcères génitaux indolores.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à Herpes simplex virus?",
+        "answer": "Les infections à Herpes simplex virus se manifestent par des lésions vésiculaires douloureuses sur les organes génitaux ou la région anale.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les principaux symptômes des infections à papillomavirus (HPV)?",
+        "answer": "Les infections à papillomavirus (HPV) peuvent se manifester par des verrues génitales et, dans certains cas, évoluer vers des cancers des organes génitaux et de l'anus.",
+        "qtype": "symptômes"
+    }
+]

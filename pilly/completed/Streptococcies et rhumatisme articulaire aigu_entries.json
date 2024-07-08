@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qu'est-ce que le rhumatisme articulaire aigu (RAA) ?",
+        "answer": "Le rhumatisme articulaire aigu (RAA) est une complication différée non suppurée de l’angine à streptocoque bêtahémolytique du groupe A.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quel est le traitement principal du rhumatisme articulaire aigu (RAA) ?",
+        "answer": "La thérapeutique et la prévention du RAA font appel à la pénicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est l'incidence du RAA dans les pays à ressources limitées ?",
+        "answer": "L'incidence du RAA dans les pays à ressources limitées varie entre 8 à 194 cas pour 100 000 enfants d’âge scolaire.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est le principal réservoir du Streptococcus pyogenes du groupe A (SGA) ?",
+        "answer": "L’enfant de 4 à 16 ans est le principal réservoir du germe avec un portage rhinopharyngé chronique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet le streptocoque du groupe A (SGA) ?",
+        "answer": "La transmission du streptocoque se fait par voie aérienne par des micro-gouttelettes issues de sécrétions rhino-pharyngées à la suite d’un contact rapproché avec un malade ou un porteur asymptomatique.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les facteurs favorisant la transmission du streptocoque du groupe A (SGA) ?",
+        "answer": "La transmission est favorisée par un niveau socio-économique bas et la promiscuité.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les principaux symptômes du rhumatisme articulaire aigu (RAA) ?",
+        "answer": "Les principaux symptômes du RAA incluent une atteinte inflammatoire du cœur, des articulations et du système nerveux central.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la phase de latence entre l'atteinte ORL et l'atteinte articulaire dans le RAA ?",
+        "answer": "La phase de latence qui sépare l’atteinte ORL (angine, pharyngite) non traitée de l’atteinte articulaire est de 2 à 4 semaines.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les critères majeurs de Jones pour le diagnostic du RAA ?",
+        "answer": "Les critères majeurs de Jones pour le diagnostic du RAA incluent la polyarthrite, la cardite, l’érythème marginé, les nodules sous-cutanés de Meynet et la chorée de Sydenham.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères mineurs de Jones pour le diagnostic du RAA ?",
+        "answer": "Les critères mineurs de Jones pour le diagnostic du RAA incluent les polyarthralgies, la fièvre, l’antécédent de RAA, l’élévation de la VS ou de la CRP, et l’allongement de l’intervalle PR à l’ECG.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la forme classique de l'enfant atteinte de RAA ?",
+        "answer": "La forme classique de l’enfant atteinte de RAA est la polyarthrite aiguë avec cardite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelle est la durée spontanée de l’accès rhumatismal dans le RAA ?",
+        "answer": "La durée spontanée de l’accès rhumatismal est de l’ordre de un mois.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quelle est la complication la plus sévère de la cardite dans le RAA ?",
+        "answer": "L’endocardite, responsable d’un souffle auscultatoire, est l’atteinte la plus sévère car source de séquelles.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les types d'infections non invasives causées par le SGA ?",
+        "answer": "Le SGA est habituellement à l’origine d’infections non invasives de la sphère ORL (angine parfois compliquée d’abcès ou de phlegmon), cutanée (érysipèle, impétigo) ou de la scarlatine.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les types d'infections invasives causées par le SGA ?",
+        "answer": "Les formes invasives causées par le SGA incluent la fasciite nécrosante, le choc toxique, la bactériémie, les infections pulmonaires, pleurales, méningées et ostéo-articulaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quel est le traitement antibiotique des infections à streptocoque ?",
+        "answer": "Le traitement antibiotique des infections à streptocoque repose sur l’amoxicilline.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les syndromes post-streptococciques ?",
+        "answer": "Les syndromes post-streptococciques incluent le RAA, la glomérulonéphrite aiguë, la chorée de Sydenham et l’érythème noueux.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les critères de Jones applicables aux sujets à faible risque ?",
+        "answer": "Les critères de Jones applicables aux sujets à faible risque incluent les critères majeurs (polyarthrite, cardite, érythème marginé, nodules sous-cutanés de Meynet, chorée de Sydenham) et les critères mineurs (polyarthralgies, fièvre, antécédent de RAA, élévation de la VS ou de la CRP, allongement de l’intervalle PR à l’ECG).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les critères de Jones applicables aux sujets à risque moyen ou élevé ?",
+        "answer": "Pour les sujets à risque moyen ou élevé, la présence d’une monoarthrite ou d’une polyarthralgie constituent un critère majeur, et la monoarthralgie, un critère mineur.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la prévalence des cardiopathies rhumatismales dans le monde ?",
+        "answer": "Plus de 15 millions de personnes sont porteuses de cardiopathies rhumatismales dans le monde.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Combien de personnes décèdent chaque année des cardiopathies rhumatismales ?",
+        "answer": "250 000 personnes décèdent chaque année des cardiopathies rhumatismales.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les sérotypes spécifiques du Streptococcus pyogenes du groupe A (SGA) ?",
+        "answer": "Streptococcus pyogenes du groupe A (SGA) comprend plus de 80 sérotypes spécifiques différentiables.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quel est l'élément pivot de la virulence du Streptococcus pyogenes du groupe A (SGA) ?",
+        "answer": "La protéine M est l’élément pivot de la virulence de l’agent pathogène.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels anticorps sont produits en réponse à l'infection par le Streptococcus pyogenes du groupe A (SGA) ?",
+        "answer": "L’infection par le SGA suscite la production d’anticorps antistreptolysine O (ASLO), antistreptokinase, anti-Dnase B.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quel est le rôle du titrage des ASLO dans le diagnostic du RAA ?",
+        "answer": "Le titrage des ASLO dans le sérum et sa positivité sont nécessaires au diagnostic rétrospectif de la maladie et de ses complications.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quelle est la valeur prédictive négative (VPN) des ASLO ?",
+        "answer": "La valeur prédictive négative (VPN) des ASLO est excellente (99 %).",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les facteurs de susceptibilité au RAA ?",
+        "answer": "Il existe des facteurs de susceptibilité au RAA avec transmission polygénique, de pénétrance variable et incomplète (certains HLA seraient associés ; HLA DR2 chez les Africains, HLA DR4 chez les caucasiens).",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les types d'atteintes cardiaques dans le RAA ?",
+        "answer": "La cardite dans le RAA peut réaliser soit une pancardite, soit une atteinte dissociée des tuniques cardiaques.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelle est la durée typique d'une arthrite dans le RAA ?",
+        "answer": "Chaque arthrite dans le RAA dure 3 à 10 jours puis disparaît sans séquelle.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cutanés associés à la cardite dans le rhumatisme articulaire aigu (RAA) ?",
+        "answer": "Les signes cutanés sont exceptionnels, tardifs et le plus souvent observés en présence de la cardite.",
+        "qtype": "symptômes"
+    }
+]

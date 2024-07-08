@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qu'est-ce qu'un accident d'exposition au sang (AES) ?",
+    "answer": "Un accident d'exposition au sang est défini par un contact avec du sang ou un liquide biologique contenant du sang potentiellement contaminé, lors d’une piqûre avec une aiguille, d'une coupure avec un objet tranchant ou d'une projection sur une plaie, une peau non intacte ou une muqueuse.",
+    "qtype": "definition"
+  },
+  {
+    "question": "Quels professionnels sont principalement concernés par les AES ?",
+    "answer": "Les AES concernent essentiellement les professionnels de santé. Les usagers de drogue sont aussi exposés aux accidents d'exposition au sang par le partage de matériel d'injection.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels virus sont principalement associés aux accidents d'exposition au risque de transmission virale (AEV) ?",
+    "answer": "Les virus VIH, VHB et VHC sont principalement associés aux accidents d'exposition au risque de transmission virale (AEV).",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les pathogènes responsables d’infections post AES documentés ?",
+    "answer": "Les pathogènes responsables d’infections post AES documentés incluent des virus (VIH, hépatites A, B, C, D, G, fièvres hémorragiques, herpès virus, etc.), des bactéries (Streptococcus A ß hémolytique, Staphylococcus aureus, Brucella spp, etc.), et des parasites (Plasmodium spp, Toxoplasma gondii, Trypanosoma spp, Leishmania spp).",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels liquides biologiques peuvent contenir des agents infectieux et générer un risque de transmission en cas d’exposition ?",
+    "answer": "Les liquides biologiques pouvant contenir des agents infectieux et générer un risque de transmission en cas d’exposition incluent le liquide céphalo-rachidien, le sperme, les sécrétions vaginales, le liquide d’ascite, la salive, le liquide amniotique, les urines, les selles, et les larmes.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les taux de transmission du VIH, VHC et VHB après un AES ?",
+    "answer": "Pour le VIH, le taux de transmission est estimé à 0,3 % en moyenne après piqûre avec une aiguille creuse contenant du sang non coagulé d’un patient infecté par le VIH. Pour les virus des hépatites B et C, les taux de transmission sont plus élevés, avec un risque de 5-30 % pour le VHB et de 1-3 % pour le VHC.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les facteurs qui augmentent le risque de transmission lors d'un AES ?",
+    "answer": "Les facteurs qui augmentent le risque de transmission lors d'un AES incluent la blessure profonde, l'utilisation d'un dispositif ayant pénétré dans un vaisseau, une aiguille creuse contenant du sang, un diamètre élevé de l’aiguille, un délai court entre le geste et l’AES, et un temps de contact supérieur à 15 minutes si projection.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quelle est l'incidence des AES chez les infirmières ?",
+    "answer": "L’incidence des AES chez les infirmières est estimée à 0,07-0,08/infirmière/an.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les axes d'interventions possibles pour réduire le risque de transmission de VIH dans les pays à ressources limitées ?",
+    "answer": "Les axes d'interventions possibles incluent l'amélioration des conditions de travail, la mise en place d'une surveillance des AES, l'application des précautions standard, la mise à disposition de matériels sécurisés, l'organisation d'une filière de déchets hospitaliers, et la mise en œuvre de procédures et de protocoles de soins.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les soins immédiats à prodiguer en cas de blessure ou piqûre lors d'un AES ?",
+    "answer": "En cas de blessure ou piqûre, il faut procéder à un nettoyage immédiat à l’eau courante et au savon, suivi d'un rinçage et d'une antisepsie pendant au moins 5 minutes avec de l'eau de Javel diluée, du Dakin Cooper Stabilisé®, de l'alcool à 70°, ou de la povidone iodée (Bétadine®).",
+    "qtype": "treatment"
+  },
+  {
+    "question": "Quel est le délai recommandé pour commencer un traitement post-exposition (TPE) au VIH ?",
+    "answer": "Il est recommandé de commencer le traitement post-exposition (TPE) au VIH le plus tôt possible et au plus tard 48 heures après l’accident.",
+    "qtype": "treatment"
+  },
+  {
+    "question": "Quelle est la durée de traitement recommandée pour un TPE au VIH ?",
+    "answer": "La durée de traitement recommandée pour un TPE au VIH est de 28 jours.",
+    "qtype": "treatment"
+  },
+  {
+    "question": "Quels sont les composants préférés d'une trithérapie pour un TPE au VIH ?",
+    "answer": "Une trithérapie pour un TPE au VIH doit préférentiellement associer 2 inhibiteurs nucléosidiques de la reverse transcriptase (INRT) et une antiprotéase (IP), la rilpivirine (INNTI) ou un anti intégrase (II).",
+    "qtype": "treatment"
+  },
+  {
+    "question": "Quels sont les risques de contamination virale selon les liquides biologiques après un accident d’exposition professionnelle ?",
+    "answer": "Les risques de contamination virale selon les liquides biologiques après un accident d’exposition professionnelle sont prouvés pour le VHB, VHC, et VIH dans le sang et les liquides biologiques contenant du sang. Le risque est possible pour le VIH dans le liquide céphalo-rachidien, le VHB et le VIH dans les sécrétions vaginales, et le VIH dans le liquide amniotique.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour réduire la fréquence des AES ?",
+    "answer": "Les constats incluent une fréquence élevée des AES, souvent mal connue car non déclarés, et des mauvaises conditions de travail. Les actions possibles incluent l'amélioration des conditions de travail, la mise en place d'une surveillance des AES, l'application des précautions standard, la mise à disposition de matériels sécurisés, et l'organisation d'une filière de déchets hospitaliers.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quelle est l'incidence des AES chez les chirurgiens ?",
+    "answer": "L’incidence des AES chez les chirurgiens est estimée à 3-6 accidents percutanés par personne par an.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les soins immédiats en cas de projection muqueuse lors d'un AES ?",
+    "answer": "En cas de projection muqueuse (conjonctive…), il faut procéder à un rinçage immédiat et abondant au sérum physiologique.",
+    "qtype": "treatment"
+  },
+  {
+    "question": "Quels sont les facteurs locaux qui contribuent à la fréquence élevée des AES ?",
+    "answer": "Les facteurs locaux incluent la fréquence des injections, les mauvaises conditions de travail, le manque ou l'insuffisance de matériel de sécurité (gants, masques, conteneurs, etc.), la haute fréquence du recapuchonnage, et l'absence de conteneurs pour les aiguilles souillées.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les risques encourus par les professionnels de santé lors d'un AES ?",
+    "answer": "Les professionnels de santé encourent principalement le risque de transmission du VIH, avec un taux de transmission estimé à 0,3 % en moyenne après piqûre avec une aiguille creuse contenant du sang non coagulé d’un patient infecté par le VIH.",
+    "qtype": "epidemiology"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la couverture vaccinale des soignants contre l’hépatite B ?",
+    "answer": "Les constats incluent un faible niveau de couverture vaccinale des soignants contre l’hépatite B et une haute prévalence du VHB chez les patients africains. Les actions possibles incluent la stimulation de la vaccination contre le VHB et la connaissance du statut sérologique des professionnels.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour réduire la gravité des AES ?",
+    "answer": "Les constats incluent l'existence de nombreux pathogènes sanguicoles avec une prévalence élevée dans la population générale (VIH, VHB, VHC, Plasmodium falciparum, etc.), des patients vus à un stade avancé (stade SIDA, hépatites virales chroniques), et peu de patients traités par antirétroviraux. Les actions possibles incluent la mise en place d’une politique de prévention des AES dans l’établissement avec des recommandations locales de circuit de prise en charge des AES, l'information des soignants sur la prévention, la conduite à tenir, la chimioprophylaxie en cas d’AES, un délai d'intervention rapide et antisepsie post-AES, et la prophylaxie post exposition.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer l'organisation du circuit de prise en charge des victimes d'AES ?",
+    "answer": "Les constats incluent la nécessité d'un accueil 24h/24, 7 jours sur 7, le recours à des soignants référents identifiés et formés, et une réévaluation du traitement prophylactique dans les deux à trois jours suivant son instauration. Les actions possibles incluent la planification de la procédure en aval de la consultation initiale puis de la consultation de réévaluation, la rédaction et diffusion des procédures, et le respect de la confidentialité de la victime.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la prévention des AES dans les pays à ressources limitées ?",
+    "answer": "Les constats incluent une insuffisance des mesures mises en place pour réduire le risque de transmission de VIH avec de mauvaises conditions d’hygiène et de sécurité des soignants. Les actions possibles incluent l'amélioration des conditions de travail, la mise en place d'une surveillance des AES, l'application des précautions standard, la mise à disposition de matériels sécurisés, l'organisation d'une filière de déchets hospitaliers, et la mise en œuvre de procédures et de protocoles de soins.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la prise en charge des AES dans les établissements de santé ?",
+    "answer": "Les constats incluent la nécessité d'un accueil 24h/24, 7 jours sur 7, le recours à des soignants référents identifiés et formés, et une réévaluation du traitement prophylactique dans les deux à trois jours suivant son instauration. Les actions possibles incluent la planification de la procédure en aval de la consultation initiale puis de la consultation de réévaluation, la rédaction et diffusion des procédures, et le respect de la confidentialité de la victime.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la prévention des AES dans les pays à ressources limitées ?",
+    "answer": "Les constats incluent une insuffisance des mesures mises en place pour réduire le risque de transmission de VIH avec de mauvaises conditions d’hygiène et de sécurité des soignants. Les actions possibles incluent l'amélioration des conditions de travail, la mise en place d'une surveillance des AES, l'application des précautions standard, la mise à disposition de matériels sécurisés, l'organisation d'une filière de déchets hospitaliers, et la mise en œuvre de procédures et de protocoles de soins.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la prise en charge des AES dans les établissements de santé ?",
+    "answer": "Les constats incluent la nécessité d'un accueil 24h/24, 7 jours sur 7, le recours à des soignants référents identifiés et formés, et une réévaluation du traitement prophylactique dans les deux à trois jours suivant son instauration. Les actions possibles incluent la planification de la procédure en aval de la consultation initiale puis de la consultation de réévaluation, la rédaction et diffusion des procédures, et le respect de la confidentialité de la victime.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la prévention des AES dans les pays à ressources limitées ?",
+    "answer": "Les constats incluent une insuffisance des mesures mises en place pour réduire le risque de transmission de VIH avec de mauvaises conditions d’hygiène et de sécurité des soignants. Les actions possibles incluent l'amélioration des conditions de travail, la mise en place d'une surveillance des AES, l'application des précautions standard, la mise à disposition de matériels sécurisés, l'organisation d'une filière de déchets hospitaliers, et la mise en œuvre de procédures et de protocoles de soins.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les constats et actions possibles pour améliorer la prise en charge des AES dans les établissements de santé ?",
+    "answer": "Les constats incluent la nécessité d'un accueil 24h/24, 7 jours sur 7, le recours à des soignants référents identifiés et formés, et une réévaluation du traitement prophylactique dans les deux à trois jours suivant son instauration. Les actions possibles incluent la planification de la procédure en aval de la consultation initiale puis de la consultation de réévaluation, la rédaction et diffusion des procédures, et le respect de la confidentialité de la victime.",
+    "qtype": "prevention"
+  },
+  {
+    "question": "Quels sont les médicaments antirétroviraux à privilégier en cas de problème de compliance ou de tolérance?",
+    "answer": "L'association ténofovir/emtricitabine est à privilégier car elle se résume à la prise d'un comprimé par jour.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels inhibiteurs de protéase sont recommandés pour un traitement post-exposition (TPE)?",
+    "answer": "L'association fixe de ritonavir/lopinavir sous forme d'un comprimé, associée au ténofovir/emtricitabine, est recommandée. Le recours à l'atazanavir ou au darunavir est aussi possible.",
+    "qtype": "traitement"
+  }
+]

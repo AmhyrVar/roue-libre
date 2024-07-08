@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Quelle est la répartition géographique de la bilharziose selon l'OMS?",
+        "answer": "L'OMS estime que la bilharziose affecte plus de 230 millions de personnes dans le monde, avec 90% des malades se trouvant en Afrique sub-saharienne.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la bilharziose?",
+        "answer": "L'homme se contamine lors d'un contact avec de l'eau douce envahie par des furcocercaires, forme infestante du parasite. Il n'y a pas de transmission interhumaine.",
+        "qtype": "transmission"
+    },
+    {
+        "question": "Quels sont les principaux agents pathogènes de la bilharziose?",
+        "answer": "Les principaux agents pathogènes sont Schistosoma mansoni, Schistosoma haematobium, Schistosoma intercalatum, Schistosoma mekongi et Schistosoma japonicum.",
+        "qtype": "agents"
+    },
+    {
+        "question": "Quels sont les groupes de personnes les plus à risque de contracter la bilharziose?",
+        "answer": "Les enfants, les femmes lors des activités de lessive et de corvée d'eau, les hommes et les personnels agricoles lors des travaux des champs, ainsi que les touristes.",
+        "qtype": "terrain"
+    },
+    {
+        "question": "Quelles sont les principales causes de mortalité liées à la bilharziose?",
+        "answer": "La mortalité est essentiellement due aux séquelles hépatiques pouvant donner naissance à une fibrose parasitaire ou aux atteintes du tractus urogénital.",
+        "qtype": "morbidité et mortalité"
+    },
+    {
+        "question": "Quel est le cycle parasitaire des schistosomes?",
+        "answer": "Le cycle parasitaire des schistosomes s'articule en deux phases: un cycle asexué chez l'hôte intermédiaire (un mollusque) et un cycle sexué chez l'homme, hôte définitif.",
+        "qtype": "cycle parasitaire"
+    },
+    {
+        "question": "Quelles sont les principales destinées des œufs de schistosome?",
+        "answer": "Les œufs peuvent être excrétés dans les selles ou les urines, rester bloqués et former des granulomes in situ, ou s'emboliser dans différents organes.",
+        "qtype": "cycle parasitaire"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase de pénétration de la bilharziose?",
+        "answer": "La phase de pénétration se manifeste par une dermatite cercarienne associant un prurit et une éruption maculopapuleuse.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë?",
+        "answer": "La bilharziose aiguë se manifeste par une fièvre, une asthénie, un malaise général, des céphalées, une diarrhée, une toux sèche, une dyspnée, des œdèmes allergiques, des arthralgies et des myalgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique précoce?",
+        "answer": "La bilharziose chronique précoce se manifeste par une diarrhée glairo-sanglante, un ténesme, des douleurs abdominales, une hématurie terminale et une dysurie avec pollakiurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique tardive?",
+        "answer": "La bilharziose chronique tardive peut entraîner des complications fibrosantes tissulaires multiples au niveau hépatique, génito-urinaire, neurologique, pulmonaire et cutané.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quelles sont les complications de la bilharziose hépato-splénique?",
+        "answer": "Les complications incluent une fibrose hépatique, une hypertension portale, des varices, une splénomégalie avec hypersplénisme, et une ascite.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications de la bilharziose génito-urinaire?",
+        "answer": "Les complications incluent des bilharziomes, certains cancers de vessie, une hydronéphrose bilatérale, des ulcérations et fistules vulvo-vaginales, et une stérilité tubaire.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications de la bilharziose pulmonaire?",
+        "answer": "Les complications incluent des symptômes bronchiques, une fibrose précapillaire, une hypertension artérielle pulmonaire, et une insuffisance cardiaque droite.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quelles sont les complications de la bilharziose cutanée?",
+        "answer": "Les complications incluent des lésions cutanées et muqueuses papuleuses en éclaboussure, polypoïdes pseudotumorales.",
+        "qtype": "complications"
+    },
+    {
+        "question": "Quels sont les facteurs responsables de la fibrose hépatique dans la bilharziose?",
+        "answer": "Les facteurs incluent des cytokines de type Th1 et Th2, des métalloprotéases et leurs inhibiteurs, ainsi que des facteurs génétiques.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les rôles des cytokines dans la fibrose hépatique?",
+        "answer": "Certaines cytokines comme l'IFN-γ sont associées à la dégradation du collagène, tandis que d'autres comme le TNF-α, le TGF-β1, l'IL-1, l'IL-4 et l'IL-13 sont associées à la fibrose.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë chez les sujets non immunisés?",
+        "answer": "Les symptômes incluent une fièvre, une asthénie, un malaise général, des céphalées, une diarrhée, une toux sèche, une dyspnée, des œdèmes allergiques, des arthralgies et des myalgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique précoce au niveau génito-urinaire?",
+        "answer": "Les symptômes incluent une hématurie terminale et une dysurie avec pollakiurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique précoce au niveau digestif?",
+        "answer": "Les symptômes incluent une diarrhée glairo-sanglante, un ténesme et des douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique tardive au niveau hépatique?",
+        "answer": "Les symptômes incluent une fibrose hépatique, une hypertension portale, des varices, une splénomégalie avec hypersplénisme, et une ascite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique tardive au niveau génito-urinaire?",
+        "answer": "Les symptômes incluent des bilharziomes, certains cancers de vessie, une hydronéphrose bilatérale, des ulcérations et fistules vulvo-vaginales, et une stérilité tubaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique tardive au niveau pulmonaire?",
+        "answer": "Les symptômes incluent des symptômes bronchiques, une fibrose précapillaire, une hypertension artérielle pulmonaire, et une insuffisance cardiaque droite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique tardive au niveau cutané?",
+        "answer": "Les symptômes incluent des lésions cutanées et muqueuses papuleuses en éclaboussure, polypoïdes pseudotumorales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les facteurs génétiques impliqués dans la fibrose hépatique?",
+        "answer": "Certains polymorphismes dans le gène codant pour l'IFN-γ et de son récepteur R1 sur le chromosome 6q22-q23 sont impliqués.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë au niveau pulmonaire?",
+        "answer": "Les symptômes incluent une toux sèche asthmatiforme et une dyspnée.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë au niveau cutané?",
+        "answer": "Les symptômes incluent des œdèmes fugaces allergiques à type d'urticaire.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë au niveau articulaire?",
+        "answer": "Les symptômes incluent des arthralgies et des myalgies.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique précoce au niveau colique?",
+        "answer": "Les symptômes incluent une diarrhée glairo-sanglante, un ténesme et des douleurs abdominales.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose chronique précoce au niveau urinaire?",
+        "answer": "Les symptômes incluent une hématurie terminale et une dysurie avec pollakiurie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes neurologiques de la bilharziose?",
+        "answer": "Les symptômes neurologiques de la bilharziose incluent la myélite transverse aiguë, la radiculomyélite, la compression médullaire et le granulome pseudotumoral cérébral.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes digestifs de la bilharziose causée par Schistosoma mansoni?",
+        "answer": "Les symptômes digestifs incluent des douleurs abdominales, une diarrhée sanglante, un ténesme, une polypose colique, une appendicite aiguë, et des néoplasies rectale et colique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Comment se fait le diagnostic direct de la bilharziose?",
+        "answer": "Le diagnostic direct se fait par la mise en évidence des œufs dans les urines (après centrifugation) ou dans les selles (technique de Kato). La morphologie des œufs détermine l'espèce.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les traitements recommandés pour la bilharziose chronique?",
+        "answer": "Le traitement recommandé pour la bilharziose chronique est le praziquantel, 40 mg/kg per os, en dose unique au cours d'un repas. Pour Schistosoma japonicum et Schistosoma mekongi, la dose est de 60 mg/kg per os, en 2 prises sur 1 jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires du praziquantel?",
+        "answer": "Les effets secondaires du praziquantel incluent des vertiges, des céphalées, des nausées, des vomissements et des douleurs abdominales.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les signes échographiques caractéristiques de l'atteinte schistosomale hépatique?",
+        "answer": "Les signes échographiques caractéristiques incluent un épaississement des branches périportales périphériques et centrales, des images échogènes en patch, et un épaississement en serres d'oiseaux.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë chez le voyageur?",
+        "answer": "Les symptômes incluent une fièvre, une asthénie, un malaise général, des céphalées, une diarrhée, une toux sèche, une dyspnée, une urticaire, des arthralgies, des myalgies et une hépatosplénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de la bilharziose neurologique?",
+        "answer": "Le traitement de la bilharziose neurologique inclut une corticothérapie associée au praziquantel.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes urinaires de la bilharziose causée par Schistosoma haematobium?",
+        "answer": "Les symptômes urinaires incluent une hématurie, une protéinurie, une pollakiurie, des brûlures mictionnelles et un ténesme vésical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation pour le diagnostic de la bilharziose?",
+        "answer": "Les éléments d'orientation incluent une exposition à l'eau douce en zone à risque, une hyperéosinophilie, des perturbations des tests hépatiques et urinaires, et des anomalies du sédiment urinaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les symptômes cutanés de la bilharziose?",
+        "answer": "Les symptômes cutanés incluent une éruption papulonodulaire périombilicale et des lésions polypoïdes vulvaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements alternatifs au praziquantel pour la bilharziose?",
+        "answer": "Les dérivés de l'artémisinine, comme l'artésunate ou l'arthemeter, ont montré une efficacité certaine sur les schistosomules. Des études d'association avec le praziquantel sont en cours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes cardiaques et pulmonaires de la bilharziose?",
+        "answer": "Les symptômes incluent une artérite pulmonaire, une hypertension artérielle pulmonaire (HTAP) et une hypertrophie ventriculaire droite (HVD).",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes hépatiques de la bilharziose causée par Schistosoma mansoni?",
+        "answer": "Les symptômes incluent une hépatite granulomateuse, une fibrose de Symmers, une hépatosplénomégalie, un hypersplénisme, une ascite, des varices œsophagiennes et des hémorragies digestives.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes génitaux de la bilharziose causée par Schistosoma japonicum?",
+        "answer": "Les symptômes incluent des nodules scrotaux, une annexite, une cervicite, une stérilité, une épididymite, une funiculite, une sténose et une prostatite.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements chirurgicaux possibles pour la bilharziose?",
+        "answer": "Les traitements chirurgicaux incluent la plastie portale, la plastie urétérale et l'exérèse de polypes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose aiguë?",
+        "answer": "Les symptômes incluent une fièvre, une asthénie, un malaise général, des céphalées, une diarrhée, une toux sèche, une dyspnée, une urticaire, des arthralgies, des myalgies et une hépatosplénomégalie.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose cutanée?",
+        "answer": "Les symptômes incluent une éruption papulonodulaire périombilicale et des lésions polypoïdes vulvaires.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose urinaire causée par Schistosoma haematobium?",
+        "answer": "Les symptômes incluent une hématurie, une protéinurie, une pollakiurie, des brûlures mictionnelles et un ténesme vésical.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose digestive causée par Schistosoma mansoni?",
+        "answer": "Les symptômes incluent des douleurs abdominales, une diarrhée sanglante, un ténesme, une polypose colique, une appendicite aiguë, et des néoplasies rectale et colique.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la bilharziose neurologique?",
+        "answer": "Les symptômes incluent la myélite transverse aiguë, la radiculomyélite, la compression médullaire et le granulome pseudotumoral cérébral.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les traitements de la bilharziose aiguë?",
+        "answer": "Le traitement de la bilharziose aiguë inclut le praziquantel, mais il est contre-indiqué et une corticothérapie courte peut être discutée en cas de manifestations sévères.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de la bilharziose chronique?",
+        "answer": "Le traitement de la bilharziose chronique est le praziquantel, 40 mg/kg per os, en dose unique au cours d'un repas. Pour Schistosoma japonicum et Schistosoma mekongi, la dose est de 60 mg/kg per os, en 2 prises sur 1 jour.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements de la bilharziose neurologique?",
+        "answer": "Le traitement de la bilharziose neurologique inclut une corticothérapie associée au praziquantel.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements alternatifs au praziquantel pour la bilharziose?",
+        "answer": "Les dérivés de l'artémisinine, comme l'artésunate ou l'arthemeter, ont montré une efficacité certaine sur les schistosomules. Des études d'association avec le praziquantel sont en cours.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les traitements chirurgicaux possibles pour la bilharziose?",
+        "answer": "Les traitements chirurgicaux incluent la plastie portale, la plastie urétérale et l'exérèse de polypes.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets secondaires du praziquantel?",
+        "answer": "Les effets secondaires du praziquantel incluent des vertiges, des céphalées, des nausées, des vomissements et des douleurs abdominales.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les éléments d'orientation pour le diagnostic de la bilharziose?",
+        "answer": "Les éléments d'orientation incluent une exposition à l'eau douce en zone à risque, une hyperéosinophilie, des perturbations des tests hépatiques et urinaires, et des anomalies du sédiment urinaire.",
+        "qtype": "diagnostic"
+    },
+    {
+        "question": "Quels sont les signes échographiques caractéristiques de l'atteinte schistosomale hépatique?",
+        "answer": "Les signes échographiques caractéristiques incluent un épaississement des branches périportales périphériques et centrales, des images échogènes en patch, et un épaississement en serres d'oiseaux.",
+        "qtype": "diagnostic"
+    }
+]

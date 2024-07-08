@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quels sont les principaux modes de contamination des parasitoses intestinales?",
+    "answer": "Les parasitoses intestinales peuvent être contractées par transmission féco-orale, ingestion de chair crue, marche pieds nus, bains ou contacts en eau douce, et contact direct interhumain.",
+    "qtype": "épidémiologie"
+  },
+  {
+    "question": "Quels sont les principaux signes de l'oxyurose?",
+    "answer": "Les principaux signes de l'oxyurose sont des douleurs abdominales, un prurit anal intense, un prurit vulvaire chez la petite fille, et des manifestations nerveuses telles que l'irritabilité et les cauchemars nocturnes.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'oxyurose?",
+    "answer": "Le traitement recommandé pour l'oxyurose inclut le flubendazole 100 mg, l'albendazole 400 mg, ou le pyrantel pamoate 125 mg (12 mg/kg), en une prise à renouveler 14-21 jours plus tard.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de l'ascaridiose?",
+    "answer": "Les principaux signes de l'ascaridiose sont souvent asymptomatiques, mais peuvent inclure des dyspepsies, la présence de vers dans les selles ou vomissements, et des complications telles que l'occlusion intestinale, le volvulus, l'angiocholite, et la pancréatite.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'ascaridiose?",
+    "answer": "Le traitement recommandé pour l'ascaridiose inclut l'albendazole (400 mg/j en une prise), le flubendazole 100 mg (2 cp/j pendant 3 jours), ou le pyrantel pamoate 125 mg (12 mg/kg/j pendant 3 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la trichocéphalose?",
+    "answer": "Les principaux signes de la trichocéphalose sont souvent asymptomatiques, mais peuvent inclure des douleurs abdominales, des diarrhées, un prolapsus rectal, et une anémie.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la trichocéphalose?",
+    "answer": "Le traitement recommandé pour la trichocéphalose inclut l'albendazole (400 mg/j en une prise), le flubendazole 100 mg (2 cp/j pendant 3 jours), ou le pyrantel pamoate 125 mg (12 mg/kg/j pendant 3 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de l'ankylostomose?",
+    "answer": "Les principaux signes de l'ankylostomose sont souvent asymptomatiques, mais peuvent inclure des épigastralgies, une anémie, et un retard de croissance et psychomoteur.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'ankylostomose?",
+    "answer": "Le traitement recommandé pour l'ankylostomose inclut l'albendazole (400 mg/j en une prise), le flubendazole 100 mg (2 cp/j pendant 3 jours), ou le pyrantel pamoate 125 mg (12 mg/kg/j pendant 3 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de l'anguillulose?",
+    "answer": "Les principaux signes de l'anguillulose sont souvent asymptomatiques, mais peuvent inclure des épigastralgies, des dyspepsies, et des troubles du transit.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'anguillulose?",
+    "answer": "Le traitement recommandé pour l'anguillulose inclut l'ivermectine (200 µg/kg en prise unique, avec une possible deuxième cure 14 jours après) ou l'albendazole 400 mg (ou 15 mg/kg/j pendant 3 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la schistosomose digestive?",
+    "answer": "Les principaux signes de la schistosomose digestive sont souvent asymptomatiques, mais peuvent inclure des diarrhées parfois sanglantes, une hépatosplénomégalie, une fibrose hépatique, et des hémorragies digestives.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la schistosomose digestive?",
+    "answer": "Le traitement recommandé pour la schistosomose digestive inclut le praziquantel (40 à 60 mg/kg en prise unique, avec une possible deuxième ou troisième cure).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes du ténia?",
+    "answer": "Les principaux signes du ténia sont souvent asymptomatiques, mais peuvent inclure des troubles digestifs non spécifiques et l'extériorisation spontanée d'anneaux par l'anus chez T. saginata.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour le ténia?",
+    "answer": "Le traitement recommandé pour le ténia inclut le praziquantel (10 mg/kg en prise unique) ou le niclosamide (2 prises de 1 g à 1 heure d'intervalle, attendre 1 heure avant de s'alimenter).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la diphillobothriose?",
+    "answer": "Les principaux signes de la diphillobothriose sont souvent asymptomatiques, mais peuvent inclure des troubles digestifs non spécifiques et une possibilité d'anémie macrocytaire et mégaloblastique.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la diphillobothriose?",
+    "answer": "Le traitement recommandé pour la diphillobothriose inclut le praziquantel (15 à 20 mg/kg en prise unique) ou le niclosamide (2 prises de 2 g à 1 heure d'intervalle, attendre 1 heure avant de s'alimenter le 1er jour puis une prise de 1 g les 5 jours suivants).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de l'hyménolépiose?",
+    "answer": "Les principaux signes de l'hyménolépiose sont souvent asymptomatiques, mais peuvent inclure des troubles digestifs non spécifiques, et en cas de parasitisme important chez l'enfant, une malabsorption et un retard staturopondéral.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'hyménolépiose?",
+    "answer": "Le traitement recommandé pour l'hyménolépiose inclut le praziquantel (15 à 20 mg/kg en prise unique) ou le niclosamide (2 prises de 2 g à 1 heure d'intervalle, attendre 1 heure avant de s'alimenter le 1er jour puis une prise de 1 g les 5 jours suivants).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de l'amibiase?",
+    "answer": "Les principaux signes de l'amibiase incluent une diarrhée non spécifique ou muco-sanglante non fébrile, sauf en cas d'atteinte extra-muqueuse. Les complications peuvent inclure des formes suraiguës, des perforations, et des abcès tissulaires (surtout hépatiques).",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour l'amibiase?",
+    "answer": "Le traitement recommandé pour l'amibiase inclut le métronidazole (1 500 mg/j ou 30 mg/kg/j en 3 prises durant 5 à 7 jours) ou l'imidazolé retard (tinidazole : 2 g en 1 prise unique), accompagné de réhydratation.",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la giardiose?",
+    "answer": "Les principaux signes de la giardiose incluent une diarrhée graisseuse (stéatorrhée) et des carences en micronutriments, avec une atrophie villositaire minime.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la giardiose?",
+    "answer": "Le traitement recommandé pour la giardiose inclut le métronidazole (250 mg 3 fois par jour pendant 5 à 7 jours) ou le tinidazole (2 g en prise unique).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la cryptosporidiose?",
+    "answer": "Les principaux signes de la cryptosporidiose incluent des diarrhées chroniques chez les patients immunodéprimés, notamment ceux atteints de SIDA ou ayant subi une transplantation d'organe.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la cryptosporidiose?",
+    "answer": "Le traitement recommandé pour la cryptosporidiose inclut la nitazoxanide (500 mg 2 fois par jour pendant 3 jours) ou la paromomycine (500 mg 3 fois par jour pendant 7 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la microsporidiose?",
+    "answer": "Les principaux signes de la microsporidiose incluent des diarrhées chroniques chez les patients immunodéprimés, notamment ceux atteints de SIDA ou ayant subi une transplantation d'organe.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la microsporidiose?",
+    "answer": "Le traitement recommandé pour la microsporidiose inclut l'albendazole (400 mg 2 fois par jour pendant 21 jours) ou la fumagilline (20 mg 3 fois par jour pendant 14 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quels sont les principaux signes de la balantidiose?",
+    "answer": "Les principaux signes de la balantidiose incluent des diarrhées aqueuses, des douleurs abdominales, et des ulcérations intestinales.",
+    "qtype": "symptômes"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la balantidiose?",
+    "answer": "Le traitement recommandé pour la balantidiose inclut le tétracycline (500 mg 4 fois par jour pendant 10 jours) ou le métronidazole (750 mg 3 fois par jour pendant 5 jours).",
+    "qtype": "traitement"
+  },
+  {
+    "question": "Quel est le traitement recommandé pour la giardiose chez l'adulte?",
+    "answer": "Métronidazole (1 000 mg/j ou 15 mg/kg/j en 2 prises pendant 5 à 7 jours) ou Imidazolés retard (tinidazole : 2 g en 1 prise unique).",
+    "qtype": "traitement"
+  }
+]

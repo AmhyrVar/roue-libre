@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Quelles sont les sous-espèces de Trypanosoma brucei responsables de la trypanosomose humaine africaine?",
+        "response": "Trypanosoma brucei gambiense (T.b. gambiense) et Trypanosoma brucei rhodesiense (T.b. rhodesiense).",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Comment se transmet la trypanosomose humaine africaine?",
+        "response": "Elle se transmet par la piqûre de la mouche tsé-tsé ou glossine hématophage.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique de T.b. gambiense classique?",
+        "response": "Du Sénégal à l’Angola plus le Sud-Soudan et le Nord-Ouganda.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quelle est la répartition géographique de T.b. rhodesiense?",
+        "response": "De l’Ouganda à la Zambie par cas isolés ou poussées épidémiques.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les réservoirs animaux de T.b. rhodesiense?",
+        "response": "Cochon sauvage et antilopes.",
+        "qtype": "épidémiologie"
+    },
+    {
+        "question": "Quels sont les deux stades de la trypanosomose humaine africaine?",
+        "response": "Le stade lymphatico-sanguine (LS) ou stade 1 et le stade méningo-encéphalique (ME) ou stade 2.",
+        "qtype": "physiopathologie"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les signes cliniques rares avec T.b. gambiense groupe I?",
+        "response": "Les signes cliniques sont rares avec T.b. gambiense groupe I.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes non spécifiques de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase lymphatico-sanguine?",
+        "response": "Fièvre irrégulière, lésion d’inoculation, œdème facial, trypanides, adénopathies, hépatomégalie, splénomégalie, troubles du comportement, céphalées, vertiges.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les symptômes de la phase méningo-encéphalique?",
+        "response": "Paresthésies, hypo- ou hyperesthésie, crampes, névralgies, tremblements, mouvements choréo-athétosiques, hyporéflexie, convulsions, troubles psychiques, perturbation du cycle veille-sommeil.",
+        "qtype": "symptômes"
+    },
+    {
+        "question": "Quels sont les effets indésirables fréquents du traitement par mélarsoprol pour l'infection par T.b. rhodesiense?",
+        "answer": "Les effets indésirables fréquents du traitement par mélarsoprol incluent urticaire, nausées, vomissements, syncope, fièvre, photophobie ou larmoiement.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quelle est la posologie recommandée pour le mélarsoprol dans le traitement de la THA à T.b. rhodesiense?",
+        "answer": "La posologie recommandée pour le mélarsoprol est de 3,6 mg/kg/jour (ou 1 mL/10 kg/jour) sans dépasser une ampoule par jour, en deux à quatre séries de trois ou quatre injections.",
+        "qtype": "traitement"
+    },
+    {
+        "question": "Quels sont les effets indésirables possibles de l'éflornithine?",
+        "answer": "Les effets indésirables possibles de l'éflornithine incluent une toxicité hématologique (cytopénies), digestive (diarrhée, vomissements), ainsi qu’une fièvre et des convulsions.",
+        "qtype": "traitement"
+    }
+]
