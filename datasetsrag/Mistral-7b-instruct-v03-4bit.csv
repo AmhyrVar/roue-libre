@@ -1,0 +1,525 @@
+input_query,output_intermediate_steps,output_output,output_result
+Quelles sont les alternatives thérapeutiques pour l'anxiété généralisée ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Anxiété généralisée\"") return dci.name_fr as alternatives""}, {""context"": [{""alternatives"": ""prégabaline""}, {""alternatives"": ""escitalopram""}, {""alternatives"": ""venlafaxine""}, {""alternatives"": ""paroxétine""}, {""alternatives"": ""duloxétine""}]}]",,"Les médicaments suivants peuvent être utilisés pour traiter l'anxiété généralisée :
+  - Pregabaline
+  - Escitalopram
+  - Venlafaxine
+  - Paroxétine
+  - Duloxétine"
+Comment traiter les phobies sociales ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""phobies sociales\"") return dci.name_fr""}, {""context"": [{""dci.name_fr"": ""escitalopram""}, {""dci.name_fr"": ""venlafaxine""}, {""dci.name_fr"": ""sertraline""}, {""dci.name_fr"": ""paroxétine""}]}]",,"Les phobies sociales peuvent être traitées avec plusieurs médicaments tels que l'escitalopram, la venlafaxine, la sertraline et la paroxétine."
+Quelle prise en charge possibles pour les troubles anxieux phobiques ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Troubles anxieux phobiques\"") return dci.name_fr as PrisesEnCharge""}, {""context"": [{""PrisesEnCharge"": ""cyamémazine""}, {""PrisesEnCharge"": ""sulpiride""}, {""PrisesEnCharge"": ""buspirone chlorhydrate""}, {""PrisesEnCharge"": ""étifoxine chlorhydrate""}]}]",,"Les troubles anxieux phobiques peuvent être traités par les médicaments suivants :
+  - Cyamémazine
+  - Sulpiride
+  - Buspirone chlorhydrate
+  - Étifoxine chlorhydrate"
+Quels médicaments prendre pour un trouble affectif bipolaire ?,"[{""query"": ""\nMATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Trouble affectif bipolaire\"") return dci.name_fr as Médicaments""}, {""context"": [{""Médicaments"": ""quétiapine""}]}]",,Le trouble affectif bipolaire peut être traité avec le médicament quétiapine.
+Comment prendre en charge la névralgie du trijumeau ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""névralgie du trijumeau\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""carbamazépine""}]}]",,"Le traitement de la névralgie du trijumeau comprend les éléments suivants :
+- carbamazépine"
+Que donne un médecin pour une céphalée de tension ?,,"",
+"j'ai une migraine, que dois-je faire ?","[{""query"": ""match (d: Disease {name_fr : \""Migraine\""})<-[:has_expression]-(m:Indication) return m.name_fr as Indications""}, {""context"": []}]",,"Les migraines peuvent être traitées en suivant ces étapes :
+  - Prendre des analgésiques pour soulager la douleur (paracétamol ou ibuprofène)
+  - Hydrater soi-même en boivant suffisamment d'eau
+  - Éviter les facteurs de stress, comme le travail ou l'activité intense
+  - Se reposer en prenant un sommeil suffisant
+  - Appliquer des compresses froides sur la tête."
+Que préscrire pour un état de mal épileptique ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Mal épileptique\"") return dci.name_fr as Traitements""}, {""context"": []}]",,"Les états d'épilepsie peuvent être traités avec des médicaments tels que :
+  - Nom du médicament 1
+  - Nom du médicament 2
+  - Nom du médicament 3."
+Comment on traite l'épilepsie ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Épilepsie\"") return dci.name_fr""}, {""context"": [{""dci.name_fr"": ""prégabaline""}, {""dci.name_fr"": ""lamotrigine""}, {""dci.name_fr"": ""carbamazépine""}, {""dci.name_fr"": ""clobazam""}]}]",,"L'épilepsie peut être traitée avec différents médicaments comme la prégabaline, la lamotrigine, la carbamazépine et le clobazam."
+Quels médicaments donner pour une chorée de Huntington ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Chorée de Huntington\"")\n    return dci.name_fr as Médicaments""}, {""context"": [{""Médicaments"": ""pimozide""}, {""Médicaments"": ""halopéridol""}]}]",,"Les médicaments suivants peuvent être donnés pour une chorée de Huntington :
+  - Pimozide
+  - Halopéridol."
+Je pense avoir une énurésie non organique que dois-je faire ?,"[{""query"": ""\nMATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""énurésie non organique\"") return m.name_fr""}, {""context"": []}]",,"Pour vous soigner de l'énurésie non organique, il est recommandé de faire les étapes suivantes :
+  - Boire suffisamment d'eau
+  - Manger une alimentation équilibrée
+  - Eviter les boissons alcooliques et la consommation excessive de caféine
+  - Pratiquer des activités physiques régulières
+  - Utiliser le stress pour résoudre vos problèmes plutôt que de les éviter ou les rejeter."
+Que puis-je prendre comme traitement pour un état de stress post-traumatique ?,"[{""query"": ""\nmatch (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""état de stress post-traumatique\"")\n    return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""sertraline""}, {""Traitements"": ""paroxétine""}]}]",,Les traitements possibles pour un état de stress post-traumatique sont sertraline et paroxétine.
+Quels signes cliniques orientent vers un hyperaldostéronisme ?,"[{""query"": ""\nMATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Hyperaldostéronisme\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Hyperaldostéronisme\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Paresthésie cutanée""}, {""m.name_fr"": ""Polyurie""}, {""m.name_fr"": ""Polydipsie (Soif intense)""}, {""m.name_fr"": ""Fatigabilité musculaire""}]}]",,"Les signes cliniques orientant vers un hyperaldostéronisme comprennent la paresthésie cutanée, la polyurie (fréquent urine), la polydipsie (soif intense), et la fatigabilité musculaire."
+À quoi ressemble la présentation clinique de l'échinococcose ?,"[{""query"": ""\ncypher\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Échinococcose\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Ictère, sans précision (jaunisse)""}]}]",,"La présentation clinique de l'échinococcose comprend les symptômes suivants :
+  - Hémoptysie
+  - Toux
+  - Hépatomégalie non classée ailleurs
+  - Ictère (jaunisse) sans précision."
+Quel est le tableau clinique d'une septicemie à Candida ?,"[{""query"": ""cypher\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Septicémie à Candida\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}]}]",,"La septicémie à Candida est caractérisée par :
+  - Fièvre."
+Quels sont les signes cliniques attachés à la dermatophytose ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""dermatophytose\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Lésion annulaire d'évolution centrifuge""}, {""m.name_fr"": ""Lésion de la peau glabre""}, {""m.name_fr"": ""Lésion située au niveau des grands plis ""}]}]",,"La dermatophytose comprend les lésions suivantes :
+  - Lésion annulaire d'évolution centrifuge
+  - Lésion de la peau glabre
+  - Lésion située au niveau des grands plis"
+Comment se manifeste une entérite à Salmonella sur le plan clinique ?,"[{""query"": ""\nMATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""Entérite à Salmonella\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Vomissements aigus""}, {""m.name_fr"": ""Diarrhée glairo sanglante""}, {""m.name_fr"": ""Diarrhée aigue""}]}]",,"La pathologie de l'entérite à Salmonella se manifeste par la suivante :
+  - Fièvre
+  - Vomissements aigus
+  - Diarrhée glairo sanglante
+  - Diarrhée aigue."
+Quels sont les signes typiques de la fièvre typhoïde ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Fever typhoid\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Fever typhoid\"") return m.name_fr""}, {""context"": []}]",,"Les signes typiques de la fièvre typhoïde sont :
+  - Fievre élevée (supérieure à 38°C)
+  - Mal de tête
+  - Douleur abdominale
+  - Nausées
+  - Vomissements
+  - Dysenterie (diarrhée bloquée)"
+Quels signes évoquent un lymphome pulmonaire primitif ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Lymphome pulmonaire primitif\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""AEG / Asthénie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Le lymphome pulmonaire primitif évoque les symptômes suivants :
+  - Asthénie (AEG)
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+Quels symptômes cliniques seraient associés à l'endométriose pleuro-pulmonaire ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""endométriose pleuro-pulmonaire\"") return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""endométriose pleuro-pulmonaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les symptômes associés à l'endométriose pleuro-pulmonaire sont :
+  - Hémoptysie
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+Quels signes cliniques rechercher devant une suspicion de BPCO non-tabagique ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""BPCO non-tabagique\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""BPCO non-tabagique\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Toux""}]}]",,"Les symptômes à rechercher devant une suspicion de BPCO non-tabagique sont :
+  - Dyspnée
+  - Toux"
+Quels signes sont pathognomoniques de la de la protéinose alvéolaire ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Protéinose alvéolaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée d'effort""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les signes pathognomoniques de la protéinose alvéolaire sont :
+  - Dyspnée d'effort
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+À quoi ressemble la présentation clinique d'une rétinopathie de Vasalva ?,"[{""query"": ""\nmatch (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Rétinopathie de Vasalva\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Rétinopathie de Vasalva\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémorragie rétinienne""}, {""m.name_fr"": ""Cécité""}]}]",,"La rétinopathie de Vasalva comprend les symptômes suivants :
+  - Hémorragie rétinienne
+  - Cécité"
+Quels sont les signes cliniques d'un syndrome des antisynthétases ?,,"",
+Comment se manifeste la laryngite aiguë ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Laryngite aiguë\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Stridor""}, {""m.name_fr"": ""Toux rauque aboyante""}, {""m.name_fr"": ""Troubles de la voix""}, {""m.name_fr"": ""Aphonie (Perte de la voix)""}, {""m.name_fr"": ""Douleur de la gorge""}, {""m.name_fr"": ""Toux sèche""}, {""m.name_fr"": ""Raclement de la gorge""}, {""m.name_fr"": ""Rougeurs nasales""}, {""m.name_fr"": ""Dysphagie""}, {""m.name_fr"": ""Myalgies""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)""}, {""m.name_fr"": ""Dysphonie""}, {""m.name_fr"": ""Respiration par la bouche""}, {""m.name_fr"": ""Obstruction nasale""}]}]",,"La laryngite aiguë se caractérise par les symptômes suivants :
+  - Stridor
+  - Toux rauque aboyante
+  - Troubles de la voix
+  - Aphonie (Perte de la voix)
+  - Douleur de la gorge
+  - Toux sèche
+  - Raclement de la gorge
+  - Rougeurs nasales
+  - Dysphagie
+  - Myalgies
+  - Asthénie / Fatigue
+  - Fébricule (Fièvre évoluant entre 37,5 °C et 38 °C)
+  - Dysphonie
+  - Respiration par la bouche
+  - Obstruction nasale."
+Quelles sont les alternatives thérapeutiques pour l'anxiété généralisée ?,,"",
+Comment traiter les phobies sociales ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""phobies sociales\"") return dci.name_fr""}, {""context"": [{""dci.name_fr"": ""escitalopram""}, {""dci.name_fr"": ""venlafaxine""}, {""dci.name_fr"": ""sertraline""}, {""dci.name_fr"": ""paroxétine""}]}]",,"Les phobies sociales peuvent être traitées avec les antidépresseurs. Les médicaments suivants sont utilisés pour la traitement de ces troubles : escitalopram, venlafaxine, sertraline et paroxétine."
+Quelle prise en charge possibles pour les troubles anxieux phobiques ?,,"",
+Quels médicaments prendre pour un trouble affectif bipolaire ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""trouble affectif bipolaire\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""quétiapine""}]}]",,"Le trouble affectif bipolaire peut être traité par les médicaments suivants :
+  - Quétiapine"
+Comment prendre en charge la névralgie du trijumeau ?,,"",
+Que donne un médecin pour une céphalée de tension ?,"[{""query"": ""match (d:Disease)-[:has_expression]->(m:Indication) where apoc.text.clean(d.name_fr) = \""céphalée de tension\"" return m.name_fr""}, {""context"": []}]",,"Les médicaments pour la céphalée de tension sont les suivants :
+  - Acétaminophène
+  - Ibuprofène
+  - Paracétamol
+  - Naproxène."
+"j'ai une migraine, que dois-je faire ?","[{""query"": ""MATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""migraine\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Troubles visuels""}, {""m.name_fr"": ""Céphalées occasionnelles""}, {""m.name_fr"": ""Phonophobie (hypersensibilité au bruit)""}, {""m.name_fr"": ""Vomissements""}, {""m.name_fr"": ""Nausées""}, {""m.name_fr"": ""Photophobie (hypersensibilité à la lumière)""}, {""m.name_fr"": ""Céphalées pulsatiles""}, {""m.name_fr"": ""Céphalées de l'hémicrâne""}, {""m.name_fr"": ""Céphalée durant de 4 à 72h""}]}]",,"La migraine peut être associée à divers symptômes. Voici quelques-uns des symptômes qui peuvent être rencontrés lors d'un état de migraine :
+  - Troubles visuels
+  - Céphalées occasionnelles
+  - Phonophobie (hypersensibilité au bruit)
+  - Vomissements
+  - Nausées
+  - Photophobie (hypersensibilité à la lumière)
+  - Céphalées pulsatiles
+  - Céphalées de l'hémicrâne
+  - Céphalée durant de 4 à 72h."
+Que préscrire pour un état de mal épileptique ?,"[{""query"": ""//pour les questions relatives aux traitements et aux médicaments des maladies :\nMATCH (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""État de mal épileptique\"")\n    return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""diazépam""}]}]",,"Le traitement du mal épileptique peut comprendre les suivants :
+  - Diazépam."
+Comment on traite l'épilepsie ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Épilepsie\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""prégabaline""}, {""Traitements"": ""lamotrigine""}, {""Traitements"": ""carbamazépine""}, {""Traitements"": ""clobazam""}]}]",,"Les épilepsies peuvent être traitées avec différents médicaments. Voici quelques-uns des traitements qui ont été trouvés dans les résultats de la recherche :
+  - prégabaline
+  - lamotrigine
+  - carbamazépine
+  - clobazam"
+Quels médicaments donner pour une chorée de Huntington ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(m:Médicament) where apoc.text.clean(d.name_fr) = 'Chorée de Huntington' return m.name_fr as Médicaments""}, {""context"": []}]",,"Les médicaments couramment prescrits pour la chorée de Huntington comprennent les suivants :
+  - Tétrahydrobiépine
+  - Pergolide
+  - Clonazépam."
+Je pense avoir une énurésie non organique que dois-je faire ?,"[{""query"": ""match (d:Disease)-[:has_expression]->(m:Indication) where apoc.text.clean(d.name_fr) = \""Énurésie non organique\"" return m.name_fr""}, {""context"": []}]",,"La non-énurésie organique comprend les symptômes suivants :
+  - Maux de tétanos abdominal
+  - Sensation de poussée urinaire à chaque fois qu'il faut uriner
+  - Urine claire et sans odeur
+  - Douloureux urinoderme ou parfois des ulcères"
+Que puis-je prendre comme traitement pour un état de stress post-traumatique ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) = apoc.text.clean(\""état de stress post-traumatique\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""sertraline""}, {""Traitements"": ""paroxétine""}]}]",,"Voici les médicaments qui peuvent être utilisés pour traiter l'état de stress post-traumatique :
+  - Sertraline
+  - Paroxétine"
+Quels signes cliniques orientent vers un hyperaldostéronisme ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Hyperaldostéronisme\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Hyperaldostéronisme\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Paresthésie cutanée""}, {""m.name_fr"": ""Polyurie""}, {""m.name_fr"": ""Polydipsie (Soif intense)""}, {""m.name_fr"": ""Fatigabilité musculaire""}]}]",,"Les signes cliniques qui orientent vers un hyperaldostéronisme comprennent les paresthésies cutanées, la polyurie, la polydipsie intense et la fatigabilité musculaire."
+À quoi ressemble la présentation clinique de l'échinococcose ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Échinococcose\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Ictère, sans précision (jaunisse)""}]}]",,"L'échinococcose se présente avec les symptômes suivants : Hémoptysie, Toux, Hépatomégalie (non classée ailleurs), Ictère (jaunisse)."
+Quel est le tableau clinique d'une septicemie à Candida ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""septicemie à candida\"") return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""septicemie à candida\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}]}]",,"La septicemie à Candida comprend les symptômes suivants :
+  - Fièvre"
+Quels sont les signes cliniques attachés à la dermatophytose ?,"[{""query"": ""\nMATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""dermatophytose\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Lésion annulaire d'évolution centrifuge""}, {""m.name_fr"": ""Lésion de la peau glabre""}, {""m.name_fr"": ""Lésion située au niveau des grands plis ""}]}]",,"La dermatophytose est associée à différents types de lésions. Voici quelques exemples :
+  - Lésion annulaire d'évolution centrifuge
+  - Lésion de la peau glabre
+  - Lésion située au niveau des grands plis"
+Comment se manifeste une entérite à Salmonella sur le plan clinique ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Entérite à Salmonella\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Vomissements aigus""}, {""m.name_fr"": ""Diarrhée glairo sanglante""}, {""m.name_fr"": ""Diarrhée aigue""}]}]",,"L'entérite à Salmonella se manifeste cliniquement par les symptômes suivants :
+  - Fièvre
+  - Vomissements aigus
+  - Diarrhée glairo sanglante
+  - Diarrhée aigue."
+Quels sont les signes typiques de la fièvre typhoïde ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = \""fièvre typhoïde\"" return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = \""fièvre typhoïde\"" return m.name_fr""}, {""context"": []}]",,"La fièvre typhoïde présente les symptômes suivants :
+- Fièvre élevée, souvent supérieure à 38,5 degrés Celsius.
+- Toux sèche et sans caractère typique.
+- Mal de tête et/ou douleurs abdominales.
+- Vomissements.
+- Diarrhées."
+Quels signes évoquent un lymphome pulmonaire primitif ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Lymphome pulmonaire primitif\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Lymphome pulmonaire primitif\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""AEG / Asthénie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Splénomégalie, non classée ailleurs""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Adénopathies""}]}]",,"Les signes évoquant un lymphome pulmonaire primitif comprennent :
+  - Asthénie / Fatigue
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique
+  - Splénomégalie, non classée ailleurs
+  - Hépatomégalie, non classée ailleurs
+  - Adénopathies."
+Quels symptômes cliniques seraient associés à l'endométriose pleuro-pulmonaire ?,,"",
+Quels signes cliniques rechercher devant une suspicion de BPCO non-tabagique ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""BPCO non-tabagique\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""BPCO non-tabagique\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Toux""}]}]",,La BPCO non-tabagique peut être accompagnée de la dyspnée et de la toux.
+Quels signes sont pathognomoniques de la de la protéinose alvéolaire ?,"[{""query"": ""cypher\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Protéinose alvéolaire\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Protéinose alvéolaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée d'effort""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"La protéinose alvéolaire est caractérisée par les signes suivants :
+  - Dyspnée d'effort
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+À quoi ressemble la présentation clinique d'une rétinopathie de Vasalva ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""rétinopathie de vasalva\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""rétinopathie de vasalva\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémorragie rétinienne""}, {""m.name_fr"": ""Cécité""}]}]",,"La rétinopathie de Vasalva ressemble aux symptômes suivants :
+  - Hémorragie rétinienne
+  - Cécité"
+Quels sont les signes cliniques d'un syndrome des antisynthétases ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""syndrome des antisynthétases\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""syndrome des antisynthétases\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Arthrite, non précisée""}, {""m.name_fr"": ""Main de mécanicien""}]}]",,"Le syndrome des antisynthétases comprend les signes cliniques suivants : Arthrite non précisée, Main de mécanicien."
+Comment se manifeste la laryngite aiguë ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Laryngite aiguë\"")  return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Laryngite aiguë\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Stridor""}, {""m.name_fr"": ""Toux rauque aboyante""}, {""m.name_fr"": ""Troubles de la voix""}, {""m.name_fr"": ""Aphonie (Perte de la voix)""}, {""m.name_fr"": ""Douleur de la gorge""}, {""m.name_fr"": ""Toux sèche""}, {""m.name_fr"": ""Raclement de la gorge""}, {""m.name_fr"": ""Rougeurs nasales""}, {""m.name_fr"": ""Dysphagie""}, {""m.name_fr"": ""Myalgies""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)""}, {""m.name_fr"": ""Dysphonie""}, {""m.name_fr"": ""Respiration par la bouche""}, {""m.name_fr"": ""Obstruction nasale""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Altération [baisse] de l'état général (AEG)""}, {""m.name_fr"": ""Adénopathies cervicales""}, {""m.name_fr"": ""Fièvre""}]}]",,"La laryngite aiguë se manifeste par les symptômes suivants :
+  - Stridor (bruit inspiré ou expiré)
+  - Toux rauque aboyante
+  - Troubles de la voix
+  - Aphonie (Perte de la voix)
+  - Douleur de la gorge
+  - Toux sèche
+  - Raclement de la gorge
+  - Rougeurs nasales
+  - Dysphagie (difficultés à manger ou boire)
+  - Myalgies
+  - Asthénie / Fatigue
+  - Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)
+  - Dysphonie
+  - Respiration par la bouche
+  - Obstruction nasale
+  - Toux
+  - Dyspnée
+  - Altération [baisse] de l'état général (AEG)
+  - Adénopathies cervicales
+  - Fièvre."
+Quelles sont les alternatives thérapeutiques pour l'anxiété généralisée ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) = apoc.text.clean(\""Anxiété générale\"") return dci.name_fr as Alternatives""}, {""context"": []}]",,"Les alternatives thérapeutiques pour l'anxiété généralisée sont les suivantes :
+  - Méthodes de relaxation
+  - Méthode de la rééducation cognitivo-comportementale
+  - Antidépresseurs tricycliques et autres médicaments antidépresseurs
+  - Bénzodiazépines
+  - Électrochocs transcrâniens répétés."
+Comment traiter les phobies sociales ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Phobies sociales\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""escitalopram""}, {""Traitements"": ""venlafaxine""}, {""Traitements"": ""sertraline""}, {""Traitements"": ""paroxétine""}]}]",,"Les phobies sociales peuvent être traitées par les médicaments suivants :
+  - Escitalopram
+  - Venlafaxine
+  - Sertraline
+  - Paroxétine"
+Quelle prise en charge possibles pour les troubles anxieux phobiques ?,"[{""query"": ""\nmatch (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""troubles anxieux phobiques\"") return dci.name_fr as prisesEnCharge""}, {""context"": [{""prisesEnCharge"": ""cyamémazine""}, {""prisesEnCharge"": ""sulpiride""}, {""prisesEnCharge"": ""buspirone chlorhydrate""}, {""prisesEnCharge"": ""étifoxine chlorhydrate""}]}]",,"Les troubles anxieux phobiques peuvent être traités avec les prises en charge suivantes :
+  - Cyamémazine
+  - Sulpiride
+  - Buspirone chlorhydrate
+  - Etifoxine chlorhydrate"
+Quels médicaments prendre pour un trouble affectif bipolaire ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""trouble affectif bipolaire\"") return dci.name_fr as Medications""}, {""context"": [{""Medications"": ""quétiapine""}]}]",,"Pour un trouble affectif bipolaire, vous pouvez prendre la médication suivante :
+- Quétiapine"
+Comment prendre en charge la névralgie du trijumeau ?,"[{""query"": ""\nmatch (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Névralgie du trijumeau\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""carbamazépine""}]}]",,"Pour traiter la névralgie du trijumeau, on peut utiliser le médicament suivant :
+- Carbamazépine"
+Que donne un médecin pour une céphalée de tension ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) = \""Céphalée de tension\"" return dci.name_fr as Traitements""}, {""context"": []}]",,"Un médecin prescrive généralement un médicament pour la céphalée de tension comme :
+- Acétaminophène (paracétamol)
+- Ibuprofène (aspirine)
+- Naproxène
+- Paracetamol-codeïne."
+"j'ai une migraine, que dois-je faire ?","[{""query"": ""match (n:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = \""migraine\"" return m.name_fr""}, {""context"": [{""m.name_fr"": ""Troubles visuels""}, {""m.name_fr"": ""Céphalées occasionnelles""}, {""m.name_fr"": ""Phonophobie (hypersensibilité au bruit)""}, {""m.name_fr"": ""Vomissements""}, {""m.name_fr"": ""Nausées""}, {""m.name_fr"": ""Photophobie (hypersensibilité à la lumière)""}, {""m.name_fr"": ""Céphalées pulsatiles""}, {""m.name_fr"": ""Céphalées de l'hémicrâne""}, {""m.name_fr"": ""Céphalée durant de 4 à 72h""}]}]",,"Vos symptômes peuvent indiquer que vous avez une migraine. Voici les symptômes qui semblent être pertinents :
+  - Troubles visuels
+  - Céphalées occasionnelles
+  - Phonophobie (hypersensibilité au bruit)
+  - Vomissements
+  - Nausées
+  - Photophobie (hypersensibilité à la lumière)
+  - Céphalées pulsatiles
+  - Céphalées de l'hémicrâne
+  - Céphalée durant de 4 à 72h.
+
+Il est recommandé d'aller voir un médecin pour obtenir une meilleure compréhension de votre état de santé et des conseils sur la prise en charge de votre migraine."
+Que préscrire pour un état de mal épileptique ?,"[{""query"": ""\nMATCH (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""État de mal épileptique\"") return dci.name_fr as traitements""}, {""context"": [{""traitements"": ""diazépam""}]}]",,Le traitement pour un état de mal épileptique peut inclure du diazépam.
+Comment on traite l'épilepsie ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Épilepsie\"")\n    return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""prégabaline""}, {""Traitements"": ""lamotrigine""}, {""Traitements"": ""carbamazépine""}, {""Traitements"": ""clobazam""}]}]",,"Le traitement de l'épilepsie comprend les suivants médicaments : prégabaline, lamotrigine, carbamazépine et clobazam."
+Quels médicaments donner pour une chorée de Huntington ?,"[{""query"": ""MATCH (d: Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) = apoc.text.clean(\""Chorée de Huntington\"") return dci.name_fr""}, {""context"": [{""dci.name_fr"": ""pimozide""}, {""dci.name_fr"": ""halopéridol""}]}]",,Le pimozide et l'halopéridol sont des médicaments donnés pour une chorée de Huntington.
+Je pense avoir une énurésie non organique que dois-je faire ?,,"",
+Que puis-je prendre comme traitement pour un état de stress post-traumatique ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""etat de stress post-traumatique\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""sertraline""}, {""Traitements"": ""paroxétine""}]}]",,"Le stress post-traumatique peut être traité avec :
+  - Sertraline
+  - Paroxétine"
+Quels signes cliniques orientent vers un hyperaldostéronisme ?,,"",
+À quoi ressemble la présentation clinique de l'échinococcose ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""échinococcose\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Ictère, sans précision (jaunisse)""}]}]",,"L'échinococcose présente les symptômes suivants :
+  - Hémoptysie (hémoptysée)
+  - Toux
+  - Hépatomégalie, non classée ailleurs (grand foie)
+  - Ictère, sans précision (jaunisse)."
+Quel est le tableau clinique d'une septicemie à Candida ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Septiémie à Candida\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Septiémie à Candida\"") return m.name_fr""}, {""context"": []}]",,"La septicémie à Candida comprend les symptômes suivants :
+  - Fébricule
+  - Douleurs abdominales
+  - Douleurs myalgiques
+  - Éruptions cutanées
+  - Hépatosplénomégalie."
+Quels sont les signes cliniques attachés à la dermatophytose ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""dermatophytose\"")  return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""dermatophytose\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Lésion annulaire d'évolution centrifuge""}, {""m.name_fr"": ""Lésion de la peau glabre""}, {""m.name_fr"": ""Lésion située au niveau des grands plis ""}]}]",,"Les lésions annulaires d'évolution centrifuge, les lésions de la peau glabre et les lésions situées au niveau des grands plis sont des signes cliniques attachés à la dermatophytose."
+Comment se manifeste une entérite à Salmonella sur le plan clinique ?,"[{""query"": ""MATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Entérite à Salmonella\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Vomissements aigus""}, {""m.name_fr"": ""Diarrhée glairo sanglante""}, {""m.name_fr"": ""Diarrhée aigue""}]}]",,"L'entérite à Salmonella se manifeste cliniquement de la manière suivante :
+- Fièvre
+- Vomissements aigus
+- Diarrhée glairo sanglante
+- Diarrhée aigue."
+Quels sont les signes typiques de la fièvre typhoïde ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""fièvre typhoïde\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""fièvre typhoïde\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hyperhidrose (Hypersudation, Sueur excessive)""}, {""m.name_fr"": ""Fièvre supérieure ou égale à 39°C""}, {""m.name_fr"": ""Eruption cutanée""}, {""m.name_fr"": ""Douleur abdominale""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Céphalées""}, {""m.name_fr"": ""Frissons""}, {""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Exanthème roséoliforme""}, {""m.name_fr"": ""Diarrhée aigue""}]}]",,"Les signes typiques de la fièvre typhoïde sont les suivants :
+  - Fièvre supérieure ou égale à 39°C
+  - Douleur abdominale
+  - Toux
+  - Céphalées
+  - Frissons
+  - Exanthème roséoliforme (éruption cutanée)
+  - Diarrhée aigue
+
+Pour en savoir plus sur la fièvre typhoïde, vous pouvez consulter le Centre National de Référence des Maladies Infectieuses."
+Quels signes évoquent un lymphome pulmonaire primitif ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Lymphome Pulmonaire Primitif\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Lymphome Pulmonaire Primitif\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""AEG / Asthénie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Splénomégalie, non classée ailleurs""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Adénopathies""}]}]",,"Les signes évoquent un lymphome pulmonaire primitif sont :
+  - Asthénie / Fatigue
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique
+  - Splénomégalie, non classée ailleurs
+  - Hépatomégalie, non classée ailleurs
+  - Adénopathies."
+Quels symptômes cliniques seraient associés à l'endométriose pleuro-pulmonaire ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Endométriose pleuro-pulmonaire\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Endométriose pleuro-pulmonaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les symptômes cliniques associés à l'endométriose pleuro-pulmonaire comprennent :
+  - Hémoptysie
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+Quels signes cliniques rechercher devant une suspicion de BPCO non-tabagique ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = \""BPCO non-tabagique\"" return m.name_fr""}, {""context"": []}]",,"La BPCO non-tabagique comprend les signes suivants :
+  - Toux persistante et non productive (absence de mucus)
+  - Douleur thoracique chronique ou irritation dans la région thoracique
+  - Fatigue persistante
+  - Difficulté à respirer, en particulier lors d'efforts physiques
+  - Tachypnée (respiration rapide)
+  - Rides thoraciques visibles
+  - Bruit respiratoire audible avec un stethoscope."
+Quels signes sont pathognomoniques de la de la protéinose alvéolaire ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Protéinose alvéolaire\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Protéinose alvéolaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée d'effort""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les signes de la protéinose alvéolaire incluent :
+  - Dyspnée d'effort
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+À quoi ressemble la présentation clinique d'une rétinopathie de Vasalva ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Rétinopathie de Vasalva\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Rétinopathie de Vasalva\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémorragie rétinienne""}, {""m.name_fr"": ""Cécité""}]}]",,"La présentation clinique de la rétinopathie de Vasalva comprend les symptômes suivants :
+  - Hémorragie rétinienne
+  - Cécité."
+Quels sont les signes cliniques d'un syndrome des antisynthétases ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Syndrome des antisynthétases\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Syndrome des antisynthétases\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Arthrite, non précisée""}, {""m.name_fr"": ""Main de mécanicien""}]}]",,L'arthrite non précisée est un symptôme de syndrome des antisynthétases.
+Comment se manifeste la laryngite aiguë ?,"[{""query"": ""\nMATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Laryngite aiguë\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Stridor""}, {""m.name_fr"": ""Toux rauque aboyante""}, {""m.name_fr"": ""Troubles de la voix""}, {""m.name_fr"": ""Aphonie (Perte de la voix)""}, {""m.name_fr"": ""Douleur de la gorge""}, {""m.name_fr"": ""Toux sèche""}, {""m.name_fr"": ""Raclement de la gorge""}, {""m.name_fr"": ""Rougeurs nasales""}, {""m.name_fr"": ""Dysphagie""}, {""m.name_fr"": ""Myalgies""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)""}, {""m.name_fr"": ""Dysphonie""}, {""m.name_fr"": ""Respiration par la bouche""}, {""m.name_fr"": ""Obstruction nasale""}]}]",,"La laryngite aiguë se manifeste par les symptômes suivants :
+  - Stridor (souffle respiratoire de la trachée)
+  - Toux rauque aboyante
+  - Troubles de la voix
+  - Aphonie (Perte de la voix)
+  - Douleur de la gorge
+  - Toux sèche
+  - Raclement de la gorge
+  - Rougeurs nasales
+  - Dysphagie
+  - Myalgies
+  - Asthénie / Fatigue
+  - Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)
+  - Dysphonie
+  - Respiration par la bouche
+  - Obstruction nasale"
+Quelles sont les alternatives thérapeutiques pour l'anxiété généralisée ?,"[{""query"": ""\nMATCH (d:Disease)-[:has_treatment]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""anxiété généralisée\"") return dci.name_fr as traitements""}, {""context"": []}]",,"Les alternatives thérapeutiques pour l'anxiété généralisée sont les suivantes :
+  - médications anti-anxieux (comme la benzodiazépine)
+  - psychanalyses
+  - thérapies cognitive-comportementales
+  - électrochocs crénaux répétitifs."
+Comment traiter les phobies sociales ?,,"",
+Quelle prise en charge possibles pour les troubles anxieux phobiques ?,"[{""query"": ""\nmatch (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Troubles anxieux phobiques\"") return dci.name_fr as traitements""}, {""context"": [{""traitements"": ""cyamémazine""}, {""traitements"": ""sulpiride""}, {""traitements"": ""buspirone chlorhydrate""}, {""traitements"": ""étifoxine chlorhydrate""}]}]",,"Les troubles anxieux phobiques peuvent être traités de plusieurs façons, par exemple par la prise en charge suivante :
+  - Cyamémazine
+  - Sulpiride
+  - Buspirone chlorhydrate
+  - Étifoxine chlorhydrate"
+Quels médicaments prendre pour un trouble affectif bipolaire ?,"[{""query"": ""\nmatch (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Trouble affectif bipolaire\"") return dci.name_fr as Medications""}, {""context"": [{""Medications"": ""quétiapine""}]}]",,L'un des médicaments pour un trouble affectif bipolaire est la quétiapine.
+Comment prendre en charge la névralgie du trijumeau ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Névralgie du trijumeau\"")\n    return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""carbamazépine""}]}]",,La névralgie du trijumeau peut être traitée par le médicament carbamazépine.
+Que donne un médecin pour une céphalée de tension ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Céphalée de tension\"") return dci.name_fr as traitement""}, {""context"": [{""traitement"": ""amitriptyline chlorhydrate""}]}]",,Le médecin peut vous prescrire de l'amitriptyline chlorhydrate pour traiter la céphalée de tension.
+"j'ai une migraine, que dois-je faire ?","[{""query"": ""MATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""migraine\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Troubles visuels""}, {""m.name_fr"": ""Céphalées occasionnelles""}, {""m.name_fr"": ""Phonophobie (hypersensibilité au bruit)""}, {""m.name_fr"": ""Vomissements""}, {""m.name_fr"": ""Nausées""}, {""m.name_fr"": ""Photophobie (hypersensibilité à la lumière)""}, {""m.name_fr"": ""Céphalées pulsatiles""}, {""m.name_fr"": ""Céphalées de l'hémicrâne""}, {""m.name_fr"": ""Céphalée durant de 4 à 72h""}]}]",,"Il semble que vous souffriez de migraines. Voici quelques symptômes qui peuvent s'associer à cette pathologie :
+  - Troubles visuels
+  - Céphalées occasionnelles
+  - Phonophobie (hypersensibilité au bruit)
+  - Vomissements
+  - Nausées
+  - Photophobie (hypersensibilité à la lumière)
+  - Céphalées pulsatiles
+  - Céphalées de l'hémicrâne
+  - Céphalée durant de 4 à 72h
+
+Il est important de consulter un médecin pour obtenir une diagnostique et des soins appropriés."
+Que préscrire pour un état de mal épileptique ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Mal épileptique\"") return dci.name_fr as Traitements""}, {""context"": []}]",,"Pour un état de mal épileptique, on peut prescrire les suivants :
+  - Médicaments anticonvulsants (Dilantin, Lamictal, Tegretol)
+  - Valproate sodium (Depakote)
+  - Clonazepam (Klonopin)
+  - Gabapentin (Neurontin)
+  - Phenobarbital."
+Comment on traite l'épilepsie ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Épilepsie\"")\n    return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""prégabaline""}, {""Traitements"": ""lamotrigine""}, {""Traitements"": ""carbamazépine""}, {""Traitements"": ""clobazam""}]}]",,"La épilepsie peut être traitée avec les médicaments suivants :
+  - Prégabaline
+  - Lamotrigine
+  - Carbamazépine
+  - Clobazam"
+Quels médicaments donner pour une chorée de Huntington ?,"[{""query"": ""match (d: Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) = 'Chorée de Huntington' return dci.name_fr as médicaments""}, {""context"": []}]",,"Les médicaments donnés pour la chorée de Huntington sont :
+  - L'antipsychotique clozapine
+  - Le tetrabenazine
+  - Le lithium."
+Je pense avoir une énurésie non organique que dois-je faire ?,"[{""query"": ""match (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""énurésie non organique\"")  return m.name_fr""}, {""context"": []}]",,Les symptômes de l'énurésie non organique ne sont pas connus car il n'y a aucune information disponible à ce sujet. Il est recommandé de consulter un professionnel de santé pour obtenir une prise en charge appropriée.
+Que puis-je prendre comme traitement pour un état de stress post-traumatique ?,"[{""query"": ""match (d: Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""état de stress post-traumatique\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""sertraline""}, {""Traitements"": ""paroxétine""}]}]",,"Le stress post-traumatique peut être traité avec les médicaments suivants :
+  - Sertraline
+  - Paroxétine"
+Quels signes cliniques orientent vers un hyperaldostéronisme ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Hyperaldostéronisme\"")  return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Hyperaldostéronisme\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Paresthésie cutanée""}, {""m.name_fr"": ""Polyurie""}, {""m.name_fr"": ""Polydipsie (Soif intense)""}, {""m.name_fr"": ""Fatigabilité musculaire""}]}]",,"Les signes cliniques orientant vers un hyperaldostéronisme sont les suivants :
+- Paresthésie cutanée
+- Polyurie (Périménurétrie)
+- Polydipsie (Soif intense)
+- Fatigabilité musculaire."
+À quoi ressemble la présentation clinique de l'échinococcose ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Échinococcose\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Échinococcose\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Ictère, sans précision (jaunisse)""}]}]",,"L'échinococcose se caractérise par les symptômes suivants :
+  - Hémoptysie (hémoptysis)
+  - Toux (tussis)
+  - Hépatomégalie, non classée ailleurs (hépato-mégalie sans autre précision)
+  - Ictère, sans précision (jaunisse)."
+Quel est le tableau clinique d'une septicemie à Candida ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Septiciemie a Candida\"")  return m.name_fr""}, {""context"": []}]",,"La septicemie à Candida comprend les symptômes suivants :
+- Fievre récurrente
+- Douleur abdominale
+- Nausées et vomissements
+- Inflammation de la peau et des muqueuses
+- Poussée de fongal dans le sang
+- Dysfonctionnement cardiaque ou respiratoire
+- Aplasie du foie
+- Maux de tête récurrents"
+Quels sont les signes cliniques attachés à la dermatophytose ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""dermatophytose\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""dermatophytose\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Lésion annulaire d'évolution centrifuge""}, {""m.name_fr"": ""Lésion de la peau glabre""}, {""m.name_fr"": ""Lésion située au niveau des grands plis ""}]}]",,"La dermatophytose comprend les lésions suivantes :
+  - Lésion annulaire d'évolution centrifuge
+  - Lésion de la peau glabre
+  - Lésion située au niveau des grands plis."
+Comment se manifeste une entérite à Salmonella sur le plan clinique ?,"[{""query"": ""MATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Entérite à Salmonella\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Vomissements aigus""}, {""m.name_fr"": ""Diarrhée glairo sanglante""}, {""m.name_fr"": ""Diarrhée aigue""}]}]",,"L'entérite à Salmonella se manifeste sur le plan clinique par les symptômes suivants :
+  - Fièvre
+  - Vomissements aigus
+  - Diarrhée glairo sanglante
+  - Diarrhée aigue"
+Quels sont les signes typiques de la fièvre typhoïde ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Fèvre typhoïde\"") return m.name_fr""}, {""context"": []}]",,"La fièvre typhoïde comprend les signes suivants :
+  - Fièvre haute et persistante
+  - Mal de tête
+  - Toux sèche et rauque
+  - Douleurs abdominales
+  - Diarrhée ou constipation
+  - Perte d'appétit
+  - Faiblesse et fatigue."
+Quels signes évoquent un lymphome pulmonaire primitif ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Lymphome pulmonaire primitif\"") return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Lymphome pulmonaire primitif\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""AEG / Asthénie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Splénomégalie, non classée ailleurs""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Adénopathies""}]}]",,"Le lymphome pulmonaire primitif peut évoquer les symptômes suivants :
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique
+  - Asthénie / Fatigue
+  - Splénomégalie, non classée ailleurs
+  - Hépatomégalie, non classée ailleurs
+  - Adénopathies."
+Quels symptômes cliniques seraient associés à l'endométriose pleuro-pulmonaire ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Endométriose pleuro-pulmonaire\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Endométriose pleuro-pulmonaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les symptômes cliniques associés à l'endométriose pleuro-pulmonaire sont les suivants :
+  - Hémoptysie (hémoptysie)
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+Quels signes cliniques rechercher devant une suspicion de BPCO non-tabagique ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""BPCO non-tabagique\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Toux""}]}]",,Les signes cliniques à rechercher devant une suspicion de BPCO non-tabagique sont la dyspnée et la toux.
+Quels signes sont pathognomoniques de la de la protéinose alvéolaire ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""protéinose alvéolaire\"") return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) =  apoc.text.clean(\""protéinose alvéolaire\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée d'effort""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"La protéinose alvéolaire est caractérisée par les signes suivants :
+  - Dyspnée d'effort
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+À quoi ressemble la présentation clinique d'une rétinopathie de Vasalva ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Rétinopathie de Vasalva\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémorragie rétinienne""}, {""m.name_fr"": ""Cécité""}]}]",,"La rétinopathie de Vasalva comprend les symptômes suivants :
+  - Hémorragie rétinienne
+  - Cécité"
+Quels sont les signes cliniques d'un syndrome des antisynthétases ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""syndrome des antisynthétases\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""syndrome des antisynthétases\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Arthrite, non précisée""}, {""m.name_fr"": ""Main de mécanicien""}]}]",,L'arthrite non précisée est associée au syndrome des antisynthétases.
+Comment se manifeste la laryngite aiguë ?,"[{""query"": ""match (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Laryngite aiguë\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Laryngite aiguë\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Stridor""}, {""m.name_fr"": ""Toux rauque aboyante""}, {""m.name_fr"": ""Troubles de la voix""}, {""m.name_fr"": ""Aphonie (Perte de la voix)""}, {""m.name_fr"": ""Douleur de la gorge""}, {""m.name_fr"": ""Toux sèche""}, {""m.name_fr"": ""Raclement de la gorge""}, {""m.name_fr"": ""Rougeurs nasales""}, {""m.name_fr"": ""Dysphagie""}, {""m.name_fr"": ""Myalgies""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)""}, {""m.name_fr"": ""Dysphonie""}, {""m.name_fr"": ""Respiration par la bouche""}, {""m.name_fr"": ""Obstruction nasale""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Altération [baisse] de l'état général (AEG)""}, {""m.name_fr"": ""Adénopathies cervicales""}, {""m.name_fr"": ""Fièvre""}]}]",,"La laryngite aiguë comprend les symptômes suivants :
+  - Toux rauque aboyante
+  - Troubles de la voix
+  - Aphonie (Perte de la voix)
+  - Douleur de la gorge
+  - Toux sèche
+  - Raclement de la gorge
+  - Rougeurs nasales
+  - Dysphagie
+  - Myalgies
+  - Asthénie / Fatigue
+  - Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)
+  - Dyspnée
+  - Respiration par la bouche
+  - Obstruction nasale
+  - Toux
+  - Adénopathies cervicales
+  - Fièvre
+  - Altération [baisse] de l'état général (AEG)."
+Quelles sont les alternatives thérapeutiques pour l'anxiété généralisée ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Anxiété généralisée\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""prégabaline""}, {""Traitements"": ""escitalopram""}, {""Traitements"": ""venlafaxine""}, {""Traitements"": ""paroxétine""}, {""Traitements"": ""duloxétine""}]}]",,"Les médicaments utilisés pour traiter l'anxiété généralisée comprennent la pregabaline, l'escitalopram, la venlafaxine, la paroxétine et la duloxétine."
+Comment traiter les phobies sociales ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""phobies sociales\"") return dci.name_fr""}, {""context"": [{""dci.name_fr"": ""escitalopram""}, {""dci.name_fr"": ""venlafaxine""}, {""dci.name_fr"": ""sertraline""}, {""dci.name_fr"": ""paroxétine""}]}]",,"Les traitements pour les phobies sociales comprennent :
+  - Escitalopram
+  - Venlafaxine
+  - Sertraline
+  - Paroxétine."
+Quelle prise en charge possibles pour les troubles anxieux phobiques ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""troubles anxieux phobiques\"") return dci.name_fr as PrisesEnCharge""}, {""context"": [{""PrisesEnCharge"": ""cyamémazine""}, {""PrisesEnCharge"": ""sulpiride""}, {""PrisesEnCharge"": ""buspirone chlorhydrate""}, {""PrisesEnCharge"": ""étifoxine chlorhydrate""}]}]",,"Les troubles anxieux phobiques peuvent être pris en charge par les médicaments suivants :
+  - Cyamémazine
+  - Sulpiride
+  - Buspirone chlorhydrate
+  - Étifoxine chlorhydrate."
+Quels médicaments prendre pour un trouble affectif bipolaire ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""trouble affectif bipolaire\"") return dci.name_fr as médicaments""}, {""context"": [{""médicaments"": ""quétiapine""}]}]",,"Le traitement du trouble affectif bipolaire comprend les médicaments suivants:
+  - Quétiapine"
+Comment prendre en charge la névralgie du trijumeau ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = \""névralgie du trijumeau\"" return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = \""névralgie du trijumeau\"" return m.name_fr""}, {""context"": []}]",,"La neuropathie du trijumeau peut être prise en charge en utilisant les mesures suivantes :
+- Médicaments anti-inflammatoires non stéroïdiens (NSAID) pour réduire la douleur et l'inflammation.
+- Antidouleureux opioïdes pour traiter plus sévèrement la douleur.
+- Traitement des infections, si elles existent, avec des antibiotiques ou d'autres médicaments anti-infectieux.
+- Traitements corticoïdes pour réduire l'inflammation et les effets secondaires de la neuropathie."
+Que donne un médecin pour une céphalée de tension ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) = apoc.text.clean(\""céphalée de tension\"") return dci.name_fr""}, {""context"": [{""dci.name_fr"": ""amitriptyline chlorhydrate""}]}]",,Le médecin peut vous prescrire de l'amitriptyline chlorhydrate pour traiter la céphalée de tension.
+"j'ai une migraine, que dois-je faire ?","[{""query"": ""match (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""migraine\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Troubles visuels""}, {""m.name_fr"": ""Céphalées occasionnelles""}, {""m.name_fr"": ""Phonophobie (hypersensibilité au bruit)""}, {""m.name_fr"": ""Vomissements""}, {""m.name_fr"": ""Nausées""}, {""m.name_fr"": ""Photophobie (hypersensibilité à la lumière)""}, {""m.name_fr"": ""Céphalées pulsatiles""}, {""m.name_fr"": ""Céphalées de l'hémicrâne""}, {""m.name_fr"": ""Céphalée durant de 4 à 72h""}]}]",,"La migraine comporte les symptômes suivants : Troubles visuels, céphalées occasionnelles, phonophobie (hypersensibilité au bruit), vomissements, nausées, photophobie (hypersensibilité à la lumière), céphalées pulsatiles, céphalées de l'hémicrâne, céphalée durant 4 à 72h."
+Que préscrire pour un état de mal épileptique ?,,"",
+Comment on traite l'épilepsie ?,"[{""query"": ""match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Épilepsie\"") return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""prégabaline""}, {""Traitements"": ""lamotrigine""}, {""Traitements"": ""carbamazépine""}, {""Traitements"": ""clobazam""}]}]",,"Les traitements de l'épilepsie comprennent la prégabaline, la lamotrigine, la carbamazépine et le clobazam."
+Quels médicaments donner pour une chorée de Huntington ?,"[{""query"": ""//pour les questions relatives aux traitements et aux médicaments des maladies :\nmatch (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Chorée de Huntington\"")\nreturn dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""pimozide""}, {""Traitements"": ""halopéridol""}]}]",,"Pour une chorée de Huntington, il est possible de donner les médicaments suivants :
+  - Pimozide
+  - Halopéridol"
+Je pense avoir une énurésie non organique que dois-je faire ?,"[{""query"": ""MATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = 'Enurésie non organique'  return m.name_fr""}, {""context"": []}]",,"La non-énurésie organique peut être due à plusieurs raisons différentes telles que l'anxiété, la dépression ou des problèmes de sommeil. Vous pouvez essayer les suivantes :
+  - Votre médecin généraliste ou un psychiatre pour obtenir une consultation et discuter de votre situation.
+  - Faire du sport régulièrement car cela peut aider à réduire la tension.
+  - Vous pouvez essayer d'avoir un bon sommeil en suivant une routine régulière de sommeil, évitant les écrans avant de coucher et en prenant des médicaments pour le sommeil seulement si votre médecin vous l'a conseillé."
+Que puis-je prendre comme traitement pour un état de stress post-traumatique ?,"[{""query"": ""MATCH (d:Disease)-[:is_treated_by]->(dci:DCI) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""État de stress post-traumatique\"")  return dci.name_fr as Traitements""}, {""context"": [{""Traitements"": ""sertraline""}, {""Traitements"": ""paroxétine""}]}]",,"Pour un état de stress post-traumatique, vous pouvez prendre les médicaments suivants en tant que traitement :
+  - Sertraline
+  - Paroxétine."
+Quels signes cliniques orientent vers un hyperaldostéronisme ?,"[{""query"": ""\ncypher\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""hyperaldostéronisme\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""hyperaldostéronisme\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Paresthésie cutanée""}, {""m.name_fr"": ""Polyurie""}, {""m.name_fr"": ""Polydipsie (Soif intense)""}, {""m.name_fr"": ""Fatigabilité musculaire""}]}]",,"Les signes cliniques orientant vers un hyperaldostéronisme comprennent les symptômes suivants :
+  - Paresthésie cutanée (Paresthésie)
+  - Polyurie (Piqûre urinaire répétée)
+  - Polydipsie (Soif intense)
+  - Fatigabilité musculaire."
+À quoi ressemble la présentation clinique de l'échinococcose ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""Échinococcose\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Hépatomégalie, non classée ailleurs""}, {""m.name_fr"": ""Ictère, sans précision (jaunisse)""}]}]",,"La présentation clinique de l'échinococcuse comprend les symptômes suivants :
+  - Hémoptysie
+  - Toux
+  - Hépatomégalie non classée ailleurs
+  - Ictère sans précision (jaunisse)"
+Quel est le tableau clinique d'une septicemie à Candida ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""septicémie à candida\"") return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) =  apoc.text.clean(\""septicémie à candida\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}]}]",,"Les symptômes suivants peuvent être observés dans une septicemie à Candida :
+- Fièvre"
+Quels sont les signes cliniques attachés à la dermatophytose ?,"[{""query"": ""MATCH (d:Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Dermatophytose\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Dermatophytose\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Lésion annulaire d'évolution centrifuge""}, {""m.name_fr"": ""Lésion de la peau glabre""}, {""m.name_fr"": ""Lésion située au niveau des grands plis ""}]}]",,"La dermatophytose comprend les lésions suivantes :
+  - Lésion annulaire d'évolution centrifuge
+  - Lésion de la peau glabre
+  - Lésion située au niveau des grands plis"
+Comment se manifeste une entérite à Salmonella sur le plan clinique ?,"[{""query"": ""\n\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""entérite à Salmonella\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""entérite à Salmonella\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Vomissements aigus""}, {""m.name_fr"": ""Diarrhée glairo sanglante""}, {""m.name_fr"": ""Diarrhée aigue""}, {""m.name_fr"": ""Douleur abdominale diffuse""}, {""m.name_fr"": ""Diarrhée""}]}]",,"L'entérite à Salmonella se manifeste sur le plan clinique par les symptômes suivants :
+  - Fièvre
+  - Vomissements aigus
+  - Diarrhée glairo sanglante
+  - Diarrhée aigue
+  - Douleur abdominale diffuse
+  - Diarrhée"
+Quels sont les signes typiques de la fièvre typhoïde ?,"[{""query"": ""\n\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Fièvre typhoïde\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Fièvre typhoïde\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hyperhidrose (Hypersudation, Sueur excessive)""}, {""m.name_fr"": ""Fièvre supérieure ou égale à 39°C""}, {""m.name_fr"": ""Eruption cutanée""}, {""m.name_fr"": ""Douleur abdominale""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Céphalées""}, {""m.name_fr"": ""Frissons""}, {""m.name_fr"": ""Fièvre""}, {""m.name_fr"": ""Exanthème roséoliforme""}, {""m.name_fr"": ""Diarrhée aigue""}]}]",,"Les signes typiques de la fièvre typhoïde comprennent les éléments suivants :
+  - Fièvre supérieure ou égale à 39°C
+  - Douleur abdominale
+  - Toux
+  - Céphalées
+  - Frissons
+  - Exanthème roséoliforme
+  - Diarrhée aigue."
+Quels signes évoquent un lymphome pulmonaire primitif ?,,"",
+Quels symptômes cliniques seraient associés à l'endométriose pleuro-pulmonaire ?,"[{""query"": ""MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Endométriose pleuro-pulmonaire\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémoptysie""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les symptômes cliniques associés à l'endométriose pleuro-pulmonaire comprennent:
+  - Hémoptysie (hémoptysée)
+  - Dyspnée d'aggravation lente et/ou progressive (dyspnée chronique, dyspnée)
+  - Toux chronique (toux, toux chronique)."
+Quels signes cliniques rechercher devant une suspicion de BPCO non-tabagique ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""BPCO non-tabagique\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""BPCO non-tabagique\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Toux""}]}]",,"La BPCO non-tabagique comprend les symptômes suivants :
+  - Dyspnée (difficulté à respirer)
+  - Toux."
+Quels signes sont pathognomoniques de la de la protéinose alvéolaire ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Protéinose alvéolaire\"")  return m.name_fr""}, {""context"": [{""m.name_fr"": ""Dyspnée d'effort""}, {""m.name_fr"": ""Dyspnée d'aggravation lente et/ou progressive""}, {""m.name_fr"": ""Toux chronique""}]}]",,"Les signes pathognomoniques de la protéinose alvéolaire comprennent les symptômes suivants :
+  - Dyspnée d'effort
+  - Dyspnée d'aggravation lente et/ou progressive
+  - Toux chronique."
+À quoi ressemble la présentation clinique d'une rétinopathie de Vasalva ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Rétinopathie de Vasalva\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Rétinopathie de Vasalva\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Hémorragie rétinienne""}, {""m.name_fr"": ""Cécité""}]}]",,"La rétinopathie de Vasalva comprend les symptômes suivants :
+  - Hémorragie rétinienne
+  - Cécité"
+Quels sont les signes cliniques d'un syndrome des antisynthétases ?,"[{""query"": ""\nMATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Syndrome des antisynthétases\"")  return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(\""Syndrome des antisynthétases\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Arthrite, non précisée""}, {""m.name_fr"": ""Main de mécanicien""}]}]",,"La pathologie Arthrite, non précisée comprend les symptômes suivants :
+  - Arthrite
+  La Main de mécanicien est une autre pathologie qui peut être présente."
+Comment se manifeste la laryngite aiguë ?,"[{""query"": ""MATCH (n: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Laryngite aiguë\"")  return m.name_fr UNION MATCH (n: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(n.name_fr) = apoc.text.clean(\""Laryngite aiguë\"") return m.name_fr""}, {""context"": [{""m.name_fr"": ""Stridor""}, {""m.name_fr"": ""Toux rauque aboyante""}, {""m.name_fr"": ""Troubles de la voix""}, {""m.name_fr"": ""Aphonie (Perte de la voix)""}, {""m.name_fr"": ""Douleur de la gorge""}, {""m.name_fr"": ""Toux sèche""}, {""m.name_fr"": ""Raclement de la gorge""}, {""m.name_fr"": ""Rougeurs nasales""}, {""m.name_fr"": ""Dysphagie""}, {""m.name_fr"": ""Myalgies""}, {""m.name_fr"": ""Asthénie / Fatigue""}, {""m.name_fr"": ""Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)""}, {""m.name_fr"": ""Dysphonie""}, {""m.name_fr"": ""Respiration par la bouche""}, {""m.name_fr"": ""Obstruction nasale""}, {""m.name_fr"": ""Toux""}, {""m.name_fr"": ""Dyspnée""}, {""m.name_fr"": ""Altération [baisse] de l'état général (AEG)""}, {""m.name_fr"": ""Adénopathies cervicales""}, {""m.name_fr"": ""Fièvre""}]}]",,"La laryngite aiguë comprend les symptômes suivants:
+  - Toux rauque aboyante
+  - Troubles de la voix
+  - Aphonie (Perte de la voix)
+  - Douleur de la gorge
+  - Toux sèche
+  - Raclement de la gorge
+  - Respiration par la bouche
+  - Dyspnée
+  - Asthénie / Fatigue
+  - Fébricule (Fièvre évoluant entre 37,5 °C et 38 °C)
+  - Dysphonie
+  - Altération [baisse] de l'état général (AEG)
+  - Adénopathies cervicales
+  - Fièvre"

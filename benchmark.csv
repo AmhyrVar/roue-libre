@@ -1,0 +1,51 @@
+Questions,Query,Context
+Quelles sont les alternatives thérapeutiques pour l'anxiété généralisée ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""anxiété généralisée"")
+    return dci.name_fr as Traitements","['prégabaline', 'escitalopram', 'venlafaxine', 'paroxétine', 'duloxétine']"
+Comment traiter les phobies sociales ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""phobies sociales"")
+    return dci.name_fr as Traitements","['escitalopram', 'venlafaxine', 'sertraline', 'paroxétine']"
+Quelle prise en charge possibles pour les troubles anxieux phobiques ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""troubles anxieux phobiques"")
+    return dci.name_fr as Traitements","['cyamémazine', 'sulpiride', 'buspirone chlorhydrate', 'étifoxine chlorhydrate']"
+Quels médicaments prendre pour un trouble affectif bipolaire ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""trouble affectif bipolaire"")
+    return dci.name_fr as Traitements",['quétiapine']
+Comment prendre en charge la névralgie du trijumeau ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""névralgie du trijumeau"")
+    return dci.name_fr as Traitements",['carbamazépine']
+Que donne un médecin pour une céphalée de tension ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""céphalée de tension"")
+    return dci.name_fr as Traitements",['amitriptyline chlorhydrate']
+"j'ai une migraine, que dois-je faire ?","match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""migraine"")
+    return dci.name_fr as Traitements",['amitriptyline chlorhydrate']
+Que préscrire pour un état de mal épileptique ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""état de mal épileptique"")
+    return dci.name_fr as Traitements",['diazépam']
+Comment on traite l'épilepsie ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""épilepsie"")
+    return dci.name_fr as Traitements","['prégabaline', 'lamotrigine', 'carbamazépine', 'clobazam']"
+Quels médicaments donner pour une chorée de Huntington ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""chorée de Huntington"")
+    return dci.name_fr as Traitements","['pimozide', 'halopéridol']"
+Je pense avoir une énurésie non organique que dois-je faire ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""énurésie non organique"")
+    return dci.name_fr as Traitements","['clomipramine chlorhydrate', 'imipramine chlorhydrate', 'amitriptyline chlorhydrate']"
+Que puis-je prendre comme traitement pour un état de stress post-traumatique ?,"match (d:Disease)-[:is_treated_by]->(dci:DCI) where apoc.text.clean(d.name_fr) =  apoc.text.clean(""état de stress post-traumatique"")
+    return dci.name_fr as Traitements","['sertraline', 'paroxétine']"
+Quels signes cliniques orientent vers un hyperaldostéronisme ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""hyperaldostéronisme"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""hyperaldostéronisme"") return m.name_fr","['Paresthésie cutanée', 'Polyurie', 'Polydipsie (Soif intense)', 'Fatigabilité musculaire']"
+À quoi ressemble la présentation clinique de l'échinococcose ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""échinococcose"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""échinococcose"") return m.name_fr","['Hémoptysie', 'Toux', 'Hépatomégalie, non classée ailleurs', 'Ictère, sans précision (jaunisse)']"
+Quel est le tableau clinique d'une septicemie à Candida ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""septicémie à Candida"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""septicémie à Candida"") return m.name_fr",['Fièvre']
+Quels sont les signes cliniques attachés à la dermatophytose ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""dermatophytose"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""dermatophytose"") return m.name_fr","[""Lésion annulaire d'évolution centrifuge"", 'Lésion de la peau glabre', 'Lésion située au niveau des grands plis ']"
+Comment se manifeste une entérite à Salmonella sur le plan clinique ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""entérite à Salmonella"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""entérite à Salmonella"") return m.name_fr","['Fièvre', 'Vomissements aigus', 'Diarrhée glairo sanglante', 'Diarrhée aigue', 'Douleur abdominale diffuse', 'Diarrhée']"
+Quels sont les signes typiques de la fièvre typhoïde ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""fièvre typhoïde"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""fièvre typhoïde"") return m.name_fr","['Hyperhidrose (Hypersudation, Sueur excessive)', 'Fièvre supérieure ou égale à 39°C', 'Eruption cutanée', 'Douleur abdominale', 'Toux', 'Céphalées', 'Frissons', 'Fièvre', 'Exanthème roséoliforme', 'Diarrhée aigue']"
+Quels signes évoquent un lymphome pulmonaire primitif ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""lymphome pulmonaire primitif"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""lymphome pulmonaire primitif"") return m.name_fr","['AEG / Asthénie', ""Dyspnée d'aggravation lente et/ou progressive"", 'Toux chronique', 'Asthénie / Fatigue', 'Splénomégalie, non classée ailleurs', 'Hépatomégalie, non classée ailleurs', 'Adénopathies']"
+Quels symptômes cliniques seraient associés à l'endométriose pleuro-pulmonaire ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""endométriose pleuro-pulmonaire"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""endométriose pleuro-pulmonaire"") return m.name_fr","['Hémoptysie', ""Dyspnée d'aggravation lente et/ou progressive"", 'Toux chronique']"
+Quels signes cliniques rechercher devant une suspicion de BPCO non-tabagique ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""BPCO non-tabagique"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""BPCO non-tabagique"") return m.name_fr","['Dyspnée', 'Toux']"
+Quels signes sont pathognomoniques de la de la protéinose alvéolaire ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""protéinose alvéolaire"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""protéinose alvéolaire"") return m.name_fr","[""Dyspnée d'effort"", ""Dyspnée d'aggravation lente et/ou progressive"", 'Toux chronique']"
+À quoi ressemble la présentation clinique d'une rétinopathie de Vasalva ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""rétinopathie de Vasalva"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""rétinopathie de Vasalva"") return m.name_fr","['Hémorragie rétinienne', 'Cécité']"
+Quels sont les signes cliniques d'un syndrome des antisynthétases ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""syndrome des antisynthétases"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""syndrome des antisynthétases"") return m.name_fr","['Arthrite, non précisée', 'Main de mécanicien']"
+Comment se manifeste la laryngite aiguë ?,"MATCH (d: Disease)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""laryngite aiguë"")  
+    return m.name_fr UNION MATCH (d: Disease)-[:is_part_of]->(g: Group)-[:has_expression]->(m:Indication) WHERE apoc.text.clean(d.name_fr) = apoc.text.clean(""laryngite aiguë"") return m.name_fr","['Stridor', 'Toux rauque aboyante', 'Troubles de la voix', 'Aphonie (Perte de la voix)', 'Douleur de la gorge', 'Toux sèche', 'Raclement de la gorge', 'Rougeurs nasales', 'Dysphagie', 'Myalgies', 'Asthénie / Fatigue', 'Fébricule (Fièvre évoluant entre 37,5 °c et 38 °C)', 'Dysphonie', 'Respiration par la bouche', 'Obstruction nasale', 'Toux', 'Dyspnée', ""Altération [baisse] de l'état général (AEG)"", 'Adénopathies cervicales', 'Fièvre']"
